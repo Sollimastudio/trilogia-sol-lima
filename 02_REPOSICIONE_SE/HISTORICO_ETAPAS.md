@@ -273,5 +273,66 @@ Lia passou de Fruto/posição para investigação de contexto e sustentação: t
 
 ---
 
+### LOTE 02 — PARTE III: O TRONCO
+**Data:** 10/09/2026  
+**Status:** ✓ concluído.
+
+#### Estado de entrada
+A Parte II havia localizado Semente, Solo, Raízes, mapas, pertencimento e merecimento. Faltava transformar compreensão em sustentação observável: o leitor precisava descobrir o que permanece quando um valor encontra consequência.
+
+#### Manuscrito produzido
+- `MANUSCRITO/03_PARTE_III/09_O_TRONCO_O_QUE_VOCE_SUSTENTA_QUANDO_CUSTA.md`
+- `MANUSCRITO/03_PARTE_III/10_SOBERANIA_INTERNA_E_CORPO_SISMOGRAFO.md`
+- `MANUSCRITO/03_PARTE_III/11_O_LIMITE_SAGRADO.md`
+- `MANUSCRITO/03_PARTE_III/12_ACORDOS_CONSCIENTES.md`
+
+#### Decisões aplicadas
+1. Tronco foi consolidado como valores, identidade praticada, limites e sustentação sob custo; firmeza não foi confundida com rigidez.
+2. Coerência foi tratada como aproximação e capacidade de revisão, não perfeição moral.
+3. A Lei 7 — `Assuma Sua Responsabilidade` — foi aprofundada como `assuma o que é seu, não tudo`, preservando responsabilidade distribuída.
+4. `Alinhamento Interno` foi incorporado como ferramenta para ligar valor declarado, comportamento, custo, governabilidade e ação pequena.
+5. `Corpo-Sismógrafo` foi escrito na sequência `Sinal → Contexto → Interpretação → Alternativas → Verificação → Decisão proporcional`.
+6. Regra central do Cap. 10: `o corpo oferece sinais. Não vereditos.`
+7. A Lei 6 — `Cultive o Silêncio Mental` — nasceu como espaço entre pensamento/emoção/impulso e decisão, sem repressão, misticismo ou obrigação de meditação.
+8. `Limite Sagrado` foi definido como contorno de governabilidade, distinguindo pedido, limite, exigência, ameaça, punição e consequência.
+9. O texto recusa a regra simplista de que qualquer reação negativa a limite prova toxicidade; relações saudáveis também negociam e se ajustam.
+10. Em risco, coerção, dependência ou ameaça, segurança, rede e planejamento podem anteceder confronto.
+11. `Roteiro de Limite Responsável` entrou com fato, proteção, primeira pessoa, consequência executável e verificação de risco/recursos.
+12. `Acordos Conscientes` separou pedido, limite, acordo, exigência e dever; clareza não foi confundida com liberdade real de recusa.
+13. `O combinado não sai caro` foi preservado como eixo autoral, mas qualificado: acordos ruins, coercitivos ou assimétricos podem sair caros.
+14. A Lei 8 — `Cumpra Seu Dever` — nasceu sem santificar papéis impostos, expectativas invisíveis ou situações abusivas.
+15. A `Ficha do Acordo Consciente` foi incorporada com definição de objeto, responsabilidades, recusa/negociação, revisão, consequência e o que não está combinado.
+16. Lia avançou da compreensão para sustentação: redefiniu confiabilidade, observou o corpo, sustentou limite temporal e transformou disponibilidade difusa em acordo verificável.
+17. A Parte fecha mostrando que o Tronco pode aparecer de formas diferentes em Galhos diferentes, preparando a Parte IV.
+
+#### Rigor e contenção
+- não foram importadas das versões antigas as alegações de `amígdala sequestrando o córtex`, duração fisiológica universal de 90 segundos ou causalidade serotoninérgica para postura/valor;
+- corpo não foi tratado como oráculo;
+- limite não foi vendido como fórmula para afastar `pessoas erradas`;
+- conversa/acordo não foi vendido como garantia de compatibilidade ou final feliz;
+- não foram inventados fatos biográficos para preencher a Parte;
+- alegações de corpo, coerção, dependência e possibilidade real de recusa foram registradas para validação na ETAPA 05.
+
+#### Leis no lote
+- Lei 7 — **Assuma Sua Responsabilidade**: amadurecida no Cap. 9 e retomada no Cap. 11.
+- Lei 6 — **Cultive o Silêncio Mental**: nascimento no Cap. 10.
+- Lei 8 — **Cumpra Seu Dever**: nascimento no Cap. 12.
+
+#### Ferramentas
+- Alinhamento Interno;
+- Corpo-Sismógrafo;
+- Pausa Soberana;
+- Roteiro de Limite Responsável;
+- Ficha do Acordo Consciente;
+- responsabilidade distribuída como eixo transversal.
+
+#### Snapshot
+`ETAPAS/03_LOTE_02_PARTE_III_O_TRONCO_2026-09-10.md`
+
+#### Próximo lote
+**ETAPA 03 — LOTE 03 — PARTE IV: OS GALHOS — Capítulos 13 a 16.**
+
+---
+
 ## Regra de atualização
 Ao concluir cada novo marco, acrescentar uma nova seção abaixo sem apagar as anteriores.
