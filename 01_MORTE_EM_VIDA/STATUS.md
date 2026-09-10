@@ -21,35 +21,36 @@
 - 2 notas forenses;
 - 10 lotes principais + lote de voz/abertura.
 
-## Etapa ativa
-**ETAPA 02 — Consolidação de cenas e escrita do LOTE 00 + LOTE 01.**
+## Etapa concluída
+**ETAPA 02 — ✓ Contrato emocional + origem.**
 
-### ETAPA 02A — ✓ concluída
-- sistema de produção instalado;
-- prompts e etapas futuras registrados;
-- dossiês iniciais criados;
-- MV-00 escrito em V1.
+### Unidades em primeira escrita
+| Unidade | Estado |
+|---|---:|
+| MV-00 — Nota Forense de Abertura | ● |
+| MV-01 — Oito dias antes | ● |
+| MV-02 — Dezoito de Julho | ● |
+| MV-03 — O Berço ao Lado do Caixão | ● |
+| MV-I01 — O Reino das Galinhas | ◐ reservado/em apuração |
 
-### ETAPA 02B — ◐ em execução
-**Consolidação factual:** realizada para o material disponível do Lote 01.  
-**Arquivo:** `LOTES/FICHAS_CENAS_LOTE01.md`
+### Revisão do lote
+Concluída em `LOTES/REVISAO_LOTE_00_01.md`.
 
-### Unidades do início do manuscrito
-| Unidade | Estado | Observação |
-|---|---:|---|
-| MV-00 — Nota Forense de Abertura | ● | primeira escrita concluída |
-| MV-01 — Oito dias antes | ● | primeira escrita concluída |
-| MV-02 — Dezoito de Julho | ● | primeira escrita concluída |
-| MV-03 — O Berço ao Lado do Caixão | ● | primeira escrita concluída |
-| MV-I01 — O Reino das Galinhas | ◐ | dossiê pronto; falta uma ocorrência concreta completa para prosa longa sem invenção |
+### Snapshot
+`ETAPAS/02_FECHAMENTO_LOTE00_01_2026-09-10.md`
 
-## Próximo movimento dentro da Etapa 02
-1. recuperar uma ocorrência concreta do Reino das Galinhas quando houver fonte suficiente;
-2. escrever/reavaliar MV-I01;
-3. aplicar revisão de lote em MV-00 → MV-I01;
-4. ajustar a voz de MV-00 à voz emergente dos capítulos;
-5. congelar ETAPA 02 completa;
-6. iniciar ETAPA 03 / LOTE 02.
+## Próxima etapa ativa
+**ETAPA 03 — LOTE 02: Corpo, silêncio e imaginação.**
+
+Unidades:
+- MV-04 — A Menina que Não Pediu;
+- MV-05 — O Cheiro do Silêncio;
+- MV-06 — Eu Queria Ser um Anjo;
+- MV-07 — Os Dois Caminhos;
+- MV-I02 — Mangas.
+
+## Comando
+Executar `PROMPTS/ROTEIRO_DE_ETAPAS_E_COMANDOS.md` — ETAPA 03.
 
 ## Regra
-A produção não fica parada por uma lacuna isolada. Unidades com material suficiente avançam; a lacuna permanece visível e rastreável até ser resolvida.
+A produção avança por lotes. Lacunas locais permanecem rastreáveis e são revisitadas na revisão de Parte; não autorizam invenção nem precisam paralisar o restante do manuscrito.
