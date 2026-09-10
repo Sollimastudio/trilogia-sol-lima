@@ -68,7 +68,7 @@ A Parte II não afirma que a infância determinou a vida adulta. Ela mostra repe
 
 # PONTE II → III — RECUPERADA NA ETAPA 13
 
-### MV-M01 — Agora Eu Não Posso Errar — ◑ reintegrado / escrita transplantada nesta etapa
+### MV-M01 — Agora Eu Não Posso Errar — ● V1 reintegrada
 **Tipo:** monólogo de pensamento direto.  
 **Posição:** imediatamente depois de MV-22 e antes de MV-I05 — Finalmente?.
 
@@ -115,5 +115,5 @@ A mulher não está procurando um novo homem nem planejando uma reinvenção sof
 - `MAPA_VOZES_E_MOLDURAS.md`
 
 ## Status
-**PARTE II: ● primeira escrita integrada; ponte pós-divórcio reintegrada.**  
+**PARTE II: ● primeira escrita integrada; ponte pós-divórcio V1 reintegrada.**  
 Ainda não é versão final/publicável. Beta, verificação factual/jurídica e lapidação literária permanecem programadas.
