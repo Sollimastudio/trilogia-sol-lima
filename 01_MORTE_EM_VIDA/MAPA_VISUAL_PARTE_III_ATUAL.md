@@ -14,14 +14,14 @@ E --> F[MV-26\nProteger o Corpo, Perder a Narrativa]
 F --> G[MV-27\nDepois da Falsa Ressurreição]
 ```
 
-## Movimento B — ETAPA 08
+## Movimento B — ETAPA 08 concluída
 ```mermaid
 flowchart LR
-A[MV-27\nAgressor fora\nnarrativa permanece] --> B[MV-28\nDo Teto Definitivo ao Portão]
-B --> C[MV-29\nO Portão de Papel]
-C --> D[MV-30\nVisitas Livres, Portas Fechadas]
-D --> E[MV-31\nA Via-Crúcis Institucional]
-E --> F[ETAPA 09\nFuncionando / Cadáver que Tomava Café]
+A[MV-27\nAgressor fora\nnarrativa permanece] --> B[MV-28\nDo Teto Definitivo ao Portão\n● V1]
+B --> C[MV-29\nO Portão de Papel\n● V1]
+C --> D[MV-30\nVisitas Livres, Portas Fechadas\n● V1]
+D --> E[MV-31\nA Via-Crúcis Institucional\n● V1]
+E --> F[ETAPA 09\nFuncionando / A Cadáver que Tomava Café]
 ```
 
 ## Construção do Portão
@@ -40,6 +40,10 @@ J --> K[Portão de ferro]
 K --> L[Documento na secretaria]
 L --> M[Vara / processo]
 M --> N[Portão de papel]
+N --> O[Visitas formalmente livres]
+O --> P[Portas concretas fechadas]
+P --> Q[Peregrinação]
+Q --> R[Investigadora]
 ```
 
 ## Mudança de mecanismo
@@ -54,6 +58,8 @@ F --> G[Portão]
 G --> H[direito formal sem presença]
 H --> I[peregrinação]
 I --> J[nascimento da investigadora]
+J --> K[ETAPA 09]
+K --> L[rotina · café · funcionamento · ausência interna]
 ```
 
 ## Evidência jurídico-narrativa
@@ -63,7 +69,7 @@ A[E1\nmemória direta] --> F[prosa com atribuição quando necessário]
 B[E3\ndocumento visto/não auditado] --> G[segundo minha leitura/recordação]
 C[E5\ninterpretação/suspeita] --> H[para mim / interpretei / suspeitei]
 D[E6\nlacuna] --> I[reservar ou aproximar]
-E[E4\ndocumento auditado] --> J[não disponível para o núcleo jurídico nesta etapa]
+E[E4\ndocumento auditado] --> J[não disponível para o núcleo jurídico na Etapa 08]
 ```
 
 ## Estado
@@ -73,10 +79,10 @@ E[E4\ndocumento auditado] --> J[não disponível para o núcleo jurídico nesta 
 - MV-25 — ● V1
 - MV-26 — ● V1
 - MV-27 — ● V1
-- MV-28 — ◑ arquitetura liberada
-- MV-29 — ◑ arquitetura liberada
-- MV-30 — ◑ arquitetura liberada
-- MV-31 — ◑ arquitetura liberada
-- `A Cadáver que Tomava Café` — reservado para ETAPA 09
+- MV-28 — ● V1
+- MV-29 — ● V1
+- MV-30 — ● V1
+- MV-31 — ● V1
+- `A Cadáver que Tomava Café` — **ETAPA 09 / capítulo-eixo**
 
-**Regra:** o Portão deve ser consequência narrativa de uma vida preparada para o retorno que encontra uma barreira já organizada por versões e documentos. Não é continuação direta da violência física do Chileno.
+**Regra:** o Portão foi consequência narrativa de uma vida preparada para o retorno que encontrou uma barreira já organizada por versões e documentos. A próxima etapa abandona o crescendo de grandes eventos e mostra o que acontece quando a mulher continua funcionando depois deles.
