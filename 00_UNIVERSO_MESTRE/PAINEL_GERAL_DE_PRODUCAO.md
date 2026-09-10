@@ -30,24 +30,29 @@ Atualizado em: 10/09/2026.
 | Mapa-mãe macro | ◑ | criado |
 | Engenharia capítulo a capítulo | ◑ | refinada quando fatos exigem cirurgia |
 | Mapa atual da Parte I | ● | sequência integrada pós-auditoria |
-| Mapa atual da Parte II | ● | ordem cronológica prevalece sobre conceitual antiga |
-| Mapas visuais | ● | atualizados até Etapa 05 por mapas gerais/específicos |
+| Mapa atual da Parte II | ● | Parte II completa e cronológica |
+| Mapas visuais | ● | atualizados até Etapa 06 |
 | Inventário de cenas | ◐ | em consolidação contínua |
 | Pipeline/prompts | ● | ativos |
-| Histórico/snapshots | ● | Etapas 01–05 preservadas |
+| Histórico/snapshots | ● | Etapas 01–06 preservadas |
 | Nota Forense de abertura | ● | V1 |
 | Parte I — infância | ● | primeira escrita integrada e auditada |
-| Parte II — entrada nos papéis adultos | ● | Lote 04 em V1 + revisão; vida conjugal 1994–2010 é próxima frente |
-| Unidades em primeira escrita | ● | 21 unidades acumuladas |
+| Parte II — papéis adultos, casamento e ruptura | ● | primeira escrita integrada e auditada |
+| Unidades em primeira escrita | ● | 27 unidades acumuladas |
 | Reservas | ◐ | Reino das Galinhas, Mangas e Caminho das Águas preservados |
-| Parte III — cadáver funcional | ◑ | arquitetada |
+| Parte III — cadáver funcional | ◐ | próxima frente ativa; auditoria pós-2010 obrigatória antes da prosa |
 | Parte IV — autópsia | ◑ | arquitetada |
 | Manuscrito Alfa | ⬜ | após lotes de escrita |
 | Revisão factual integral | ⬜ | pendente |
 | Revisão literária Beta | ⬜ | pendente |
 | Prova final | ⬜ | pendente |
 
-**Estado operacional do Livro 1:** ETAPA 05 concluída. **ETAPA 06 ativa — auditar e escrever 1994–2010**, distribuindo vida conjugal, maternidade, trabalho, normalização, risco e ruptura sem comprimir dezesseis anos em resumos conceituais.
+**Estado operacional do Livro 1:** ETAPA 06 concluída com cobertura 26/26 dos núcleos de 1994–2010 e Parte II integrada. **ETAPA 07 ativa — abertura da Parte III / A Cadáver que Tomava Café.**
+
+### Ponte atual do Livro 1
+`a porta está fechada; eu continuo escutando.`
+
+Pergunta da próxima fase: **Por que sair ainda não me devolveu a mim mesma?**
 
 ## Livro 2 — Reposicione-se
 | Elemento | Status | Observação |
@@ -76,7 +81,7 @@ Atualizado em: 10/09/2026.
 | Fronteira com Livro 2 | ◑ | definida |
 
 ## Próximas frentes
-**Morte em Vida:** ETAPA 06 — auditar os 26 núcleos legados de 1994–2010, redefinir MV-17 a MV-22 conforme os fatos e produzir a segunda metade da Parte II.
+**Morte em Vida:** ETAPA 07 — auditar todo o material pós-2010 antes de escrever recomeço, nova relação, maternidade atingida, convivência/guarda e início do funcionamento automático. Comando: `01_MORTE_EM_VIDA/PROMPTS/ETAPA_07_COMANDO_ATUAL.md`.
 
 **Reposicione-se:** frente paralela continua em `02_REPOSICIONE_SE/`, obedecendo versionamento e fronteiras.
 
