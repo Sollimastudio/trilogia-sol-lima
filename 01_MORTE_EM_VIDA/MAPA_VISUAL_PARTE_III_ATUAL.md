@@ -21,10 +21,33 @@ A[MV-27\nAgressor fora\nnarrativa permanece] --> B[MV-28\nDo Teto Definitivo ao 
 B --> C[MV-29\nO Portão de Papel\n● V1]
 C --> D[MV-30\nVisitas Livres, Portas Fechadas\n● V1]
 D --> E[MV-31\nA Via-Crúcis Institucional\n● V1]
-E --> F[ETAPA 09\nFuncionando / A Cadáver que Tomava Café]
 ```
 
-## Construção do Portão
+## Movimento C — ETAPA 09
+```mermaid
+flowchart LR
+A[MV-31\nInvestigadora nasce] --> B[MV-32\nFuncionando]
+B --> C[MV-33\nA Cadáver que Tomava Café]
+C --> D[MV-34\nMeu Corpo Chegava Antes de Mim]
+D --> E[MV-35\nO Óbvio Estava na Sala]
+E --> F[PARTE IV\nA Autópsia da Alma]
+```
+
+## Mudança de textura
+```mermaid
+flowchart LR
+A[Grandes acontecimentos] --> B[Rotina]
+B --> C[Trabalho e tarefas]
+C --> D[Café]
+D --> E[Funcionamento externo]
+E --> F[Ausência interna]
+F --> G[Corpo registra]
+G --> H[Evidências se alinham]
+H --> I[Impossibilidade de desver]
+I --> J[Pergunta]
+```
+
+## Construção do Portão — já paga
 ```mermaid
 flowchart LR
 A[Casinha / teto] --> B[Escola e rede familiar]
@@ -46,30 +69,26 @@ P --> Q[Peregrinação]
 Q --> R[Investigadora]
 ```
 
-## Mudança de mecanismo
+## Três mecanismos da Parte III
 ```mermaid
 flowchart TD
-A[Movimento A] --> B[corpo · casa · agressão física]
-B --> C[saída do agressor]
+A[Movimento A] --> B[corpo · casa · agressão]
+B --> C[saída física]
 C --> D[Movimento B]
-D --> E[maternidade · versões · vínculos]
-E --> F[documentos · instituições]
-F --> G[Portão]
-G --> H[direito formal sem presença]
-H --> I[peregrinação]
-I --> J[nascimento da investigadora]
-J --> K[ETAPA 09]
-K --> L[rotina · café · funcionamento · ausência interna]
+D --> E[maternidade · versões · documentos]
+E --> F[Portão · portas · peregrinação]
+F --> G[Movimento C]
+G --> H[rotina · funcionamento · ausência]
+H --> I[corpo · evidências · óbvio]
+I --> J[Autópsia]
 ```
 
-## Evidência jurídico-narrativa
+## Reservas conscientes
 ```mermaid
-flowchart LR
-A[E1\nmemória direta] --> F[prosa com atribuição quando necessário]
-B[E3\ndocumento visto/não auditado] --> G[segundo minha leitura/recordação]
-C[E5\ninterpretação/suspeita] --> H[para mim / interpretei / suspeitei]
-D[E6\nlacuna] --> I[reservar ou aproximar]
-E[E4\ndocumento auditado] --> J[não disponível para o núcleo jurídico na Etapa 08]
+flowchart TD
+A[O Amor sem Toque] --> B[reservado por falta de cena concreta suficiente]
+C[O Purgatório] --> D[prioritário no Livro 2 — Reposicione-se]
+E[25/12/2025 e núcleos familiares tardios] --> F[Epílogo]
 ```
 
 ## Estado
@@ -83,6 +102,9 @@ E[E4\ndocumento auditado] --> J[não disponível para o núcleo jurídico na Eta
 - MV-29 — ● V1
 - MV-30 — ● V1
 - MV-31 — ● V1
-- `A Cadáver que Tomava Café` — **ETAPA 09 / capítulo-eixo**
+- MV-32 — ◑ arquitetura liberada
+- MV-33 — ◑ arquitetura liberada
+- MV-34 — ◑ arquitetura liberada
+- MV-35 — ◑ arquitetura liberada
 
-**Regra:** o Portão foi consequência narrativa de uma vida preparada para o retorno que encontrou uma barreira já organizada por versões e documentos. A próxima etapa abandona o crescendo de grandes eventos e mostra o que acontece quando a mulher continua funcionando depois deles.
+**Regra:** a Parte III termina quando a mulher já não consegue tratar os acontecimentos como fatos isolados, mas ainda não realizou a Autópsia completa.
