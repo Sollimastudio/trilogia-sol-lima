@@ -1,34 +1,60 @@
 # MAPA VISUAL — ANATOMIA DO DESAPARECIMENTO DO EU
 
-> Estrutura propositalmente aberta: este livro ainda está menos consolidado que os dois anteriores. O mapa preserva a pergunta central sem inventar uma arquitetura fechada prematuramente.
+**Estado:** ETAPA 01 concluída — legado consolidado, arquitetura de 24 capítulos definida para produção.  
+**Data:** 10/09/2026
 
 ```mermaid
 flowchart TD
-    A[PERGUNTA CENTRAL\nQuem é o Eu que está sendo reposicionado?]
-    A --> B[IDENTIDADE RECEBIDA\nfamília · cultura · papéis · expectativas]
-    B --> C[PERTENCIMENTO\nquem preciso ser para continuar pertencendo?]
-    C --> D[IDENTIDADE DE SOBREVIVÊNCIA\nversões de si construídas para suportar, agradar ou evitar ruptura]
-    D --> E[TERCEIRIZAÇÃO DO EU\nquando a referência externa passa a organizar a identidade]
-    E --> F[FUGA IDENTITÁRIA\nafastamento progressivo da própria autoria]
-    F --> G[APAGAMENTO DO EU\nfuncionar por papéis sem saber quem está escolhendo]
-    G --> H[RECONHECIMENTO\no que é meu, o que herdei, o que performei?]
-    H --> I[DESIDENTIFICAÇÃO\nretirar papéis sem destruir a pessoa]
-    I --> J[RECONSTRUÇÃO DE AUTORIA\nescolha, coerência, presença]
-    J --> K[SUSTENTAÇÃO DO EU\nviver sem voltar à terceirização]
+    A[PERGUNTA RECEBIDA DO LIVRO 2\nEssa posição tem minha assinatura?]
+    A --> B[PERGUNTA CENTRAL\nQuem sou quando retiro identidades construídas para sobreviver, pertencer, agradar, funcionar ou escapar de mim?]
+
+    B --> P1[PARTE I — O EU QUE APRENDE A CABER\npapéis · adaptação · identidades de sobrevivência · funcionar sem presença]
+    P1 --> P2[PARTE II — OS ESPELHOS QUE RESPONDEM POR NÓS\nfamília · pertencimento · terceirização do espelho · audiência e performance]
+    P2 --> P3[PARTE III — A ANATOMIA DA OCUPAÇÃO\nnarrativa · exposição · identificação · adoção · redoma · fusão]
+    P3 --> P4[PARTE IV — O EU EMPRESTADO EM FUNCIONAMENTO\nrótulos · movimentos · automático · sucesso sem presença]
+    P4 --> P5[PARTE V — QUANDO FUGIR DE SI PARECE LIBERDADE\nfuga cognitiva · propósito emprestado · outro como função · autenticidade sem responsabilidade]
+    P5 --> P6[PARTE VI — O RETORNO DA AUTORIA\ndesidentificação · diferenciação · luto · pertencimento · permanecer em si]
+    P6 --> E[EPÍLOGO\nO lugar que só você pode ocupar]
 ```
 
-## Relação com os livros anteriores
+## MOVIMENTO INTERNO
 
 ```mermaid
 flowchart LR
-    L1[MORTE EM VIDA\nPercebo que desapareci] --> L2[REPOSICIONE-SE\nAprendo a mudar de posição]
-    L2 --> L3[ANATOMIA DO DESAPARECIMENTO DO EU\nInvestigo quem é o Eu que ocupa a nova posição]
+    R[RECONHECIMENTO\nestou vivendo por versões] --> D[DIFERENCIAÇÃO\nEu ≠ papel ≠ proteção ≠ pertencimento]
+    D --> AN[ANATOMIA\ncomo a ocupação se instalou]
+    AN --> DE[DESIDENTIFICAÇÃO\no que é meu, herdado ou performado?]
+    DE --> L[LUTO\nagradecer sem manter no governo]
+    L --> AU[AUTORIA\nescolher sem fabricar essência perfeita]
+    AU --> IN[INTEGRAÇÃO\npermanecer em si em meio a vínculo e mudança]
 ```
 
-## Fronteiras provisórias
-- Não recontar integralmente Morte em Vida.
-- Não repetir o método completo de Reposicione-se.
-- Aprofundar identidade, pertencimento, papéis, terceirização, fuga e recuperação de autoria.
-- Tratar fenômenos contemporâneos apenas quando ajudarem a pergunta humana central, evitando transformar o livro em ensaio genérico sobre sociedade.
+## RELAÇÃO COM A TRILOGIA
 
-Status: mapa conceitual inicial; arquitetura final ainda a desenvolver.
+```mermaid
+flowchart LR
+    L1[MORTE EM VIDA\nPERCEBER\nComo desapareci de mim?] --> L2[REPOSICIONE-SE\nMUDAR A POSIÇÃO\nComo mudo o lugar que ocupo?]
+    L2 --> L3[ANATOMIA DO DESAPARECIMENTO DO EU\nRECUPERAR E SUSTENTAR O EU\nQuem assina a posição?]
+```
+
+## REGRA ANTI-REPETIÇÃO
+
+```mermaid
+flowchart TD
+    X[NOVA IDEIA OU TRECHO LEGADO]
+    X --> Q1{É biografia integral?}
+    Q1 -->|sim| M1[MORTE EM VIDA]
+    Q1 -->|não| Q2{É método de reposicionamento?}
+    Q2 -->|sim| M2[REPOSICIONE-SE]
+    Q2 -->|não| Q3{Investiga identidade, papéis, pertencimento, terceirização ou autoria?}
+    Q3 -->|sim| M3[LIVRO 3]
+    Q3 -->|não| P[PRESERVAR COMO PESQUISA / OUTRO PROJETO]
+```
+
+## REGRA DO LEGADO
+
+`Camada 11 antiga ≠ manuscrito canônico final`
+
+`Camada 11 antiga = reservatório de prosa + pesquisa + casos + ferramentas + figuras`
+
+O reaproveitamento é governado por `MATRIZ_MIGRACAO_LEGADO_24_CAPITULOS.md`.
