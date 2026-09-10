@@ -206,11 +206,70 @@ Primeiro lote: **Parte II — Semente, Solo e Raízes — Capítulos 5 a 8.**
 **Data de abertura:** 10/09/2026  
 **Status:** ◐ em produção.
 
-### Lote 01 autorizado
-Parte II — Capítulos 5 a 8.
-
 ### Regra
 Uma Parte por lote. Cada capítulo é salvo separadamente; a Parte é revisada como arco único antes do snapshot. Não reconstruir a arquitetura por preferência estilística.
+
+### LOTE 01 — PARTE II: SEMENTE, SOLO E RAÍZES
+**Data:** 10/09/2026  
+**Status:** ✓ concluído.
+
+#### Estado de entrada
+Pré-livro e Parte I já estavam escritos. O leitor sabia observar Fruto, localizar Galho, nomear posição e realizar a primeira subida, mas ainda não tinha investigado em profundidade as condições e lógicas que participam da sustentação da posição.
+
+#### Manuscrito produzido
+- `MANUSCRITO/02_PARTE_II/05_A_MESMA_SEMENTE_SOLOS_DIFERENTES.md`
+- `MANUSCRITO/02_PARTE_II/06_O_SOLO_QUE_TE_RECEBEU.md`
+- `MANUSCRITO/02_PARTE_II/07_RAIZES_SEU_MODO_OPERANTE.md`
+- `MANUSCRITO/02_PARTE_II/08_MAPAS_HERDADOS_PERTENCIMENTO_E_MERECIMENTO.md`
+
+#### Decisões aplicadas
+1. A Parábola do Semeador permaneceu biblicamente distinta da definição metodológica de Semente.
+2. No Método, `Semente` foi escrita como atitude/decisão/prática plantada.
+3. Solo foi expandido para origem + condições atuais, sem funcionar como culpa, caráter ou destino.
+4. `Celular Configurado` foi mantido com trava explícita: pessoa não é aparelho; cérebro não é software; mudança não é restauração de fábrica.
+5. A referência à menina que não pedia foi usada apenas como exemplo breve de antecipação do não/Solo, sem recontar `Morte em Vida`.
+6. Raiz foi consolidada como sustentação atual — modus operandi/mindset, crenças operantes, valores, hábitos, lealdades, recompensas e lógicas — e não como sinônimo automático de infância.
+7. `Decisões são crenças em movimento` foi preservada como frase autoral, com qualificação por contexto, corpo, hábito, recursos, risco, coerção, informação e opções percebidas.
+8. `Buscar a Lógica` foi incorporado para trocar rótulo identitário por hipótese verificável.
+9. Pertencimento foi operacionalizado como `o que faço para não perder meu lugar?`.
+10. Merecimento foi operacionalizado como `o que acredito precisar provar, pagar, suportar ou sacrificar para ter direito a receber?`.
+11. Fé foi tratada como lente da obra e autoridade como objeto de discernimento, sem desenvolvimento teológico excessivo.
+12. Política apareceu sob regra de simetria, sem propaganda ou diagnóstico de grupo.
+13. Fuga Identitária permaneceu semente; o capítulo explicita que a pergunta identitária profunda pertence ao Livro 3.
+14. A chamada ao Teste da Árvore do Discernimento entrou ao fim do Cap. 8, mantendo o instrumento completo no Workbook.
+15. O arco fecha com `entender a origem não sustenta a nova posição`; a próxima necessidade pedagógica é o Tronco.
+
+#### Leis no lote
+- Lei 5 — **Questione a Narrativa**: nascimento no Cap. 5 e aprofundamento no Cap. 7.
+- Lei 4 — **Desligue o Piloto Automático**: eco funcional no Cap. 6.
+- Lei 7 — **Assuma Sua Responsabilidade**: eco qualificado no Cap. 8.
+- Lei 10 — **Filtre Suas Influências**: apenas semeada, sem antecipar seu desenvolvimento formal.
+
+#### Ferramentas
+- Mapa Semente × Solo;
+- Auditoria de Permissões;
+- Celular Configurado;
+- Buscar a Lógica;
+- valor declarado × valor operante;
+- checkpoint de mapa herdado/pertencimento/merecimento;
+- chamada ao Teste da Árvore no Workbook.
+
+#### Caso-guia Lia
+Lia passou de Fruto/posição para investigação de contexto e sustentação: testou `Vou conferir e te retorno`, comparou Solos, localizou hipótese de Raiz ligada à disponibilidade e percebeu pertencimento por utilidade como hipótese, sem receber diagnóstico.
+
+#### Revisão editorial de fechamento
+- a Parte foi revisada como arco contínuo, não quatro ensaios independentes;
+- repetição ficou apenas quando muda de função;
+- não foi atribuída causalidade automática à infância;
+- uma formulação autobiográfica religiosa específica foi retirada por não ser necessária sem confirmação canônica;
+- segurança, recurso e contexto foram mantidos dentro do método;
+- alegações verificáveis ativadas foram registradas para validação posterior sem paralisar a escrita.
+
+#### Snapshot
+`ETAPAS/03_LOTE_01_PARTE_II_SEMENTE_SOLO_RAIZES_2026-09-10.md`
+
+#### Próximo lote
+**ETAPA 03 — LOTE 02 — PARTE III: O TRONCO — Capítulos 9 a 12.**
 
 ---
 
