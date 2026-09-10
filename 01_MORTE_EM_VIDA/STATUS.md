@@ -10,13 +10,14 @@
 - Parte I: ● primeira escrita integrada e auditada
 - Parte II: ● primeira escrita integrada e auditada
 - Parte III / Movimento A: ● primeira escrita e revisão concluídas
-- Parte III / Movimento B: ◐ próxima frente ativa
+- Parte III / Movimento B: ● primeira escrita e auditoria integrada concluídas
+- Parte III / cadáver funcional: ◐ próxima frente ativa
 - Revisão de continuidade integral do livro: ⬜
 - Revisão factual integral: ⬜
 - Revisão literária final: ⬜
 
 ## Progresso textual acumulado
-**33 unidades possuem primeira escrita V1.**
+**37 unidades possuem primeira escrita V1.**
 
 ### Abertura + Parte I — 15 unidades
 MV-00 → MV-01 → MV-02 → MV-03 → MV-03A → MV-03B → MV-I01 → MV-04 → MV-05 → MV-06 → MV-07 → MV-08 → MV-09 → MV-10 → MV-11.
@@ -24,8 +25,8 @@ MV-00 → MV-01 → MV-02 → MV-03 → MV-03A → MV-03B → MV-I01 → MV-04 �
 ### Parte II — 12 unidades
 MV-12 → MV-13 → MV-14 → MV-I04 → MV-15 → MV-16 → MV-17 → MV-18 → MV-19 → MV-20 → MV-21 → MV-22.
 
-### Parte III / Movimento A — 6 unidades
-MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27.
+### Parte III — 10 unidades
+MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27 → MV-28 → MV-29 → MV-30 → MV-31.
 
 ## Etapas fechadas
 - ETAPA 00 — ✓ Mapa-mãe macro
@@ -36,64 +37,53 @@ MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27.
 - ETAPA 05 — ✓ Entrada nos papéis adultos
 - ETAPA 06 — ✓ Vida conjugal/maternidade/competência/risco/ruptura + Parte II integrada
 - ETAPA 07 — ✓ Parte III / Movimento A: A Falsa Ressurreição
+- ETAPA 08 — ✓ Parte III / Movimento B: O Cerco Contra a Mãe
 
-## ETAPA 07 — resultado
-### Auditoria estrutural
-O pós-2010 foi dividido em dois mecanismos:
-1. **A Falsa Ressurreição / Chileno** — concluído nesta etapa;
-2. **O Cerco Contra a Mãe / Portão** — reservado à ETAPA 08.
+## ETAPA 08 — resultado
+### Evidência
+Matriz E1–E6 criada em `LOTES/AUDITORIA_ETAPA08_CERCO_MATERNO.md`.
 
-Arquivo: `LOTES/AUDITORIA_POS_2010_ETAPA07.md`.
+No acervo consultado nesta etapa não foram localizados como documentos primários auditáveis o processo de guarda, o relatório da profissional, a medida apresentada na escola, a ata de conciliação ou o estudo de caso. Por isso, os núcleos processuais permanecem predominantemente E3 — documento visto/recordado, mas não auditado. Nenhum foi promovido a E4 sem fonte primária.
 
 ### Primeira escrita
-- MV-I05 — Finalmente? — ● V1
-- MV-23 — A Voz que Conhecia o Cativeiro — ● V1
-- MV-24 — Dois Homens, um Território e os Filhos no Meio — ● V1
-- MV-25 — A Falsa Ressurreição Vira Cativeiro — ● V1
-- MV-26 — Proteger o Corpo, Perder a Narrativa — ● V1
-- MV-27 — Depois da Falsa Ressurreição — ● V1
+- MV-28 — Do Teto Definitivo ao Portão — ● V1
+- MV-29 — O Portão de Papel — ● V1
+- MV-30 — Visitas Livres, Portas Fechadas — ● V1
+- MV-31 — A Via-Crúcis Institucional — ● V1
 
-### Revisão
-`LOTES/REVISAO_ETAPA07_PARTEIII_MOVIMENTO_A.md`.
+### Curva
+`teto → conflito de versões → viagem frustrada → ajuda profissional → projeto em Caldas → retorno com chave/trabalho/escola → Portão → documento → processo → acesso formal sem presença → portas fechadas → peregrinação institucional → nascimento da investigadora`.
 
-### Mapas
-- `MAPA_PARTE_III_ATUAL.md`
-- `MAPA_VISUAL_PARTE_III_ATUAL.md`
+### Proteções
+- Lelo permanece filho/criança; não antagonista, prova ou confessor jurídico.
+- Matheus não é usado como advogado da mãe.
+- Mãe-Véia permanece personagem complexa; cuidado e conflito podem coexistir.
+- Carlos entra depois da casinha e não é confundido com namorado da viagem ou Chileno.
+- Escola, porteiro, profissional, familiares e autoridades não recebem imputação de crime/dolo sem prova compatível.
+- `alienação parental`, `fraude`, `relatório forjado`, `psicóloga comprada`, `sequestro`, `falso testemunho` e equivalentes não são usados como fatos sem documentação suficiente.
+- `saquearam minha maternidade` é metáfora autoral, não categoria jurídica.
+- Saúde de Lelo e diagnósticos pessoais foram reservados quando desnecessários ao arco.
+
+### Revisões
+- `LOTES/REVISAO_ETAPA08_CERCO_CONTRA_A_MAE.md`
+- `LOTES/AUDITORIA_INTEGRADA_PARTE_III.md`
 
 ### Snapshot
-`ETAPAS/07_PARTEIII_MOVIMENTO_A_FALSA_RESSURREICAO_2026-09-10.md`
+`ETAPAS/08_CERCO_CONTRA_A_MAE_2026-09-10.md`
 
 ### Checklist
-`ACOMPANHAMENTO_ETAPA_07.md`
+`ACOMPANHAMENTO_ETAPA_08.md`
 
-## Decisões que governam a continuação
-- Chileno entra como esperança ligada a fé/propósito antes da violência; não como vilão anunciado.
-- Autoria das violências do primeiro marido e do Chileno permanece rigorosamente separada.
-- Lelo perto de Mãe-Véia é tratado, segundo a memória de Sol, a partir da intenção de afastá-lo da violência; não como abandono.
-- A versão `trocou o filho por um homem` é narrativa atribuída, não fato.
-- Hospital/sedação/exorcismo permanecem memória autobiográfica com limites de inferência.
-- Situação migratória não será chamada de deportação sem documento.
-- Venda da casa e cirurgias acontecem depois da saída do Chileno.
-- O Portão não foi gasto na ETAPA 07: pertence ao mecanismo seguinte.
+## Decisão sobre o capítulo-eixo
+`A Cadáver que Tomava Café` foi transferido para a ETAPA 09. A metáfora agora está narrativamente merecida: o leitor já viu Portão, processo, portas fechadas e peregrinação, e pode acompanhar uma mulher que continua operacionalmente viva apesar da ausência interna.
 
-## Ponte atual
-O agressor saiu e a violência física terminou. O que permaneceu foi uma disputa sobre a maternidade e sobre a versão de quem Sol era.
+# Próxima etapa ativa
+## ETAPA 09 — Funcionando / A Cadáver que Tomava Café
 
-**Mudança de mecanismo:**
-`corpo/casa → narrativa/vínculos/documentos/instituições`.
+Executar `PROMPTS/ETAPA_09_COMANDO_ATUAL.md`.
 
-## Próxima etapa ativa
-# ETAPA 08 — O CERCO CONTRA A MÃE
-
-### Primeiro movimento obrigatório
-Executar `PROMPTS/ETAPA_08_COMANDO_ATUAL.md`.
-
-Antes da prosa:
-1. auditar casinha, Mãe-Véia, Carlos, outro namorado, viagem, acompanhamento, Caldas, convivência com o pai, relatório/processo/medida, escola e Portão;
-2. classificar cada núcleo sensível por nível de evidência E1–E6;
-3. construir a progressão que torna o Portão consequência narrativa, não surpresa;
-4. determinar quantos capítulos o arco realmente exige;
-5. só então escrever.
+A próxima etapa muda a textura:
+`Portão/peregrinação → rotina → trabalho → café → funcionamento → ausência interna → corpo antecedendo consciência → óbvio começando a alinhar-se`.
 
 ## Reservas da infância
 - Reino das Galinhas — ◐
@@ -101,4 +91,4 @@ Antes da prosa:
 - Caminho das Águas — ◐
 
 ## Regra
-A obra cresce em massa, mas nenhum lote ganha velocidade às custas da cronologia, da verdade autobiográfica, da dignidade das pessoas reais ou do nível de evidência.
+A obra cresce em massa, mas nenhum lote ganha velocidade às custas da cronologia, da verdade autobiográfica, da dignidade das pessoas reais, do nível de evidência ou das fronteiras da trilogia.
