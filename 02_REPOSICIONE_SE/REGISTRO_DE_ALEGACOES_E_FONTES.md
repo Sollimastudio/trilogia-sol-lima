@@ -24,9 +24,9 @@ Campos:
 | AF-001 | metacognição permite observar/revisar o próprio processo cognitivo | psicológica/neurocognitiva | revisão técnica/primária | não prometer controle total nem mudança automática | Caps. 4/22 | pendente |
 | AF-002 | aprendizagem, repetição e familiaridade podem estabilizar respostas/hábitos | psicológica | revisão técnica | não usar `reprogramação`, prazo universal ou determinismo | Caps. 6/27 | **em manuscrito / validar ETAPA 05** |
 | AF-003 | neuroplasticidade participa de aprendizagem e adaptação | neurocientífica | revisão técnica contemporânea | não dizer que qualquer crença pode ser `desinstalada` por decisão simples | Cap. 6 | **reservada; só manter se fonte elevar a precisão** |
-| AF-004 | sinais corporais/interocepção podem informar estados sem provar interpretação | clínica/neurocientífica | revisão técnica | corpo não é oráculo nem detector infalível de verdade | Cap. 10 | pendente |
-| AF-005 | controle coercitivo pode reduzir opções percebidas/reais e aumentar risco | clínica/social/jurídica | diretrizes técnicas/oficiais | não diagnosticar situação individual; segurança vem antes de confronto | Cap. 21 | pendente |
-| AF-006 | dependência econômica, filhos, moradia e rede podem limitar saída | social/segurança | fontes técnicas/oficiais | não concluir que permanência é escolha livre | Caps. 21/26 | pendente |
+| AF-004 | sinais corporais/interocepção podem informar estados sem provar interpretação | clínica/neurocientífica | revisão técnica | corpo não é oráculo nem detector infalível de verdade | Cap. 10 | **em manuscrito / validar ETAPA 05** |
+| AF-005 | controle coercitivo pode reduzir opções percebidas/reais e aumentar risco | clínica/social/jurídica | diretrizes técnicas/oficiais | não diagnosticar situação individual; segurança vem antes de confronto | Caps. 11/12/21 | **semeado na Parte III / aprofundar e validar ETAPA 05** |
+| AF-006 | dependência econômica, filhos, moradia e rede podem limitar saída | social/segurança | fontes técnicas/oficiais | não concluir que permanência é escolha livre | Caps. 11/12/21/26 | **em manuscrito com linguagem de segurança / validar ETAPA 05** |
 | AF-007 | planos `se–então` podem apoiar execução de intenções | psicológica | literatura sobre intenções de implementação | não prometer aderência garantida | Cap. 27 | pendente |
 | AF-008 | primeira impressão e leitura de sinais interpessoais | psicológica | verificar estudo primário antes de qualquer número/tempo | retirar números como `33 ms` se não forem necessários e robustos | Cap. 1 | pendente |
 | AF-009 | locus de controle, agência e percepção de influência sobre resultados | psicológica | fonte original + revisão | não afirmar que locus externo é causa universal da falta de posicionamento | Caps. 3/25 | pendente |
@@ -41,6 +41,8 @@ Campos:
 | AF-018 | críticas podem conter dado útil e também agressão | pedagógica/posição autoral | não exige fonte para distinção básica; revisar exemplos | não obrigar leitor a absorver violência para `aprender verdade` | Cap. 22 | revisão editorial |
 | AF-019 | política e identidade de grupo | social/política | fontes apenas quando houver alegação factual/populacional | não diagnosticar campos políticos; régua simétrica | Cap. 16 | pendente conforme prosa |
 | AF-020 | recaída/reaparecimento de padrão não equivale a retorno ao ponto zero | pedagógica/comportamental | literatura de mudança comportamental se alegação técnica | apresentar como regra pedagógica, não garantia clínica | Cap. 27 | pendente |
+| AF-021 | acordos sob ameaça, coerção ou ausência relevante de possibilidade de recusa exigem distinção de acordos voluntários | ética/social/jurídica | fontes técnicas/oficiais conforme redação final | não transformar consentimento formal em prova automática de liberdade material | Caps. 12/21 | **em manuscrito / validar ETAPA 05** |
+| AF-022 | sinais corporais podem variar conforme contexto, cansaço, dor, expectativa e experiência anterior | clínica/neurocientífica | revisão técnica contemporânea | não converter variação corporal em diagnóstico nem causa universal | Cap. 10 | **em manuscrito / validar ETAPA 05** |
 
 ## Alegações que NÃO entram sem fonte forte ou devem ser reformuladas
 
@@ -54,7 +56,10 @@ Campos:
 - `uma geração é...` como diagnóstico populacional;
 - `homens são...` / `mulheres fazem...` como regra universal;
 - `se a pessoa quisesse, já teria saído`;
-- promessa de prazo fixo para reprogramação, hábito ou reposicionamento.
+- promessa de prazo fixo para reprogramação, hábito ou reposicionamento;
+- `a amígdala sequestra o córtex` como explicação totalizante do comportamento;
+- `uma emoção dura fisiologicamente 90 segundos` como regra universal;
+- atribuição de valor, confiança ou posicionamento a causalidade serotoninérgica simplificada.
 
 ## Registro de uso — ETAPA 03 / LOTE 01 / PARTE II
 
@@ -67,6 +72,20 @@ A escrita dos Capítulos 5 a 8 ativou especialmente AF-002, AF-013, AF-016 e AF-
 - Ambiente digital foi descrito como parte do Solo contemporâneo, sem afirmar controle mental algorítmico.
 - Pertencimento e merecimento foram definidos operacionalmente, sem patologizar o desejo humano de vínculo ou aprovação.
 - Uma formulação autobiográfica específica sobre revisão religiosa foi retirada do Cap. 8 porque a versão canônica do repositório não precisava desse fato para sustentar a ideia.
+
+## Registro de uso — ETAPA 03 / LOTE 02 / PARTE III
+
+A escrita dos Capítulos 9 a 12 ativou especialmente AF-004, AF-005, AF-006, AF-021 e AF-022.
+
+### Decisões de contenção aplicadas já na prosa
+- `Corpo-Sismógrafo` foi escrito como ferramenta pedagógica de observação: sinal → contexto → interpretação → alternativas → verificação → decisão proporcional.
+- O manuscrito afirma expressamente que o corpo oferece sinais, não vereditos; sensação corporal não prova intenção, perigo, verdade ou decisão correta.
+- O texto admite que estados corporais podem variar com contexto e condições, mas deixa qualquer fundamentação clínica/neurocientífica detalhada para a ETAPA 05.
+- Foram deliberadamente excluídas as formulações antigas de `amígdala sequestrando o córtex`, regra fisiológica universal de 90 segundos e causalidade serotoninérgica entre postura, valor e posicionamento.
+- Limite foi tratado como ação sob governabilidade própria, não como controle do outro. Em risco, coerção, dependência e ameaça, planejamento e proteção podem anteceder comunicação/confronto.
+- Acordo Consciente foi qualificado por possibilidade real de recusa, contexto, responsabilidade e revisão; comunicação explícita não torna automaticamente um acordo livre ou justo.
+- O texto evita a regra absoluta de que `limites afastam as pessoas erradas`; pessoas saudáveis podem discordar, negociar e precisar de adaptação.
+- Nenhum novo fato biográfico específico foi acrescentado para sustentar a Parte III.
 
 ## Protocolo de atualização
 
