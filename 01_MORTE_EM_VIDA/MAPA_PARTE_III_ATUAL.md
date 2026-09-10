@@ -2,7 +2,7 @@
 ## A Cadáver que Tomava Café
 
 **Atualizado:** 10/09/2026  
-**Estado:** Parte III concluída em primeira escrita integrada; ETAPA 09 fechada.
+**Estado:** Parte III concluída em primeira escrita integrada; ponte pós-divórcio recuperada na ETAPA 13.
 
 > Este arquivo prevalece, para a Parte III, sobre os códigos/títulos conceituais antigos de `MAPA_CAPITULOS.md`. O mapa global permanece como histórico. A renumeração limpa será feita no Manuscrito Alfa.
 
@@ -10,7 +10,24 @@
 **O que acontece quando uma mulher consegue sair, mas ainda não voltou para si?**
 
 ## Missão cumprida nesta versão
-A Parte III mostra que ruptura externa não desfaz automaticamente vigilância interna, culpa materna, necessidade de validação externa, fragilidade da própria percepção e funcionamento automático.
+A Parte III mostra que ruptura externa não desfaz automaticamente vigilância interna, culpa, necessidade de validação externa, fragilidade da própria percepção e funcionamento automático.
+
+## PONTE DE ENTRADA — MV-M01
+Antes de `MV-I05 — Finalmente?`, ler:
+
+### MV-M01 — Agora Eu Não Posso Errar
+Monólogo pós-divórcio reintegrado na ETAPA 13.
+
+Ele prova que a mulher que encerrou a convivência ainda:
+- teme ter cometido pecado ao pedir o divórcio;
+- sente necessidade de pedir perdão;
+- não possui projeto elaborado de autonomia;
+- tem os filhos e o teto como centro;
+- espera que Deus mostre o próximo passo;
+- carrega antigas comparações corporais e culpa internalizada;
+- ainda não possui a linguagem que aparecerá na Autópsia.
+
+**Função de continuidade:** quando o Chileno aparece com discurso de libertação, propósito e fim do cativeiro, ele encontra uma mulher que não estava procurando um marido, mas estava esperando uma direção. Isso explica a abertura sem transformar a relação futura em destino inevitável.
 
 ---
 
@@ -43,30 +60,18 @@ A Parte III mostra que ruptura externa não desfaz automaticamente vigilância i
 ### MV-32 — Funcionando — ● V1
 **Função:** diminuir a escala. A narrativa assume uma montagem de rotinas repetidas e mostra a mulher acordando, deslocando, trabalhando, respondendo, procurando soluções, fazendo comida, pagando e continuando.
 
-**Centro:** atividade e presença não são sinônimos.
-
 ### MV-33 — A Cadáver que Tomava Café — ● V1
-**Função:** pagar a imagem central da obra por experiência cotidiana.
-
-**Símbolo:** café banal, quente, no meio de um dia normal.
-
+**Função:** pagar a imagem central da obra por experiência cotidiana.  
+**Símbolo:** café banal, quente, no meio de um dia normal.  
 **Centro:** vida biológica, afeto, humor, fé, criatividade e competência permanecem; o que perde território é a autoria/presença em partes decisivas.
-
-**Veredito de revisão:** promessa do título paga.
 
 ### MV-34 — Meu Corpo Chegava Antes de Mim — ● V1
 **Função:** mostrar o corpo como primeiro registrador sem tratá-lo como oráculo ou diagnóstico.
 
-**Centro:** sensação antes de legenda; alerta e vigilância da própria reação coexistem.
-
 ### MV-35 — O Óbvio Estava na Sala — ● V1
-**Função:** fechar a Parte III quando cenas antes separadas passam a formar evidências.
-
-**Semente:** `Não ignore o óbvio` aparece como consequência narrativa, não método.
-
+**Função:** fechar a Parte III quando cenas antes separadas passam a formar evidências.  
+**Semente:** `Não ignore o óbvio` aparece como consequência narrativa, não método.  
 **Fecho:** `Fiz tudo errado achando que fazia tudo certo?`
-
-A pergunta não assume culpa pelas violências sofridas. Abre investigação sobre consciência, leitura da realidade, repetições e responsabilidade própria depois da consciência.
 
 ---
 
@@ -74,8 +79,6 @@ A pergunta não assume culpa pelas violências sofridas. Abre investigação sob
 - `LOTES/AUDITORIA_ETAPA09_CADAVER_FUNCIONAL.md`
 - `LOTES/REVISAO_ETAPA09_CADAVER_FUNCIONAL.md`
 - `LOTES/AUDITORIA_INTEGRADA_PARTE_III_POS_ETAPA09.md`
-
----
 
 # NÚCLEOS RESERVADOS
 
@@ -86,32 +89,23 @@ Reservado por falta de cena autobiográfica concreta suficiente nesta auditoria.
 Prioridade conceitual do Livro 2, `Reposicione-se`. Não virou aula dentro da biografia.
 
 ## Quando a Morte Voltou / Vinte e Cinco de Dezembro / A Casa e o que Não Tinha Nome
-Reservados ao Epílogo conforme cânone vigente. 25/12/2025 não foi deslocado apenas para produzir simetria com 1978.
+Reservados ao Epílogo conforme cânone vigente.
 
 ## Carlos
 Vínculo real e imperfeito, disponível ao Epílogo. Não utilizado como solução romântica, antagonista automático ou prova de qualquer tese.
 
----
-
 # FRONTEIRA DA PARTE III
-**A Parte III termina em MV-35.**
+A ordem de leitura da transição passa a ser:
+`MV-22 → MV-M01 → MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27 → MV-28 → MV-29 → MV-30 → MV-31 → MV-32 → MV-33 → MV-34 → MV-35`.
 
-Sequência integrada:
-`MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27 → MV-28 → MV-29 → MV-30 → MV-31 → MV-32 → MV-33 → MV-34 → MV-35`.
-
-**14 unidades em V1.**
+A Parte III propriamente dita mantém **14 unidades V1**; MV-M01 é peça de transição II→III e será contabilizada como unidade especial do manuscrito.
 
 O leitor já viu:
-`ruptura → falsa ressurreição → violência → proteção → cerco materno → Portão → papel → portas fechadas → peregrinação → rotina → funcionamento → ausência → corpo → evidências`.
+`ruptura → culpa pós-divórcio → falsa sensação de liberdade → falsa ressurreição → violência → proteção → cerco materno → Portão → papel → portas fechadas → peregrinação → rotina → funcionamento → ausência → corpo → evidências`.
 
-Ele ainda **não** recebeu a Autópsia completa.
-
-# PARTE IV — próxima frente
-A arquitetura antiga será auditada antes da escrita. A entrada preferencial é o núcleo canônico **A Pergunta no Ônibus**, que conduz ao encontro/café/voucher/OSV e depois a verdade, responsabilidade, perdão, Sepultamento Simbólico e retorno da testemunha.
-
-A ordem da Parte IV não será forçada pelos códigos antigos MV-37–45.
+Ele ainda não recebeu a Autópsia completa.
 
 ## Regra de voz
 **vivi → percebi → compreendi**.
 
-A Parte III termina quando a mulher já não consegue desver as evidências. A explicação completa começa depois.
+O monólogo de transição é exceção deliberada de forma: pensamento direto no tempo vivido, sem consciência futura implantada.
