@@ -10,23 +10,38 @@ A[MV-35\nO Óbvio Estava na Sala] --> B[MV-36\nA Pergunta no Ônibus\n● V1]
 B --> C[MV-37\nA Verdade que Deixou de Ser Versículo\n● V1]
 C --> D[MV-38\nA Matemática do Perdão\n● V1]
 D --> E[MV-39\nO Sepultamento Simbólico\n● V1.1]
-E --> F[MV-40\nA Investigadora Ganha Linguagem\n● V1]
-F --> G[ETAPA 13\nA Mulher que Quase Não Viveu]
+E --> F[MV-I06\nA Criança que Não Devia Nada\nETAPA 13]
+F --> G[MV-40\nA Investigadora Ganha Linguagem\n● V1]
+G --> H[MV-41\nA Mulher que Quase Não Viveu\nETAPA 13]
 ```
 
 ## Depois do clímax
 ```mermaid
 flowchart LR
-A[Saí viva] --> B[O que faço com essa vida?]
-B --> C[Perguntas]
-C --> D[Estudo]
-D --> E[Padrões · vínculos · corpo · crenças]
-E --> F[Conceitos testados contra cenas]
-F --> G[Arquivo de evidências]
-G --> H[CSI da própria mente]
-H --> I[Linguagem]
-I --> J[Conhecimento não basta]
-J --> K[É preciso viver a mulher]
+A[Eu desocupei o caixão] --> B[Silêncio / corredor]
+B --> C[A criança deixa de ser ré]
+C --> D[Saí viva]
+D --> E[Perguntas]
+E --> F[Estudo]
+F --> G[CSI da própria mente]
+G --> H[Sei explicar]
+H --> I[Agora preciso viver]
+```
+
+## Reencontro com a criança
+```mermaid
+flowchart TD
+A[Nascimento + morte na mesma data] --> B[Dívida percebida]
+B --> C[Sepultamento]
+C --> D[A criança não causou]
+D --> E[Corpo pode precisar]
+D --> F[Criança pode errar]
+D --> G[Criança pode brincar]
+D --> H[Criança pode existir]
+E --> I[A Criança que Não Devia Nada]
+F --> I
+G --> I
+H --> I
 ```
 
 ## Regra da investigadora
@@ -41,29 +56,28 @@ F --> G[conceito ilumina a cena]
 G --> H[rótulo não substitui evidência]
 ```
 
-## Marcos documentais mínimos
+## Movimento da mulher
 ```mermaid
 flowchart LR
-A[Interesse por comportamento] --> B[Estudos ao longo dos anos]
-B --> C[DISC Advanced\n17/11/2021 · 50h]
-C --> D[Master Love Professional\n19/11/2021 · 140h]
-D --> E[Formações continuam\nsem catálogo]
-```
-
-## Próximo movimento
-```mermaid
-flowchart LR
-A[Sei explicar a mulher que fui] --> B[Mas quem é a mulher sem função?]
-B --> C[ETAPA 13]
-C --> D[Experiência de presença]
-D --> E[Mulher Magnética / TCC\ncronologia a auditar]
-E --> F[Origem vivida de linguagem/projetos]
+A[Filha · esposa · mãe · crente · trabalhadora · sobrevivente] --> B[Quem sou sem função?]
+B --> C[Estranhamento]
+C --> D[Preferência]
+D --> E[Corpo sem tribunal]
+E --> F[Desejo sem direção obrigatória]
+F --> G[Limite]
+G --> H[Presença]
+H --> I[Experiência é observada]
+I --> J[Magnetus nasce depois como organização]
+J --> K[Autorrelacionamento / Relacione-se]
 ```
 
 ## Fronteiras
+- criança = ternura sem infantilização;
 - ciência não substitui fé;
 - curso não vira autoridade clínica;
 - diagnóstico não vira identidade;
-- CSI não vira slogan;
-- Reposicione-se não é ensinado;
-- Mulher Magnética/TCC/Magnetus/Relacione-se ficam para a ETAPA 13.
+- Mulher Magnética entra como experiência formativa, não terapia;
+- TCC mantém curso/instituição/título/data em aberto;
+- Magnetus aparece como fruto biográfico, não oferta;
+- Relacione-se aparece como consequência, não publicidade;
+- Reposicione-se não é ensinado.
