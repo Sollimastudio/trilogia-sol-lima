@@ -1,91 +1,328 @@
 # MAPA-MÃE — LIVRO 3 — FUGA IDENTITÁRIA / ANATOMIA DO DESAPARECIMENTO DO EU
 
-## Estado do título
-**Título de trabalho principal:** Anatomia do Desaparecimento do Eu  
+**Estado vivo após ETAPA 01 — Auditoria e Consolidação do Legado**  
+**Data:** 10/09/2026  
+**Snapshot anterior:** `ETAPAS/00_ESTRUTURA_BASE_2026-09-10.md`  
+**Auditoria:** `AUDITORIA_LEGADO_ETAPA_01.md`  
+**Matriz de migração:** `MATRIZ_MIGRACAO_LEGADO_24_CAPITULOS.md`
+
+---
+
+## ESTADO DO TÍTULO
+
+**Título de trabalho principal:** *Anatomia do Desaparecimento do Eu*  
 **Conceito central:** Fuga Identitária  
 **Título/subtítulo final:** ainda não fechado.
 
-## Pergunta central
-**Quem sou quando retiro identidades construídas para sobreviver, pertencer, agradar ou escapar de mim?**
+O título antigo *Fuga Identitária — A Anatomia da Diluição do Eu* permanece como patrimônio do legado, mas não está automaticamente aprovado como título final da trilogia.
 
-## Função da obra
-Aprofundar aquilo que `Morte em Vida` dramatiza e `Reposicione-se` toca apenas o suficiente para o método: o apagamento progressivo do Eu e a fuga identitária.
+---
 
-Este livro investiga o que acontece quando uma pessoa passa a viver majoritariamente através de papéis, expectativas, pertencimentos, performances, referências externas e versões de si que já não correspondem à própria experiência interna.
+# 1. POSIÇÃO DO LIVRO NA TRILOGIA
 
-## Fronteira editorial
-- Não recontar `Morte em Vida`.
-- Não reapresentar integralmente o método `Reposicione-se`.
-- Usar conceitos dos dois livros anteriores como degraus já conquistados.
-- Construir uma terceira pergunta autônoma e uma entrega própria.
+`Morte em Vida` mostrou **como o desaparecimento aconteceu**.  
+`Reposicione-se` ensinou **como reconhecer e mudar posições**.  
+O Livro 3 pergunta **quem é o Eu que ocupa a nova posição e como sustentar autoria sem fabricar outra máscara**.
 
-## Eixos de investigação
+### Pergunta recebida do Livro 2
+> **Essa posição tem minha assinatura?**
 
-### 1 — O desaparecimento pode parecer adaptação
-Quando mudar para caber deixa de ser flexibilidade e começa a apagar referência interna.
+### Pergunta central do Livro 3
+> **Quem sou quando retiro identidades construídas para sobreviver, pertencer, agradar, funcionar ou escapar de mim?**
 
-### 2 — Papéis não são o Eu
-Filha(o), mãe/pai, esposa/marido, profissional, religiosa(o), cuidadora(or), forte, vítima, vencedora(or): papéis podem organizar a vida sem definir a totalidade da identidade.
+### Pergunta subterrânea
+> **Quem continua vivendo quando os papéis, aplausos, medos e pertencimentos deixam de responder por mim?**
 
-### 3 — Pertencer pode custar identidade
-O conflito entre vínculo e integridade pessoal.
+---
 
-### 4 — A terceirização do espelho
-Quando a pessoa depende excessivamente de aprovação, reação, grupo, parceiro, audiência ou referência externa para saber quem é.
+# 2. FUNÇÃO DA OBRA
 
-### 5 — Fuga identitária
-Estratégias conscientes ou não de afastamento de aspectos do próprio Eu, incluindo performances e reconstruções que evitam contato com a experiência interna.
+Investigar o apagamento progressivo do Eu, a fuga identitária, a terceirização da referência interna e a reconstrução de autoria pessoal.
 
-### 6 — O mundo contemporâneo e o Eu performado
-Ambiente digital, comparação, tendências, grupos e identidades prontas como campo de investigação — sempre com pesquisa responsável e sem transformar fenômeno cultural em diagnóstico coletivo.
+O livro observa o que acontece quando alguém passa a viver majoritariamente por:
 
-### 7 — O Eu automático
-Rotinas, reações e decisões que continuam funcionando mesmo quando a pessoa já não reconhece por que vive daquele modo.
+- papéis;
+- expectativas;
+- identidades de sobrevivência;
+- performances;
+- pertencimentos;
+- aprovação;
+- narrativas;
+- grupos;
+- líderes;
+- relacionamentos;
+- audiência;
+- algoritmos;
+- missões;
+- versões antigas de si que continuam funcionando depois de perderem sentido.
 
-### 8 — O desaparecimento dentro do sucesso
-A possibilidade de funcionar, produzir, performar e receber validação enquanto a referência interna permanece fraca.
+O centro não é descobrir uma “essência pura” escondida. É recuperar relação consciente consigo sem negar história, vínculos, influência, corpo, realidade e responsabilidade.
 
-### 9 — O luto das identidades antigas
-Reconstruir o Eu não significa demonizar todas as versões anteriores. Algumas foram necessárias; outras apenas expiraram.
+---
 
-### 10 — O que sobra quando retiro os papéis?
-Pergunta central de investigação prática e existencial.
+# 3. TESE CENTRAL REFINADA
 
-### 11 — Autoria sem personagem perfeito
-Reconstrução identitária sem buscar uma identidade rígida, definitiva ou performática.
+> **Fuga identitária é o processo pelo qual uma pessoa se afasta progressivamente da própria referência interna e passa a viver majoritariamente por papéis, respostas, performances, pertencimentos ou narrativas que organizam quem ela precisa ser. A terceirização pode vir de fora, mas pode continuar funcionando por dentro mesmo depois que a fonte externa desapareceu.**
 
-### 12 — Permanecer em si
-Identidade como relação contínua consigo, não como rótulo final.
+### Travas conceituais
 
-## Perguntas de trabalho
-- O que eu chamo de “eu” é escolha, hábito, papel, proteção ou pertencimento?
-- Quais identidades foram escolhidas e quais foram herdadas?
-- Que versões de mim continuam existindo apenas porque outras pessoas esperam que existam?
-- O que acontece quando abandono um papel que sustentava pertencimento?
-- Como diferenciar mudança saudável de fuga de si?
-- Como recuperar autoria sem fabricar outra máscara?
+- não é diagnóstico clínico;
+- não é sinônimo de mudança;
+- não é sinônimo de pertencimento;
+- não é sinônimo de orientação sexual, posição política, fé, profissão ou diagnóstico;
+- não presume que exista uma identidade imutável e pura esperando para ser revelada;
+- não transforma influência em manipulação automática;
+- não converte adaptação necessária em fracasso moral;
+- não responsabiliza a pessoa por violência praticada contra ela.
 
-## Sementes recebidas dos livros anteriores
-### De Morte em Vida
-- desaparecimento progressivo;
-- funcionamento sem presença;
-- identidade de sobrevivência;
-- testemunha principal da própria vida.
+---
 
-### De Reposicione-se
-- pertencimento e merecimento;
-- influência externa;
-- fuga identitária;
-- metacognição;
-- filtros;
-- responsabilidade;
-- travessia;
-- sustentação.
+# 4. PROMESSA AO LEITOR
 
-## Resultado desejado no leitor
-Reconhecimento → diferenciação → luto → autoria → integração.
+Ao final, o leitor deverá ser capaz de:
 
-## Regra de desenvolvimento
-Este mapa permanece deliberadamente mais aberto que os dois anteriores. O Livro 3 não será artificialmente fechado antes da consolidação de todo o material existente sobre Fuga Identitária.
+1. distinguir papel, hábito, proteção, pertencimento, performance e autoria;
+2. reconhecer identidades construídas para sobreviver e quando sua função expirou;
+3. perceber quando adaptação virou desaparecimento;
+4. localizar os espelhos externos dos quais depende para saber quem é;
+5. identificar como narrativas e pertencimentos ocupam a referência interna;
+6. perceber automatismos identitários que continuam sem causa atual;
+7. reconhecer desaparecimento mesmo dentro de sucesso, competência e validação;
+8. retirar identificações sem destruir a própria história;
+9. viver o luto de versões antigas sem tratá-las como inimigas;
+10. pertencer sem desaparecer;
+11. recuperar autoria sem fabricar personagem perfeito;
+12. sustentar uma relação contínua consigo em meio a influência, vínculo e mudança.
 
-Versão inicial: 10/09/2026.
+---
+
+# 5. FRONTEIRAS EDITORIAIS
+
+## Não recontar `Morte em Vida`
+O Livro 1 é proprietário da experiência biográfica integral, da anatomia narrativa do desaparecimento, do Feminicídio Emocional, do perdão/autoperdão e do Sepultamento Simbólico.
+
+O Livro 3 pode recuperar uma experiência de Sol apenas quando a função muda: aqui, a pergunta é identitária.
+
+## Não repetir `Reposicione-se`
+O Livro 2 é proprietário do método de reposicionamento, Árvore do Discernimento, Jaula, Frutos, Filtro, evidências, custos, Leis, limites, poda, nova semente, travessia e sustentação prática.
+
+O Livro 3 pode usar metacognição, lógica, narrativa, filtros e responsabilidade como **ferramentas herdadas**. Não deve ensinar o método inteiro novamente.
+
+## Não virar ensaio de guerra cultural
+Algoritmos, movimentos, política, religião, rótulos e fenômenos contemporâneos são campos de observação. O protagonista é o mecanismo humano de identidade.
+
+---
+
+# 6. MOVIMENTO DO LEITOR
+
+`Reconhecimento → Diferenciação → Anatomia → Desidentificação → Luto → Autoria → Integração`
+
+Em linguagem de experiência:
+
+`percebo que estou vivendo por versões → separo Eu de papel/proteção/pertencimento → entendo como a ocupação se instalou → retiro o que já não precisa governar → reconheço perdas e funções antigas → recupero autoria → aprendo a permanecer em mim sem me isolar do mundo`
+
+---
+
+# 7. ARQUITETURA CANÔNICA CONSOLIDADA — 24 CAPÍTULOS
+
+## ABERTURA — QUEM ESTÁ VIVENDO A SUA VIDA?
+
+### Nota da autora — Este livro não finge neutralidade
+Preservar a força ética do legado: posição autoral com rigor, pessoa ≠ ideia ≠ comportamento ≠ sistema, contraditório e ausência de diagnóstico à distância.
+
+### Nota conceitual — Fuga Identitária não é diagnóstico
+Preservar e atualizar a definição para incluir papéis, identidades de sobrevivência e automatismos internos.
+
+### Introdução — Quem ficou no lugar quando você saiu de si?
+A abertura deve ligar organicamente a pergunta deixada por `Reposicione-se` à investigação identitária, sem pressupor que o leitor tenha lido os livros anteriores.
+
+---
+
+## PARTE I — O EU QUE APRENDE A CABER
+
+### 1. O Eu debaixo dos papéis
+**Função:** abrir a pergunta central. Mostrar que “quem sou?” não se resolve listando funções, biografia, rótulos ou preferências.  
+**Legado:** antigo Cap. 1, profundamente adaptado.
+
+### 2. Adaptar-se não é desaparecer
+**Função:** proteger mudança, flexibilidade, ambivalência e aprendizagem. Definir o ponto em que adaptação começa a custar referência interna.  
+**Legado:** antigo Cap. 2, preservação alta.
+
+### 3. Identidades de sobrevivência
+**Função:** investigar versões construídas para evitar punição, conservar vínculo, suportar ambiente, agradar, funcionar ou não romper.  
+**Novo:** núcleo ausente no legado; recebe sementes do Livro 1 sem recontá-lo.
+
+### 4. Quando funcionar substitui existir
+**Função:** mostrar que competência, produtividade e normalidade externa podem coexistir com ausência de presença interna.  
+**Eco permitido:** “A Cadáver que Tomava Café” como referência breve, não reprise narrativa.
+
+**Saída da Parte I:** “Talvez eu não tenha perdido toda identidade. Talvez eu tenha aprendido a viver por versões que funcionavam.”
+
+---
+
+## PARTE II — OS ESPELHOS QUE RESPONDEM POR NÓS
+
+### 5. Os primeiros espelhos
+**Função:** família, cuidado, autoridade, linguagem, expectativa e quem aprendemos a ser antes de escolher conscientemente.  
+**Legado:** antigo Cap. 8.
+
+### 6. Pertencer pode custar identidade
+**Função:** mostrar pequenas concessões de si anteriores à captura explícita. Vínculo, aprovação, medo de exclusão e integridade pessoal.  
+**Novo + legado:** amplia o antigo eixo de pertencimento.
+
+### 7. A terceirização do espelho
+**Função:** nomear dependência excessiva da reação externa para confirmar valor, beleza, competência, bondade, fé, desejo, opinião e existência.  
+**Novo:** conceito estrutural do Livro 3.
+
+### 8. O eu ideal — algoritmo, audiência e performance
+**Função:** unir algoritmo, influenciador, avatar, comparação, eu vivido × eu exibido e audiência internalizada.  
+**Legado:** fusão revisada dos antigos Caps. 9 e 10.
+
+**Saída da Parte II:** “Posso receber reflexos sem entregar ao espelho o direito de definir minha existência.”
+
+---
+
+## PARTE III — A ANATOMIA DA OCUPAÇÃO
+
+### 9. Toda fuga identitária precisa de uma narrativa
+**Função:** condensar alfabetização narrativa suficiente para o Livro 3. Explicar como uma história diz quem sou, quem são os outros, o que devo temer e qual papel devo cumprir.  
+**Legado:** Caps. 4–7 condensados. Matriz NARRATIVA, valor operante, lógica e simetria entram como ferramentas herdadas.
+
+### 10. Exposição e identificação
+**Função:** repetição + necessidade atendida. A pessoa reconhece linguagem para uma dor, desejo, medo ou sensação de não pertencer.  
+**Legado:** Caps. 13–14.
+
+### 11. Adoção — quando linguagem recebida vira pensamento
+**Função:** mostrar vocabulário, estética, mapa moral, hábitos e papéis sendo internalizados até parecerem espontâneos.  
+**Legado:** Cap. 15, ampliado para identidade praticada.
+
+### 12. Redoma, fusão e dependência
+**Função:** crítica vira ataque, dúvida vira deslealdade, fonte torna-se única, custo de saída cresce e a identidade passa a depender da estrutura. Segurança precede confronto.  
+**Legado:** Caps. 16–17.
+
+**Saída da Parte III:** “Agora consigo ver como algo que começou oferecendo linguagem pode terminar ocupando o lugar da minha própria referência.”
+
+---
+
+## PARTE IV — O EU EMPRESTADO EM FUNCIONAMENTO
+
+### 13. Nomes que acolhem, rótulos que aprisionam
+**Função:** investigar nomes familiares, profissionais, religiosos, clínicos, culturais, políticos, relacionais e digitais. Um nome pode organizar experiência sem possuir a pessoa inteira.  
+**Legado:** Cap. 12 ampliado.
+
+### 14. Quando o movimento começa a usar a pessoa
+**Função:** causas, comunidades, fé, militâncias, masculinismos, fandoms, gurus e outros pertencimentos como aplicações do mecanismo.  
+**Legado:** Cap. 11; exemplos deixam de ser eixo principal.
+
+### 15. O Eu automático
+**Função:** mostrar identidades que continuam executando respostas mesmo quando a autoridade externa já não está presente.  
+**Novo:** automatismos, culpa antecipada, conversa interna com plateias ausentes, papéis expirados.
+
+### 16. O desaparecimento dentro do sucesso
+**Função:** produtividade, competência, autoridade, audiência, beleza, aprovação e conquista como possíveis esconderijos de baixa referência interna.  
+**Novo:** impede que o leitor procure fuga identitária apenas no fracasso ou marginalidade.
+
+**Saída da Parte IV:** “Eu posso parecer inteiro para o mundo e ainda estar vivendo de fora para dentro.”
+
+---
+
+## PARTE V — QUANDO FUGIR DE SI PARECE LIBERDADE
+
+### 17. Fuga cognitiva — ocupado demais para se encontrar
+**Função:** rolagem, trabalho, consumo, produtividade, prazer e autoconhecimento como possíveis formas de evitar encontro consigo. A função importa mais que o objeto.  
+**Legado:** Caps. 3 e 18 condensados.
+
+### 18. Propósito emprestado
+**Função:** missão, causa, cargo, relacionamento ou audiência usados para responder “quem sou?”.  
+**Legado:** Cap. 19 + partes do antigo Cap. 24.
+
+### 19. Quando o outro vira função
+**Função:** investigar relações em que pessoas passam a existir como validação, utilidade, plateia, inimigo, obstáculo ou matéria-prima para a identidade.  
+**Legado:** “A era das anti-pessoas”, reescrita sem tese cultural totalizante.
+
+### 20. Autenticidade sem responsabilidade
+**Função:** mostrar o risco de sair da submissão e construir outro personagem igualmente rígido: o Eu soberano que não admite vínculo, consequência ou contraditório.  
+**Legado:** Cap. 21, preservação alta com nova função.
+
+**Saída da Parte V:** “Recuperar a mim não significa transformar desejo, impulso ou autonomia em nova autoridade absoluta.”
+
+---
+
+## PARTE VI — O RETORNO DA AUTORIA
+
+### 21. Se tudo desaparecesse amanhã, quem permaneceria?
+**Função:** portal de desidentificação. Retirar mentalmente grupo, papel, título, audiência, relacionamento e missão para observar o que depende deles.  
+**Legado:** antigo Cap. 22.
+
+### 22. O que é meu, o que herdei, o que performei
+**Função:** auditoria identitária. Não busca essência pura; diferencia escolha, hábito, proteção, herança, pertencimento, desejo, valor e performance.  
+**Novo:** ferramenta central do Livro 3.
+
+### 23. O luto das identidades antigas — pertencer sem desaparecer
+**Função:** agradecer funções protetivas sem mantê-las no governo. Integrar perda, saída interna, vínculo, reparação, comunidade e possibilidade de continuar pertencendo sem fusão.  
+**Novo + legado:** integra o antigo Cap. 23.
+
+### 24. Autoria sem personagem perfeito — permanecer em si
+**Função:** fechar o livro sem oferecer uma identidade rígida. Autoria é relação contínua entre consciência, realidade, valores, corpo, vínculo, história, escolha e revisão.  
+**Novo:** recebe apenas trechos compatíveis do antigo Cap. 24.
+
+**Saída da Parte VI:** “Não preciso descobrir uma versão definitiva de mim. Preciso parar de abandonar o lugar de onde vivo, escolho e respondo.”
+
+---
+
+## EPÍLOGO — O LUGAR QUE SÓ VOCÊ PODE OCUPAR
+
+Preservar o melhor do epílogo legado: nenhuma nova identidade pronta, nenhum culto à autossuficiência, nenhuma promessa de imunidade à influência.
+
+### Fechamento desejado
+O livro não termina em “posicione-se”, porque essa travessia já pertenceu ao Livro 2. Termina em **presença identitária sustentável**.
+
+A última imagem deve comunicar:
+
+> o mundo continuará oferecendo papéis e nomes; o leitor continuará mudando; a autoria não está em nunca ser influenciado, mas em não abandonar o lugar interior de exame, escolha, vínculo e resposta.
+
+---
+
+# 8. PATRIMÔNIO DO LEGADO QUE CONTINUA DISPONÍVEL
+
+- 65 mil+ palavras de prosa já desenvolvida;
+- 21 figuras funcionais;
+- pesquisa e referências;
+- estudos de caso compostos;
+- contracasos;
+- Matriz NARRATIVA;
+- Comandos de Autoria;
+- Eixo de Autoria;
+- Auditoria Metacognitiva;
+- Mapa de Retorno da Autoria;
+- Dicionário autoral;
+- arquivos Kindle/EPUB/PDF como referência técnica.
+
+**Regra:** esses ativos não são descartados. São migrados conforme `MATRIZ_MIGRACAO_LEGADO_24_CAPITULOS.md`.
+
+---
+
+# 9. REGRAS DE ESCRITA
+
+- Sol aparece como autora que investigou a própria vida, não como protagonista de uma segunda autobiografia.
+- Experiência pessoal entra somente quando acrescenta função nova.
+- O texto precisa ser literário e investigativo, não uma apostila.
+- Conceitos autorais devem ser claros sem virar diagnóstico.
+- Fenômenos controversos exigem simetria, contexto e humanidade.
+- O leitor nunca deve sair com a sensação de que “os capturados são os outros”.
+- Identidades socialmente elogiadas também devem ser examináveis.
+- Versões antigas do Eu não serão tratadas automaticamente como falsas; algumas foram adaptações inteligentes a circunstâncias reais.
+- Reconstrução não significa retorno ao passado.
+- Autoria não significa isolamento.
+- Mudança não significa fuga.
+- Permanecer em si não significa permanecer igual.
+
+---
+
+# 10. ESTADO
+
+**ETAPA 00 — Estrutura base:** ✓ preservada em snapshot.  
+**ETAPA 01 — Auditoria e Consolidação do Legado:** ✓ concluída.  
+**ETAPA 02 — Arquitetura Canônica + Abertura + Parte I:** próxima.
+
+Na ETAPA 02, a produção deixa de ser predominantemente estrutural e começa a gerar **corpo de livro em massa**, reutilizando prosa do legado quando compatível e escrevendo integralmente os novos Caps. 1–4.
