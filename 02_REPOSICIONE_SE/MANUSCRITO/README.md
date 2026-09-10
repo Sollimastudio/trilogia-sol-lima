@@ -15,18 +15,30 @@ Esta pasta contém a prosa viva e canônica do Livro 2.
 Versões antigas fora desta pasta são bancos patrimoniais, não governam automaticamente a prosa atual.
 
 ## Ordem de leitura atual
+
+### Pré-livro
 - `00_PRE_LIVRO.md`
+
+### Parte I — O Despertar
 - `01_PARTE_I/01_A_VITRINE_DA_VIDA.md`
 - `01_PARTE_I/02_O_FRUTO_NAO_MENTE.md`
 - `01_PARTE_I/03_VOCE_JA_ESTA_POSICIONADO.md`
 - `01_PARTE_I/04_O_AUTOMATICO_E_A_PRIMEIRA_SUBIDA.md`
-- próximas Partes serão acrescentadas em sequência canônica.
+
+### Parte II — Semente, Solo e Raízes
+- `02_PARTE_II/05_A_MESMA_SEMENTE_SOLOS_DIFERENTES.md`
+- `02_PARTE_II/06_O_SOLO_QUE_TE_RECEBEU.md`
+- `02_PARTE_II/07_RAIZES_SEU_MODO_OPERANTE.md`
+- `02_PARTE_II/08_MAPAS_HERDADOS_PERTENCIMENTO_E_MERECIMENTO.md`
+
+As próximas Partes serão acrescentadas em sequência canônica.
 
 ## Estado de produção
 - ETAPA 01 — auditoria integral: concluída.
 - ETAPA 02 — arquitetura canônica + Pré-livro + primeiros 10%: concluída.
 - ETAPA 03 — escrita em massa por Partes: ativa.
-- lote atual: Parte II — Semente, Solo e Raízes, capítulos 5 a 8.
+- LOTE 01 — Parte II, capítulos 5 a 8: **✓ escrito e revisado; snapshot criado**.
+- LOTE 02 atual — Parte III, capítulos 9 a 12: **próximo lote de produção**.
 
 ## Regra de edição
 Antes de alterar qualquer arquivo existente nesta pasta, reler sua versão atual no GitHub. Mudanças relevantes devem ser registradas no histórico/etapa correspondente.
