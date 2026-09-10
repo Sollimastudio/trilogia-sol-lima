@@ -2,78 +2,131 @@
 ## Quando suportar ganhou nomes bonitos
 
 **Atualizado:** 10/09/2026  
-**Estado:** primeira metade em V1; segunda metade aguardando auditoria da ETAPA 06.
+**Estado:** ● primeira escrita integrada completa; revisão Beta futura.
 
-> Este arquivo prevalece, para a Parte II, sobre a ordem conceitual antiga de `MAPA_CAPITULOS.md`. O mapa global não foi apagado; permanece como histórico da engenharia inicial. A renumeração definitiva será feita no Manuscrito Alfa.
+> Este arquivo prevalece, para a Parte II, sobre a ordem conceitual antiga de `MAPA_CAPITULOS.md`. O mapa global permanece como histórico da engenharia inicial. A renumeração definitiva será feita no Manuscrito Alfa.
 
 ## Missão da Parte II
-Mostrar como uma adolescente que já possuía inteligência, fé, capacidade de adaptação, desejo de pertencimento e grande tolerância ao desconforto entra cedo em papéis adultos. O livro não dirá que a infância determinou seu destino. Mostrará apenas os recursos que ela levou consigo e o modo como passaram a funcionar em novas circunstâncias.
+Mostrar como uma adolescente que já possuía inteligência, fé, capacidade de adaptação, desejo de pertencimento e grande tolerância ao desconforto entra cedo em papéis adultos; depois acompanhar como essas qualidades reais operam dentro de casamento, maternidade, trabalho, criação, medo, risco e ruptura.
 
-## Sequência oficial após ETAPA 05
+A Parte II não afirma que a infância determinou a vida adulta. Ela mostra repertório, contexto, decisões, ações de terceiros e consequências.
+
+# SEQUÊNCIA OFICIAL
 
 ### MV-12 — Ele Não Me Pediu Namoro — ● V1
 **Data central:** 02/05/1992 · 13 anos.  
-**Função:** ser vista, receber pedido direto de casamento e ganhar uma identidade futura antes de uma experiência amorosa gradual.  
-**Retenção:** sem vilão anunciado; sem diferença etária numérica não confirmada.
+**Função:** ser vista, receber pedido direto de casamento e ganhar identidade futura antes de experiência amorosa gradual.
 
 ### MV-13 — O Primeiro Bolo e A Boa Mesa — ● V1
 **Período:** 14–15 anos.  
-**Função:** preservar a alegria real do primeiro bolo e depois mostrar caixa, `A Boa Mesa`, preparação doméstica, estudo perdendo espaço e choro do pai.  
-**Objetos:** bolo · caixa · livro.
+**Função:** preservar a alegria real do primeiro bolo e depois mostrar caixa, `A Boa Mesa`, preparação doméstica, estudo perdendo espaço e choro do pai.
 
 ### MV-14 — Congas Molhadas — ● V1
 **Período:** adolescência; noivado aos 15.  
-**Função:** transformar pobreza, vergonha, escola que perde espaço e aproximação do altar em movimento concreto.  
-**Objeto:** Congas molhadas — `chic / chic / chic`.  
-**Regra:** não afirmar que eram sapatos do casamento.
+**Função:** materializar pobreza, vergonha, escola que perde espaço e aproximação do altar.  
+**Objeto:** Congas molhadas — `chic / chic / chic`.
 
 ### MV-I04 — Dueto com a Mãe — ● V1
 **Posição:** retorno deliberado à infância antes do casamento.  
-**Função:** mostrar Elza como pessoa inteira: vínculo, fé, música, prazer e escuta coexistem com conflito. Preparar o leitor para sustentar contradição sem apagar dano nem amor.
+**Função:** preservar vínculo, fé, música, prazer e escuta com Elza antes da cena de conflito.
 
 ### MV-15 — Emancipada Para o Altar — ● V1
 **Data central:** 09/09/1994 · 16 anos.  
-**Função:** clímax do lote: menoridade, providências chamadas de emancipação, agressão materna, intervenção e advertência paterna, oferta do avô, recusa, aparência controlada e cerimônia.  
-**Objeto-eco:** caldeirão que cozinha para três/quatro.  
-**Regra:** procedimento jurídico exige conferência documental posterior.
+**Função:** menoridade, providências chamadas de emancipação, agressão materna, intervenção/advertência paterna, oferta do avô, recusa, aparência regulada e cerimônia.
 
 ### MV-16 — Quatro Cômodos sem Casa — ● V1
-**Ponto de partida:** noite do casamento e início da convivência.  
-**Função:** transformar a palavra `esposa` em cotidiano: quatro cômodos nos fundos, cabelo com laquê, ausência de xampu, proximidade da casa da sogra, pequenas necessidades e esperança real de construir uma casa.  
-**Fecho:** `que aquela fosse a minha casa.`
+**Ponto de partida:** noite do casamento.  
+**Função:** transformar `esposa` em cotidiano e esperança concreta; quatro cômodos nos fundos, cabelo com laquê, pequenas necessidades e desejo de construir uma casa.
 
 ---
 
-# SEGUNDA METADE — ETAPA 06
+### MV-17 — A Cozinha no Fundo do Quintal — ● V1
+**Faixa:** 1994–1998 aproximadamente.  
+**Núcleos:** 21–28.  
+**Função:** cotidiano conjugal, nascimento de Matheus em 1997, noites no adobe, Pit Dog, desmame/privação, pele, separações temporárias, culpa atribuída e episódio do Fiesta.  
+**Mudança:** a casa que Sol tenta fazer funcionar começa a produzir acontecimentos que ela esconde para continuar.
 
-Os códigos MV-17 a MV-22 permanecem como espaço operacional, mas **seus títulos conceituais antigos não são considerados definitivos**. Antes da escrita, os 26 núcleos já existentes da vida conjugal/maternidade deverão ser distribuídos cronologicamente.
+### MV-18 — O Leite que Não Chegava — ● V1
+**Faixa:** fim dos anos 1990 / começo dos anos 2000.  
+**Núcleos:** 29–33.  
+**Função:** mudança para a região de Rio Quente, rota de leite, entrada na Pousada em novembro de 2000, descoberta da competência artística, busca de ajuda e capotamento.  
+**Mudança:** a mulher cresce profissionalmente enquanto a instabilidade privada continua.
 
-## Faixa biográfica a cobrir
-1994 → 2010.
+### MV-19 — O Abraço no Supermercado — ● V1
+**Faixa:** começo dos anos 2000 / por volta de 2003.  
+**Núcleos:** 34–37.  
+**Função:** comparações, traição/culpa atribuída e escalada para ameaças concretas em supermercado, cama e apartamento.  
+**Regra:** o objeto na boca é narrado como percebido como arma; sua natureza não foi confirmada.  
+**Mudança:** medo ganha lugares físicos e invade espaços cotidianos.
 
-## Núcleos obrigatórios para auditoria
-- primeiros anos nos quatro cômodos e pequenas necessidades;
-- nascimento de Matheus em 1997, com proteção de detalhes íntimos;
-- noites no adobe e choro infantil;
-- trabalho/Pit Dog e maternidade em condições reais;
-- amamentação/desmame conforme memória disponível;
-- episódios de pele/adoecimento sem causalidade inventada;
-- saídas temporárias e tentativas de reorganização;
-- preservativo/infidelidade e culpa atribuída à narradora, conforme relato;
-- braço preso no vidro do Fiesta e ausência de atendimento;
-- mudança para região de Rio Quente;
-- trabalho artístico, apresentações, figurinos e competência;
-- dinheiro, rota de leite e dependência sem antecipar autonomia inexistente;
-- ameaças e episódios graves apenas com fatos sustentados;
-- morte de Zé Caetano em 2006;
-- gestação e nascimento de Lelo em seus momentos próprios;
-- retorno/mudança posterior para Itaberaí;
-- ruptura e separação em 2010;
-- apoio do pai, ameaças, polícia/medida e efeitos imediatos, com conferência posterior das peças jurídicas.
+### MV-20 — Nove Metros de Tecido — ● V1
+**Faixa:** anos de Caldas anteriores a Lelo.  
+**Núcleos:** 38–39.  
+**Função:** criação, figurinos, bandeiras, renda, Monza e igreja/estatuto. Provar competência e prazer sem inventar autonomia financeira plena.  
+**Mudança:** Sol consegue estruturar grandes projetos e ainda encontra dificuldade para sustentar uma discordância própria.
 
-## Objetivo da ETAPA 06
-Não resumir dezesseis anos em seis discursos. Transformar o período em cenas escolhidas que mostrem:
-`tentativa de construir → maternidade → competência → normalização → risco → agência → ruptura`.
+### MV-21 — Duas Vozes no Telefone — ● V1
+**Faixa:** 2006.  
+**Núcleos:** 40–43.  
+**Função:** última lembrança do avô, morte de Zé Caetano em 26/02/2006, gestação difícil, experiência de fé/cuidado materno, decisão de voltar e nascimento de Lelo em 10/11/2006.  
+**Mudança:** Sol começa a planejar proximidade com os filhos e outra organização da vida.
 
-## Fronteira
-A Parte II termina com uma saída real e uma sensação legítima de alívio. A revelação de que sair externamente não significa voltar para si pertence à passagem para a Parte III.
+### MV-22 — A Porta Depois da Saída — ● V1
+**Faixa:** pós-2006 → 2010 e efeitos imediatos.  
+**Núcleos:** 44–46.  
+**Função:** retorno a Itaberaí, filhos, decisão de terminar, apoio paterno, ameaças, capacete, polícia/medida lembrada, litígio, vigilância e alívio parcial.  
+**Mudança:** pela primeira vez a separação começa por decisão de Sol e é sustentada; o corpo, porém, continua esperando perigo.
+
+# COBERTURA DA ETAPA 06
+Os 26 núcleos legados IDs 21–46 receberam destino explícito em `LOTES/AUDITORIA_26_NUCLEOS_ETAPA06.md`.
+
+- 21–28 → MV-17
+- 29–33 → MV-18
+- 34–37 → MV-19
+- 38–39 → MV-20
+- 40–43 → MV-21
+- 44–46 → MV-22
+
+**Cobertura: 26/26.**
+
+# CURVA DA PARTE II
+`ser vista → ser escolhida → papel de esposa → cotidiano → maternidade → competência → normalização → ameaça → criação → luto/nova maternidade → agência → ruptura`
+
+# PRINCIPAIS ECOS
+- MV-09 pai dos picolés → choro pela escola → intervenção no casamento → sustentação do não em 2010;
+- MV-04 menina que não pede → pequenas necessidades conjugais → maternidade e necessidade de agir pelo filho;
+- MV-I01 girau/voz → trabalho artístico → canto no nascimento de Lelo;
+- MV-07 Dois Caminhos → medo espiritual de romper → fé também como acolhimento;
+- MV-03A Sheila + caldeirão → oferta do avô no casamento → retorno de Zé Caetano em 2006;
+- corpo imóvel/antecipação → Fiesta → supermercado/cama/apartamento → porta de 2010.
+
+# PONTE PARA A PARTE III
+A Parte II termina com mudança externa real:
+- convivência conjugal encerrada;
+- decisão sustentada por Sol;
+- busca de proteção;
+- dois filhos e vida prática ainda exigindo cuidado;
+- litígio e incertezas ainda presentes.
+
+Mas permanecem:
+- vigilância interna;
+- antecipação de reação;
+- dificuldade com autonomia e dinheiro;
+- identidade organizada por funções;
+- dúvida sobre percepção;
+- corpo ainda esperando ameaça.
+
+**Pergunta de saída:** `Por que a porta fechou e eu continuei vivendo como se o perigo ainda estivesse dentro?`
+
+Essa pergunta abre a Parte III — **A Cadáver que Tomava Café**.
+
+## Arquivos de controle
+- `LOTES/AUDITORIA_CRONOLOGICA_LOTE04.md`
+- `LOTES/REVISAO_LOTE_04.md`
+- `LOTES/AUDITORIA_26_NUCLEOS_ETAPA06.md`
+- `LOTES/REVISAO_LOTE_05.md`
+- `LOTES/AUDITORIA_INTEGRADA_PARTE_II.md`
+
+## Status
+**PARTE II: ● primeira escrita integrada.**  
+Ainda não é versão final/publicável. Beta, verificação factual/jurídica e lapidação literária permanecem programadas.
