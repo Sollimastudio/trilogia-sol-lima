@@ -43,45 +43,70 @@ Este arquivo registra a evolução estrutural e textual do Livro 1 sem apagar es
 **Data:** 10/09/2026  
 **Status:** ✓ concluída como primeira versão.
 
-### Subetapa 02A — sistema + abertura
-- pipeline completo de produção;
-- biblioteca de prompts por camada;
-- comandos das etapas 02–18;
-- dossiê do Lote 00+01;
-- MV-00 em primeira escrita.
+### Entregas centrais
+- pipeline e prompts instalados;
+- MV-00, MV-01, MV-02 e MV-03 em primeira escrita;
+- MV-I01 Reino das Galinhas reservado por falta de ocorrência concreta completa;
+- revisão de lote concluída.
 
-Snapshot: `ETAPAS/02A_ABERTURA_E_PREPARACAO_LOTE01_2026-09-10.md`
+### Snapshots
+- `ETAPAS/02A_ABERTURA_E_PREPARACAO_LOTE01_2026-09-10.md`
+- `ETAPAS/02B_TRES_CAPITULOS_ORIGEM_2026-09-10.md`
+- `ETAPAS/02_FECHAMENTO_LOTE00_01_2026-09-10.md`
 
-### Subetapa 02B — consolidação factual + núcleo de origem
-- recuperação de registros de continuidade anteriores;
-- separação entre fato, relato familiar, interpretação e extrapolação antiga;
-- `LOTES/FICHAS_CENAS_LOTE01.md` criado;
-- MV-01 em primeira escrita;
-- MV-02 em primeira escrita;
-- MV-03 em primeira escrita;
-- MV-I01 mantido em apuração por ausência de ocorrência concreta completa.
+---
 
-Snapshot intermediário: `ETAPAS/02B_TRES_CAPITULOS_ORIGEM_2026-09-10.md`
+## ETAPA 03 — LOTE 02: CORPO, SILÊNCIO E IMAGINAÇÃO
+**Data:** 10/09/2026  
+**Status:** ✓ concluída como primeira versão.
 
-### Revisão de lote
-Realizada em `LOTES/REVISAO_LOTE_00_01.md`.
+### Apuração consolidada
+Foram separados fato/memória, interpretação posterior e limites de reconstrução para:
+- dificuldade de pedir para ir ao banheiro na escola;
+- antecipação de um “não” antes de receber resposta;
+- retenção, escape, ardor, odor e imobilidade;
+- episódio separado em viagem de ônibus;
+- constipação como arco corporal distinto;
+- desejo infantil de ser anjo;
+- Quadro dos Dois Caminhos e lógica religiosa infantil;
+- vigilância de pensamentos e tentativa de “despensar”.
 
-Principais pontos reservados para revisão futura:
-- condensar metanarrativa repetitiva sobre limites da memória;
-- controlar repetição do fato nascimento/morte;
-- testar maior sutileza na antecipação do Sepultamento Simbólico;
-- aumentar ação e concretude nos capítulos infantis seguintes.
+Arquivo: `LOTES/FICHAS_CENAS_LOTE02.md`
 
-### Decisão sobre Reino das Galinhas
-Permanece reservado. Pode virar interlúdio, passagem integrada ou corte conforme surja material concreto. A lacuna não bloqueia produção.
+### Primeira escrita concluída
+- MV-04 — A Menina que Não Pediu;
+- MV-05 — O Cheiro do Silêncio;
+- MV-06 — Eu Queria Ser um Anjo;
+- MV-07 — Os Dois Caminhos.
 
-### Snapshot de fechamento
-`ETAPAS/02_FECHAMENTO_LOTE00_01_2026-09-10.md`
+### Unidade reservada
+MV-I02 — Mangas permanece em apuração. O título existe, mas não foi recuperado acontecimento específico suficiente para narrativa autobiográfica longa. Uma direção visual antiga não foi usada como prova de memória.
+
+### Curva implantada
+`necessidade → antecipação → silêncio → sofrimento → imobilidade → fantasia de não ter necessidades → vigilância moral/religiosa`
+
+### Revisão
+`LOTES/REVISAO_LOTE_02.md`
+
+Pontos reservados para revisão da Parte I:
+- reduzir universalizações;
+- controlar repetição temática de corpo/necessidade;
+- deixar crescimento temporal claro quando aparecem menstruação e desejo;
+- reduzir densidade conceitual de Dois Caminhos quando necessário;
+- resolver transições ligadas a interlúdios ainda reservados.
+
+### Snapshot
+`ETAPAS/03_LOTE02_CORPO_SILENCIO_IMAGINACAO_2026-09-10.md`
+
+### Estado acumulado
+Primeira escrita disponível de MV-00 a MV-07: oito unidades consecutivas do manuscrito.
 
 ### Próxima etapa
-**ETAPA 03 — LOTE 02: Corpo, silêncio e imaginação.**
+**ETAPA 04 — LOTE 03: Competência, pai e risco.**
 
-Unidades: MV-04, MV-05, MV-06, MV-07 e MV-I02.
+Unidades: MV-08, MV-09, MV-I03, MV-10 e MV-11.
+
+Ao final do Lote 03, fazer auditoria integrada da Parte I antes de avançar para a vida adulta.
 
 ---
 
