@@ -93,8 +93,7 @@ Estado acumulado: 21 unidades V1.
 **Data:** 10/09/2026  
 **Status:** ✓ primeira escrita integrada da Parte II.
 
-### Auditoria
-26 núcleos IDs 21–46 receberam destino explícito antes da prosa.
+26 núcleos receberam destino explícito antes da prosa.
 
 ### Primeira escrita
 - MV-17 — A Cozinha no Fundo do Quintal;
@@ -103,9 +102,6 @@ Estado acumulado: 21 unidades V1.
 - MV-20 — Nove Metros de Tecido;
 - MV-21 — Duas Vozes no Telefone;
 - MV-22 — A Porta Depois da Saída.
-
-### Resultado
-Parte II integrada com 12 unidades V1. A convivência conjugal termina em 2010, mas vigilância, culpa e fragilidade de autonomia permanecem.
 
 Snapshot: `ETAPAS/06_LOTE05_PARTEII_INTEGRADA_2026-09-10.md`.
 
@@ -147,9 +143,6 @@ Matriz E1–E6 criada. Processo, relatório, medida, conciliação e estudo de c
 - MV-30 — Visitas Livres, Portas Fechadas;
 - MV-31 — A Via-Crúcis Institucional.
 
-### Curva
-`teto → conflito de versões → ajuda → Caldas → retorno preparado → Portão → processo → acesso formal sem presença → portas fechadas → peregrinação → investigadora`.
-
 Snapshot: `ETAPAS/08_CERCO_CONTRA_A_MAE_2026-09-10.md`.
 
 Estado acumulado: 37 unidades V1.
@@ -160,62 +153,84 @@ Estado acumulado: 37 unidades V1.
 **Data:** 10/09/2026  
 **Status:** ✓ concluída como primeira escrita + revisão + auditoria integrada da Parte III.
 
-### Auditoria antes da escrita
-Os antigos núcleos `Funcionando`, `A Cadáver que Tomava Café`, `O Amor sem Toque`, `O Purgatório`, `Meu Corpo Chegava Antes de Mim`, `O Óbvio Estava na Sala` e núcleos familiares tardios foram reavaliados por fonte, cena, função e fronteira.
-
-Arquivo: `LOTES/AUDITORIA_ETAPA09_CADAVER_FUNCIONAL.md`.
-
 ### Nova arquitetura executada
 - MV-32 — Funcionando — ● V1;
 - MV-33 — A Cadáver que Tomava Café — ● V1;
 - MV-34 — Meu Corpo Chegava Antes de Mim — ● V1;
 - MV-35 — O Óbvio Estava na Sala — ● V1.
 
-### Curva
-`peregrinação → rotina → funcionamento → ausência interna → café → corpo registrando → evidências se alinhando → óbvio impossível de desver → pergunta`.
-
-### Capítulo-título
-MV-33 foi aprovado como pagamento literário de `A Cadáver que Tomava Café` nesta V1. O café permanece banal e o contraste central é entre capacidade funcional preservada e perda de território de presença/autoria.
-
-### Reservas
-- `O Amor sem Toque` — sem cena autobiográfica concreta suficiente nesta auditoria;
-- `O Purgatório` — mantido prioritariamente no Livro 2;
-- `Quando a Morte Voltou`, `Vinte e Cinco de Dezembro` e `A Casa e o que Não Tinha Nome` — preservados ao Epílogo;
-- Carlos — preservado como vínculo real e imperfeito, sem uso como salvador ou antagonista automático.
-
-### Revisões
-- `LOTES/REVISAO_ETAPA09_CADAVER_FUNCIONAL.md`;
-- `LOTES/AUDITORIA_INTEGRADA_PARTE_III_POS_ETAPA09.md`.
+### Decisões
+- `A Cadáver que Tomava Café` tornou-se capítulo-eixo do funcionamento externo versus ausência interna;
+- `O Amor sem Toque` reservado por falta de cena concreta suficiente;
+- `O Purgatório` preservado prioritariamente para o Livro 2;
+- núcleos de 2025 preservados ao Epílogo.
 
 ### Parte III integrada
-Sequência:
 MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27 → MV-28 → MV-29 → MV-30 → MV-31 → MV-32 → MV-33 → MV-34 → MV-35.
 
-**14 unidades V1 na Parte III.**
+Snapshot: `ETAPAS/09_CADAVER_FUNCIONAL_PARTEIII_INTEGRADA_2026-09-10.md`.
 
-### Estado acumulado
-**41 unidades possuem primeira escrita V1.**
+Estado acumulado: 41 unidades V1.
 
-### Fronteira
-Parte III termina em MV-35 — `O Óbvio Estava na Sala`.
+---
 
-Pergunta de saída:
-**Fiz tudo errado achando que fazia tudo certo?**
+## ETAPA 10 — PARTE IV · ABERTURA DA AUTÓPSIA
+**Data:** 10/09/2026  
+**Status:** ✓ concluída como primeira escrita + auditoria de arquitetura.
 
-A pergunta é sobre consciência e leitura da realidade; não transfere à narradora autoria das violências sofridas.
+### Auditoria do Ato VI legado
+Foi recuperado e auditado o mapa canônico do antigo Ato VI com **6 lotes / 72 núcleos**.
+
+Arquivo: `LOTES/AUDITORIA_ETAPA10_AUTOPSIA_ABERTURA.md`.
+
+### Destino dos seis lotes
+- VI-L1 / A Pergunta no Ônibus → MV-36 / ETAPA 10;
+- VI-L2 / A Verdade que Deixou de Ser Versículo → MV-37 / ETAPA 10;
+- VI-L3 / Matemática do Perdão + Sepultamento → ETAPA 11, clímax protegido;
+- VI-L4 / A Mãe Vira Investigadora → reservado para camada posterior;
+- VI-L5 / A Mulher que Nunca Tinha Vivido → reservado;
+- VI-L6 / Método, Memória, IA e Legado → reservado para fechamento/epílogo/laudo.
+
+### Primeira escrita
+- MV-36 — A Pergunta no Ônibus — ● V1;
+- MV-37 — A Verdade que Deixou de Ser Versículo — ● V1.
+
+### Curva
+`pergunta sem acusação → escuta → voucher → entrada → responsabilidade ouvida como culpa → separação de autorias → João 8:32 → Dois Caminhos como lente → verdade como critério → responsabilidade presente → dívida emocional ainda aberta`.
+
+### Decisões centrais
+1. A Autópsia começa por consciência, não por perdão.
+2. Senhor do story/café e Paulo Bento permanecem pessoas/funções separadas até confirmação.
+3. OSV — O Sentido da Vida não é confundido com Sistema Operacional da Vida.
+4. Responsabilidade não é culpa nem redistribuição da autoria das violências.
+5. Fé permanece complexa e pessoal.
+6. O Quadro dos Dois Caminhos retorna como lente, não causa total.
+7. Conceitos do Livro 2 aparecem apenas como sementes.
+8. Neurociência não é desenvolvida nesta etapa.
+9. Matemática do Perdão, Oripe e Sepultamento não foram antecipados além da ponte final.
+
+### Revisão
+`LOTES/REVISAO_ETAPA10_AUTOPSIA_ABERTURA.md`.
+
+### Mapas
+- `MAPA_PARTE_IV_ATUAL.md`;
+- `MAPA_VISUAL_PARTE_IV_ATUAL.md`.
 
 ### Snapshot
-`ETAPAS/09_CADAVER_FUNCIONAL_PARTEIII_INTEGRADA_2026-09-10.md`.
+`ETAPAS/10_AUTOPSIA_ABERTURA_VERDADE_RESPONSABILIDADE_2026-09-10.md`.
 
 ### Checklist
-`ACOMPANHAMENTO_ETAPA_09.md`.
+`ACOMPANHAMENTO_ETAPA_10.md`.
+
+### Estado acumulado
+**43 unidades possuem primeira escrita V1.**
 
 ### Próxima etapa
-**ETAPA 10 — abertura da Parte IV / A Autópsia da Alma.**
+**ETAPA 11 — Matemática do Perdão + Sepultamento Simbólico.**
 
-Comando: `PROMPTS/ETAPA_10_COMANDO_ATUAL.md`.
+Comando: `PROMPTS/ETAPA_11_COMANDO_ATUAL.md`.
 
-A arquitetura legada do antigo Ato VI deverá ser auditada antes da prosa. Entrada preferencial: `A Pergunta no Ônibus → encontro/café/voucher → OSV/O Sentido da Vida → verdade → responsabilidade sem autoacusação`. Perdão e Sepultamento permanecem protegidos até preparação suficiente.
+A etapa deverá auditar primeiro a cronologia/evento da conta 490, retorno de Oripe e cena do banheiro. O clímax deve permanecer íntimo, crível e não prescritivo.
 
 ---
 
