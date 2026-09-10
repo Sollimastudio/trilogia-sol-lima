@@ -114,8 +114,6 @@ Estado acumulado: 21 unidades em primeira escrita.
 ### Resultado
 Parte II integrada com 12 unidades em V1. A convivência conjugal termina em 2010, mas vigilância, culpa e fragilidade de autonomia permanecem.
 
-Imagem de saída: **a porta está fechada; eu continuo escutando.**
-
 Snapshot: `ETAPAS/06_LOTE05_PARTEII_INTEGRADA_2026-09-10.md`.
 
 Estado acumulado: 27 unidades em primeira escrita.
@@ -126,13 +124,10 @@ Estado acumulado: 27 unidades em primeira escrita.
 **Data:** 10/09/2026  
 **Status:** ✓ concluída como primeira escrita + revisão de arco.
 
-### Auditoria antes da escrita
-O material posterior a 2010 foi dividido em dois mecanismos para impedir fusão causal indevida:
-
+### Auditoria
+O pós-2010 foi dividido em dois mecanismos:
 1. **A Falsa Ressurreição / Chileno** — ETAPA 07;
 2. **O Cerco Contra a Mãe / Portão** — ETAPA 08.
-
-Arquivo: `LOTES/AUDITORIA_POS_2010_ETAPA07.md`.
 
 ### Primeira escrita
 - MV-I05 — Finalmente?;
@@ -142,49 +137,85 @@ Arquivo: `LOTES/AUDITORIA_POS_2010_ETAPA07.md`.
 - MV-26 — Proteger o Corpo, Perder a Narrativa;
 - MV-27 — Depois da Falsa Ressurreição.
 
-### Curva narrativa
-`alívio → liberdade ainda sem repertório → voz que parece reconhecer a ferida → esperança espiritual → chegada → fronteira doméstica rompida → culpa materna → violência corporal → vergonha → proteção de Lelo → versão contra a mãe → colapso → hospital/sedação/exorcismo → discernimento → estratégia → fronteira → saída física → recuperação → narrativa materna permanece`.
-
 ### Decisões centrais
-1. O Chileno entra por cativeiro, ministério e propósito, e não como vilão anunciado.
-2. A autoria das violências do primeiro marido e do Chileno permanece absolutamente separada.
-3. Facebook é contexto, nunca causa da agressão.
-4. A permanência depois da primeira violência não é tratada como consentimento.
-5. A decisão de manter Lelo perto de Mãe-Véia é narrada a partir da intenção protetiva de afastá-lo da violência, sem chamar de abandono ou transferência definitiva.
-6. A versão `trocou o filho por um homem` é narrativa atribuída, não fato.
-7. Hospital, sedação e exorcismo são narrados como experiência/autobiografia, sem diagnóstico e sem transformar a fé em antagonista.
-8. `A bênção do Senhor não acrescenta dores` funciona como discernimento vivido por Sol, não fórmula teológica universal.
-9. A saída para o Chile é estratégia de afastamento em contexto de risco; não se fixa quanto da promessa futura era sincera ou estratégica sem nova confirmação.
-10. Incidente ave/turbina e situação migratória permanecem relatos; não usar `deportação` sem documento.
-11. Venda da casa e cirurgias ocorrem depois da saída do Chileno.
-12. Suspeita patrimonial não é convertida em fraude.
-13. O Portão foi preservado para a ETAPA 08 e não gasto como clímax antecipado.
+- Chileno entra por promessa de libertação/fé/propósito antes da violência;
+- autoria das violências permanece separada do primeiro marido;
+- Lelo perto de Mãe-Véia é narrado a partir da intenção protetiva;
+- hospital/sedação/exorcismo permanecem experiência autobiográfica;
+- saída para o Chile não é chamada de deportação sem documento;
+- venda da casa e cirurgias ficam depois da saída;
+- Portão é preservado para o mecanismo seguinte.
 
-### Revisão
-`LOTES/REVISAO_ETAPA07_PARTEIII_MOVIMENTO_A.md`.
+Snapshot: `ETAPAS/07_PARTEIII_MOVIMENTO_A_FALSA_RESSURREICAO_2026-09-10.md`.
 
-### Mapas
-- `MAPA_PARTE_III_ATUAL.md`;
-- `MAPA_VISUAL_PARTE_III_ATUAL.md`.
+Estado acumulado: 33 unidades em V1.
+
+---
+
+## ETAPA 08 — PARTE III · MOVIMENTO B: O CERCO CONTRA A MÃE
+**Data:** 10/09/2026  
+**Status:** ✓ concluída como primeira escrita + auditoria integrada.
+
+### Matriz de evidência
+Foi criado `LOTES/AUDITORIA_ETAPA08_CERCO_MATERNO.md` com categorias E1–E6.
+
+A busca no acervo não localizou como arquivos primários auditáveis nesta etapa:
+- processo de guarda;
+- relatório da profissional;
+- medida apresentada na escola;
+- ata de conciliação;
+- estudo de caso.
+
+Consequência: os núcleos processuais permaneceram E3 — documento visto/recordado, mas não auditado. Nenhum fato jurídico-processual foi promovido silenciosamente a E4.
+
+### Cirurgia de arquitetura
+Os antigos códigos conceituais MV-28–31 foram substituídos, nesta faixa, pelos quatro movimentos factuais do Cerco. Os conceitos antigos foram deslocados, não apagados, e serão reengenheirados na ETAPA 09/Manuscrito Alfa.
+
+### Primeira escrita
+- MV-28 — Do Teto Definitivo ao Portão — ● V1;
+- MV-29 — O Portão de Papel — ● V1;
+- MV-30 — Visitas Livres, Portas Fechadas — ● V1;
+- MV-31 — A Via-Crúcis Institucional — ● V1.
+
+### Curva
+`teto → conflito de versões → viagem frustrada → ajuda profissional → projeto em Caldas → retorno com chave/trabalho/escola → Portão → documento → processo → acesso formal sem presença → portas fechadas → peregrinação institucional → nascimento da investigadora`.
+
+### Decisões e proteções
+1. Mãe-Véia permanece personagem complexa: acolhimento e conflito coexistem.
+2. Carlos entra depois da casinha; não é namorado da viagem nem Chileno.
+3. Lelo não é antagonista, prova ou confessor jurídico.
+4. Matheus não é advogado da narradora.
+5. Escola/porteiro não recebem imputação de ilegalidade.
+6. Profissional não é acusada de compra/falsificação sem prova.
+7. Participação de Mãe-Véia em material processual permanece memória de leitura até documento auditado.
+8. `alienação parental`, `fraude`, `sequestro`, `falso testemunho` e equivalentes não são usados como fatos sem prova suficiente.
+9. Saúde de Lelo foi reservada por não ser necessária à construção deste arco.
+10. `saquearam minha maternidade` permanece metáfora autoral, não categoria jurídica.
+11. O Portão é construído por preparação material anterior: chave, trabalho, escola e retorno.
+12. A peregrinação termina quando a pergunta começa a mudar de `quem vai resolver?` para `como isso foi construído?`.
+
+### Revisões
+- `LOTES/REVISAO_ETAPA08_CERCO_CONTRA_A_MAE.md`;
+- `LOTES/AUDITORIA_INTEGRADA_PARTE_III.md`.
 
 ### Snapshot
-`ETAPAS/07_PARTEIII_MOVIMENTO_A_FALSA_RESSURREICAO_2026-09-10.md`.
+`ETAPAS/08_CERCO_CONTRA_A_MAE_2026-09-10.md`.
+
+### Checklist
+`ACOMPANHAMENTO_ETAPA_08.md`.
 
 ### Estado acumulado
-**33 unidades possuem primeira escrita V1.**
+**37 unidades possuem primeira escrita V1.**
 
-### Ponte
-A violência física do Chileno termina. A disputa sobre a maternidade não termina.
-
-O mecanismo muda:
-**corpo/casa → narrativa/vínculos/documentos/instituições.**
+### Decisão sobre o capítulo-eixo
+`A Cadáver que Tomava Café` foi transferido para a ETAPA 09. O título agora pode ser pago depois de o leitor ter visto a mãe do lado de fora, o processo, as portas fechadas e a vida continuando.
 
 ### Próxima etapa
-**ETAPA 08 — O Cerco Contra a Mãe.**
+**ETAPA 09 — Funcionando / A Cadáver que Tomava Café.**
 
-Comando detalhado: `PROMPTS/ETAPA_08_COMANDO_ATUAL.md`.
+Comando: `PROMPTS/ETAPA_09_COMANDO_ATUAL.md`.
 
-Antes da prosa, todos os núcleos juridicamente sensíveis deverão receber categoria de evidência E1–E6. O Portão será construído como consequência de um cerco progressivo, não como surpresa desconectada.
+A etapa deve mudar de textura: menos grandes eventos externos; mais rotina, trabalho, café, funcionamento, ausência interna, corpo antecedendo consciência e evidências começando a alinhar-se.
 
 ---
 
