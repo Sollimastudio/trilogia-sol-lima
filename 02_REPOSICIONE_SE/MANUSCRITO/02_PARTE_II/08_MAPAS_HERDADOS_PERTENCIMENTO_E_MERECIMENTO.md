@@ -334,7 +334,7 @@ E mapa operante é Raiz quando ainda sustenta posição hoje.
 
 ## Fé, autoridade e consciência
 
-Quero entrar aqui com cuidado porque fé não é detalhe na minha vida.
+Quero entrar aqui com cuidado porque a fé é uma das lentes assumidas desta obra.
 
 Ela também não vai ser usada como escudo contra pergunta.
 
@@ -352,13 +352,9 @@ Recebemos direção de gente.
 
 O problema começa quando perguntar vira pecado automático, quando contraditório vira deslealdade e quando a consciência própria só serve para confirmar aquilo que já veio pronto.
 
-Eu mesma precisei revisar crenças sem abandonar a fé.
+Neste livro, revisar uma interpretação não será tratado automaticamente como abandonar a fé.
 
-Essa distinção foi importante para mim.
-
-Revisar uma interpretação não é necessariamente romper com Deus.
-
-Às vezes é justamente levar a fé a sério o suficiente para não confundi-la com medo de decepcionar pessoas.
+Uma coisa não equivale à outra.
 
 Não vou desenvolver aqui uma teologia do posicionamento.
 
