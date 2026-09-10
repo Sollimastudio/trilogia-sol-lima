@@ -31,6 +31,12 @@ Versões antigas fora desta pasta são bancos patrimoniais, não governam automa
 - `02_PARTE_II/07_RAIZES_SEU_MODO_OPERANTE.md`
 - `02_PARTE_II/08_MAPAS_HERDADOS_PERTENCIMENTO_E_MERECIMENTO.md`
 
+### Parte III — O Tronco
+- `03_PARTE_III/09_O_TRONCO_O_QUE_VOCE_SUSTENTA_QUANDO_CUSTA.md`
+- `03_PARTE_III/10_SOBERANIA_INTERNA_E_CORPO_SISMOGRAFO.md`
+- `03_PARTE_III/11_O_LIMITE_SAGRADO.md`
+- `03_PARTE_III/12_ACORDOS_CONSCIENTES.md`
+
 As próximas Partes serão acrescentadas em sequência canônica.
 
 ## Estado de produção
@@ -38,7 +44,8 @@ As próximas Partes serão acrescentadas em sequência canônica.
 - ETAPA 02 — arquitetura canônica + Pré-livro + primeiros 10%: concluída.
 - ETAPA 03 — escrita em massa por Partes: ativa.
 - LOTE 01 — Parte II, capítulos 5 a 8: **✓ escrito e revisado; snapshot criado**.
-- LOTE 02 atual — Parte III, capítulos 9 a 12: **próximo lote de produção**.
+- LOTE 02 — Parte III, capítulos 9 a 12: **✓ escrito e revisado; snapshot criado**.
+- LOTE 03 atual — Parte IV — Os Galhos, capítulos 13 a 16: **próximo lote de produção**.
 
 ## Regra de edição
 Antes de alterar qualquer arquivo existente nesta pasta, reler sua versão atual no GitHub. Mudanças relevantes devem ser registradas no histórico/etapa correspondente.
