@@ -22,11 +22,13 @@
 - Snapshot ETAPA 01: `ETAPAS/01_AUDITORIA_INTEGRAL_DO_METODO_2026-09-10.md`.
 - Snapshot ETAPA 02: `ETAPAS/02_ARQUITETURA_PRE_LIVRO_E_10_KINDLE_2026-09-10.md`.
 - Snapshot ETAPA 03 / LOTE 01: `ETAPAS/03_LOTE_01_PARTE_II_SEMENTE_SOLO_RAIZES_2026-09-10.md`.
+- Snapshot ETAPA 03 / LOTE 02: `ETAPAS/03_LOTE_02_PARTE_III_O_TRONCO_2026-09-10.md`.
 - Manuscrito canônico em Markdown: **em produção em `MANUSCRITO/`**.
 - Pré-livro: **escrito em versão canônica alfa**.
 - Parte I — O Despertar: **4 capítulos escritos em versão canônica alfa**.
 - Parte II — Semente, Solo e Raízes: **4 capítulos escritos e revisados como arco único**.
-- Partes III a VII + Epílogo: **ainda por escrever**.
+- Parte III — O Tronco: **4 capítulos escritos e revisados como arco único**.
+- Partes IV a VII + Epílogo: **ainda por escrever**.
 
 ## Etapas concluídas
 
@@ -45,48 +47,58 @@ Resultado:
 ## ETAPA 03 — ESCRITA EM MASSA POR PARTES — ◐ EM PRODUÇÃO
 
 ### LOTE 01 — PARTE II: SEMENTE, SOLO E RAÍZES — ✓ CONCLUÍDO
+Resultado: Semente/Solo/Raízes, Celular Configurado, mapas herdados, pertencimento, merecimento, Lei 5 e ferramentas correlatas escritos e integrados; Parte fechada preparando o Tronco.
+
+### LOTE 02 — PARTE III: O TRONCO — ✓ CONCLUÍDO
 
 Arquivos canônicos:
-- `MANUSCRITO/02_PARTE_II/05_A_MESMA_SEMENTE_SOLOS_DIFERENTES.md`
-- `MANUSCRITO/02_PARTE_II/06_O_SOLO_QUE_TE_RECEBEU.md`
-- `MANUSCRITO/02_PARTE_II/07_RAIZES_SEU_MODO_OPERANTE.md`
-- `MANUSCRITO/02_PARTE_II/08_MAPAS_HERDADOS_PERTENCIMENTO_E_MERECIMENTO.md`
+- `MANUSCRITO/03_PARTE_III/09_O_TRONCO_O_QUE_VOCE_SUSTENTA_QUANDO_CUSTA.md`
+- `MANUSCRITO/03_PARTE_III/10_SOBERANIA_INTERNA_E_CORPO_SISMOGRAFO.md`
+- `MANUSCRITO/03_PARTE_III/11_O_LIMITE_SAGRADO.md`
+- `MANUSCRITO/03_PARTE_III/12_ACORDOS_CONSCIENTES.md`
 
 Resultados do lote:
-1. Semente metodológica consolidada como atitude/decisão/prática, sem falsificar a Parábola do Semeador.
-2. Solo aprofundado como condição de cultivo, origem e contexto atual, sem culpa ou destino.
-3. `Celular Configurado` preservado com trava explícita contra cérebro-software e restauração de fábrica humana.
-4. Raízes consolidadas como modus operandi/mindset e sustentação atual, não sentença de origem.
-5. `Buscar a Lógica` e valor declarado × valor operante incorporados.
-6. Pertencimento e merecimento definidos operacionalmente sem patologização.
-7. Fé e política tratadas sob discernimento, sem invasão do Livro 3 nem propaganda.
-8. Caso-guia Lia avançou como demonstração da Árvore.
-9. Teste da Árvore chamado no ponto correto, mantendo instrumento completo no Workbook.
-10. A Parte termina preparando inevitavelmente o Tronco: compreender a origem não sustenta sozinho uma posição quando existe custo.
+1. Tronco consolidado como valores, identidade praticada, limites e sustentação quando existe custo, sem virar rigidez ou performance.
+2. Lei 7 — **Assuma Sua Responsabilidade** amadurecida como `assuma o que é seu, não tudo`.
+3. `Alinhamento Interno` incorporado como ponte entre valor, conduta, custo, responsabilidade distribuída e ação pequena.
+4. `Corpo-Sismógrafo` consolidado: `Sinal → Contexto → Interpretação → Alternativas → Verificação → Decisão proporcional`.
+5. Regra central preservada: **o corpo oferece sinais. Não vereditos.**
+6. Lei 6 — **Cultive o Silêncio Mental** nasceu sem repressão, misticismo ou performance de calma.
+7. `Limite Sagrado` escrito como contorno e ação sob governabilidade própria, nunca controle da consciência alheia.
+8. Risco, coerção, dependência, ameaça e recursos entram antes de prescrição de confronto.
+9. `Roteiro de Limite Responsável` incorporado.
+10. `Acordos Conscientes` distingue pedido, limite, acordo, exigência e dever e considera possibilidade real de recusa.
+11. Lei 8 — **Cumpra Seu Dever** nasceu sem santificar papel imposto, abuso ou expectativa invisível.
+12. `Ficha do Acordo Consciente` incorporada.
+13. Lia avançou de compreensão para sustentação sem receber diagnóstico.
+14. Material antigo com neurociência simplificada ou regras absolutas de limite foi deliberadamente rejeitado.
+15. A Parte fecha preparando os Galhos: uma pessoa pode sustentar posições diferentes em áreas diferentes.
 
 ## Lote ativo
 
-# ETAPA 03 — LOTE 02 — PARTE III: O TRONCO — CAPÍTULOS 9 A 12
+# ETAPA 03 — LOTE 03 — PARTE IV: OS GALHOS — CAPÍTULOS 13 A 16
 
 Capítulos:
-9. **O Tronco: O que Você Sustenta Quando Custa**
-10. **Soberania Interna e Corpo-Sismógrafo**
-11. **O Limite Sagrado**
-12. **Acordos Conscientes**
+13. **O Mapa dos Galhos**
+14. **Amor, Família e Vínculos**
+15. **Trabalho, Dinheiro, Carreira e Marca Pessoal**
+16. **Fé, Corpo, Redes, Vida Pública e Política**
 
 ### Objetivos do lote
-1. converter entendimento em sustentação observável;
-2. definir Tronco como valores, identidade praticada, limites e eixo sob custo, sem confundir firmeza com rigidez;
-3. amadurecer a Lei 7 — Assuma Sua Responsabilidade sem culpabilização;
-4. desenvolver Corpo-Sismógrafo com a trava `sinal não é veredito`;
-5. fazer nascer a Lei 6 — Cultive o Silêncio Mental sem repressão ou misticismo;
-6. escrever Limite Sagrado como contorno e ação sob governabilidade própria, não controle do outro;
-7. tratar risco, dependência e coerção antes de qualquer prescrição de confronto;
-8. escrever Acordos Conscientes distinguindo pedido, limite, acordo, exigência, dever e possibilidade real de recusa;
-9. fazer nascer a Lei 8 — Cumpra Seu Dever sem santificar papel imposto ou abuso;
-10. avançar Lia da compreensão para sustentação;
-11. fechar a Parte preparando a aplicação do método nos Galhos da vida;
-12. salvar tudo em `MANUSCRITO/03_PARTE_III/`, revisar o arco, atualizar status/histórico e criar snapshot antes do LOTE 03.
+1. demonstrar que um Fruto ou uma competência de um Galho não define a árvore inteira;
+2. ensinar transferência consciente de recursos entre Galhos;
+3. aplicar Tronco, limites e acordos em vínculos sem recontar `Morte em Vida`;
+4. distinguir vínculo, fusão, reciprocidade, dependência, honra, acesso, permanência, proteção e controle;
+5. semear a Lei 13 — Abrace o Desconforto sem romantizar sofrimento;
+6. fazer a segunda leitura do Letreiro de Neon em trabalho, dinheiro, carreira e marca pessoal;
+7. distinguir valor humano, valor comunicado, preço profissional, dever, favor e exploração;
+8. fazer nascer a Lei 9 — Pense a Longo Prazo;
+9. trabalhar fé, corpo, redes, vida pública e política sob simetria e discernimento, sem propaganda partidária;
+10. fazer nascer as Leis 10 — Filtre Suas Influências e 11 — Resista à Manada;
+11. usar Lia apenas quando demonstrar transferência de recurso entre Galhos;
+12. preservar Fuga Identitária apenas como pergunta/semente do Livro 3;
+13. fechar a Parte preparando `PARTE V — PRAGAS, INFLUÊNCIAS E JAULAS`;
+14. salvar tudo em `MANUSCRITO/04_PARTE_IV/`, revisar o arco, atualizar status/histórico/alegações e criar snapshot antes do LOTE 04.
 
 ## Arquivos que governam a escrita
 
