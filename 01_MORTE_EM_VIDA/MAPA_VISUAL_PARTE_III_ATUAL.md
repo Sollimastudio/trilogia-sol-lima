@@ -1,7 +1,8 @@
 # MAPA VISUAL — PARTE III ATUAL
 ## A Cadáver que Tomava Café
 
-**Atualizado:** 10/09/2026
+**Atualizado:** 10/09/2026  
+**Estado:** Parte III concluída em primeira escrita integrada.
 
 ## Movimento A — ETAPA 07 concluída
 ```mermaid
@@ -23,13 +24,13 @@ C --> D[MV-30\nVisitas Livres, Portas Fechadas\n● V1]
 D --> E[MV-31\nA Via-Crúcis Institucional\n● V1]
 ```
 
-## Movimento C — ETAPA 09
+## Movimento C — ETAPA 09 concluída
 ```mermaid
 flowchart LR
-A[MV-31\nInvestigadora nasce] --> B[MV-32\nFuncionando]
-B --> C[MV-33\nA Cadáver que Tomava Café]
-C --> D[MV-34\nMeu Corpo Chegava Antes de Mim]
-D --> E[MV-35\nO Óbvio Estava na Sala]
+A[MV-31\nInvestigadora nasce] --> B[MV-32\nFuncionando\n● V1]
+B --> C[MV-33\nA Cadáver que Tomava Café\n● V1]
+C --> D[MV-34\nMeu Corpo Chegava Antes de Mim\n● V1]
+D --> E[MV-35\nO Óbvio Estava na Sala\n● V1]
 E --> F[PARTE IV\nA Autópsia da Alma]
 ```
 
@@ -47,28 +48,6 @@ H --> I[Impossibilidade de desver]
 I --> J[Pergunta]
 ```
 
-## Construção do Portão — já paga
-```mermaid
-flowchart LR
-A[Casinha / teto] --> B[Escola e rede familiar]
-B --> C[Viagem planejada]
-C --> D[Bicicleta / mudança de decisão]
-D --> E[FÁ-MI-LIA]
-E --> F[Acompanhamento]
-F --> G[Orientação de afastar conflito]
-G --> H[Caldas / trabalho / apartamento]
-H --> I[Chave + vaga escolar]
-I --> J[Retorno]
-J --> K[Portão de ferro]
-K --> L[Documento na secretaria]
-L --> M[Vara / processo]
-M --> N[Portão de papel]
-N --> O[Visitas formalmente livres]
-O --> P[Portas concretas fechadas]
-P --> Q[Peregrinação]
-Q --> R[Investigadora]
-```
-
 ## Três mecanismos da Parte III
 ```mermaid
 flowchart TD
@@ -81,6 +60,16 @@ F --> G[Movimento C]
 G --> H[rotina · funcionamento · ausência]
 H --> I[corpo · evidências · óbvio]
 I --> J[Autópsia]
+```
+
+## Fronteira com a Parte IV
+```mermaid
+flowchart LR
+A[MV-35\nFiz tudo errado achando que fazia tudo certo?] --> B[A Pergunta no Ônibus]
+B --> C[encontro · café · voucher]
+C --> D[OSV / O Sentido da Vida]
+D --> E[verdade · responsabilidade]
+E --> F[perdão · sepultamento]
 ```
 
 ## Reservas conscientes
@@ -102,9 +91,9 @@ E[25/12/2025 e núcleos familiares tardios] --> F[Epílogo]
 - MV-29 — ● V1
 - MV-30 — ● V1
 - MV-31 — ● V1
-- MV-32 — ◑ arquitetura liberada
-- MV-33 — ◑ arquitetura liberada
-- MV-34 — ◑ arquitetura liberada
-- MV-35 — ◑ arquitetura liberada
+- MV-32 — ● V1
+- MV-33 — ● V1
+- MV-34 — ● V1
+- MV-35 — ● V1
 
 **Regra:** a Parte III termina quando a mulher já não consegue tratar os acontecimentos como fatos isolados, mas ainda não realizou a Autópsia completa.
