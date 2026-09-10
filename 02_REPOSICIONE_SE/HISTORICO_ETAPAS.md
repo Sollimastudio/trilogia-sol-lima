@@ -36,5 +36,116 @@ O Livro 2 entrega o método de reposicionamento. Pode usar breves episódios de 
 
 ---
 
+## ETAPA 01 — AUDITORIA INTEGRAL DO MÉTODO
+**Data:** 10/09/2026  
+**Status:** ✓ concluída.
+
+### Estado de entrada
+A ETAPA 00 possuía a tese, o fluxo conceitual, as duas metáforas e as fronteiras corretas, mas ainda não separava com clareza método, ambiente narrativo, leis, comandos, ferramentas, Galhos e travessia. Não existia arquitetura canônica de capítulos, 10% Kindle, mapa de storytellings, mapa de exercícios, mapa visual funcional, dicionário operacional ou registro de alegações.
+
+### Auditoria realizada
+Foram examinados:
+- redundâncias;
+- lacunas;
+- ordem pedagógica;
+- sequência emocional/cognitiva;
+- função de cada bloco;
+- equilíbrio teoria/aplicação;
+- Árvore × Jaula;
+- Lei-mãe e 14 Leis;
+- Sono da Negligência;
+- Sofá Quente da Mentira;
+- Autopiedade × Autocompaixão;
+- pertencimento/merecimento;
+- influência;
+- Fuga Identitária como semente;
+- metacognição;
+- Filtro;
+- cadeia de resultados;
+- evidências;
+- custos;
+- responsabilidade;
+- acordos;
+- limites/luto;
+- Poda;
+- Nova Semente;
+- travessia;
+- sustentação/recaída;
+- novos Frutos;
+- ferramentas e Workbook;
+- imagens;
+- storytellings;
+- primeiros 10% Kindle;
+- fronteiras com os Livros 1 e 3.
+
+### Decisões principais
+1. Árvore do Discernimento / Método Posicione-se é o método central.
+2. A Jaula Estava Aberta é ambiente narrativo, não método concorrente.
+3. `A JAULA ESTÁ ABERTA` passa a existir como comando transversal.
+4. Sofá Quente da Mentira fica dentro da Casa/Jaula; Sono da Negligência pode ser mantido nesse ambiente.
+5. `Semente` opera nesta edição como atitude/decisão/prática por decisão autoral, com distinção explícita do sentido bíblico da Parábola do Semeador.
+6. Raízes passam a ser tratadas explicitamente como modus operandi/mindset atual e fontes de sustentação, não destino.
+7. Fruto é evidência parcial e observável; não identidade nem sentença.
+8. Lei-mãe entra cedo: toda pessoa já ocupa posições.
+9. 14 Leis foram reorganizadas por surgimento pedagógico; `Pratique o Julgamento Próprio` foi refinada para `Exerça Seu Próprio Discernimento`.
+10. Galhos incluem relacionamentos, família, trabalho, dinheiro, carreira, marca pessoal, fé, corpo, redes, vida pública e política.
+11. Filtro da Sensatez é ferramenta canônica subordinada.
+12. Cadeia de resultados foi qualificada por corpo, contexto, hábito, coerção, recursos, risco e opções percebidas.
+13. 14 Tipos permanecem como espelhos contextuais condensados em um capítulo; teste/fichas completas ficam no Workbook.
+14. Sepultamento Simbólico não será exercício genérico do Livro 2.
+15. Sustentação inclui prevenção de reconstrução da Jaula, recaída como dado e revisão pelos novos Frutos.
+16. Epílogo retorna ao Cajueiro de Pirangi.
+
+### Arquitetura de saída
+- Pré-livro;
+- 7 Partes;
+- 28 capítulos;
+- Epílogo `O Cajueiro Ainda Está Lá`.
+
+### Arquivos criados
+- `AUDITORIA_ETAPA_01.md`
+- `BIBLIA_EDITORIAL_REPOSICIONE_SE.md`
+- `DICIONARIO_CANONICO_DO_METODO.md`
+- `LEIS_DO_POSICIONAMENTO.md`
+- `MATRIZ_CAPITULOS_FUNCOES.md`
+- `MAPA_10_PORCENTO_KINDLE.md`
+- `MAPA_STORYTELLINGS.md`
+- `MAPA_EXERCICIOS_TESTES.md`
+- `MAPA_IMAGENS_ILUSTRACOES.md`
+- `REGISTRO_DE_ALEGACOES_E_FONTES.md`
+- `PENDENCIAS_AUTORA.md`
+
+### Arquivos vivos atualizados
+- `MAPA_MAE.md`
+- `MAPA_VISUAL.md`
+- `STATUS.md`
+- `HISTORICO_ETAPAS.md`
+- `PROPOSTAS_PARA_O_UNIVERSO.md`
+
+### Propostas encaminhadas ao Universo Mestre
+Sem editar `00_UNIVERSO_MESTRE/`, foram propostas:
+- propriedade do Sepultamento Simbólico pelo Livro 1;
+- Cajueiro de Pirangi como cena/símbolo proprietário do Livro 2;
+- Letreiro de Neon como patrimônio prioritário do Livro 2;
+- distinção entre `A Jaula Estava Aberta` e comando `A JAULA ESTÁ ABERTA`.
+
+### Pendências
+A arquitetura não fica bloqueada. Permanecem apenas confirmações factuais específicas da autora em `PENDENCIAS_AUTORA.md` e a pesquisa/validação externa futura registrada em `REGISTRO_DE_ALEGACOES_E_FONTES.md`.
+
+### Snapshot
+`ETAPAS/01_AUDITORIA_INTEGRAL_DO_METODO_2026-09-10.md`
+
+### Próxima etapa
+**ETAPA 02 — Arquitetura Canônica + Pré-livro + Primeiros 10%**
+- congelar títulos/microarquitetura;
+- peneirar materiais anteriores;
+- criar manuscrito vivo no repositório;
+- fechar Pré-livro;
+- escrever/fechar a faixa necessária para a degustação Kindle;
+- validar voz, ritmo, segurança, fronteiras e aplicação;
+- criar snapshot antes da escrita em massa das Partes.
+
+---
+
 ## Regra de atualização
 Ao concluir cada novo marco, acrescentar uma nova seção abaixo sem apagar as anteriores.
