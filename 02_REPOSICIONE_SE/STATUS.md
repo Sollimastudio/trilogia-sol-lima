@@ -5,7 +5,7 @@
 - Mapa-mãe: **refinado após auditoria**.
 - Mapa visual: **refinado após auditoria**.
 - Bíblia editorial do Livro 2: **criada**.
-- Dicionário canônico do método: **criado**.
+- Dicionário canônico do método: **atualizado após Parte VI com Cadeia, zonas de governabilidade e 14 Espelhos**.
 - 14 Leis: **organizadas por ordem pedagógica e com migração da lista histórica**.
 - Matriz de 28 capítulos/funções: **criada**.
 - Microarquitetura dos 28 capítulos: **congelada para produção**.
@@ -25,6 +25,7 @@
 - Snapshot ETAPA 03 / LOTE 02: `ETAPAS/03_LOTE_02_PARTE_III_O_TRONCO_2026-09-10.md`.
 - Snapshot ETAPA 03 / LOTE 03: `ETAPAS/03_LOTE_03_PARTE_IV_OS_GALHOS_2026-09-10.md`.
 - Snapshot ETAPA 03 / LOTE 04: `ETAPAS/03_LOTE_04_PARTE_V_PRAGAS_INFLUENCIAS_JAULAS_2026-09-10.md`.
+- Snapshot ETAPA 03 / LOTE 05: `ETAPAS/03_LOTE_05_PARTE_VI_FILTRO_EVIDENCIAS_ESPELHOS_2026-09-10.md`.
 - Manuscrito canônico em Markdown: **em produção em `MANUSCRITO/`**.
 - Pré-livro: **escrito em versão canônica alfa**.
 - Parte I — O Despertar: **4 capítulos escritos em versão canônica alfa**.
@@ -32,7 +33,8 @@
 - Parte III — O Tronco: **4 capítulos escritos e revisados como arco único**.
 - Parte IV — Os Galhos: **4 capítulos escritos e revisados como arco único**.
 - Parte V — Pragas, Influências e Jaulas: **5 capítulos escritos e revisados como arco único**.
-- Partes VI e VII + Epílogo: **ainda por escrever**.
+- Parte VI — Filtro, Evidências e Espelhos: **3 capítulos escritos e revisados como arco único**.
+- Parte VII + Epílogo: **ainda por escrever**.
 
 ## Etapas concluídas
 
@@ -54,66 +56,69 @@ Resultado: Tronco, Alinhamento Interno, Corpo-Sismógrafo, Limite Sagrado, Acord
 Resultado: Galhos, vínculos, trabalho/dinheiro/carreira/marca, fé/corpo/redes/política e Leis 9–11 integrados; Fuga Identitária fortalecida apenas como pergunta e ponte.
 
 ### LOTE 04 — PARTE V: PRAGAS, INFLUÊNCIAS E JAULAS — ✓ CONCLUÍDO
+Resultado: Pragas, Autopiedade × Autocompaixão, Sono, Sofá, influência/autoria, Jaula, barras e Porta Possível escritos; comando `A JAULA ESTÁ ABERTA` consolidado com segurança.
+
+### LOTE 05 — PARTE VI: FILTRO, EVIDÊNCIAS E ESPELHOS — ✓ CONCLUÍDO
 
 Arquivos canônicos:
-- `MANUSCRITO/05_PARTE_V/17_AS_PRAGAS_DA_ARVORE_AUTOPIEDADE_NAO_E_AUTOCOMPAIXAO.md`
-- `MANUSCRITO/05_PARTE_V/18_O_SONO_DA_NEGLIGENCIA.md`
-- `MANUSCRITO/05_PARTE_V/19_O_SOFA_QUENTE_DA_MENTIRA.md`
-- `MANUSCRITO/05_PARTE_V/20_QUEM_ESTA_PENSANDO_POR_VOCE.md`
-- `MANUSCRITO/05_PARTE_V/21_A_JAULA_ESTA_ABERTA.md`
+- `MANUSCRITO/06_PARTE_VI/22_METACOGNICAO_E_FILTRO_DA_SENSATEZ.md`
+- `MANUSCRITO/06_PARTE_VI/23_CADEIA_DE_RESULTADOS_EVIDENCIAS_E_CUSTOS.md`
+- `MANUSCRITO/06_PARTE_VI/24_OS_14_ESPELHOS_DO_POSICIONAMENTO.md`
 
 Resultados do lote:
-1. Pragas consolidadas como mecanismos de drenagem/distorção, nunca pessoas ou diagnósticos.
-2. Autopiedade separada de autocompaixão, dor legítima, limitação, doença, exaustão e necessidade de ajuda.
-3. `Ganhos de permanência` refinado para `o que a posição evita, preserva ou torna previsível no curto prazo`.
-4. Sono da Negligência escrito como o importante que permanece fora da decisão consciente enquanto a vida continua funcionando.
-5. Descanso, prudência, espera estratégica e falta real de informação/recurso/segurança não foram confundidos com negligência.
-6. Lei 2 — **Não Ignore o Óbvio** — amadurecida no Cap. 18.
-7. `Você no Automático` incorporado.
-8. Sofá Quente da Mentira consolidado como função de alívio/familiaridade/narrativa conveniente que pode cobrar custo futuro.
-9. Descanso saudável explicitamente protegido contra confusão com Sofá.
-10. Lei 9 — **Pense a Longo Prazo** — amadurecida no Cap. 19.
-11. `Custo do Sofá` incorporado.
-12. Influência tratada como inevitável; o problema é entrega de governo da consciência, não o fato de aprender com outras pessoas.
-13. Voz que orienta, voz que ocupa e voz que a pessoa chama de sua foram distinguidas.
-14. Leis 10 — **Filtre Suas Influências** e 11 — **Resista à Manada** aprofundadas no Cap. 20.
-15. Repetição digital tratada como familiaridade/acessibilidade possível, nunca controle mental ou crença automática.
-16. Fuga Identitária nomeada com força pela pergunta `essa posição tem minha assinatura ou foi terceirizada?`, com anatomia preservada para o Livro 3.
-17. Jaula consolidada como arquitetura simbólica de permanência/restrição, não método concorrente nem diagnóstico.
-18. Barras internas, relacionais, institucionais e materiais separadas.
-19. Porta Possível desenvolvida por segurança, recurso, rede, risco, coerção, dependência e reversibilidade.
-20. `não quero sair`, `não consigo sair ainda`, `não é seguro sair agora` e `não sabia que havia alternativa` foram distinguidos.
-21. `A JAULA ESTÁ ABERTA` recebeu forma completa: evidência/margem percebida para investigar a permanência; nunca `saia agora` ou prova de consentimento.
-22. Soleira introduzida como transição entre ver a possibilidade e sustentar nova posição.
-23. `Abrace o Desconforto` semeada/qualificada sem romantizar risco ou sofrimento.
-24. `Mapa Jaula / Porta Possível` incorporado.
-25. A Parte fecha exigindo verificação: depois de enxergar a arquitetura, o leitor precisa passar pelo Filtro antes da travessia.
+1. Mirante/metacognição consolidados como observação do próprio processo de leitura, sem promessa de neutralidade ou controle total.
+2. `Filtro da Sensatez™` entregue integralmente com as 12 perguntas oficiais e regra de parada.
+3. Lei 12 — **Exerça Seu Próprio Discernimento** — nasceu no Cap. 22; o nome histórico `Pratique o Julgamento Próprio` permanece registrado apenas como migração.
+4. `Conhecereis a verdade...` foi preservado como lente autoral/teológica, sem promessa de solução automática da vida prática.
+5. `Arte de Ouvir Verdades` foi incorporada como aplicação: conservar dado útil sem aceitar generalização ou violência.
+6. PA-003/Metrôbus continuou não confirmado e **não foi inventado como autobiografia**; o Cap. 22 usa caso hipotético explicitamente identificado.
+7. Cadeia de Resultados consolidada na forma `crenças/valores + emoção + hábito + corpo + contexto + informação + incentivos + risco + coerção + recursos → opções percebidas → decisão/não decisão → consequência → Fruto`.
+8. A Cadeia foi escrita como mapa de participação, não causalidade rígida; `pensamento cria destino` foi recusado.
+9. Quatro zonas de governabilidade incorporadas: sob minha governabilidade, parcialmente influenciável, fora da governabilidade e desconhecido.
+10. Lei 1 — **Observe os Frutos** — retornou como revisão da própria hipótese depois da ação.
+11. Lei 9 — **Pense a Longo Prazo** — retornou dentro da Matriz de Custos.
+12. Matriz de Custos desenvolvida em curto/médio/longo prazo, incluindo custo da mudança e o que não pode ser previsto.
+13. Os 14 Espelhos foram consolidados como modos contextuais em Galho/período, nunca personalidade, diagnóstico ou identidade.
+14. Sete clássicos preservados: Soberano, Vulcão, Névoa, Fantasma, Espelho Partido, Ator e Herdeiro.
+15. Sete amplificados pelo Novo Mundo preservados: Náufrago, Eco, Vitrine, Muro, Espelho, Templo e Camaleão.
+16. `Muro` foi consolidado como rigidez/fechamento ao contraditório; `Espelho` como posição a serviço de autoimagem de superioridade/correção, removendo linguagem diagnóstica antiga.
+17. `Vitrine` como Espelho nº 10 foi diferenciada do conceito geral de Vitrine.
+18. O Soberano não é tratado como Espelho superior e continua sujeito a Filtro, Fruto e revisão.
+19. O Teste dos 14 Espelhos permaneceu no Workbook, com trava explícita contra alegação diagnóstica/psicométrica não demonstrada.
+20. Lei 14 — **Seja Sensata e Inteira** — foi apenas semeada; síntese final permanece no Cap. 28.
+21. Lia passou pelo Filtro, Cadeia e Espelhos sem receber identidade pronta; o recurso transferível continuou no centro.
+22. A Parte fecha transformando reconhecimento em necessidade de intervenção específica: Poda.
 
 ## Lote ativo
 
-# ETAPA 03 — LOTE 05 — PARTE VI: FILTRO, EVIDÊNCIAS E ESPELHOS — CAPÍTULOS 22 A 24
+# ETAPA 03 — LOTE 06 — PARTE VII: PODA, NOVA SEMENTE E FRUTOS — CAPÍTULOS 25 A 28
 
 Capítulos:
-22. **Metacognição e Filtro da Sensatez**
-23. **Cadeia de Resultados, Evidências e Custos**
-24. **Os 14 Espelhos do Posicionamento**
+25. **Responsabilidade, Dever e Visão de Futuro**
+26. **Poda, Limites e Luto**
+27. **Nova Semente, Travessia e Sustentação**
+28. **Novos Frutos: Desça da Árvore e Vá Viver**
 
 ### Objetivos do lote
-1. consolidar Mirante/metacognição como capacidade de observar a própria leitura sem transformar análise em residência;
-2. escrever o `Filtro da Sensatez™` completo com as 12 perguntas oficiais e regra de parada;
-3. fazer nascer a Lei 12 — **Exerça Seu Próprio Discernimento** sem transformar discernimento em licença para confirmar preconceito;
-4. incorporar verdade, evidência, contraditório, simetria, direito/dever/acordo, poder, risco, recurso, custo, reversibilidade e posição possível;
-5. preservar `Conhecereis a verdade...` como lente autoral/teológica sem promessa causal automática;
-6. se a cena Metrôbus continuar sem confirmação factual, usar caso hipotético claramente identificado e não inventar autobiografia;
-7. escrever a Cadeia de Resultados sem cair em `pensamento cria destino`, integrando crenças/valores, emoção, hábito, corpo, contexto, informação, incentivos, risco, coerção, recursos e opções percebidas;
-8. diferenciar governabilidade própria, influência parcial, fora da governabilidade e desconhecido;
-9. aprofundar evidência e custos em curto/médio/longo prazo, fazendo Leis 1 e 9 retornarem com função nova;
-10. escrever os 14 Espelhos como modos contextuais de posicionamento, nunca tipos fixos de pessoa, diagnóstico ou identidade;
-11. preservar sete clássicos + sete amplificados pelo Novo Mundo conforme cânone, com resumo suficiente no livro e teste completo no Workbook;
-12. semear a Lei 14 — **Seja Sensata e Inteira** sem antecipar sua síntese final do Cap. 28;
-13. usar Lia apenas para demonstrar passagem pelo Filtro/Cadeia/Espelho, sem fazê-la saber mais do que já aprendeu;
-14. fechar a Parte preparando `PARTE VII — PODA, NOVA SEMENTE E FRUTOS`;
-15. salvar tudo em `MANUSCRITO/06_PARTE_VI/`, revisar o arco, atualizar status/histórico/alegações e criar snapshot antes do LOTE 06.
+1. transformar conclusão filtrada em esfera real de ação, sem culpa total nem terceirização total;
+2. aprofundar Leis 7 — `Assuma Sua Responsabilidade`, 8 — `Cumpra Seu Dever` e 9 — `Pense a Longo Prazo` no Cap. 25;
+3. formalizar a Lei 13 — **Abrace o Desconforto** dentro de custo, risco e reversibilidade, distinguindo desconforto de perigo e romantização de sofrimento;
+4. incorporar o `Mapa de Responsabilidade Distribuída` — meu / outro / contexto / ainda não sei;
+5. escrever Poda como interrupção específica — comportamento, rotina, acesso, permissão, acordo, interpretação, exposição, prazo, vínculo ou forma do vínculo — e não como ruptura dramática automática;
+6. distinguir Poda gradual e imediata, sempre considerando segurança, dependência, deveres, luto, recursos e o que precisa ser protegido;
+7. preservar Sepultamento Simbólico como patrimônio do Livro 1, sem convertê-lo em exercício genérico;
+8. incorporar `Plano de Poda Responsável`;
+9. escrever Nova Semente como atitude/decisão/prática pequena, executável, observável, apoiada e revisável;
+10. usar planos `se–então` apenas como recurso possível e sem promessa de aderência garantida ou prazo universal de formação de hábito;
+11. tratar recaída/reaparecimento do padrão como dado de cultivo e revisão, não identidade, fracasso total ou retorno automático ao zero;
+12. desenvolver sustentação por ambiente, apoio, revisão e observação dos novos Frutos;
+13. incorporar Nova Semente de 24 horas e checkpoints de 24h/7d/30d sem transformar prazos em promessa científica;
+14. amadurecer a Lei 14 — **Seja Sensata e Inteira** e entregá-la como síntese no Cap. 28;
+15. refazer a `Fotografia de Partida`, comparar evidências e estabelecer revisão 30/60/90 dias como planejamento editorial, não promessa de transformação;
+16. fazer `Desça da Árvore` cumprir sua função final: autoconhecimento não vira residência no Mirante;
+17. preparar o Epílogo `O Cajueiro Ainda Está Lá` sem escrevê-lo antes da ETAPA 04;
+18. terminar o Livro 2 com a pergunta-semente correta para o Livro 3: `quem é o Eu que está escolhendo essa nova posição?`, sem responder à anatomia identitária;
+19. salvar tudo em `MANUSCRITO/07_PARTE_VII/`, revisar a Parte inteira como arco único, atualizar status/histórico/alegações e criar snapshot antes da ETAPA 04.
 
 ## Arquivos que governam a escrita
 
