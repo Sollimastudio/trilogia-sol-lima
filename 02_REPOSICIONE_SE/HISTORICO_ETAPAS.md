@@ -27,12 +27,6 @@ O Livro 2 entrega o método de reposicionamento. Pode usar breves episódios de 
 
 ### Próxima etapa
 **ETAPA 01 — Auditoria integral do método**
-- identificar redundâncias;
-- identificar lacunas;
-- testar sequência pedagógica;
-- definir função de cada bloco/capítulo;
-- mapear storytellings, exercícios, testes e imagens;
-- preservar o fluxo central ou registrar justificadamente qualquer mudança.
 
 ---
 
@@ -115,13 +109,6 @@ Foram examinados:
 - `REGISTRO_DE_ALEGACOES_E_FONTES.md`
 - `PENDENCIAS_AUTORA.md`
 
-### Arquivos vivos atualizados
-- `MAPA_MAE.md`
-- `MAPA_VISUAL.md`
-- `STATUS.md`
-- `HISTORICO_ETAPAS.md`
-- `PROPOSTAS_PARA_O_UNIVERSO.md`
-
 ### Propostas encaminhadas ao Universo Mestre
 Sem editar `00_UNIVERSO_MESTRE/`, foram propostas:
 - propriedade do Sepultamento Simbólico pelo Livro 1;
@@ -129,21 +116,101 @@ Sem editar `00_UNIVERSO_MESTRE/`, foram propostas:
 - Letreiro de Neon como patrimônio prioritário do Livro 2;
 - distinção entre `A Jaula Estava Aberta` e comando `A JAULA ESTÁ ABERTA`.
 
-### Pendências
-A arquitetura não fica bloqueada. Permanecem apenas confirmações factuais específicas da autora em `PENDENCIAS_AUTORA.md` e a pesquisa/validação externa futura registrada em `REGISTRO_DE_ALEGACOES_E_FONTES.md`.
-
 ### Snapshot
 `ETAPAS/01_AUDITORIA_INTEGRAL_DO_METODO_2026-09-10.md`
 
 ### Próxima etapa
 **ETAPA 02 — Arquitetura Canônica + Pré-livro + Primeiros 10%**
-- congelar títulos/microarquitetura;
-- peneirar materiais anteriores;
-- criar manuscrito vivo no repositório;
-- fechar Pré-livro;
-- escrever/fechar a faixa necessária para a degustação Kindle;
-- validar voz, ritmo, segurança, fronteiras e aplicação;
-- criar snapshot antes da escrita em massa das Partes.
+
+---
+
+## ETAPA 02 — ARQUITETURA CANÔNICA + PRÉ-LIVRO + PRIMEIROS 10%
+**Data:** 10/09/2026  
+**Status:** ✓ concluída.
+
+### Estado de entrada
+A arquitetura de 28 capítulos estava recomendada, mas ainda não havia manuscrito canônico no repositório. A abertura existia em versões externas anteriores e precisava ser peneirada sob a nova Bíblia Editorial, com foco especial na degustação Kindle e na fronteira entre voz, biografia e método.
+
+### Mudanças realizadas
+1. Criada `MICROARQUITETURA_28_CAPITULOS.md`, congelando função interna, Leis, ferramentas e ganchos dos 28 capítulos.
+2. Criada a pasta `MANUSCRITO/` como área de prosa canônica viva.
+3. Criado `MANUSCRITO/README.md` com regra de precedência e edição.
+4. Escrito `MANUSCRITO/00_PRE_LIVRO.md`.
+5. Escrita integral da Parte I — O Despertar:
+   - Cap. 1 — A Vitrine da Vida;
+   - Cap. 2 — O Fruto Não Mente;
+   - Cap. 3 — Você Já Está Posicionado;
+   - Cap. 4 — O Automático e a Primeira Subida.
+
+### Decisões aplicadas ao Pré-livro
+- abertura pelo contrato `Deixe seu julgamento na Árvore`;
+- Lei-mãe antes de manualização;
+- ponte curta com `Morte em Vida`;
+- Letreiro de Neon protegido contra culpabilização;
+- `Pelos frutos...` + `Conhecereis a verdade...` como lentes;
+- Parábola do Semeador preservando Semente como palavra/mensagem e declarando a adaptação metodológica posterior;
+- paixão antiga de Sol por árvores;
+- Cajueiro como cena fundadora de `Suba na Árvore`;
+- Casa/Jaula e Sofá como sementes narrativas;
+- `A JAULA ESTÁ ABERTA` com trava de segurança;
+- primeira aplicação antes da Parte I.
+
+### Parte I — entregas pedagógicas
+- Fruto observável;
+- Vitrine/Letreiro;
+- Lei 1 — Observe os Frutos;
+- Lei 2 — Não Ignore o Óbvio;
+- Lei-mãe — toda pessoa já está posicionada;
+- posição ≠ pose/personalidade/caráter/consentimento;
+- responsabilidade distribuída;
+- Lei 3 — Pense Antes de Reagir;
+- Lei 4 — Desligue o Piloto Automático;
+- Mirante;
+- Deixe/Suba/Desça da Árvore;
+- primeira aparição funcional de `A JAULA ESTÁ ABERTA`;
+- caso-guia Lia;
+- checkpoint da Parte I.
+
+### Primeiros 10% Kindle
+A arquitetura da degustação foi aplicada. O material canônico já faz o leitor entrar no método e na Parte I antes de qualquer futura calibração do corte. A porcentagem exata será revisada apenas quando o manuscrito integral tiver contagem final e composição Kindle.
+
+### Conteúdo antigo preservado com nova função
+- Letreiro de Neon;
+- Cajueiro;
+- Vitrine;
+- Fruto/evidência;
+- Semeador;
+- comandos da Árvore;
+- automático;
+- responsabilidade ≠ culpa.
+
+### Conteúdo adiado/evitado na abertura
+- recontagem longa de Morte em Vida;
+- causalidade neurocientífica acima da evidência;
+- Fuga Identitária em profundidade;
+- 14 Leis completas;
+- 14 Tipos;
+- testes longos;
+- convite comercial de curso/Workbook.
+
+### Snapshot
+`ETAPAS/02_ARQUITETURA_PRE_LIVRO_E_10_KINDLE_2026-09-10.md`
+
+### Próxima etapa
+# ETAPA 03 — ESCRITA EM MASSA POR PARTES
+Primeiro lote: **Parte II — Semente, Solo e Raízes — Capítulos 5 a 8.**
+
+---
+
+## ETAPA 03 — ESCRITA EM MASSA POR PARTES
+**Data de abertura:** 10/09/2026  
+**Status:** ◐ em produção.
+
+### Lote 01 autorizado
+Parte II — Capítulos 5 a 8.
+
+### Regra
+Uma Parte por lote. Cada capítulo é salvo separadamente; a Parte é revisada como arco único antes do snapshot. Não reconstruir a arquitetura por preferência estilística.
 
 ---
 
