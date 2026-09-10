@@ -19,34 +19,44 @@
 | Fronteiras com Livros 1 e 2 | ✓ | Não recontar biografia; não repetir método. |
 | Auditoria do legado | ✓ | Camada 11 antiga classificada como reservatório editorial. |
 | Migração dos 24 capítulos | ✓ | Matriz de reaproveitamento criada. |
-| Arquitetura de 24 capítulos | ◑ | Consolidada para produção; pode receber ajustes por evidência de escrita. |
-| Abertura canônica | ◐ | Legado forte disponível; revisão sob a nova ordem da trilogia é o próximo trabalho. |
-| Parte I — O Eu que Aprende a Caber | ◐ | Caps. 1–2 têm legado parcial; Caps. 3–4 exigem escrita nova substancial. |
-| Parte II — Os Espelhos que Respondem por Nós | ◐ | Grande patrimônio legado + novos Caps. 6–7. |
+| Arquitetura de 24 capítulos | ◑ | Consolidada para produção; ajustes futuros só por evidência de escrita. |
+| Manuscrito canônico novo | ● | `MANUSCRITO_CANONICO.md` inaugurado na ETAPA 02. |
+| Abertura canônica | ◉ | Nota da Autora, Nota Conceitual e Introdução escritas e revisadas tecnicamente; aguardam leitura autoral sem bloquear continuidade. |
+| Parte I — O Eu que Aprende a Caber | ◉ | Caps. 1–4 completos, revisados e congelados em snapshot da ETAPA 02; aguardam leitura autoral. |
+| Parte II — Os Espelhos que Respondem por Nós | ◐ | Próxima frente: Caps. 5–8. Legado forte nos Caps. 5 e 8; Caps. 6–7 exigem escrita nova substancial. |
 | Parte III — A Anatomia da Ocupação | ◑ | Forte base legada; precisa condensação para não duplicar `Reposicione-se`. |
 | Parte IV — O Eu Emprestado em Funcionamento | ◐ | Legado relevante + novos eixos Eu automático/sucesso. |
 | Parte V — Quando Fugir de Si Parece Liberdade | ◐ | Material legado forte; hierarquia revisada. |
 | Parte VI — O Retorno da Autoria | ◐ | Legado forte + escrita nova de diferenciação/luto/permanecer em si. |
-| Epílogo | ◐ | Epílogo legado preservado como base; fechamento precisa retirar ponte invertida com Livro 2. |
-| Pesquisa e referências | ◑ | Repositório legado contém base extensa; migrar e atualizar durante escrita. |
-| Figuras | ◑ | 21 figuras legadas disponíveis; reavaliar função sob nova arquitetura. |
-| Manuscrito canônico novo | ⬜ | Será iniciado na ETAPA 02. |
-| Kindle/EPUB/PDF finais | ⬜ | Artefatos antigos servem como referência técnica, não publicação canônica. |
+| Epílogo | ◐ | Epílogo legado preservado como base; fechamento precisa terminar em presença identitária sustentável. |
+| Pesquisa e referências | ◑ | Base extensa no legado; migração/atualização ocorrerá por capítulo. |
+| Figuras | ◑ | 21 figuras legadas disponíveis; função será reavaliada conforme cada parte entrar no cânone. |
+| Kindle/EPUB/PDF finais | ⬜ | Artefatos antigos são referência técnica, não publicação canônica. |
 
-## ETAPA ATIVA
+## ETAPAS
 
-**ETAPA 01 — Auditoria e Consolidação do Legado:** ✓ concluída.
+**ETAPA 00 — Estrutura Base:** ✓ concluída e preservada.  
+**ETAPA 01 — Auditoria e Consolidação do Legado:** ✓ concluída.  
+**ETAPA 02 — Arquitetura Canônica + Abertura + Parte I:** ✓ execução editorial concluída; texto em revisão autoral.
 
-## PRÓXIMA ETAPA
+### Artefatos da ETAPA 02
+- `MANUSCRITO_CANONICO.md`
+- `REGISTRO_EDITORIAL_ETAPA_02.md`
+- `ETAPAS/02_ABERTURA_PARTE_I_2026-09-10.md`
 
-**ETAPA 02 — Arquitetura Canônica + Abertura + Parte I**
+## ETAPA ATIVA / PRÓXIMA
+
+**ETAPA 03 — PARTE II: OS ESPELHOS QUE RESPONDEM POR NÓS**
 
 Entregas obrigatórias:
-1. criar o manuscrito canônico vivo do Livro 3;
-2. revisar Nota da Autora e Nota Conceitual sob a nova trilogia;
-3. escrever/revisar a Introdução;
-4. escrever integralmente os Caps. 1–4;
-5. reutilizar legado sem duplicar `Reposicione-se`;
-6. registrar fontes e pendências;
-7. atualizar STATUS/HISTORICO;
-8. congelar snapshot da etapa antes da ETAPA 03.
+1. reler o manuscrito atual antes de acrescentar texto;
+2. escrever integralmente a abertura da Parte II;
+3. escrever Cap. 5 — `Os primeiros espelhos`;
+4. escrever Cap. 6 — `Pertencer pode custar identidade`;
+5. escrever Cap. 7 — `A terceirização do espelho`;
+6. escrever Cap. 8 — `O eu ideal — algoritmo, audiência e performance`;
+7. migrar pesquisa e casos do legado apenas quando cumprirem função na nova arquitetura;
+8. revisar a continuidade com a Parte I e a fronteira com `Reposicione-se`;
+9. registrar auditoria editorial da etapa;
+10. atualizar STATUS/HISTORICO e congelar snapshot antes da ETAPA 04;
+11. deixar `PROMPT_PROXIMA_ETAPA_04.md` pronto.
