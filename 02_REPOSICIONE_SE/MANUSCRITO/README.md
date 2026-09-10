@@ -55,21 +55,29 @@ Versões antigas fora desta pasta são bancos patrimoniais, não governam automa
 - `06_PARTE_VI/23_CADEIA_DE_RESULTADOS_EVIDENCIAS_E_CUSTOS.md`
 - `06_PARTE_VI/24_OS_14_ESPELHOS_DO_POSICIONAMENTO.md`
 
-As próximas Partes serão acrescentadas em sequência canônica.
+### Parte VII — Poda, Nova Semente e Frutos
+- `07_PARTE_VII/25_RESPONSABILIDADE_DEVER_E_VISAO_DE_FUTURO.md`
+- `07_PARTE_VII/26_PODA_LIMITES_E_LUTO.md`
+- `07_PARTE_VII/27_NOVA_SEMENTE_TRAVESSIA_E_SUSTENTACAO.md`
+- `07_PARTE_VII/28_NOVOS_FRUTOS_DESCA_DA_ARVORE_E_VA_VIVER.md`
+
+### Epílogo
+- `08_EPILOGO_O_CAJUEIRO_AINDA_ESTA_LA.md` — **a escrever na ETAPA 04**.
 
 ## Estado de produção
 - ETAPA 01 — auditoria integral: concluída.
 - ETAPA 02 — arquitetura canônica + Pré-livro + primeiros 10%: concluída.
-- ETAPA 03 — escrita em massa por Partes: ativa.
+- ETAPA 03 — escrita em massa por Partes: **✓ concluída no corpo principal**.
 - LOTE 01 — Parte II, capítulos 5 a 8: **✓ escrito e revisado; snapshot criado**.
 - LOTE 02 — Parte III, capítulos 9 a 12: **✓ escrito e revisado; snapshot criado**.
 - LOTE 03 — Parte IV, capítulos 13 a 16: **✓ escrito e revisado; snapshot criado**.
 - LOTE 04 — Parte V, capítulos 17 a 21: **✓ escrito e revisado; snapshot criado**.
 - LOTE 05 — Parte VI, capítulos 22 a 24: **✓ escrito e revisado; snapshot criado**.
-- LOTE 06 atual — Parte VII — Poda, Nova Semente e Frutos, capítulos 25 a 28: **próximo lote de produção**.
+- LOTE 06 — Parte VII, capítulos 25 a 28: **✓ escrito e revisado; snapshot criado**.
+- ETAPA 04 atual — Epílogo + costura integral do Pré-livro, Partes I–VII e Epílogo: **próxima etapa de produção**.
 
 ## Regra de edição
 Antes de alterar qualquer arquivo existente nesta pasta, reler sua versão atual no GitHub. Mudanças relevantes devem ser registradas no histórico/etapa correspondente.
 
 ## Regra de continuidade
-Ao concluir cada Parte/lote, revisar o arco completo, atualizar `STATUS.md` e `HISTORICO_ETAPAS.md`, criar snapshot quando aplicável e entregar à autora o comando exato da próxima etapa. Não parar em análise quando o lote autoriza escrita integral.
+Ao concluir cada Parte/lote, revisar o arco completo, atualizar `STATUS.md` e `HISTORICO_ETAPAS.md`, criar snapshot quando aplicável e entregar à autora o comando exato da próxima etapa. Não parar em análise quando o escopo autoriza escrita integral.
