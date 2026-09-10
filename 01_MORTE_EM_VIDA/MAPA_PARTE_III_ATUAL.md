@@ -2,108 +2,80 @@
 ## A Cadáver que Tomava Café
 
 **Atualizado:** 10/09/2026  
-**Estado:** Movimento A em primeira escrita e revisão; Movimento B é a próxima frente.
+**Estado:** Movimento A concluído em V1; Movimento B arquitetado e em escrita.
 
-> Este arquivo prevalece, para a Parte III, sobre os títulos antigos de `MAPA_CAPITULOS.md`. O mapa global permanece como histórico da engenharia inicial. A Parte III é refinada pela cronologia real e pela fronteira entre o arco do Chileno e o arco do Portão.
+> Este arquivo prevalece, para a Parte III, sobre os códigos/títulos conceituais antigos de `MAPA_CAPITULOS.md`. O mapa global permanece como histórico. A renumeração limpa será feita no Manuscrito Alfa.
 
 ## Pergunta da Parte III
 **O que acontece quando uma mulher consegue sair, mas ainda não voltou para si?**
 
 ## Missão
-Mostrar que a ruptura externa não desfaz automaticamente:
-- a vigilância interna;
-- a vulnerabilidade espiritual;
-- a necessidade de ser confirmada por alguém de fora;
-- a culpa materna;
-- a dificuldade de reconhecer a própria percepção;
-- a tendência de funcionar mesmo quando a vida interna perde chão.
-
-## Fronteira interna
-### Movimento A — A Falsa Ressurreição — ✓ ETAPA 07
-Recomeço pós-2010, Chileno, violência, tentativa de proteção de Lelo, crise, saída e permanência da disputa narrativa.
-
-### Movimento B — O Cerco Contra a Mãe — ◐ ETAPA 08
-Casinha, influência familiar, acompanhamento, Caldas, relatório/processo/medida, retorno, escola, Portão, limitação de convivência, peregrinação institucional e início da investigação.
+Mostrar que ruptura externa não desfaz automaticamente vigilância interna, culpa materna, dependência de validação externa, fragilidade da própria percepção e funcionamento automático.
 
 ---
 
-# ETAPA 07 — MOVIMENTO A — PRIMEIRA ESCRITA CONCLUÍDA
+# MOVIMENTO A — A FALSA RESSURREIÇÃO — ✓ ETAPA 07
+- MV-I05 — Finalmente? — ● V1
+- MV-23 — A Voz que Conhecia o Cativeiro — ● V1
+- MV-24 — Dois Homens, um Território e os Filhos no Meio — ● V1
+- MV-25 — A Falsa Ressurreição Vira Cativeiro — ● V1
+- MV-26 — Proteger o Corpo, Perder a Narrativa — ● V1
+- MV-27 — Depois da Falsa Ressurreição — ● V1
 
-### MV-I05 — Finalmente? — ● V1
-**Função:** dar ao leitor uma experiência real de alívio após 2010. O silêncio passa a ter espaço. A mulher não está curada, mas pela primeira vez consegue fechar uma porta e perceber que ninguém entra imediatamente para anulá-la.
-
-### MV-23 — A Voz que Conhecia o Cativeiro — ● V1
-**Época:** pós-2010, menos de um ano depois da separação segundo memória.  
-**Função:** contato por telefone/Facebook, espanhol, homem que se apresenta como profeta, promessa de fim do cativeiro e ministério, sensação de ser vista, chegada ao Brasil.  
-**Fecho:** a voz estrangeira atravessa a porta e ocupa o teto.
-
-### MV-24 — Dois Homens, um Território e os Filhos no Meio — ● V1
-**Época:** dia seguinte à chegada.  
-**Função:** pai dos filhos atravessa o portão, confronto, linguagem religiosa, filhos expostos, mãe de Sol introduz medo de morte e rejeição dos filhos, Sol volta ao papel de administrar perigo produzido por adultos.  
-**Fecho:** violência física do Chileno ainda não ocorreu; a casa já perdeu fronteira.
-
-### MV-25 — A Falsa Ressurreição Vira Cativeiro — ● V1
-**Época:** aproximadamente terceiro dia → cerca de seis meses.  
-**Função:** primeira agressão física do Chileno e escalada sem catálogo gráfico; vergonha de viver outra relação violenta depois de sair da primeira; tentativas de saída e decisão de afastar Lelo do ambiente.  
-**Fecho:** proteger Lelo se torna ação concreta.
-
-### MV-26 — Proteger o Corpo, Perder a Narrativa — ● V1
-**Época:** durante/final do período do Chileno.  
-**Função:** Lelo perto de Mãe-Véia como proteção física, surgimento da versão de que Sol teria trocado o filho por um homem, corpo em colapso, casa da mãe, hospital, sedação, exorcismo, olhar de uma amiga e versículo que passa a produzir discernimento.  
-**Fecho:** Sol formula uma estratégia para tirar o Chileno do Brasil.
-
-### MV-27 — Depois da Falsa Ressurreição — ● V1
-**Época:** saída do Chileno e período imediatamente posterior.  
-**Função:** viagem ao Chile, incidente da ave/turbina como memória, tentativa de retorno por linguagem de sinal, limite migratório segundo relato, contato com mãe dele/Polícia Federal, recuperação, venda da casa, cirurgia e permanência da ferida materna.  
-**Fecho:** violência física terminou; maternidade e autoria da própria narrativa continuam sitiadas.
-
-## Revisão da ETAPA 07
-Arquivo: `LOTES/REVISAO_ETAPA07_PARTEIII_MOVIMENTO_A.md`.
-
-### Pontos para Beta
-- condensar listas e reflexões que repetem materiais anteriores;
-- reduzir antecipações do Portão em MV-27 para uma única imagem futura;
-- manter `sossega-leão` como expressão coloquial lembrada, não nome técnico;
-- revisar documentação migratória/Polícia Federal e documentos patrimoniais quando disponíveis;
-- não transformar a versão `trocou o filho por um homem` em fato;
-- revisar autorização/detalhamento de marcas físicas antes da publicação.
+**Fecho do Movimento A:** a violência física termina, mas a narrativa sobre a maternidade continua.
 
 ---
 
-# ETAPA 08 — MOVIMENTO B / PRÓXIMA FRENTE
-Antes da escrita, auditar cronologia, nível de evidência e função narrativa de:
-- casinha de Mãe-Véia como teto sentido como definitivo;
-- Carlos entrando apenas depois da casinha;
-- viagem planejada com outro namorado, não Carlos, e mudança de posição de Lelo;
-- acompanhamento psicológico/psicopedagógico;
-- orientação para afastar Lelo do conflito familiar;
-- Caldas como tentativa de reorganizar vida;
-- período de férias/convivência de Lelo com o pai;
-- retorno com apartamento, trabalho e vaga escolar preparados;
-- relatório/processo/medida ou liminar conforme memória/documentos;
-- escola e Portão;
-- restrição de acesso e leitura do processo;
-- conciliação/guarda/visitas segundo memória;
-- acesso que não se concretiza;
+# MOVIMENTO B — O CERCO CONTRA A MÃE — ETAPA 08
+
+## Regra de evidência
+Toda afirmação sensível obedece `LOTES/AUDITORIA_ETAPA08_CERCO_MATERNO.md` e sua matriz E1–E6.
+
+### MV-28 — Do Teto Definitivo ao Portão — ◑ arquitetura liberada
+**Movimento:** casinha → sensação de teto definitivo → Mãe-Véia/escola/rede familiar → viagem planejada e bicicleta → FÁ-MI-LIA → acompanhamento → orientação profissional → Carlos como apoio à distância → cerca de dez dias em Caldas → chave/apartamento/trabalho/vaga escolar → retorno → Portão → documento mostrado na secretaria.
+
+**Função:** provar que Sol não chega ao Portão sem plano. Ela volta com vida prática preparada e encontra uma barreira que já tinha história antes da chegada dela.
+
+**Regra:** Carlos não é o namorado da viagem; Mãe-Véia não é diagnosticada nem recebe intenção criminosa; escola/porteiro não recebem imputação de ilegalidade.
+
+### MV-29 — O Portão de Papel — ◑ arquitetura liberada
+**Movimento:** escola → Vara de Família → leitura do processo → medida/pré-liminar/pedido de estudo conforme memória → relatório da profissional → alegações atribuídas a Lelo → contexto das verduras → participação de Mãe-Véia segundo leitura de Sol → espera por estudo de caso.
+
+**Função:** mostrar a experiência de encontrar a própria maternidade traduzida para uma linguagem documental à qual Sol chega depois.
+
+**Regra:** todo núcleo processual é E3 até documento primário auditado. Não afirmar falsificação, fraude, crime, dolo ou mentira consciente.
+
+### MV-30 — Visitas Livres, Portas Fechadas — ◑ arquitetura liberada
+**Movimento:** conciliação → guarda permanece com pai segundo memória → medida retirada → visitas lembradas como livres → esperança → encontros não se materializam como esperado → porta da casa → `O que você quer?` → falas posteriores tratadas como memória, não confissão jurídica.
+
+**Função:** contrapor linguagem formal de acesso à experiência concreta de distância.
+
+**Regra:** Lelo permanece filho/criança; não adversário. Não afirmar descumprimento do acordo sem documento.
+
+### MV-31 — A Via-Crúcis Institucional — ◑ arquitetura liberada
+**Movimento:** Ministério Público → promotor → advogado → Conselho Tutelar → espera → vida estagnada → Goiânia com Matheus → tratamentos/crises sem inventar clínica → Defensoria → Delegacia da Mulher → expressão autoral `saquearam minha maternidade` → palestras → atividades chamadas constelação parental → convivência com outras mulheres → reunir cenas/documentos/contradições → nasce a investigadora.
+
+**Função:** encerrar o Cerco Contra a Mãe quando a pergunta deixa de ser apenas “quem vai me devolver meu filho?” e começa a virar “como isso foi construído?”.
+
+---
+
+# DECISÃO SOBRE O CAPÍTULO-EIXO
+## A Cadáver que Tomava Café
+O antigo código MV-29 não governa mais a obra.
+
+O capítulo-eixo **não será escrito antes do Portão**. Ele passa para a **ETAPA 09**, quando o leitor já terá visto:
+- maternidade inacessível;
+- documentos e versões;
+- portas concretas/formais;
 - peregrinação institucional;
-- início da mãe-investigadora.
+- uma mulher que continua trabalhando, andando, respondendo e tomando café apesar de uma ausência central.
 
-## Símbolos principais da Parte III
-- porta fechada;
-- telefone;
-- palavra `cativeiro`;
-- portão da casa;
-- corpo/gravata;
-- duas casas próximas;
-- seringa e olhos da amiga;
-- fronteira Chile/Brasil;
-- casa vendida;
-- corpo operado;
-- Portão da escola — ETAPA 08;
-- café — cresce até o capítulo-eixo da cadáver funcional.
+Os antigos títulos conceituais `Funcionando`, `A Cadáver que Tomava Café`, `O Amor sem Toque` e `O Purgatório` ficam preservados para reengenharia da ETAPA 09. Não foram descartados.
+
+## Curva da Parte III até aqui
+`saída → silêncio novo → promessa de resgate → novo cativeiro → proteção do filho → perda de autoria narrativa → saída do agressor → teto → conflito de versões → tentativa de ajuda → plano concreto → retorno → Portão → Portão de Papel → acesso formal sem presença → peregrinação → investigação`.
 
 ## Regra de voz
-A Parte III não pergunta “por que ela escolheu homens errados?”. Pergunta:
-**por que a liberdade externa ainda encontrava dentro dela tão pouco repertório para ser habitada?**
+**vivi → percebi → compreendi**.
 
-A escrita segue: `vivi → percebi → compreendi`.
+O Portão é vivido antes de explicado. A Autópsia completa continua reservada à Parte IV.
