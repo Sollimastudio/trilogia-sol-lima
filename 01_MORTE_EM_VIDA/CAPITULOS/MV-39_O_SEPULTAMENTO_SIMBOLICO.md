@@ -1,9 +1,9 @@
 # MV-39 — O Sepultamento Simbólico
 
-**Status:** ● primeira escrita  
+**Status:** ● primeira escrita revisada  
 **Parte:** IV — A Autópsia da Alma  
 **Movimento:** E — Clímax da dívida  
-**Versão:** V1 — 10/09/2026
+**Versão:** V1.1 — 10/09/2026
 
 ## Controle editorial
 **Função:** pagar o arco berço/caixão ao separar simbolicamente a morte de Oripe da vida da narradora.  
@@ -14,7 +14,7 @@
 
 ---
 
-## TEXTO LITERÁRIO — V1
+## TEXTO LITERÁRIO — V1.1
 
 Oripe nunca me cobrou nada.
 
@@ -414,19 +414,7 @@ A porta continuava fechada.
 
 Do lado de fora, o evento continuava.
 
-A vida não interrompeu a programação porque uma mulher tinha acabado de separar o próprio nascimento de uma morte de quase quarenta anos antes.
-
-Talvez esse seja o detalhe de que mais gosto quando lembro.
-
-Nada parou.
-
-Não houve anúncio.
-
-Ninguém entrou para perguntar se eu havia renascido.
-
-Não houve aplauso.
-
-Ainda existiam corredores.
+Corredores.
 
 Pessoas.
 
@@ -434,124 +422,46 @@ Tarefas.
 
 Horários.
 
-Meu corpo ainda era meu corpo.
+Nenhuma delas sabia que alguma coisa tinha acabado ali dentro.
 
-Minha história continuava sendo minha história.
+Ainda bem.
 
-Lelo não apareceu magicamente do outro lado da porta.
+Eu não precisava de testemunha.
 
-O passado não devolveu meus anos.
+Não precisava transformar a decisão em espetáculo para torná-la verdadeira.
 
-As pessoas que me feriram não se transformaram.
+Fiquei mais um pouco.
 
-Nenhum documento mudou de conteúdo.
+Não sei quanto.
 
-Nenhuma relação quebrada foi consertada pela força de um símbolo.
+Depois abri a porta.
 
-Eu não saí dali curada de tudo.
+O corredor era o mesmo.
 
-Saí sem uma obrigação específica.
+Eu não tinha recebido de volta os anos.
 
-Pode parecer pouco.
+Lelo não estava me esperando do lado de fora.
 
-Não era.
+Nenhum documento havia mudado.
 
-Há pesos que, quando saem, não fazem barulho porque já estavam incorporados à postura.
+Nenhuma pessoa que me feriu tinha se transformado.
 
-Você só percebe quando endireita o corpo.
+Meu corpo continuava carregando a história que carregava.
 
-A história de Oripe continuava verdadeira.
+Eu também.
 
-Ele continuava morto.
+Só não carregava aquela dívida do mesmo jeito.
 
-Eu continuava nascida no mesmo dia.
+Saí do banheiro sem anúncio.
 
-Minha mãe continuava tendo perdido o irmão.
+Sem cura total.
 
-Mãe-Véia continuava tendo perdido o filho.
+Sem final feliz.
 
-Nada disso precisava ser negado para que outra verdade finalmente coubesse:
+Sem precisar provar nada.
 
-**eu também tinha direito à minha vida.**
+Eu não saí ressuscitada.
 
-Não precisei apagar ninguém para existir.
+Saí viva.
 
-Essa era a novidade.
-
-Durante muito tempo, minha ideia de liberdade dependia de alguém sair.
-
-O marido sair.
-
-O Chileno sair.
-
-A ameaça sair.
-
-O processo mudar.
-
-O portão abrir.
-
-A versão cair.
-
-Naquele banheiro, pela primeira vez, uma libertação importante não dependia do movimento de outra pessoa.
-
-Dependia de eu parar de ocupar um lugar que nunca tinha sido meu.
-
-Eu tinha passado anos perguntando por que ninguém me devolvia a vida.
-
-Ali percebi uma parte mais incômoda e mais poderosa:
-
-havia lugares dos quais ninguém poderia me retirar porque ninguém, além de mim, poderia sair deles por mim.
-
-O caixão simbólico era um desses lugares.
-
-Não porque eu o tivesse escolhido conscientemente.
-
-Mas porque agora conseguia vê-lo.
-
-E, depois de enxergar, eu podia sair.
-
-Foi isso que fiz.
-
-Abri a porta.
-
-Voltei para o corredor.
-
-Essa talvez seja a imagem mais correta do meu renascimento — se eu precisar usar essa palavra.
-
-Não uma mulher vestida de branco sob uma luz extraordinária.
-
-Uma mulher saindo de um banheiro e voltando para o mundo.
-
-Ainda imperfeita.
-
-Ainda cansada.
-
-Ainda com perguntas.
-
-Ainda mãe de uma história que não tinha final feliz pronto.
-
-Ainda filha.
-
-Ainda mulher.
-
-Ainda com um corpo que carregava anos de tensão.
-
-Só que uma coisa havia mudado de endereço.
-
-A morte de Oripe não morava mais dentro do meu direito de existir.
-
-Eu não sabia ainda tudo o que faria com essa liberdade.
-
-Não sabia os estudos que viriam.
-
-Não sabia que começaria a organizar padrões, comportamento, corpo, fé, vínculo e escolhas.
-
-Não sabia que minhas experiências dariam origem a linguagem, projetos e métodos.
-
-Não sabia que um dia escreveria esta cena tentando impedir que ela virasse espetáculo.
-
-Eu só sabia que tinha saído do banheiro.
-
-E que, pela primeira vez, o corredor não parecia continuação de um velório.
-
-Era apenas caminho.
+Naquele momento, era suficiente.
