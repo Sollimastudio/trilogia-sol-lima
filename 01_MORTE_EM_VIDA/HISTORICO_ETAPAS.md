@@ -49,7 +49,7 @@ Snapshot: `ETAPAS/03_LOTE02_CORPO_SILENCIO_IMAGINACAO_2026-09-10.md`
 **Data:** 10/09/2026  
 **Status:** ✓ primeira escrita integrada.
 
-### Primeira escrita do lote
+### Primeira escrita
 - MV-08 — Primeira da Classe / Estrela Vermelha;
 - MV-09 — O Homem dos Picolés;
 - MV-10 — Quando a Água Quase Levou;
@@ -62,7 +62,7 @@ Snapshot: `ETAPAS/03_LOTE02_CORPO_SILENCIO_IMAGINACAO_2026-09-10.md`
 
 Reino das Galinhas foi preservado em `RESERVAS/`.
 
-Estado acumulado: 15 unidades em primeira escrita.
+Estado acumulado: 15 unidades V1.
 
 Snapshot: `ETAPAS/04_LOTE03_E_PARTEI_INTEGRADA_2026-09-10.md`
 
@@ -73,7 +73,7 @@ Snapshot: `ETAPAS/04_LOTE03_E_PARTEI_INTEGRADA_2026-09-10.md`
 **Status:** ✓ primeira escrita + revisão de lote.
 
 ### Auditoria cronológica
-A ordem conceitual antiga foi corrigida pela cronologia. Maternidade foi retirada do Lote 04 para não comprimir 1994–1997.
+A ordem conceitual antiga foi corrigida pela cronologia. Maternidade foi retirada do lote para não comprimir 1994–1997.
 
 ### Primeira escrita
 - MV-12 — Ele Não Me Pediu Namoro;
@@ -83,10 +83,9 @@ A ordem conceitual antiga foi corrigida pela cronologia. Maternidade foi retirad
 - MV-15 — Emancipada Para o Altar;
 - MV-16 — Quatro Cômodos sem Casa.
 
-### Snapshot
-`ETAPAS/05_LOTE04_ENTRADA_PAPEIS_ADULTOS_2026-09-10.md`.
+Snapshot: `ETAPAS/05_LOTE04_ENTRADA_PAPEIS_ADULTOS_2026-09-10.md`.
 
-Estado acumulado: 21 unidades em primeira escrita.
+Estado acumulado: 21 unidades V1.
 
 ---
 
@@ -95,13 +94,7 @@ Estado acumulado: 21 unidades em primeira escrita.
 **Status:** ✓ primeira escrita integrada da Parte II.
 
 ### Auditoria
-26 núcleos IDs 21–46 receberam destino explícito:
-- 21–28 → MV-17;
-- 29–33 → MV-18;
-- 34–37 → MV-19;
-- 38–39 → MV-20;
-- 40–43 → MV-21;
-- 44–46 → MV-22.
+26 núcleos IDs 21–46 receberam destino explícito antes da prosa.
 
 ### Primeira escrita
 - MV-17 — A Cozinha no Fundo do Quintal;
@@ -112,22 +105,17 @@ Estado acumulado: 21 unidades em primeira escrita.
 - MV-22 — A Porta Depois da Saída.
 
 ### Resultado
-Parte II integrada com 12 unidades em V1. A convivência conjugal termina em 2010, mas vigilância, culpa e fragilidade de autonomia permanecem.
+Parte II integrada com 12 unidades V1. A convivência conjugal termina em 2010, mas vigilância, culpa e fragilidade de autonomia permanecem.
 
 Snapshot: `ETAPAS/06_LOTE05_PARTEII_INTEGRADA_2026-09-10.md`.
 
-Estado acumulado: 27 unidades em primeira escrita.
+Estado acumulado: 27 unidades V1.
 
 ---
 
 ## ETAPA 07 — PARTE III · MOVIMENTO A: A FALSA RESSURREIÇÃO
 **Data:** 10/09/2026  
 **Status:** ✓ concluída como primeira escrita + revisão de arco.
-
-### Auditoria
-O pós-2010 foi dividido em dois mecanismos:
-1. **A Falsa Ressurreição / Chileno** — ETAPA 07;
-2. **O Cerco Contra a Mãe / Portão** — ETAPA 08.
 
 ### Primeira escrita
 - MV-I05 — Finalmente?;
@@ -137,18 +125,12 @@ O pós-2010 foi dividido em dois mecanismos:
 - MV-26 — Proteger o Corpo, Perder a Narrativa;
 - MV-27 — Depois da Falsa Ressurreição.
 
-### Decisões centrais
-- Chileno entra por promessa de libertação/fé/propósito antes da violência;
-- autoria das violências permanece separada do primeiro marido;
-- Lelo perto de Mãe-Véia é narrado a partir da intenção protetiva;
-- hospital/sedação/exorcismo permanecem experiência autobiográfica;
-- saída para o Chile não é chamada de deportação sem documento;
-- venda da casa e cirurgias ficam depois da saída;
-- Portão é preservado para o mecanismo seguinte.
+### Decisão central
+O pós-2010 foi dividido em dois mecanismos: violência corporal/doméstica do Chileno e, depois, cerco materno por versões/vínculos/documentos. O Portão foi preservado para a etapa seguinte.
 
 Snapshot: `ETAPAS/07_PARTEIII_MOVIMENTO_A_FALSA_RESSURREICAO_2026-09-10.md`.
 
-Estado acumulado: 33 unidades em V1.
+Estado acumulado: 33 unidades V1.
 
 ---
 
@@ -156,66 +138,84 @@ Estado acumulado: 33 unidades em V1.
 **Data:** 10/09/2026  
 **Status:** ✓ concluída como primeira escrita + auditoria integrada.
 
-### Matriz de evidência
-Foi criado `LOTES/AUDITORIA_ETAPA08_CERCO_MATERNO.md` com categorias E1–E6.
-
-A busca no acervo não localizou como arquivos primários auditáveis nesta etapa:
-- processo de guarda;
-- relatório da profissional;
-- medida apresentada na escola;
-- ata de conciliação;
-- estudo de caso.
-
-Consequência: os núcleos processuais permaneceram E3 — documento visto/recordado, mas não auditado. Nenhum fato jurídico-processual foi promovido silenciosamente a E4.
-
-### Cirurgia de arquitetura
-Os antigos códigos conceituais MV-28–31 foram substituídos, nesta faixa, pelos quatro movimentos factuais do Cerco. Os conceitos antigos foram deslocados, não apagados, e serão reengenheirados na ETAPA 09/Manuscrito Alfa.
+### Evidência
+Matriz E1–E6 criada. Processo, relatório, medida, conciliação e estudo de caso não foram localizados como documentos primários auditáveis nesta etapa; núcleos processuais permaneceram predominantemente E3.
 
 ### Primeira escrita
-- MV-28 — Do Teto Definitivo ao Portão — ● V1;
-- MV-29 — O Portão de Papel — ● V1;
-- MV-30 — Visitas Livres, Portas Fechadas — ● V1;
-- MV-31 — A Via-Crúcis Institucional — ● V1.
+- MV-28 — Do Teto Definitivo ao Portão;
+- MV-29 — O Portão de Papel;
+- MV-30 — Visitas Livres, Portas Fechadas;
+- MV-31 — A Via-Crúcis Institucional.
 
 ### Curva
-`teto → conflito de versões → viagem frustrada → ajuda profissional → projeto em Caldas → retorno com chave/trabalho/escola → Portão → documento → processo → acesso formal sem presença → portas fechadas → peregrinação institucional → nascimento da investigadora`.
+`teto → conflito de versões → ajuda → Caldas → retorno preparado → Portão → processo → acesso formal sem presença → portas fechadas → peregrinação → investigadora`.
 
-### Decisões e proteções
-1. Mãe-Véia permanece personagem complexa: acolhimento e conflito coexistem.
-2. Carlos entra depois da casinha; não é namorado da viagem nem Chileno.
-3. Lelo não é antagonista, prova ou confessor jurídico.
-4. Matheus não é advogado da narradora.
-5. Escola/porteiro não recebem imputação de ilegalidade.
-6. Profissional não é acusada de compra/falsificação sem prova.
-7. Participação de Mãe-Véia em material processual permanece memória de leitura até documento auditado.
-8. `alienação parental`, `fraude`, `sequestro`, `falso testemunho` e equivalentes não são usados como fatos sem prova suficiente.
-9. Saúde de Lelo foi reservada por não ser necessária à construção deste arco.
-10. `saquearam minha maternidade` permanece metáfora autoral, não categoria jurídica.
-11. O Portão é construído por preparação material anterior: chave, trabalho, escola e retorno.
-12. A peregrinação termina quando a pergunta começa a mudar de `quem vai resolver?` para `como isso foi construído?`.
+Snapshot: `ETAPAS/08_CERCO_CONTRA_A_MAE_2026-09-10.md`.
+
+Estado acumulado: 37 unidades V1.
+
+---
+
+## ETAPA 09 — PARTE III · MOVIMENTO C: A VIDA QUE CONTINUOU
+**Data:** 10/09/2026  
+**Status:** ✓ concluída como primeira escrita + revisão + auditoria integrada da Parte III.
+
+### Auditoria antes da escrita
+Os antigos núcleos `Funcionando`, `A Cadáver que Tomava Café`, `O Amor sem Toque`, `O Purgatório`, `Meu Corpo Chegava Antes de Mim`, `O Óbvio Estava na Sala` e núcleos familiares tardios foram reavaliados por fonte, cena, função e fronteira.
+
+Arquivo: `LOTES/AUDITORIA_ETAPA09_CADAVER_FUNCIONAL.md`.
+
+### Nova arquitetura executada
+- MV-32 — Funcionando — ● V1;
+- MV-33 — A Cadáver que Tomava Café — ● V1;
+- MV-34 — Meu Corpo Chegava Antes de Mim — ● V1;
+- MV-35 — O Óbvio Estava na Sala — ● V1.
+
+### Curva
+`peregrinação → rotina → funcionamento → ausência interna → café → corpo registrando → evidências se alinhando → óbvio impossível de desver → pergunta`.
+
+### Capítulo-título
+MV-33 foi aprovado como pagamento literário de `A Cadáver que Tomava Café` nesta V1. O café permanece banal e o contraste central é entre capacidade funcional preservada e perda de território de presença/autoria.
+
+### Reservas
+- `O Amor sem Toque` — sem cena autobiográfica concreta suficiente nesta auditoria;
+- `O Purgatório` — mantido prioritariamente no Livro 2;
+- `Quando a Morte Voltou`, `Vinte e Cinco de Dezembro` e `A Casa e o que Não Tinha Nome` — preservados ao Epílogo;
+- Carlos — preservado como vínculo real e imperfeito, sem uso como salvador ou antagonista automático.
 
 ### Revisões
-- `LOTES/REVISAO_ETAPA08_CERCO_CONTRA_A_MAE.md`;
-- `LOTES/AUDITORIA_INTEGRADA_PARTE_III.md`.
+- `LOTES/REVISAO_ETAPA09_CADAVER_FUNCIONAL.md`;
+- `LOTES/AUDITORIA_INTEGRADA_PARTE_III_POS_ETAPA09.md`.
 
-### Snapshot
-`ETAPAS/08_CERCO_CONTRA_A_MAE_2026-09-10.md`.
+### Parte III integrada
+Sequência:
+MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27 → MV-28 → MV-29 → MV-30 → MV-31 → MV-32 → MV-33 → MV-34 → MV-35.
 
-### Checklist
-`ACOMPANHAMENTO_ETAPA_08.md`.
+**14 unidades V1 na Parte III.**
 
 ### Estado acumulado
-**37 unidades possuem primeira escrita V1.**
+**41 unidades possuem primeira escrita V1.**
 
-### Decisão sobre o capítulo-eixo
-`A Cadáver que Tomava Café` foi transferido para a ETAPA 09. O título agora pode ser pago depois de o leitor ter visto a mãe do lado de fora, o processo, as portas fechadas e a vida continuando.
+### Fronteira
+Parte III termina em MV-35 — `O Óbvio Estava na Sala`.
+
+Pergunta de saída:
+**Fiz tudo errado achando que fazia tudo certo?**
+
+A pergunta é sobre consciência e leitura da realidade; não transfere à narradora autoria das violências sofridas.
+
+### Snapshot
+`ETAPAS/09_CADAVER_FUNCIONAL_PARTEIII_INTEGRADA_2026-09-10.md`.
+
+### Checklist
+`ACOMPANHAMENTO_ETAPA_09.md`.
 
 ### Próxima etapa
-**ETAPA 09 — Funcionando / A Cadáver que Tomava Café.**
+**ETAPA 10 — abertura da Parte IV / A Autópsia da Alma.**
 
-Comando: `PROMPTS/ETAPA_09_COMANDO_ATUAL.md`.
+Comando: `PROMPTS/ETAPA_10_COMANDO_ATUAL.md`.
 
-A etapa deve mudar de textura: menos grandes eventos externos; mais rotina, trabalho, café, funcionamento, ausência interna, corpo antecedendo consciência e evidências começando a alinhar-se.
+A arquitetura legada do antigo Ato VI deverá ser auditada antes da prosa. Entrada preferencial: `A Pergunta no Ônibus → encontro/café/voucher → OSV/O Sentido da Vida → verdade → responsabilidade sem autoacusação`. Perdão e Sepultamento permanecem protegidos até preparação suficiente.
 
 ---
 
