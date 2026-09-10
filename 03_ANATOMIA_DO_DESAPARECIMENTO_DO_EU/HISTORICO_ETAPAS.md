@@ -55,3 +55,66 @@
 **ETAPA 02 — Arquitetura Canônica + Abertura + Parte I.**
 
 **Estado:** ✓ concluída.
+
+---
+
+## ETAPA 02 — ARQUITETURA CANÔNICA + ABERTURA + PARTE I
+**Data:** 10/09/2026  
+**Estado de entrada:** arquitetura de 24 capítulos consolidada; Camada 11 antiga disponível como reservatório; nenhum manuscrito novo ainda existia no repositório-mãe.
+
+### Trabalho realizado
+- inaugurado `MANUSCRITO_CANONICO.md` como arquivo vivo do Livro 3;
+- revisada e reescrita a Nota da Autora para a posição correta na trilogia;
+- revisada e ampliada a Nota Conceitual de Fuga Identitária;
+- escrita nova Introdução — `Quem ficou no lugar quando você saiu de si?`;
+- escrita abertura da Parte I — `O Eu que Aprende a Caber`;
+- escrito integralmente Cap. 1 — `O Eu debaixo dos papéis`;
+- escrito integralmente Cap. 2 — `Adaptar-se não é desaparecer`;
+- escrito integralmente Cap. 3 — `Identidades de sobrevivência`;
+- escrito integralmente Cap. 4 — `Quando funcionar substitui existir`;
+- criada transição orgânica para a Parte II;
+- realizado reaproveitamento seletivo do legado sem copiar sua arquitetura antiga;
+- registrada auditoria em `REGISTRO_EDITORIAL_ETAPA_02.md`;
+- congelado snapshot integral do manuscrito em `ETAPAS/02_ABERTURA_PARTE_I_2026-09-10.md`.
+
+### Decisões principais
+1. O Livro 3 começa no Eu e nos papéis, não nos fenômenos sociais.
+2. Papel não é máscara por definição; o problema é ocupação total.
+3. Adaptação não é desaparecimento; o critério é conservar caminho de volta à referência interna.
+4. `Identidade de sobrevivência` é conceito autoral/educativo e não diagnóstico.
+5. Versões antigas podem conter virtudes e capacidades reais; não serão humilhadas como falsas.
+6. Funcionamento externo não prova presença interna.
+7. A imagem `A Cadáver que Tomava Café` entra apenas como eco autoral breve, sem recontar `Morte em Vida`.
+8. O texto não reconstrói o método de `Reposicione-se`; recebe suas ferramentas como patrimônio anterior.
+9. Fenômenos culturais e grupos continuam adiados para depois que o leitor já reconheceu o mecanismo em experiências humanas comuns.
+
+### Linhas de força consolidadas
+- `Agradecer não significa obedecer para sempre.`
+- `Talvez eu seja mais do que tudo o que preciso continuar sendo para os outros.`
+- `Eu não preciso humilhar a versão que me protegeu para admitir que ela já não pode dirigir minha vida.`
+- `Obedecer automaticamente e desobedecer automaticamente compartilham uma coisa: em ambos, o outro decide primeiro.`
+- `Aplauso mede aplauso. Não mede inteireza.`
+- `Esta vida funciona. Eu também estou nela?`
+
+### Auditoria de continuidade
+- Livro 1: fronteira preservada; nenhuma cena biográfica integral foi recontada.
+- Livro 2: fronteira preservada; Árvore, Jaula, Leis, Filtro e demais mecanismos do método não foram reensinados.
+- Livro 3: identidade própria fortalecida por papéis, sobrevivência e funcionamento sem presença.
+- Risco para a próxima etapa: abstração excessiva. Manter cenas, vinhetas e casos compostos.
+
+### Arquivos do marco
+- `MANUSCRITO_CANONICO.md`
+- `REGISTRO_EDITORIAL_ETAPA_02.md`
+- `ETAPAS/02_ABERTURA_PARTE_I_2026-09-10.md`
+- `STATUS.md`
+
+### Pendências não bloqueantes
+- título/subtítulo final ainda aberto;
+- revisão autoral de Sol da abertura e Parte I;
+- calibrar futuramente a frequência de referências aos livros anteriores;
+- revisar figuras somente conforme os capítulos correspondentes forem consolidados.
+
+### Próxima etapa
+**ETAPA 03 — Parte II: Os Espelhos que Respondem por Nós — capítulos 5 a 8.**
+
+**Estado:** ✓ execução editorial concluída; texto do marco permanece em revisão autoral.
