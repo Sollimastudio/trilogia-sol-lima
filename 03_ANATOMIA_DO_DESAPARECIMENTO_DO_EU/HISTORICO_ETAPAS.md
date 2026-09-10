@@ -44,13 +44,6 @@
 - `MAPA_VISUAL.md`
 - `STATUS.md`
 
-### Pendências
-- revisar a abertura do legado sob a nova posição na trilogia;
-- iniciar manuscrito canônico novo;
-- escrever integralmente a Parte I;
-- transportar pesquisa/fonte à medida que a prosa migrar;
-- revisar figuras quando seus capítulos forem consolidados.
-
 ### Próxima etapa
 **ETAPA 02 — Arquitetura Canônica + Abertura + Parte I.**
 
@@ -108,13 +101,93 @@
 - `ETAPAS/02_ABERTURA_PARTE_I_2026-09-10.md`
 - `STATUS.md`
 
-### Pendências não bloqueantes
-- título/subtítulo final ainda aberto;
-- revisão autoral de Sol da abertura e Parte I;
-- calibrar futuramente a frequência de referências aos livros anteriores;
-- revisar figuras somente conforme os capítulos correspondentes forem consolidados.
-
 ### Próxima etapa
 **ETAPA 03 — Parte II: Os Espelhos que Respondem por Nós — capítulos 5 a 8.**
+
+**Estado:** ✓ execução editorial concluída; texto do marco permanece em revisão autoral.
+
+---
+
+## ETAPA 03 — PARTE II: OS ESPELHOS QUE RESPONDEM POR NÓS
+**Data:** 10/09/2026  
+**Estado de entrada:** abertura e Parte I completas; o manuscrito terminava na pergunta sobre os espelhos que ensinaram a pessoa a reconhecer quem precisava ser.
+
+### Trabalho realizado
+- relido o manuscrito canônico antes da continuação;
+- consultado o legado correspondente aos antigos capítulos `Os primeiros espelhos`, `O algoritmo não sabe quem você é`, `O eu ideal` e materiais de pertencimento;
+- pesquisadas/atualizadas alegações externas cuja atualidade ou precisão importava;
+- escrita a abertura da Parte II — `Que espelhos me ensinaram quem eu precisava ser?`;
+- escrito integralmente Cap. 5 — `Os primeiros espelhos`;
+- escrito integralmente Cap. 6 — `Pertencer pode custar identidade`;
+- escrito integralmente Cap. 7 — `A terceirização do espelho`;
+- escrito integralmente Cap. 8 — `O eu ideal — algoritmo, audiência e performance`;
+- escrito fechamento da Parte II e ponte para `A Anatomia da Ocupação`;
+- fundida a Parte II ao `MANUSCRITO_CANONICO.md` sem substituição ou perda das etapas anteriores;
+- criado snapshot integral `ETAPAS/03_PARTE_II_ESPELHOS_2026-09-10.md` com o mesmo blob do manuscrito no marco;
+- registrada auditoria editorial e factual em `REGISTRO_EDITORIAL_ETAPA_03.md`.
+
+### Decisões principais
+1. Os primeiros espelhos são tratados como contexto de formação, não como sentença causal.
+2. Elogio pode reconhecer capacidade e também se tornar contrato identitário; nenhuma das funções é presumida automaticamente.
+3. Autoridade e apoio à autonomia não são apresentados como opostos.
+4. Pertencimento possui custos legítimos; o problema começa quando a moeda exigida é a própria percepção/interioridade.
+5. Compromisso não é fusão; autonomia não é ausência de dever.
+6. Em coerção, ameaça ou dependência, autoria não exige confronto direto e segurança permanece prioritária.
+7. `Terceirização do espelho` é consolidada como conceito autoral estrutural do Livro 3.
+8. Referência interna não significa autossuficiência; espelhos continuam necessários, sem monopólio da conclusão.
+9. Algoritmo é tratado como sistema de recomendação/inferência de sinais, não como leitor da essência humana.
+10. Comparação social e relações parassociais recebem tratamento ambivalente/contextual, compatível com a evidência disponível.
+11. `Audiência internalizada` é consolidada como conceito autoral para a antecipação do observador público dentro da vida privada.
+12. Marca pessoal, audiência, avatar e produção de conteúdo não são tratados como fuga por definição.
+
+### Linhas de força consolidadas
+- `Antes de eu saber dizer quem era, outras pessoas já estavam me dizendo o que viam.`
+- `Talvez seja essa uma das formas mais generosas de espelho: devolver algo verdadeiro sem reivindicar posse sobre o que a pessoa fará com aquilo.`
+- `Pertencimento saudável pede presença. Pertencimento capturante pede desaparecimento.`
+- `O espelho deveria devolver uma imagem. Não receber procuração para decidir quem existe diante dele.`
+- `Predizer o que provavelmente prenderá sua atenção não é o mesmo que compreender quem você é.`
+- `A audiência pode começar assistindo ao personagem e terminar morando dentro dele.`
+- `Seu feed é uma história sobre sinais que você produziu diante de seleções anteriores; não uma confissão automática de quem você é.`
+
+### Pesquisa/fonte revisada
+- Branje et al. (2021), DOI `10.1111/jora.12678`;
+- Branje (2022), DOI `10.1016/j.copsyc.2021.11.006`;
+- Bradshaw et al. (2025), DOI `10.1037/amp0001389`;
+- YouTube Help — documentação vigente de recomendações;
+- TikTok Support — documentação vigente do feed For You;
+- Burnell et al. (2024), DOI `10.1007/s42761-024-00240-6`;
+- Demir et al. (2026), DOI `10.1186/s40359-026-05023-1`;
+- Hoffner & Bond (2022), DOI `10.1016/j.copsyc.2022.101306`;
+- Li, Liu & Liu (2026), DOI `10.2196/96331`.
+
+### Auditoria de continuidade
+- Parte I → Parte II: continuidade aprovada; `versões` passam a ser examinadas pelas superfícies que as refletiram e recompensaram.
+- Livro 1: fronteira preservada; nenhuma cena central de `Morte em Vida` foi recontada.
+- Livro 2: fronteira preservada; método não foi reensinado.
+- Livro 3: identidade própria reforçada por `terceirização do espelho` e `audiência internalizada`.
+- Ponte para Parte III: necessária e orgânica — o leitor agora precisa entender como o externo é internalizado e passa a responder em seu nome.
+
+### Integridade técnica
+- bloco novo preservado: `ETAPAS/03_PARTE_II_BLOCO_PRODUCAO_2026-09-10.md` — 70.383 bytes;
+- manuscrito fundido no marco: 142.199 bytes;
+- snapshot integral: `ETAPAS/03_PARTE_II_ESPELHOS_2026-09-10.md`;
+- manuscrito e snapshot compartilhavam no fechamento o blob `a34f0038fd6339846c257c46a88050f55052b7c5`.
+
+### Riscos para a próxima etapa
+- não duplicar Matriz NARRATIVA, lógica, eixo, valores e metacognição já proprietários de `Reposicione-se`;
+- não transformar exposição em causalidade automática;
+- não transformar identificação em ingenuidade;
+- não tratar grupos de alto controle como único modelo de desaparecimento;
+- manter cenas e contracasos para não virar apostila;
+- preservar segurança antes de confronto em ambientes coercitivos.
+
+### Arquivos do marco
+- `MANUSCRITO_CANONICO.md`
+- `REGISTRO_EDITORIAL_ETAPA_03.md`
+- `ETAPAS/03_PARTE_II_ESPELHOS_2026-09-10.md`
+- `STATUS.md`
+
+### Próxima etapa
+**ETAPA 04 — Parte III: A Anatomia da Ocupação — capítulos 9 a 12.**
 
 **Estado:** ✓ execução editorial concluída; texto do marco permanece em revisão autoral.
