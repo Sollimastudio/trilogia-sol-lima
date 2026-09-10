@@ -34,7 +34,7 @@ Acompanhar a construção progressiva do desaparecimento pessoal da narradora po
 **Pergunta:** como uma mãe chegou a ser barrada do próprio filho?  
 **Regra:** o prólogo mostra o efeito; a cronologia de Caldas, guarda, documentos e cerco só será explicada quando o livro alcançar MV-28/MV-29.  
 **Efeito:** choque + promessa narrativa.  
-**Status:** ◑ reintegrado à arquitetura na ETAPA 13.
+**Status:** ● MV-P01 V1 reintegrado na ETAPA 13.
 
 ### 1 — Quem Era Sol
 **Função:** apresentar origem, personalidade, imaginação, vínculos, luz, humor e vitalidade antes do desaparecimento.  
@@ -58,7 +58,7 @@ Acompanhar a construção progressiva do desaparecimento pessoal da narradora po
 **Peça-chave:** monólogo pós-divórcio `Agora Eu Não Posso Errar`, no qual a personagem ainda vive culpa, fé, medo de errar e ausência de plano interno.  
 **Virada:** liberdade externa não é necessariamente retorno ao Eu.  
 **Efeito:** alívio → esperança → quebra de expectativa.  
-**Status:** ● arco escrito; monólogo reintegrado na ETAPA 13.
+**Status:** ● arco escrito; MV-M01 reintegrado integralmente na ETAPA 13.
 
 ### 5 — A Cadáver Que Tomava Café
 **Função:** revelar o título e mostrar funcionamento externo convivendo com ausência interna.  
@@ -80,9 +80,9 @@ Acompanhar a construção progressiva do desaparecimento pessoal da narradora po
 ### 8 — A Menina Reaparece
 **Função:** pagar sementes plantadas no início.  
 **Peça-chave:** `A Criança que Não Devia Nada`, colocada depois do Sepultamento e antes da investigadora ganhar linguagem.  
-**Efeito:** “Meu Deus. Era por isso que aquela pequena cena estava lá.”  
+**Efeito:** a criança deixa de ser ré antes de a adulta transformar a vida em objeto de estudo.  
 **Regra:** infância ilumina movimentos; não explica sozinha a vida adulta.  
-**Status:** ◑ reintegrado na ETAPA 13.
+**Status:** ● MV-I06 V1 reintegrado na ETAPA 13.
 
 ### 9 — Perdão e Autoperdão
 **Função:** retirar a narradora do tribunal de si sem apagar responsabilidades externas.  
@@ -98,14 +98,14 @@ Acompanhar a construção progressiva do desaparecimento pessoal da narradora po
 ### 11 — A Mulher Volta
 **Função:** mostrar transformação realista. Os problemas não precisam desaparecer; muda quem está presente para decidir.  
 **Pergunta:** quem é a mulher quando não está apenas servindo uma função?  
-**Status:** ◐ ETAPA 13 em execução.
+**Status:** ● MV-41 V1 — A Mulher que Quase Não Viveu.
 
 ### 12 — Nasce Reposicione-se
 **Função:** fechar Livro 1 e abrir a pergunta legítima do Livro 2.  
 **Descoberta:** toda pessoa já está posicionada.  
 **Pergunta:** a posição que ocupo está produzindo a vida que quero?  
 **Conteúdo proibido aqui:** ensinar integralmente o método do próximo livro.  
-**Status:** ◐ reservado ao fechamento.
+**Status:** ◐ reservado ao fechamento, após autoria/legado/Epílogo/Laudo.
 
 ## Nota Forense Final — Causa da Morte
 Espelha a abertura e conclui a autópsia metafórica. A investigação identifica um desaparecimento progressivo, não uma explicação simplista. A testemunha principal da própria vida retorna.
@@ -135,4 +135,4 @@ Toda nova informação deve receber:
 Prólogos, monólogos e interlúdios são governados também por `MAPA_VOZES_E_MOLDURAS.md`. Eles não podem desaparecer silenciosamente em revisões focadas apenas em capítulos numerados.
 
 ## Status geral
-Manuscrito em produção avançada. Partes I–III estão em primeira escrita integrada; Parte IV está em construção por etapas. O repositório permanece fonte canônica e snapshots preservam cada marco.
+ETAPA 13 concluída. O manuscrito possui 50 unidades em primeira escrita V1/V1.1. Partes I–III estão integradas e a Parte IV já alcançou a volta da criança, a investigadora e a mulher. A próxima frente é autoria/memória/IA/legado antes do Epílogo e Laudo Final.
