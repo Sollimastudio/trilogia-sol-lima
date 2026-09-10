@@ -2,7 +2,7 @@
 ## A Autópsia da Alma
 
 **Atualizado:** 10/09/2026  
-**Estado:** ETAPAS 10, 11 e 12 concluídas em V1; ETAPA 13 é a próxima frente.
+**Estado:** ETAPAS 10–12 concluídas; ETAPA 13 arquitetada com recuperação da criança e da mulher.
 
 > Este arquivo governa a Parte IV. Os códigos/títulos antigos permanecem históricos até o Manuscrito Alfa.
 
@@ -33,36 +33,37 @@ Transformar a narradora de sobrevivente/investigadora em examinadora consciente 
 
 ---
 
+# INTERLÚDIO DE PAGAMENTO — RECUPERADO NA ETAPA 13
+
+### MV-I06 — A Criança que Não Devia Nada — ◑ liberado para escrita
+**Posição:** imediatamente depois de MV-39 e antes de MV-40.
+
+**Função:** permitir que, depois de separar a morte de Oripe do próprio nascimento, Sol consiga olhar para a criança que foi sem transformá-la em ré.
+
+**Centro:** a criança era ingênua no sentido de não possuir compreensão adulta; não era burra, passiva por natureza ou culpada pelas dores dos adultos.
+
+**Pagamento:**
+- aniversário e culpa;
+- desejo de ser anjo;
+- corpo e necessidades;
+- menina que não pediu;
+- exigência de ser boa/madura/útil;
+- `a criança que eu fui não devia nada`;
+- inocência específica diante da morte de Oripe e das responsabilidades adultas.
+
+**Regra:** não usar o interlúdio para ensinar método ou explicar causalidade total da vida adulta.
+
+---
+
 # MOVIMENTO F — A INVESTIGADORA GANHA LINGUAGEM — ✓ ETAPA 12
-
-## Auditoria
-`LOTES/AUDITORIA_ETAPA12_INVESTIGADORA_LINGUAGEM.md`
-
-## Revisão
-`LOTES/REVISAO_ETAPA12_INVESTIGADORA_LINGUAGEM.md`
 
 ### MV-40 — A Investigadora Ganha Linguagem — ● V1
 **Fonte:** VI-L4-001–012.
 
-**Pergunta de entrada:**
-> O que eu faço com a vida que deixei de usar como pagamento?
-
 **Curva:**
-`vida pós-Sepultamento → perguntas sobre repetição → interesse por comportamento humano → ciência como linguagem, não substituta da fé → conceitos testados contra cenas → cuidado com rótulos → diagnósticos como dados/limites → perfil/vocação/propósito → formações documentadas como marcos → arquivo de evidências → CSI da própria mente → dor produz linguagem → conhecimento não basta: é preciso viver a mulher`.
+`vida pós-Sepultamento → perguntas → comportamento humano → ciência como linguagem → conceitos testados contra cenas → cuidado com rótulos → diagnósticos como dados/limites → perfil/vocação/propósito → formações documentadas → arquivo de evidências → CSI da própria mente → dor produz linguagem → conhecimento não basta: é preciso viver a mulher`.
 
 **Objeto-símbolo:** caderno/arquivo de evidências.
-
-**Marcos documentais usados com contenção:**
-- DISC Advanced — 17/11/2021 — 50h;
-- Master Love Professional — 19/11/2021 — 140h.
-
-**Decisões:**
-- os certificados são vestígios de formação, não argumento de autoridade clínica;
-- outras formações ficam sem catálogo quando a documentação não está consolidada;
-- diagnósticos não recebem função de identidade total;
-- `sistema operacional interno` aparece apenas como metáfora nascente;
-- CSI nasce da separação entre fato, memória, relato, documento e conclusão posterior;
-- nenhuma nota clínico-narrativa entra imediatamente depois do capítulo nesta V1.
 
 **Fecho:**
 > Eu já sabia explicar muita coisa sobre a mulher que fui. Ainda precisava descobrir como era ser a mulher que eu nunca tinha vivido.
@@ -70,25 +71,40 @@ Transformar a narradora de sobrevivente/investigadora em examinadora consciente 
 ---
 
 # MOVIMENTO G — A MULHER QUE QUASE NÃO VIVEU — ETAPA 13
-**Fonte:** VI-L5-001–012.  
-**Estado:** próxima frente.
 
-Auditar antes da prosa:
-- percepção da mulher apagada;
-- Mulher Magnética, de Vanessa de Oliveira, com data ainda a confirmar;
-- presença, feminilidade, desejo e limite sem validação masculina;
-- TCC com curso/instituição/título/data ainda pendentes;
-- experiência aplicada como origem vivida do Magnetus;
-- transformação de experiência em etapas/protocolo sem ensinar produto;
-- frase `Antes de se relacionar, relacione-se`;
-- nascimento do Relacione-se® como consequência, não propaganda.
+## Auditoria
+`LOTES/AUDITORIA_ETAPA13_MULHER_E_VOZES_RECUPERADAS.md`
+
+### MV-41 — A Mulher que Quase Não Viveu — ◑ arquitetura liberada
+**Fonte principal:** VI-L5-001–012.
+
+**Pergunta:**
+> Quem sou quando nenhum papel fala primeiro por mim?
+
+**Curva:**
+`sei explicar → estranho a própria preferência → experiência de presença → Mulher Magnética como formação pessoal → corpo sem tribunal → desejo sem obrigação → limite sem culpa automática → escolhas pequenas → TCC como laboratório biográfico com lacunas documentais → experiência observada → Magnetus nasce depois como organização → autorrelacionamento → Relacione-se como consequência`.
+
+**Travas factuais:**
+- data do Mulher Magnética continua pendente;
+- participação é atribuída a programa de Vanessa de Oliveira no nível autoral/canônico atual;
+- curso, instituição, título e data do TCC não foram localizados;
+- ordem fina de Mulher Magnética, DISC, Master Love e TCC não será inventada;
+- data do nome Magnetus e nascimento formal do Relacione-se permanecem abertas.
+
+**Fronteira:** mulher antes do produto. Experiência antes do protocolo. Presença antes da marca.
+
+---
 
 # MOVIMENTO H — AUTORIA, LEGADO E SAÍDA DA AUTÓPSIA — RESERVADO
 VI-L6-001–012. Escrita, IA como infraestrutura, moldura forense, assinatura Sol Lima, Epílogo e Laudo Final.
 
 ---
 
+## Ordem atual da Parte IV
+`MV-36 → MV-37 → MV-38 → MV-39 → MV-I06 → MV-40 → MV-41`.
+
 ## Regra de voz da Parte IV
 **cena → estranhamento → pergunta → compreensão parcial → próxima evidência.**
 
-A explicação cresce. A palestra, não.
+No reencontro com a criança: **ternura sem infantilização.**  
+Na mulher: **experiência antes de teoria.**
