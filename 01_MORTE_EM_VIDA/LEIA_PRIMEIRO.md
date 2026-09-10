@@ -16,18 +16,40 @@ Depois da leitura obrigatória definida no `START_HERE.md` da raiz, leia nesta o
 10. arquivo do lote ativo e arquivos dos capítulos correspondentes.
 
 ## Estado atual
-ETAPA 02 em execução.
+- ETAPA 00 — ✓ Mapa-mãe macro
+- ETAPA 01 — ✓ Engenharia capítulo a capítulo
+- ETAPA 02 — ✓ Contrato emocional + origem
+- ETAPA 03 — ✓ Corpo, silêncio e imaginação
+- **ETAPA 04 — ATIVA / LOTE 03: Competência, pai e risco**
 
-Já possuem primeira escrita:
-- MV-00;
-- MV-01;
-- MV-02;
-- MV-03.
+## Manuscrito já em primeira escrita
+Existem oito unidades consecutivas em V1:
+- MV-00 — Nota Forense de Abertura;
+- MV-01 — Oito dias antes;
+- MV-02 — Dezoito de Julho;
+- MV-03 — O Berço ao Lado do Caixão;
+- MV-04 — A Menina que Não Pediu;
+- MV-05 — O Cheiro do Silêncio;
+- MV-06 — Eu Queria Ser um Anjo;
+- MV-07 — Os Dois Caminhos.
 
-MV-I01 permanece em apuração por falta de uma ocorrência concreta completa suficiente para prosa longa sem invenção.
+## Interlúdios reservados
+- MV-I01 — Reino das Galinhas: falta ocorrência concreta completa;
+- MV-I02 — Mangas: falta episódio específico recuperado.
+
+Essas lacunas não bloqueiam a produção e não autorizam invenção. Serão reavaliadas na revisão integrada da Parte I.
 
 ## Comando atual
-Executar a continuidade da **ETAPA 02**, seguindo `PROMPTS/ROTEIRO_DE_ETAPAS_E_COMANDOS.md` e o painel `ACOMPANHAMENTO_ETAPA_02.md`.
+Executar a **ETAPA 04 / LOTE 03**, seguindo `PROMPTS/ROTEIRO_DE_ETAPAS_E_COMANDOS.md`.
+
+Unidades:
+- MV-08 — Primeira da Classe;
+- MV-09 — O Homem dos Picolés;
+- MV-I03 — Caminho das Águas;
+- MV-10 — Quando a Água Quase Levou;
+- MV-11 — O Que uma Criança Aprende sem Receber uma Aula.
+
+Depois do Lote 03, executar auditoria/revisão integrada de toda a Parte I antes de avançar para a vida adulta.
 
 ## Regras invioláveis
 - não inventar fatos biográficos;
