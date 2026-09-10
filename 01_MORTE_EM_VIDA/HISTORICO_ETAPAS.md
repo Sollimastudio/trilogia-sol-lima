@@ -176,68 +176,95 @@ Estado acumulado: 45 unidades V1/V1.1.
 **Data:** 10/09/2026  
 **Status:** ✓ concluída como primeira escrita + auditoria + revisão.
 
-### Auditoria
-VI-L4-001–012 foi recuperado e classificado antes da prosa.
+VI-L4-001–012 foi auditado antes da prosa e mantido em um capítulo para evitar currículo/repetição.
 
-Arquivo: `LOTES/AUDITORIA_ETAPA12_INVESTIGADORA_LINGUAGEM.md`.
+Primeira escrita:
+- MV-40 — A Investigadora Ganha Linguagem — V1.
 
-### Arquitetura
-Os 12 núcleos foram mantidos em um único capítulo para impedir repetição entre estudo, formações, arquivo e linguagem.
+Centro:
+`EU VI / EU OUVI / EU LI / ALGUÉM ME CONTOU / EU CONCLUÍ DEPOIS`.
 
-### Primeira escrita
-- MV-40 — A Investigadora Ganha Linguagem — ● V1.
-
-### Curva
-`Saí viva → perguntas → interesse por comportamento humano → ciência como linguagem → conceitos testados contra cenas → rótulos perdem autoridade → diagnósticos como dados/limites → perfil/vocação/propósito → formações documentadas → arquivo de evidências → CSI da própria mente → linguagem → conhecimento encontra limite → e a mulher?`.
-
-### Núcleo mais importante
-A investigadora passa a separar:
-- EU VI;
-- EU OUVI;
-- EU LI;
-- ALGUÉM ME CONTOU;
-- EU CONCLUÍ DEPOIS.
-
-Isso dá bordas à dor e impede que sensação, relato, memória, documento e interpretação sejam confundidos.
-
-### Marcos documentais usados com contenção
+Marcos documentais usados com contenção:
 - DISC Advanced — 17/11/2021 — 50h;
 - Master Love Professional — 19/11/2021 — 140h.
 
-Certificados são marcos de formação, não endosso clínico ou prova científica da biografia.
+Ciência não substituiu fé; diagnóstico não virou identidade; CSI da própria mente nasceu da prática de distinguir evidências e não como slogan.
 
-### Proteções
-- não virou currículo;
-- neurociência não virou aula;
-- fé e ciência não foram colocadas como inimigas;
-- diagnósticos não foram listados como identidade;
-- terceiros não foram diagnosticados;
-- CSI nasceu organicamente da prática de investigação;
-- `sistema operacional interno` ficou apenas como metáfora nascente;
-- Livro 2 não foi ensinado;
-- Nota/LCN-10 não entrou como bloco autônomo nesta V1.
+Snapshot: `ETAPAS/12_INVESTIGADORA_GANHA_LINGUAGEM_2026-09-10.md`.
 
-### Revisão
-`LOTES/REVISAO_ETAPA12_INVESTIGADORA_LINGUAGEM.md`.
+Estado acumulado: 46 unidades V1/V1.1.
 
-### Snapshot
-`ETAPAS/12_INVESTIGADORA_GANHA_LINGUAGEM_2026-09-10.md`.
+---
 
-### Checklist
-`ACOMPANHAMENTO_ETAPA_12.md`.
+## ETAPA 13 — A MULHER QUE QUASE NÃO VIVEU + RECUPERAÇÃO DE VOZES
+**Data:** 10/09/2026  
+**Status:** ✓ concluída como primeira escrita + cirurgia retroativa controlada.
+
+### Auditoria de VI-L5
+Arquivo: `LOTES/AUDITORIA_ETAPA13_MULHER_E_VOZES_RECUPERADAS.md`.
+
+Foram preservadas as lacunas:
+- data do Mulher Magnética;
+- curso/instituição/título/data do TCC;
+- ordem fina entre Mulher Magnética, DISC, Master Love e TCC;
+- data do nome Magnetus;
+- nascimento formal do Relacione-se.
+
+### Achado de continuidade
+A busca no acervo mostrou que três peças estruturais antigas não haviam sido transplantadas para o novo repositório capítulo a capítulo.
+
+#### 1. MV-P01 — Prólogo — O Portão — ● V1
+Reintegrado entre a Nota Forense e 1978.
+
+Função: cold open sensorial, sem explicação processual. O prólogo mostra o efeito; MV-28/MV-29 mantêm o desenvolvimento cronológico do Cerco.
+
+#### 2. MV-M01 — Agora Eu Não Posso Errar — ● V1 reintegrada
+Monólogo de aproximadamente 3 mil palavras recuperado do acervo e transplantado integralmente.
+
+Posição canônica:
+`MV-22 → MV-M01 → MV-I05`.
+
+Função: preservar a consciência real do pós-divórcio — medo de pecado, culpa, corpo julgado, filhos/teto e expectativa de direção divina — sem implantar autoestima, posicionamento ou linguagem futura na personagem.
+
+#### 3. MV-I06 — A Criança que Não Devia Nada — ● V1
+Posição canônica:
+`MV-39 → MV-I06 → MV-40`.
+
+Função: retirar a criança do banco dos réus depois do Sepultamento e antes da intelectualização da experiência.
+
+A ingenuidade foi definida como falta de conhecimento posterior, nunca falta de inteligência.
+
+### Mapa especial criado
+`MAPA_VOZES_E_MOLDURAS.md` passa a proteger Prólogo, Monólogos e Interlúdios contra cortes silenciosos.
+
+### Capítulo principal da etapa
+#### MV-41 — A Mulher que Quase Não Viveu — ● V1
+A mulher passa de objeto de estudo para sujeito de experiência.
+
+Curva:
+`função → preferência → corpo sem tribunal → Mulher Magnética como experiência formativa → desejo sem direção automática → limite → presença → TCC com lacunas preservadas → experiência observada → Magnetus como organização posterior → autorrelacionamento → Relacione-se como consequência`.
+
+Mulher Magnética é atribuído a Vanessa de Oliveira no nível canônico atual. TCC permanece sem moldura acadêmica inventada. Magnetus e Relacione-se não recebem linguagem de venda.
 
 ### Fecho
-**Eu já sabia explicar muita coisa sobre a mulher que fui. Ainda precisava descobrir como era ser a mulher que eu nunca tinha vivido.**
+`Eu já não precisava que alguém me dissesse quem eu seria.`
+
+### Revisão
+`LOTES/REVISAO_ETAPA13_MULHER_E_VOZES_RECUPERADAS.md`.
+
+### Snapshot
+`ETAPAS/13_MULHER_QUASE_NAO_VIVEU_E_VOZES_RECUPERADAS_2026-09-10.md`.
+
+### Checklist
+`ACOMPANHAMENTO_ETAPA_13.md`.
 
 ### Estado acumulado
-**46 unidades possuem primeira escrita V1/V1.1.**
+**50 unidades possuem primeira escrita V1/V1.1.**
 
 ### Próxima etapa
-**ETAPA 13 — A Mulher que Quase Não Viveu.**
+**ETAPA 14 — Autoria, Memória, IA e Legado.**
 
-Comando: `PROMPTS/ETAPA_13_COMANDO_ATUAL.md`.
-
-Primeiro auditar VI-L5-001–012 e a cronologia de Mulher Magnética, TCC, experiência aplicada, origem vivida do Magnetus e Relacione-se.
+Comando: `PROMPTS/ETAPA_14_COMANDO_ATUAL.md`.
 
 ---
 
