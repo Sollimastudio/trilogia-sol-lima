@@ -1,8 +1,8 @@
 # MAPA-MÃE — LIVRO 2 — REPOSICIONE-SE
 
-**Estado vivo após ETAPA 01 — Auditoria Integral do Método**  
+**Estado vivo após ETAPA 03 — corpo principal escrito**  
 **Data:** 10/09/2026  
-**Snapshot anterior preservado em:** `ETAPAS/00_ESTRUTURA_BASE_2026-09-10.md`
+**Snapshots históricos preservados em:** `ETAPAS/`
 
 ## Identidade da obra
 **Título:** Reposicione-se  
@@ -68,7 +68,7 @@ Se o leitor continuar discordando depois do exame, pode recolher o julgamento, c
 Toda pessoa já ocupa posições. Frutos ajudam a revelar a posição operante. Quando os Frutos são incompatíveis com a vida desejada, o método investiga o cultivo e busca uma posição deliberada e praticável.
 
 ## 5. 14 Leis operacionais
-As Leis nascem onde o problema do leitor exige cada uma. A lista completa aparece apenas depois da experiência.
+As Leis nascem onde o problema do leitor exige cada uma. A lista completa aparece apenas depois da experiência, no Cap. 28.
 
 Arquivo canônico: `LEIS_DO_POSICIONAMENTO.md`.
 
@@ -76,6 +76,18 @@ Arquivo canônico: `LEIS_DO_POSICIONAMENTO.md`.
 - **Pelos frutos se conhece a árvore** — observação sem sentença total.
 - **Parábola do Semeador** — mesma mensagem em solos diferentes; o livro explicita a adaptação autoral de Semente no método.
 - **Conhecereis a verdade e a verdade vos libertará** — contato com a verdade + resposta consciente; não promessa mágica.
+
+## 7. Sete Frutos do Posicionamento
+Lentes pedagógicas de colheita consolidadas no Cap. 28:
+- Verdade;
+- Responsabilidade;
+- Discernimento;
+- Coerência;
+- Coragem;
+- Sabedoria;
+- Legado.
+
+**Trava:** não são estágios obrigatórios, diagnóstico, promessa de resultado ou certificado de superioridade.
 
 ---
 
@@ -95,7 +107,7 @@ Apenas o necessário para mostrar: o Livro 1 fez a autópsia; o Livro 2 pergunta
 
 ---
 
-# ARQUITETURA RECOMENDADA — 28 CAPÍTULOS
+# ARQUITETURA CANÔNICA EXECUTADA — 28 CAPÍTULOS
 
 ## PRÉ-LIVRO — VOCÊ JÁ ESTÁ POSICIONADO
 Contrato intelectual; tese; Letreiro; Semeador; paixão por árvores; Cajueiro; primeira subida; semente da Casa/Jaula; Fotografia de Partida.
@@ -143,7 +155,7 @@ Contrato intelectual; tese; Letreiro; Semeador; paixão por árvores; Cajueiro; 
 28. **Novos Frutos: Desça da Árvore e Vá Viver**
 
 ## EPÍLOGO — O CAJUEIRO AINDA ESTÁ LÁ
-Fechamento literário: a árvore permanece; o ponto de observação mudou; o leitor desce para viver.
+Fechamento literário: a árvore permanece; o ponto de observação mudou; o leitor desce para viver. **A escrever e costurar na ETAPA 04.**
 
 A função completa de cada capítulo está em `MATRIZ_CAPITULOS_FUNCOES.md`.
 
@@ -151,17 +163,17 @@ A função completa de cada capítulo está em `MATRIZ_CAPITULOS_FUNCOES.md`.
 
 # FLUXO OFICIAL REFINADO
 
-A ETAPA 00 registrou o fluxo inicial. Após auditoria, ele é preservado como lógica de transformação, mas reorganizado editorialmente para que a tese e o método apareçam no momento certo:
+A ETAPA 00 registrou o fluxo inicial. Após auditoria, ele foi preservado como lógica de transformação e executado editorialmente nesta ordem:
 
 `desconforto → observar Fruto → reconhecer posição → perceber automático → investigar Semente/Solo/Raízes → fortalecer Tronco → comparar Galhos → reconhecer Pragas/Sono/Sofá/Influências/Jaula → subir ao Mirante → passar pelo Filtro → mapear cadeia/evidências/custos → assumir responsabilidade proporcional → revisar acordos/limites → Podar → plantar Nova Semente → atravessar → sustentar → observar novos Frutos → descer e viver`
 
-**Justificativa da alteração:** a Lei-mãe e o Fruto precisam aparecer cedo; a Jaula é ambiente transversal; o leitor só pode filtrar bem depois de possuir material observável suficiente.
+**Justificativa da organização:** a Lei-mãe e o Fruto aparecem cedo; a Jaula funciona como ambiente transversal; o leitor só filtra depois de possuir material observável suficiente; Poda ocorre apenas após verificação e responsabilidade distribuída.
 
 ---
 
 # GALHOS DE APLICAÇÃO
 
-O mesmo método será demonstrado em:
+O mesmo método é demonstrado em:
 - relacionamentos e família;
 - trabalho, dinheiro e carreira;
 - marca pessoal e presença;
@@ -195,10 +207,11 @@ Instrumentos principais:
 - Jaula / Porta Possível;
 - Filtro da Sensatez;
 - Cadeia de Resultados / Custos;
-- 14 Tipos;
+- 14 Espelhos;
 - Responsabilidade Distribuída;
-- Poda;
+- Plano de Poda Responsável;
 - Nova Semente;
+- Checkpoints de sustentação;
 - Retorno à Fotografia de Partida.
 
 ---
@@ -216,6 +229,8 @@ Antes do corte, o leitor precisa:
 6. entrar efetivamente na Parte I;
 7. ficar com pergunta em movimento.
 
+A calibração exata do corte será revista na ETAPA 04/08 com o tamanho integral do manuscrito.
+
 ---
 
 # RIGOR, SEGURANÇA E FONTES
@@ -224,10 +239,14 @@ Antes do corte, o leitor precisa:
 - responsabilidade ≠ culpa retrospectiva;
 - violência continua pertencendo a quem a pratica;
 - Fruto isolado ≠ identidade/causa completa;
-- pessoa ≠ Praga/Tipo;
+- pessoa ≠ Praga/Espelho;
 - corpo sinaliza; não sentencia;
 - influência ≠ manipulação automática;
 - porta visível ≠ capacidade imediata de saída;
+- Poda ≠ ruptura compulsória;
+- desconforto ≠ prova de crescimento;
+- recaída ≠ identidade/retorno automático ao zero;
+- Sete Frutos ≠ escala clínica ou moral;
 - em risco/coerção/dependência, segurança e apoio precedem confronto;
 - ciência só entra com amplitude compatível com a fonte.
 
@@ -239,7 +258,7 @@ Registro vivo: `REGISTRO_DE_ALEGACOES_E_FONTES.md`.
 
 Pergunta transversal permitida: **essa posição tem minha assinatura?**
 
-Pergunta de saída: **quem é o Eu que está escolhendo?**
+Pergunta de saída do corpo principal: **quem é o Eu que está escolhendo essa nova posição?**
 
 O Livro 2 não desenvolve integralmente apagamento identitário, identidades de sobrevivência, terceirização do Eu ou reconstrução identitária profunda.
 
@@ -252,12 +271,15 @@ O Livro 2 não desenvolve integralmente apagamento identitário, identidades de 
 3. `DICIONARIO_CANONICO_DO_METODO.md`
 4. `LEIS_DO_POSICIONAMENTO.md`
 5. `MATRIZ_CAPITULOS_FUNCOES.md`
-6. `MAPA_10_PORCENTO_KINDLE.md`
-7. `MAPA_STORYTELLINGS.md`
-8. `MAPA_EXERCICIOS_TESTES.md`
-9. `MAPA_IMAGENS_ILUSTRACOES.md`
-10. `REGISTRO_DE_ALEGACOES_E_FONTES.md`
-11. `PENDENCIAS_AUTORA.md`
+6. `MICROARQUITETURA_28_CAPITULOS.md`
+7. `MAPA_10_PORCENTO_KINDLE.md`
+8. `MAPA_STORYTELLINGS.md`
+9. `MAPA_EXERCICIOS_TESTES.md`
+10. `MAPA_IMAGENS_ILUSTRACOES.md`
+11. `REGISTRO_DE_ALEGACOES_E_FONTES.md`
+12. `PENDENCIAS_AUTORA.md`
+13. `PROTOCOLO_CONTINUIDADE_ESCRITA_EM_MASSA.md`
+14. `MANUSCRITO/`.
 
 ## Estado
-ETAPA 01 concluída. Próxima fase: **ETAPA 02 — Arquitetura Canônica + Pré-livro + Primeiros 10%**.
+**ETAPA 03 concluída: Pré-livro + 28 capítulos escritos. ETAPA 04 ativa: Epílogo `O Cajueiro Ainda Está Lá` + costura integral do livro.**
