@@ -5,55 +5,69 @@ Este arquivo é a porta de entrada operacional do Livro 1.
 ## Antes de trabalhar
 Depois da leitura obrigatória definida no `START_HERE.md` da raiz, leia nesta ordem:
 1. `MAPA_MAE.md`
-2. `MAPA_CAPITULOS.md`
-3. `MAPA_VISUAL_CAPITULOS.md`
-4. `PIPELINE_DE_PRODUCAO.md`
-5. `PLANO_PRODUCAO_EM_MASSA.md`
-6. `STATUS.md`
-7. `HISTORICO_ETAPAS.md`
-8. `PROMPTS/PROMPTS_MESTRES_DE_PRODUCAO.md`
-9. `PROMPTS/ROTEIRO_DE_ETAPAS_E_COMANDOS.md`
-10. arquivo do lote ativo e arquivos dos capítulos correspondentes.
+2. `MAPA_PARTE_I_ATUAL.md` para a sequência já integrada da Parte I
+3. `MAPA_CAPITULOS.md` para a arquitetura global
+4. `MAPA_VISUAL_CAPITULOS.md`
+5. `PIPELINE_DE_PRODUCAO.md`
+6. `PLANO_PRODUCAO_EM_MASSA.md`
+7. `STATUS.md`
+8. `HISTORICO_ETAPAS.md`
+9. `PROMPTS/PROMPTS_MESTRES_DE_PRODUCAO.md`
+10. `PROMPTS/ROTEIRO_DE_ETAPAS_E_COMANDOS.md`
+11. arquivos do lote ativo.
 
 ## Estado atual
 - ETAPA 00 — ✓ Mapa-mãe macro
 - ETAPA 01 — ✓ Engenharia capítulo a capítulo
 - ETAPA 02 — ✓ Contrato emocional + origem
 - ETAPA 03 — ✓ Corpo, silêncio e imaginação
-- **ETAPA 04 — ATIVA / LOTE 03: Competência, pai e risco**
+- ETAPA 04 — ✓ Competência, pai e risco + auditoria integrada da Parte I
+- **ETAPA 05 — ATIVA / Entrada nos papéis adultos**
 
-## Manuscrito já em primeira escrita
-Existem oito unidades consecutivas em V1:
-- MV-00 — Nota Forense de Abertura;
-- MV-01 — Oito dias antes;
-- MV-02 — Dezoito de Julho;
-- MV-03 — O Berço ao Lado do Caixão;
-- MV-04 — A Menina que Não Pediu;
-- MV-05 — O Cheiro do Silêncio;
-- MV-06 — Eu Queria Ser um Anjo;
-- MV-07 — Os Dois Caminhos.
+## Parte I — estado
+A abertura + Parte I possuem **15 unidades em primeira escrita**, incluindo duas inserções recuperadas pela auditoria e um interlúdio concreto:
 
-## Interlúdios reservados
-- MV-I01 — Reino das Galinhas: falta ocorrência concreta completa;
-- MV-I02 — Mangas: falta episódio específico recuperado.
+MV-00 → MV-01 → MV-02 → MV-03 → MV-03A → MV-03B → MV-I01 → MV-04 → MV-05 → MV-06 → MV-07 → MV-08 → MV-09 → MV-10 → MV-11.
 
-Essas lacunas não bloqueiam a produção e não autorizam invenção. Serão reavaliadas na revisão integrada da Parte I.
+### Inserções recuperadas
+- MV-03A — A Irmã que Ficou
+- MV-03B — O Colchão de Palha
+- MV-I01 — Debaixo do Girau
+
+### Reservas preservadas
+- `RESERVAS/REINO_DAS_GALINHAS.md`
+- MV-I02 — Mangas
+- MV-I03 — Caminho das Águas
+
+Reservas não bloqueiam produção e não autorizam invenção.
+
+## Arquivos de auditoria da Parte I
+- `LOTES/REVISAO_LOTE_03.md`
+- `LOTES/AUDITORIA_INTEGRADA_PARTE_I.md`
+- `ETAPAS/04_LOTE03_E_PARTEI_INTEGRADA_2026-09-10.md`
 
 ## Comando atual
-Executar a **ETAPA 04 / LOTE 03**, seguindo `PROMPTS/ROTEIRO_DE_ETAPAS_E_COMANDOS.md`.
+Executar a **ETAPA 05 / LOTE 04 — Entrada nos papéis adultos**.
 
-Unidades:
-- MV-08 — Primeira da Classe;
-- MV-09 — O Homem dos Picolés;
-- MV-I03 — Caminho das Águas;
-- MV-10 — Quando a Água Quase Levou;
-- MV-11 — O Que uma Criança Aprende sem Receber uma Aula.
+### Antes de escrever
+Auditar a ordem de MV-12 a MV-16 contra a cronologia real. Não manter uma ordem conceitual que coloque experiências posteriores antes do pedido de casamento aos treze anos.
 
-Depois do Lote 03, executar auditoria/revisão integrada de toda a Parte I antes de avançar para a vida adulta.
+### Núcleos que a etapa precisa ordenar
+- transição para adolescência;
+- pedido de casamento aos 13 anos;
+- alegria/primeiro bolo e processo de ser escolhida;
+- caixa / A Boa Mesa / estudos interrompidos;
+- noivado;
+- Congas e pertencimento;
+- preparação e casamento aos 16;
+- fé como experiência genuína;
+- início dos papéis conjugais;
+- maternidade somente em seu tempo cronológico, sem comprimir anos.
 
 ## Regras invioláveis
 - não inventar fatos biográficos;
 - não fingir memória onde existe relato recebido;
+- a arquitetura pode mudar quando os fatos exigirem;
 - não transformar infância em diagnóstico determinista;
 - não culpabilizar vítima nem retirar responsabilidade de quem pratica violência;
 - não ensinar o método completo de Reposicione-se dentro deste livro;
@@ -61,4 +75,4 @@ Depois do Lote 03, executar auditoria/revisão integrada de toda a Parte I antes
 - reler arquivos vivos antes de atualizá-los.
 
 ## Princípio
-**O mapa governa. As cenas provam. A escrita envolve. O histórico preserva.**
+**O mapa governa até o fato exigir correção. A cena prova. A escrita envolve. O histórico preserva.**
