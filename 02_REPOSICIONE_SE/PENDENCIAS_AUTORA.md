@@ -4,7 +4,7 @@
 **Origem:** ETAPA 01 — Auditoria Integral do Método.  
 **Regra:** Sol não será chamada para decidir ortografia, transições, formatação, microestrutura ou escolhas que cabem à edição. Este arquivo registra apenas fatos, falas, memórias, autorizações ou formulações que só a autora pode confirmar.
 
-## Não bloqueiam a arquitetura da ETAPA 02
+## Não bloqueiam a arquitetura nem a escrita em massa
 
 ### PA-001 — Cajueiro de Pirangi
 Confirmar, quando chegar a escrita final da cena:
@@ -33,14 +33,16 @@ Confirmar a cena exata antes do Cap. 22:
 **Se não confirmado:** substituir por caso hipotético sem fingir autobiografia.
 
 ### PA-004 — Episódio de trabalho / preço / marca pessoal
-Escolher, na ETAPA 02 ou durante o Cap. 15, um episódio autobiográfico real que demonstre:
+**Status após LOTE 03:** não bloqueia mais o Cap. 15. A versão canônica foi escrita com um microcaso hipotético claramente identificado, sem inventar autobiografia.
+
+Continua **opcional** substituir ou complementar por episódio autobiográfico real se Sol quiser e puder confirmar um caso que demonstre:
 - subprecificação;
 - dificuldade de comunicar valor;
 - limite profissional;
 - negociação;
 - reposicionamento de marca/carreira.
 
-**Se Sol não quiser fornecer:** usar caso composto; não inventar autobiografia.
+**Regra:** não solicitar esse episódio apenas para preencher o livro. Só reabrir se um fato real confirmado elevar de forma clara a qualidade literária/pedagógica do Cap. 15.
 
 ### PA-005 — Exemplo de fé/autoridade
 Selecionar apenas se Sol considerar verdadeiro e necessário um episódio real de:
@@ -48,7 +50,7 @@ Selecionar apenas se Sol considerar verdadeiro e necessário um episódio real d
 - autoridade religiosa ocupando discernimento;
 - revisão de crença sem abandono da fé.
 
-**Trava:** nomes e identificação de terceiros não são necessários.
+**Trava:** nomes e identificação de terceiros não são necessários. A Parte IV foi escrita sem depender desse episódio.
 
 ### PA-006 — Falas literais de terceiros
 Toda fala apresentada entre aspas como citação real deve ser confirmada como memória suficientemente segura ou transformada em discurso indireto/paráfrase.
