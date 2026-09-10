@@ -15,7 +15,7 @@ Depois da leitura obrigatória definida no `START_HERE.md` da raiz, leia nesta o
 9. `HISTORICO_ETAPAS.md`
 10. `PROMPTS/PROMPTS_MESTRES_DE_PRODUCAO.md`
 11. `PROMPTS/ROTEIRO_DE_ETAPAS_E_COMANDOS.md`
-12. `PROMPTS/ETAPA_06_COMANDO_ATUAL.md`
+12. `PROMPTS/ETAPA_07_COMANDO_ATUAL.md`
 13. arquivos do lote ativo.
 
 ## Estado atual
@@ -24,67 +24,66 @@ Depois da leitura obrigatória definida no `START_HERE.md` da raiz, leia nesta o
 - ETAPA 02 — ✓ Contrato emocional + origem
 - ETAPA 03 — ✓ Corpo, silêncio e imaginação
 - ETAPA 04 — ✓ Competência, pai e risco + Parte I integrada
-- ETAPA 05 — ✓ Entrada nos papéis adultos + primeira metade da Parte II
-- **ETAPA 06 — ATIVA / 1994–2010**
+- ETAPA 05 — ✓ Entrada nos papéis adultos
+- ETAPA 06 — ✓ Vida conjugal, maternidade, competência, risco e ruptura + Parte II integrada
+- **ETAPA 07 — ATIVA / abertura da Parte III**
 
 ## Manuscrito já em primeira escrita
-**21 unidades.**
+**27 unidades.**
 
-### Abertura + Parte I
+### Abertura + Parte I — 15 unidades
 MV-00 → MV-01 → MV-02 → MV-03 → MV-03A → MV-03B → MV-I01 → MV-04 → MV-05 → MV-06 → MV-07 → MV-08 → MV-09 → MV-10 → MV-11.
 
-### Parte II — primeira metade
-MV-12 → MV-13 → MV-14 → MV-I04 → MV-15 → MV-16.
+### Parte II — 12 unidades
+MV-12 → MV-13 → MV-14 → MV-I04 → MV-15 → MV-16 → MV-17 → MV-18 → MV-19 → MV-20 → MV-21 → MV-22.
 
-## Sequência atual da Parte II
-Consultar `MAPA_PARTE_II_ATUAL.md`. Ela prevalece sobre a antiga ordem conceitual do mapa global.
+## Parte II — estado
+**● primeira escrita integrada.**
 
-## Reservas preservadas
+Arquivos obrigatórios antes de avançar:
+- `LOTES/AUDITORIA_26_NUCLEOS_ETAPA06.md`
+- `LOTES/REVISAO_LOTE_05.md`
+- `LOTES/AUDITORIA_INTEGRADA_PARTE_II.md`
+- `ETAPAS/06_LOTE05_PARTEII_INTEGRADA_2026-09-10.md`
+
+## Ponte atual
+**A porta está fechada; eu continuo escutando.**
+
+A pergunta que abre a Parte III é:
+> Por que sair ainda não me devolveu a mim mesma?
+
+## Reservas preservadas da infância
 - `RESERVAS/REINO_DAS_GALINHAS.md`
 - MV-I02 — Mangas
 - MV-I03 — Caminho das Águas
 
 Reservas não bloqueiam produção e não autorizam invenção.
 
-## Comando atual
-Executar integralmente `PROMPTS/ETAPA_06_COMANDO_ATUAL.md`.
+# COMANDO ATUAL
+Executar integralmente:
+`PROMPTS/ETAPA_07_COMANDO_ATUAL.md`
 
-A ETAPA 06 cobre **vida conjugal, maternidade, competência, normalização, risco e ruptura (1994–2010)**.
-
-### Primeiro movimento obrigatório
-Antes de escrever MV-17 a MV-22:
-1. recuperar/auditar os 26 núcleos legados do período;
-2. ordenar acontecimentos por tempo e função dramática;
-3. verificar quantos capítulos a matéria realmente exige;
-4. redefinir títulos se necessário;
-5. criar mapa do lote;
-6. só então produzir prosa.
-
-### Conteúdos obrigatórios a distribuir
-- cotidiano após os quatro cômodos;
-- Matheus a partir de 1997;
-- adobe e noites de cuidado;
-- Pit Dog / trabalho / desmame;
-- pele e saúde com limites de inferência;
-- saídas temporárias, infidelidade e culpa atribuída;
-- Fiesta;
-- Rio Quente e trabalho artístico;
-- dinheiro/rota de leite;
-- episódios de ameaça/violência com precisão;
-- morte de Zé Caetano em 2006;
-- gestação e nascimento de Lelo;
-- mudança/retorno a Itaberaí;
-- separação em 2010;
-- apoio paterno e medidas posteriores com conferência documental futura.
+## ETAPA 07 — primeira obrigação
+Antes de escrever novos capítulos:
+1. auditar todo o material legado pós-2010;
+2. reconstruir cronologia de recomeço, nova relação, maternidade atingida, convivência/guarda e funcionamento automático;
+3. separar rigorosamente primeiro marido e relação identificada nos bastidores como `Chileno`;
+4. distinguir memória, relato, documento, interpretação e lacuna;
+5. dar destino explícito aos núcleos recuperados;
+6. decidir quantos capítulos a matéria exige;
+7. criar `MAPA_PARTE_III_ATUAL.md`;
+8. só então produzir prosa.
 
 ## Regras invioláveis
 - não inventar fatos biográficos;
 - não fingir memória onde existe relato recebido;
-- arquitetura pode mudar quando os fatos exigirem;
+- arquitetura pode mudar quando fatos exigirem;
 - não transformar infância em diagnóstico determinista;
 - não culpabilizar vítima nem retirar responsabilidade de quem pratica violência;
+- não diagnosticar terceiros quando a conduta pode ser descrita;
 - filhos permanecem pessoas, não provas narrativas;
-- não ensinar o método completo de Reposicione-se;
+- questões jurídicas recebem nível de evidência e verificação posterior;
+- não ensinar o método completo de Reposicione-se dentro deste livro;
 - atualizar status/histórico/snapshot em cada marco;
 - reler arquivos vivos antes de atualizar.
 
