@@ -10,7 +10,7 @@ A[MV-35\nO Óbvio Estava na Sala] --> B[MV-36\nA Pergunta no Ônibus\n● V1]
 B --> C[MV-37\nA Verdade que Deixou de Ser Versículo\n● V1]
 C --> D[MV-38\nA Matemática do Perdão\n● V1]
 D --> E[MV-39\nO Sepultamento Simbólico\n● V1.1]
-E --> F[MV-40\nA Investigadora Ganha Linguagem\n◑ arquitetura]
+E --> F[MV-40\nA Investigadora Ganha Linguagem\n● V1]
 F --> G[ETAPA 13\nA Mulher que Quase Não Viveu]
 ```
 
@@ -48,6 +48,16 @@ A[Interesse por comportamento] --> B[Estudos ao longo dos anos]
 B --> C[DISC Advanced\n17/11/2021 · 50h]
 C --> D[Master Love Professional\n19/11/2021 · 140h]
 D --> E[Formações continuam\nsem catálogo]
+```
+
+## Próximo movimento
+```mermaid
+flowchart LR
+A[Sei explicar a mulher que fui] --> B[Mas quem é a mulher sem função?]
+B --> C[ETAPA 13]
+C --> D[Experiência de presença]
+D --> E[Mulher Magnética / TCC\ncronologia a auditar]
+E --> F[Origem vivida de linguagem/projetos]
 ```
 
 ## Fronteiras
