@@ -24,13 +24,15 @@
 - Snapshot ETAPA 03 / LOTE 01: `ETAPAS/03_LOTE_01_PARTE_II_SEMENTE_SOLO_RAIZES_2026-09-10.md`.
 - Snapshot ETAPA 03 / LOTE 02: `ETAPAS/03_LOTE_02_PARTE_III_O_TRONCO_2026-09-10.md`.
 - Snapshot ETAPA 03 / LOTE 03: `ETAPAS/03_LOTE_03_PARTE_IV_OS_GALHOS_2026-09-10.md`.
+- Snapshot ETAPA 03 / LOTE 04: `ETAPAS/03_LOTE_04_PARTE_V_PRAGAS_INFLUENCIAS_JAULAS_2026-09-10.md`.
 - Manuscrito canônico em Markdown: **em produção em `MANUSCRITO/`**.
 - Pré-livro: **escrito em versão canônica alfa**.
 - Parte I — O Despertar: **4 capítulos escritos em versão canônica alfa**.
 - Parte II — Semente, Solo e Raízes: **4 capítulos escritos e revisados como arco único**.
 - Parte III — O Tronco: **4 capítulos escritos e revisados como arco único**.
 - Parte IV — Os Galhos: **4 capítulos escritos e revisados como arco único**.
-- Partes V a VII + Epílogo: **ainda por escrever**.
+- Parte V — Pragas, Influências e Jaulas: **5 capítulos escritos e revisados como arco único**.
+- Partes VI e VII + Epílogo: **ainda por escrever**.
 
 ## Etapas concluídas
 
@@ -38,13 +40,7 @@
 Resultado: hierarquia do método, arquitetura de 28 capítulos, Leis, dicionário, storytellings, exercícios, imagens, Kindle e fronteiras consolidados.
 
 ### ETAPA 02 — ARQUITETURA CANÔNICA + PRÉ-LIVRO + PRIMEIROS 10% — ✓ CONCLUÍDA
-Resultado:
-- microarquitetura dos 28 capítulos congelada;
-- área de manuscrito canônico criada;
-- Pré-livro reescrito e consolidado;
-- Parte I escrita integralmente;
-- Letreiro de Neon, Semeador, Cajueiro, contrato intelectual, Casa/Jaula, Sofá e primeira aplicação inseridos antes da escrita em massa;
-- material suficiente para a futura degustação Kindle encontrar o leitor já dentro do método, com recalibração exata reservada para a composição final.
+Resultado: microarquitetura congelada; área canônica de manuscrito criada; Pré-livro e Parte I escritos; abertura Kindle estruturada com Letreiro, Semeador, Cajueiro, contrato intelectual, Casa/Jaula, Sofá e primeira aplicação.
 
 ## ETAPA 03 — ESCRITA EM MASSA POR PARTES — ◐ EM PRODUÇÃO
 
@@ -55,62 +51,69 @@ Resultado: Semente/Solo/Raízes, Celular Configurado, mapas herdados, pertencime
 Resultado: Tronco, Alinhamento Interno, Corpo-Sismógrafo, Limite Sagrado, Acordos Conscientes e Leis 6–8 desenvolvidos com rigor, segurança e ponte para os Galhos.
 
 ### LOTE 03 — PARTE IV: OS GALHOS — ✓ CONCLUÍDO
+Resultado: Galhos, vínculos, trabalho/dinheiro/carreira/marca, fé/corpo/redes/política e Leis 9–11 integrados; Fuga Identitária fortalecida apenas como pergunta e ponte.
+
+### LOTE 04 — PARTE V: PRAGAS, INFLUÊNCIAS E JAULAS — ✓ CONCLUÍDO
 
 Arquivos canônicos:
-- `MANUSCRITO/04_PARTE_IV/13_O_MAPA_DOS_GALHOS.md`
-- `MANUSCRITO/04_PARTE_IV/14_AMOR_FAMILIA_E_VINCULOS.md`
-- `MANUSCRITO/04_PARTE_IV/15_TRABALHO_DINHEIRO_CARREIRA_E_MARCA_PESSOAL.md`
-- `MANUSCRITO/04_PARTE_IV/16_FE_CORPO_REDES_VIDA_PUBLICA_E_POLITICA.md`
+- `MANUSCRITO/05_PARTE_V/17_AS_PRAGAS_DA_ARVORE_AUTOPIEDADE_NAO_E_AUTOCOMPAIXAO.md`
+- `MANUSCRITO/05_PARTE_V/18_O_SONO_DA_NEGLIGENCIA.md`
+- `MANUSCRITO/05_PARTE_V/19_O_SOFA_QUENTE_DA_MENTIRA.md`
+- `MANUSCRITO/05_PARTE_V/20_QUEM_ESTA_PENSANDO_POR_VOCE.md`
+- `MANUSCRITO/05_PARTE_V/21_A_JAULA_ESTA_ABERTA.md`
 
 Resultados do lote:
-1. `Galho` consolidado como domínio contextual: um Fruto ou competência de uma área não define a Árvore inteira.
-2. `Mapa dos Galhos` incorporado com Fruto, posição e recurso existente por área.
-3. Transferência consciente de recurso ensinada sem copiar comportamento mecanicamente entre contextos.
-4. Lia identificou no Galho dinheiro o recurso `informação antes de compromisso` e o transferiu para pedidos em vínculos.
-5. Amor, família e vínculos passaram a distinguir vínculo, fusão, reciprocidade, dependência, honra, acesso, permanência, proteção e controle.
-6. `Sim Dourado` e `Não Limpo` foram recuperados como linguagem operacional, não fórmulas universais.
-7. `Abrace o Desconforto` foi semeada com qualificação de risco, sem antecipar sua síntese formal nem romantizar sofrimento.
-8. `Auditoria de Vínculo` incorporada por presença, reciprocidade, segurança e autoria.
-9. Letreiro de Neon recebeu segunda leitura em trabalho, dinheiro, carreira e marca pessoal.
-10. Valor humano, valor comunicado, contribuição profissional e preço foram separados; necessidade financeira foi tratada como condição de margem, não como medida de dignidade.
-11. Trabalho invisível, dever, favor, exploração, escopo e negociação foram organizados sem criar culpa automática.
-12. Como não havia episódio autobiográfico profissional confirmado, o Cap. 15 usou caso hipotético identificado como tal; nenhum fato foi inventado.
-13. Lei 9 — **Pense a Longo Prazo** nasceu no Cap. 15.
-14. Fé foi tratada como lente autoral e campo de discernimento, sem substituir contraditório ou evidência factual.
-15. Corpo foi tratado como Galho de cuidado sem virar tribunal de valor ou oráculo.
-16. Redes/ambiente digital foram tratados como influência e exposição, não controle mental.
-17. Política entrou como laboratório de simetria e discernimento, sem propaganda partidária ou diagnóstico de campo ideológico.
-18. Leis 10 — **Filtre Suas Influências** e 11 — **Resista à Manada** nasceram no Cap. 16.
-19. Fuga Identitária foi nomeada pela pergunta `essa posição tem minha assinatura ou foi terceirizada?`, com anatomia integral preservada para o Livro 3.
-20. A Parte fecha preparando Pragas, Sono, Sofá, influência aprofundada e a arquitetura completa da Jaula.
+1. Pragas consolidadas como mecanismos de drenagem/distorção, nunca pessoas ou diagnósticos.
+2. Autopiedade separada de autocompaixão, dor legítima, limitação, doença, exaustão e necessidade de ajuda.
+3. `Ganhos de permanência` refinado para `o que a posição evita, preserva ou torna previsível no curto prazo`.
+4. Sono da Negligência escrito como o importante que permanece fora da decisão consciente enquanto a vida continua funcionando.
+5. Descanso, prudência, espera estratégica e falta real de informação/recurso/segurança não foram confundidos com negligência.
+6. Lei 2 — **Não Ignore o Óbvio** — amadurecida no Cap. 18.
+7. `Você no Automático` incorporado.
+8. Sofá Quente da Mentira consolidado como função de alívio/familiaridade/narrativa conveniente que pode cobrar custo futuro.
+9. Descanso saudável explicitamente protegido contra confusão com Sofá.
+10. Lei 9 — **Pense a Longo Prazo** — amadurecida no Cap. 19.
+11. `Custo do Sofá` incorporado.
+12. Influência tratada como inevitável; o problema é entrega de governo da consciência, não o fato de aprender com outras pessoas.
+13. Voz que orienta, voz que ocupa e voz que a pessoa chama de sua foram distinguidas.
+14. Leis 10 — **Filtre Suas Influências** e 11 — **Resista à Manada** aprofundadas no Cap. 20.
+15. Repetição digital tratada como familiaridade/acessibilidade possível, nunca controle mental ou crença automática.
+16. Fuga Identitária nomeada com força pela pergunta `essa posição tem minha assinatura ou foi terceirizada?`, com anatomia preservada para o Livro 3.
+17. Jaula consolidada como arquitetura simbólica de permanência/restrição, não método concorrente nem diagnóstico.
+18. Barras internas, relacionais, institucionais e materiais separadas.
+19. Porta Possível desenvolvida por segurança, recurso, rede, risco, coerção, dependência e reversibilidade.
+20. `não quero sair`, `não consigo sair ainda`, `não é seguro sair agora` e `não sabia que havia alternativa` foram distinguidos.
+21. `A JAULA ESTÁ ABERTA` recebeu forma completa: evidência/margem percebida para investigar a permanência; nunca `saia agora` ou prova de consentimento.
+22. Soleira introduzida como transição entre ver a possibilidade e sustentar nova posição.
+23. `Abrace o Desconforto` semeada/qualificada sem romantizar risco ou sofrimento.
+24. `Mapa Jaula / Porta Possível` incorporado.
+25. A Parte fecha exigindo verificação: depois de enxergar a arquitetura, o leitor precisa passar pelo Filtro antes da travessia.
 
 ## Lote ativo
 
-# ETAPA 03 — LOTE 04 — PARTE V: PRAGAS, INFLUÊNCIAS E JAULAS — CAPÍTULOS 17 A 21
+# ETAPA 03 — LOTE 05 — PARTE VI: FILTRO, EVIDÊNCIAS E ESPELHOS — CAPÍTULOS 22 A 24
 
 Capítulos:
-17. **As Pragas da Árvore: Autopiedade não é Autocompaixão**
-18. **O Sono da Negligência**
-19. **O Sofá Quente da Mentira**
-20. **Quem Está Pensando por Você?**
-21. **A Jaula Está Aberta**
+22. **Metacognição e Filtro da Sensatez**
+23. **Cadeia de Resultados, Evidências e Custos**
+24. **Os 14 Espelhos do Posicionamento**
 
 ### Objetivos do lote
-1. tratar Pragas como mecanismos de drenagem/distorção, nunca como pessoas;
-2. distinguir autopiedade, autocompaixão, dor legítima, impossibilidade real e ruminação sem diagnóstico de `vitimismo`;
-3. escrever Sono da Negligência como o importante que permanece fora da decisão consciente, distinguindo negligência de descanso e de falta real de informação, recurso ou segurança;
-4. desenvolver Sofá Quente da Mentira como familiaridade, justificativa e alívio de curto prazo que podem cobrar custo futuro, sem confundi-lo com descanso saudável;
-5. aprofundar vozes, influência, pertencimento, repetição digital e autonomia sem demonizar influência externa;
-6. fazer Leis 10 e 11 retornarem com função nova no Cap. 20;
-7. nomear Fuga Identitária com força como ponte, sem desenvolver sua anatomia — matéria do Livro 3;
-8. consolidar a Casa/Jaula, barras internas, relacionais, institucionais e materiais;
-9. desenvolver Porta Possível, recursos, rede, risco, coerção, dependência e reversibilidade;
-10. preservar `A JAULA ESTÁ ABERTA` como comando de evidência percebida, nunca como `saia agora`;
-11. semear/aprofundar a lógica de `Abrace o Desconforto` com segurança, sem antecipar a síntese formal do Cap. 25;
-12. incorporar `Autopiedade × Autocompaixão`, `Você no Automático`, `Custo do Sofá`, `Filtrar Influências/Teste de Autonomia` e `Mapa Jaula/Porta Possível` conforme carga cognitiva prevista;
-13. usar Lia apenas quando demonstrar progressão real do método;
-14. fechar a Parte preparando `PARTE VI — FILTRO, EVIDÊNCIAS E ESPELHOS`;
-15. salvar tudo em `MANUSCRITO/05_PARTE_V/`, revisar o arco, atualizar status/histórico/alegações e criar snapshot antes do LOTE 05.
+1. consolidar Mirante/metacognição como capacidade de observar a própria leitura sem transformar análise em residência;
+2. escrever o `Filtro da Sensatez™` completo com as 12 perguntas oficiais e regra de parada;
+3. fazer nascer a Lei 12 — **Exerça Seu Próprio Discernimento** sem transformar discernimento em licença para confirmar preconceito;
+4. incorporar verdade, evidência, contraditório, simetria, direito/dever/acordo, poder, risco, recurso, custo, reversibilidade e posição possível;
+5. preservar `Conhecereis a verdade...` como lente autoral/teológica sem promessa causal automática;
+6. se a cena Metrôbus continuar sem confirmação factual, usar caso hipotético claramente identificado e não inventar autobiografia;
+7. escrever a Cadeia de Resultados sem cair em `pensamento cria destino`, integrando crenças/valores, emoção, hábito, corpo, contexto, informação, incentivos, risco, coerção, recursos e opções percebidas;
+8. diferenciar governabilidade própria, influência parcial, fora da governabilidade e desconhecido;
+9. aprofundar evidência e custos em curto/médio/longo prazo, fazendo Leis 1 e 9 retornarem com função nova;
+10. escrever os 14 Espelhos como modos contextuais de posicionamento, nunca tipos fixos de pessoa, diagnóstico ou identidade;
+11. preservar sete clássicos + sete amplificados pelo Novo Mundo conforme cânone, com resumo suficiente no livro e teste completo no Workbook;
+12. semear a Lei 14 — **Seja Sensata e Inteira** sem antecipar sua síntese final do Cap. 28;
+13. usar Lia apenas para demonstrar passagem pelo Filtro/Cadeia/Espelho, sem fazê-la saber mais do que já aprendeu;
+14. fechar a Parte preparando `PARTE VII — PODA, NOVA SEMENTE E FRUTOS`;
+15. salvar tudo em `MANUSCRITO/06_PARTE_VI/`, revisar o arco, atualizar status/histórico/alegações e criar snapshot antes do LOTE 06.
 
 ## Arquivos que governam a escrita
 
