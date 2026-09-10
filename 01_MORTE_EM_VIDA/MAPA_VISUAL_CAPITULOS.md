@@ -2,24 +2,31 @@
 
 Este arquivo mostra a sequência operacional de escrita. Para funções detalhadas, consultar `MAPA_CAPITULOS.md`.
 
-## Abertura + Parte I
+## Abertura + Parte I — estado após ETAPA 04
 ```mermaid
 flowchart LR
 A[MV-00 Nota Forense\nA Cadáver Está Viva] --> B[MV-01 Oito dias antes]
 B --> C[MV-02 Dezoito de Julho]
 C --> D[MV-03 Berço ao Lado do Caixão]
-D --> I1[MV-I01 Reino das Galinhas]
+D --> I1[MV-I01 Debaixo do Girau]
 I1 --> E[MV-04 A Menina que Não Pediu]
 E --> F[MV-05 O Cheiro do Silêncio]
 F --> G[MV-06 Eu Queria Ser um Anjo]
 G --> H[MV-07 Os Dois Caminhos]
-H --> I2[MV-I02 Mangas]
-I2 --> J[MV-08 Primeira da Classe]
+H --> J[MV-08 Primeira da Classe\nEstrela Vermelha]
 J --> K[MV-09 O Homem dos Picolés]
-K --> I3[MV-I03 Caminho das Águas]
-I3 --> L[MV-10 Quando a Água Quase Levou]
+K --> L[MV-10 Quando a Água Quase Levou]
 L --> M[MV-11 O Que uma Criança Aprende sem Aula]
+
+R1[RESERVA\nReino das Galinhas] -. pode voltar na revisão .-> I1
+R2[MV-I02 Mangas\nRESERVADO] -. pode entrar como respiro .-> J
+R3[MV-I03 Caminho das Águas\nRESERVADO] -. não confundir com Marcos .-> L
 ```
+
+### Estado da Parte I
+- ● escritos: MV-00 a MV-11 + MV-I01 Debaixo do Girau;
+- ◐ reservas: Reino das Galinhas, MV-I02 Mangas e MV-I03 Caminho das Águas;
+- próxima ação após ETAPA 04: revisão integrada e ponte para Parte II.
 
 ## Parte II
 ```mermaid
@@ -80,6 +87,8 @@ F -. fechamento .-> G[MV-43 Sepultamento]
 H[MV-28 Funcionando] -. revelação .-> I[MV-29 Cadáver que Tomava Café]
 J[MV-33/36 O Óbvio] -. síntese .-> K[MV-42 Não Ignore o Óbvio]
 L[MV-43 Sepultamento] --> M[MV-45 Posicionamento]
+N[MV-I01 Girau\nvoz em espaço escondido] -. transformação .-> O[autoria / voz adulta]
+P[MV-08 Estrela\nvalor por competência] -. contraste .-> Q[competência externa x presença interna]
 ```
 
-**Regra:** o mapa visual acompanha o `MAPA_CAPITULOS.md`. Mudanças importantes devem ser versionadas.
+**Regra:** o mapa visual acompanha o estado real do manuscrito. Mudanças importantes devem ser versionadas.
