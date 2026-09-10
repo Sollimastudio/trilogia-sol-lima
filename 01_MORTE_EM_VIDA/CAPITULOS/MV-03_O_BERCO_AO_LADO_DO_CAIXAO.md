@@ -1,25 +1,25 @@
 # MV-03 — O Berço ao Lado do Caixão
 
-**Status:** ● primeira escrita  
+**Status:** ● primeira escrita revisada  
 **Parte:** I — A menina que aprendeu a desaparecer  
 **Lote:** 01 — Origem, vida e morte  
-**Versão:** V1 — 10/09/2026
+**Versão:** V1.1 — 10/09/2026
 
 ## Controle editorial
 **Função:** mostrar como a narradora recebeu a própria origem através da memória familiar.  
 **Tema-semente:** culpa sem autoria / morte sem cadáver, ainda sem conclusão.  
 **Regra:** “berço ao lado do caixão” é imagem estrutural; não afirmar proximidade física literal sem confirmação.  
-**Eco:** Sepultamento Simbólico e Nota Forense final.
+**Eco:** fechamento da obra, sem antecipá-lo nominalmente aqui.
 
 ---
 
-## TEXTO LITERÁRIO — V1
+## TEXTO LITERÁRIO — V1.1
 
 O berço ao lado do caixão não é uma fotografia que eu possua.
 
 É uma imagem que minha história produziu.
 
-Preciso deixar isso claro porque durante anos houve coisas tão repetidas ao meu redor que ganharam aparência de lembrança. Eu sabia que tinha nascido no dia em que Oripe morreu. Sabia que minha mãe tinha acabado de parir. Sabia que existira velório, resguardo, luto. Sabia que a data do meu aniversário também abria outra gaveta dentro da família.
+Durante anos houve coisas tão repetidas ao meu redor que ganharam aparência de lembrança. Eu sabia que tinha nascido no dia em que Oripe morreu. Sabia que minha mãe tinha acabado de parir. Sabia que existira velório, resguardo, luto. Sabia que a data do meu aniversário também abria outra gaveta dentro da família.
 
 Com o tempo, nascimento e morte ficaram tão próximos na narrativa que minha cabeça fez aquilo que cabeças fazem muito bem: transformou proximidade de significado em imagem.
 
@@ -59,7 +59,9 @@ E havia uma ausência com nome.
 
 Oripe.
 
-Eu não tinha vocabulário para compreender o que acontecia com os adultos quando a minha data chegava. Crianças raramente recebem um relatório completo do sistema emocional da família. Elas observam.
+Eu não tinha vocabulário para compreender o que acontecia com os adultos quando a minha data chegava. Crianças raramente recebem um relatório completo do sistema emocional da família.
+
+Elas observam.
 
 Um rosto muda.
 
@@ -77,19 +79,17 @@ Não porque ninguém pudesse me amar.
 
 Mas porque a data carregava alguém que faltava.
 
-Por muitos anos, eu não soube separar completamente essas duas coisas.
-
 Havia ainda outra história.
 
 Minha mãe dizia que adoecera depois do meu nascimento porque quebrara o resguardo ao ir ao velório de Oripe e pegar friagem.
 
 Essa era a explicação dela.
 
-Não é minha função transformá-la em diagnóstico médico retroativo nem provar uma causa que não posso provar.
+Não sei transformá-la em diagnóstico médico e não preciso.
 
-Mas uma criança não precisa de prontuário para sentir o peso de uma frase.
+Uma criança não escuta uma frase dessas com a cabeça de um médico.
 
-Quando a história de uma doença passa por uma sequência que começa com “depois que você nasceu”, a lógica infantil pode ser muito menos sofisticada do que a dos adultos.
+Escuta com a lógica que possui.
 
 Nasci.
 
@@ -99,11 +99,11 @@ Foi ao velório.
 
 Adoeceu.
 
-Eu não produzia um artigo científico sobre causalidade.
+A menina não produz um estudo sobre causalidade.
 
-Eu produzia culpa.
+Produz associação.
 
-Ou, talvez, algo ainda mais difícil de perceber: uma necessidade de compensar.
+E, no meu caso, produziu também uma sensação difícil de separar de culpa e necessidade de compensar.
 
 Ser útil.
 
@@ -113,89 +113,55 @@ Não dar trabalho demais.
 
 Tentar melhorar o ambiente.
 
-Eu não sabia chamar isso de compensação.
+Eu não chamava isso de compensação.
 
 Do mesmo modo que não sabia dizer que queria um abraço quando o que sentia era uma falta sem nome.
 
 Eu apenas me aproximava da vida com as ferramentas que tinha.
 
-E as ferramentas de uma criança são muito simples.
+E as ferramentas de uma criança são pequenas.
 
 Ela percebe.
 
-Ela associa.
+Associa.
 
-Ela tenta resolver.
+Tenta resolver.
 
-Às vezes tenta resolver inclusive aquilo que nunca esteve sob sua responsabilidade.
+Às vezes tenta resolver inclusive aquilo sobre o qual nunca teve poder.
 
-Hoje consigo olhar para aquela menina e dizer uma coisa que ela demorou demais para ouvir:
+A menina não pensava em responsabilidade individual.
 
-uma pessoa pode nascer no dia de uma morte sem ter causado a morte.
+Não pensava em fronteiras emocionais.
 
-Pode chegar durante um luto sem ser responsável por curá-lo.
+Não pensava em narrativas familiares.
 
-Pode ser amada por pessoas que sofrem e não ter obrigação de acabar com o sofrimento delas.
+Ela olhava.
 
-Mas eu não vou entregar essa conclusão à menina cedo demais.
+Sentia.
 
-Ela ainda não chegou lá.
+E tentava descobrir o que fazer para que o ambiente ficasse um pouco menos pesado.
 
-Se eu colocar minha consciência de hoje dentro da cabeça dela, destruo justamente aquilo que preciso investigar.
+Décadas depois, eu voltaria a esse começo com perguntas que ela ainda não sabia fazer.
 
-A menina não pensa em fronteiras emocionais.
+Mas não quero entregar a resposta agora.
 
-Não pensa em responsabilidade individual.
+Porque naquele momento a parte mais importante da história não era o que eu compreenderia um dia.
 
-Não pensa em narrativas familiares transgeracionais.
+Era o que eu estava vivendo sem compreender.
 
-Ela olha.
-
-Ela sente.
-
-E tenta descobrir o que deve fazer para que as pessoas fiquem bem.
-
-Durante muito tempo, achei que a parte mais importante da minha origem fosse ter nascido no mesmo dia em que Oripe morreu.
-
-Hoje penso diferente.
-
-Talvez o mais importante seja observar **o que fiz com essa informação depois que ela chegou até mim**.
-
-Não naquele dia.
-
-Eu era um bebê.
-
-Depois.
-
-Quando comecei a entender tristeza.
-
-Quando comecei a notar datas.
-
-Quando percebi que existiam dores anteriores a mim.
-
-Quando comecei, sem perceber, a tentar ocupar posições dentro de uma história que já estava em andamento antes da minha chegada.
-
-O berço e o caixão, então, não são apenas dois objetos.
-
-São a primeira imagem desta investigação.
+O berço e o caixão, então, ficam aqui como a primeira imagem desta investigação.
 
 Um representa uma vida que começava sem saber de nada.
 
-O outro representa uma história que terminava sem que aquela criança tivesse qualquer poder sobre ela.
+O outro, uma história que terminava sem que aquela criança tivesse qualquer poder sobre ela.
 
-Entre os dois existe uma distância que eu levaria anos para aprender a medir.
+Entre os dois existe uma distância que eu levaria muitos anos para aprender a medir.
 
-Muito mais tarde, eu entenderia que algumas mortes não possuem cadáver.
+Por enquanto, porém, quero sair dessa sala imaginária.
 
-Mais tarde ainda, eu faria um sepultamento que ninguém daquela família poderia ter imaginado em 1978.
+Quero deixar o luto com os adultos por algumas páginas.
 
-Mas isso pertence ao fim.
-
-Por enquanto, quero sair do caixão.
-
-Quero deixar o luto na sala dos adultos por algumas páginas.
-
-Porque, apesar de tudo que um dia eu usaria para explicar meu desaparecimento, havia uma menina ali.
+Porque havia uma menina ali.
 
 E ela não passava a infância inteira pensando em morte.
 
@@ -205,8 +171,16 @@ Cantava.
 
 Inventava coisas.
 
-Criava territórios onde podia mandar mais do que qualquer adulto sensato deveria permitir.
+Criava mundos com o que encontrava.
 
-Em algum lugar dessa infância havia galinhas.
+À noite, havia um colchão de palha e medos que eu ainda não sabia nomear.
 
-E, por algum motivo, onde havia galinhas, eu conseguia construir um reino.
+Quando amanhecia, as coisas voltavam aos seus lugares comuns.
+
+E existia um canto onde eu conseguia fazer algo que, em outros lugares, parecia mais difícil.
+
+Soltar a voz.
+
+Meu primeiro palco não ficava em cima.
+
+Ficava debaixo de um girau.
