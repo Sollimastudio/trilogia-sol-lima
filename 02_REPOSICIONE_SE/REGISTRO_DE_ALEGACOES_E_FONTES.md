@@ -1,0 +1,65 @@
+# REGISTRO DE ALEGAÇÕES E FONTES — REPOSICIONE-SE
+
+**Data de criação:** 10/09/2026  
+**Origem:** ETAPA 01 — Auditoria Integral do Método.  
+**Status:** estrutura criada; pesquisa externa e validação especializada ficam para etapa própria.
+
+## Regra
+
+Toda afirmação clínica, psicológica, neurológica, médica, jurídica, estatística, histórica, sociológica ou teológica verificável deve ser registrada antes da publicação quando sua sustentação for relevante para a credibilidade da obra.
+
+Campos:
+- **ID**;
+- **alegação/tema**;
+- **natureza**: fato / interpretação / metáfora / hipótese / posição autoral;
+- **fonte necessária**;
+- **limite que precisa aparecer no texto**;
+- **casa editorial**;
+- **status**.
+
+## Registro inicial
+
+| ID | Alegação/tema | Natureza | Fonte necessária | Limite obrigatório | Casa | Status |
+|---|---|---|---|---|---|---|
+| AF-001 | metacognição permite observar/revisar o próprio processo cognitivo | psicológica/neurocognitiva | revisão técnica/primária | não prometer controle total nem mudança automática | Caps. 4/22 | pendente |
+| AF-002 | aprendizagem, repetição e familiaridade podem estabilizar respostas/hábitos | psicológica | revisão técnica | não usar `reprogramação`, prazo universal ou determinismo | Caps. 6/27 | pendente |
+| AF-003 | neuroplasticidade participa de aprendizagem e adaptação | neurocientífica | revisão técnica contemporânea | não dizer que qualquer crença pode ser `desinstalada` por decisão simples | Cap. 6 | pendente |
+| AF-004 | sinais corporais/interocepção podem informar estados sem provar interpretação | clínica/neurocientífica | revisão técnica | corpo não é oráculo nem detector infalível de verdade | Cap. 10 | pendente |
+| AF-005 | controle coercitivo pode reduzir opções percebidas/reais e aumentar risco | clínica/social/jurídica | diretrizes técnicas/oficiais | não diagnosticar situação individual; segurança vem antes de confronto | Cap. 21 | pendente |
+| AF-006 | dependência econômica, filhos, moradia e rede podem limitar saída | social/segurança | fontes técnicas/oficiais | não concluir que permanência é escolha livre | Caps. 21/26 | pendente |
+| AF-007 | planos `se–então` podem apoiar execução de intenções | psicológica | literatura sobre intenções de implementação | não prometer aderência garantida | Cap. 27 | pendente |
+| AF-008 | primeira impressão e leitura de sinais interpessoais | psicológica | verificar estudo primário antes de qualquer número/tempo | retirar números como `33 ms` se não forem necessários e robustos | Cap. 1 | pendente |
+| AF-009 | locus de controle, agência e percepção de influência sobre resultados | psicológica | fonte original + revisão | não afirmar que locus externo é causa universal da falta de posicionamento | Caps. 3/25 | pendente |
+| AF-010 | ruminação pode manter sofrimento ou bloquear decisão | psicológica | revisão técnica | não diagnosticar ruminação por comportamento isolado | Caps. 4/17/22 | pendente |
+| AF-011 | autopiedade como conceito pedagógico | posição autoral com interface psicológica | definir sem reivindicar constructo clínico próprio | tratar como mecanismo possível, nunca diagnóstico | Cap. 17 | autoral / revisar linguagem |
+| AF-012 | `Feminicídio Emocional` | conceito autoral/metafórico | cânone + revisão jurídica de nomenclatura | não apresentar como tipificação penal ou diagnóstico clínico | Pré-livro | canônico / revisar uso |
+| AF-013 | Parábola do Semeador — semente como palavra/mensagem e quatro solos | teológica/bíblica | texto bíblico + referência teológica se necessário | distinguir sentido bíblico da adaptação pedagógica de Sol | Pré/Cap. 5 | pendente de citação final |
+| AF-014 | `Conhecereis a verdade e a verdade vos libertará` | bíblica/teológica | texto bíblico/contexto | não usar como promessa causal de solução automática | Pré/Cap. 22 | pendente de citação final |
+| AF-015 | `Pelos frutos se conhece a árvore` | bíblica/teológica | texto bíblico/contexto | usar como lente autoral; Fruto do método continua evidência parcial | Pré/Cap. 2 | pendente de citação final |
+| AF-016 | algoritmo/repetição pode influenciar exposição e familiaridade | tecnologia/comportamento | fontes técnicas/empíricas | não afirmar `algoritmo controla a mente` | Caps. 6/20 | pendente |
+| AF-017 | pertencimento e validação podem influenciar decisão | psicológica/social | revisão técnica | não patologizar necessidade humana de pertencer | Caps. 8/20 | pendente |
+| AF-018 | críticas podem conter dado útil e também agressão | pedagógica/posição autoral | não exige fonte para distinção básica; revisar exemplos | não obrigar leitor a absorver violência para `aprender verdade` | Cap. 22 | revisão editorial |
+| AF-019 | política e identidade de grupo | social/política | fontes apenas quando houver alegação factual/populacional | não diagnosticar campos políticos; régua simétrica | Cap. 16 | pendente conforme prosa |
+| AF-020 | recaída/reaparecimento de padrão não equivale a retorno ao ponto zero | pedagógica/comportamental | literatura de mudança comportamental se alegação técnica | apresentar como regra pedagógica, não garantia clínica | Cap. 27 | pendente |
+
+## Alegações que NÃO entram sem fonte forte ou devem ser reformuladas
+
+- `a neurociência comprova que...` como autoridade genérica;
+- `o sistema límbico do outro sabe quem você é`;
+- `você não engana o instinto`;
+- `tudo é programado antes dos sete anos`;
+- `o cérebro funciona como software`;
+- `basta mudar pensamento para mudar fruto`;
+- `o corpo nunca mente`;
+- `uma geração é...` como diagnóstico populacional;
+- `homens são...` / `mulheres fazem...` como regra universal;
+- `se a pessoa quisesse, já teria saído`;
+- promessa de prazo fixo para reprogramação, hábito ou reposicionamento.
+
+## Protocolo de atualização
+
+Na escrita de cada capítulo, toda afirmação verificável nova recebe um ID antes de ser tratada como factual. Se não houver fonte suficiente, uma destas ações deve ocorrer:
+1. reduzir a amplitude;
+2. marcar como posição autoral/hipótese;
+3. substituir por linguagem observacional;
+4. retirar.
