@@ -15,7 +15,8 @@ Depois da leitura obrigatória definida no `START_HERE.md` da raiz, leia nesta o
 9. `HISTORICO_ETAPAS.md`
 10. `PROMPTS/PROMPTS_MESTRES_DE_PRODUCAO.md`
 11. `PROMPTS/ROTEIRO_DE_ETAPAS_E_COMANDOS.md`
-12. arquivos do lote ativo.
+12. `PROMPTS/ETAPA_06_COMANDO_ATUAL.md`
+13. arquivos do lote ativo.
 
 ## Estado atual
 - ETAPA 00 — ✓ Mapa-mãe macro
@@ -46,7 +47,9 @@ Consultar `MAPA_PARTE_II_ATUAL.md`. Ela prevalece sobre a antiga ordem conceitua
 Reservas não bloqueiam produção e não autorizam invenção.
 
 ## Comando atual
-Executar a **ETAPA 06 / LOTE 05 — vida conjugal, maternidade, competência, normalização, risco e ruptura (1994–2010)**.
+Executar integralmente `PROMPTS/ETAPA_06_COMANDO_ATUAL.md`.
+
+A ETAPA 06 cobre **vida conjugal, maternidade, competência, normalização, risco e ruptura (1994–2010)**.
 
 ### Primeiro movimento obrigatório
 Antes de escrever MV-17 a MV-22:
