@@ -23,12 +23,14 @@
 - Snapshot ETAPA 02: `ETAPAS/02_ARQUITETURA_PRE_LIVRO_E_10_KINDLE_2026-09-10.md`.
 - Snapshot ETAPA 03 / LOTE 01: `ETAPAS/03_LOTE_01_PARTE_II_SEMENTE_SOLO_RAIZES_2026-09-10.md`.
 - Snapshot ETAPA 03 / LOTE 02: `ETAPAS/03_LOTE_02_PARTE_III_O_TRONCO_2026-09-10.md`.
+- Snapshot ETAPA 03 / LOTE 03: `ETAPAS/03_LOTE_03_PARTE_IV_OS_GALHOS_2026-09-10.md`.
 - Manuscrito canônico em Markdown: **em produção em `MANUSCRITO/`**.
 - Pré-livro: **escrito em versão canônica alfa**.
 - Parte I — O Despertar: **4 capítulos escritos em versão canônica alfa**.
 - Parte II — Semente, Solo e Raízes: **4 capítulos escritos e revisados como arco único**.
 - Parte III — O Tronco: **4 capítulos escritos e revisados como arco único**.
-- Partes IV a VII + Epílogo: **ainda por escrever**.
+- Parte IV — Os Galhos: **4 capítulos escritos e revisados como arco único**.
+- Partes V a VII + Epílogo: **ainda por escrever**.
 
 ## Etapas concluídas
 
@@ -50,55 +52,65 @@ Resultado:
 Resultado: Semente/Solo/Raízes, Celular Configurado, mapas herdados, pertencimento, merecimento, Lei 5 e ferramentas correlatas escritos e integrados; Parte fechada preparando o Tronco.
 
 ### LOTE 02 — PARTE III: O TRONCO — ✓ CONCLUÍDO
+Resultado: Tronco, Alinhamento Interno, Corpo-Sismógrafo, Limite Sagrado, Acordos Conscientes e Leis 6–8 desenvolvidos com rigor, segurança e ponte para os Galhos.
+
+### LOTE 03 — PARTE IV: OS GALHOS — ✓ CONCLUÍDO
 
 Arquivos canônicos:
-- `MANUSCRITO/03_PARTE_III/09_O_TRONCO_O_QUE_VOCE_SUSTENTA_QUANDO_CUSTA.md`
-- `MANUSCRITO/03_PARTE_III/10_SOBERANIA_INTERNA_E_CORPO_SISMOGRAFO.md`
-- `MANUSCRITO/03_PARTE_III/11_O_LIMITE_SAGRADO.md`
-- `MANUSCRITO/03_PARTE_III/12_ACORDOS_CONSCIENTES.md`
+- `MANUSCRITO/04_PARTE_IV/13_O_MAPA_DOS_GALHOS.md`
+- `MANUSCRITO/04_PARTE_IV/14_AMOR_FAMILIA_E_VINCULOS.md`
+- `MANUSCRITO/04_PARTE_IV/15_TRABALHO_DINHEIRO_CARREIRA_E_MARCA_PESSOAL.md`
+- `MANUSCRITO/04_PARTE_IV/16_FE_CORPO_REDES_VIDA_PUBLICA_E_POLITICA.md`
 
 Resultados do lote:
-1. Tronco consolidado como valores, identidade praticada, limites e sustentação quando existe custo, sem virar rigidez ou performance.
-2. Lei 7 — **Assuma Sua Responsabilidade** amadurecida como `assuma o que é seu, não tudo`.
-3. `Alinhamento Interno` incorporado como ponte entre valor, conduta, custo, responsabilidade distribuída e ação pequena.
-4. `Corpo-Sismógrafo` consolidado: `Sinal → Contexto → Interpretação → Alternativas → Verificação → Decisão proporcional`.
-5. Regra central preservada: **o corpo oferece sinais. Não vereditos.**
-6. Lei 6 — **Cultive o Silêncio Mental** nasceu sem repressão, misticismo ou performance de calma.
-7. `Limite Sagrado` escrito como contorno e ação sob governabilidade própria, nunca controle da consciência alheia.
-8. Risco, coerção, dependência, ameaça e recursos entram antes de prescrição de confronto.
-9. `Roteiro de Limite Responsável` incorporado.
-10. `Acordos Conscientes` distingue pedido, limite, acordo, exigência e dever e considera possibilidade real de recusa.
-11. Lei 8 — **Cumpra Seu Dever** nasceu sem santificar papel imposto, abuso ou expectativa invisível.
-12. `Ficha do Acordo Consciente` incorporada.
-13. Lia avançou de compreensão para sustentação sem receber diagnóstico.
-14. Material antigo com neurociência simplificada ou regras absolutas de limite foi deliberadamente rejeitado.
-15. A Parte fecha preparando os Galhos: uma pessoa pode sustentar posições diferentes em áreas diferentes.
+1. `Galho` consolidado como domínio contextual: um Fruto ou competência de uma área não define a Árvore inteira.
+2. `Mapa dos Galhos` incorporado com Fruto, posição e recurso existente por área.
+3. Transferência consciente de recurso ensinada sem copiar comportamento mecanicamente entre contextos.
+4. Lia identificou no Galho dinheiro o recurso `informação antes de compromisso` e o transferiu para pedidos em vínculos.
+5. Amor, família e vínculos passaram a distinguir vínculo, fusão, reciprocidade, dependência, honra, acesso, permanência, proteção e controle.
+6. `Sim Dourado` e `Não Limpo` foram recuperados como linguagem operacional, não fórmulas universais.
+7. `Abrace o Desconforto` foi semeada com qualificação de risco, sem antecipar sua síntese formal nem romantizar sofrimento.
+8. `Auditoria de Vínculo` incorporada por presença, reciprocidade, segurança e autoria.
+9. Letreiro de Neon recebeu segunda leitura em trabalho, dinheiro, carreira e marca pessoal.
+10. Valor humano, valor comunicado, contribuição profissional e preço foram separados; necessidade financeira foi tratada como condição de margem, não como medida de dignidade.
+11. Trabalho invisível, dever, favor, exploração, escopo e negociação foram organizados sem criar culpa automática.
+12. Como não havia episódio autobiográfico profissional confirmado, o Cap. 15 usou caso hipotético identificado como tal; nenhum fato foi inventado.
+13. Lei 9 — **Pense a Longo Prazo** nasceu no Cap. 15.
+14. Fé foi tratada como lente autoral e campo de discernimento, sem substituir contraditório ou evidência factual.
+15. Corpo foi tratado como Galho de cuidado sem virar tribunal de valor ou oráculo.
+16. Redes/ambiente digital foram tratados como influência e exposição, não controle mental.
+17. Política entrou como laboratório de simetria e discernimento, sem propaganda partidária ou diagnóstico de campo ideológico.
+18. Leis 10 — **Filtre Suas Influências** e 11 — **Resista à Manada** nasceram no Cap. 16.
+19. Fuga Identitária foi nomeada pela pergunta `essa posição tem minha assinatura ou foi terceirizada?`, com anatomia integral preservada para o Livro 3.
+20. A Parte fecha preparando Pragas, Sono, Sofá, influência aprofundada e a arquitetura completa da Jaula.
 
 ## Lote ativo
 
-# ETAPA 03 — LOTE 03 — PARTE IV: OS GALHOS — CAPÍTULOS 13 A 16
+# ETAPA 03 — LOTE 04 — PARTE V: PRAGAS, INFLUÊNCIAS E JAULAS — CAPÍTULOS 17 A 21
 
 Capítulos:
-13. **O Mapa dos Galhos**
-14. **Amor, Família e Vínculos**
-15. **Trabalho, Dinheiro, Carreira e Marca Pessoal**
-16. **Fé, Corpo, Redes, Vida Pública e Política**
+17. **As Pragas da Árvore: Autopiedade não é Autocompaixão**
+18. **O Sono da Negligência**
+19. **O Sofá Quente da Mentira**
+20. **Quem Está Pensando por Você?**
+21. **A Jaula Está Aberta**
 
 ### Objetivos do lote
-1. demonstrar que um Fruto ou uma competência de um Galho não define a árvore inteira;
-2. ensinar transferência consciente de recursos entre Galhos;
-3. aplicar Tronco, limites e acordos em vínculos sem recontar `Morte em Vida`;
-4. distinguir vínculo, fusão, reciprocidade, dependência, honra, acesso, permanência, proteção e controle;
-5. semear a Lei 13 — Abrace o Desconforto sem romantizar sofrimento;
-6. fazer a segunda leitura do Letreiro de Neon em trabalho, dinheiro, carreira e marca pessoal;
-7. distinguir valor humano, valor comunicado, preço profissional, dever, favor e exploração;
-8. fazer nascer a Lei 9 — Pense a Longo Prazo;
-9. trabalhar fé, corpo, redes, vida pública e política sob simetria e discernimento, sem propaganda partidária;
-10. fazer nascer as Leis 10 — Filtre Suas Influências e 11 — Resista à Manada;
-11. usar Lia apenas quando demonstrar transferência de recurso entre Galhos;
-12. preservar Fuga Identitária apenas como pergunta/semente do Livro 3;
-13. fechar a Parte preparando `PARTE V — PRAGAS, INFLUÊNCIAS E JAULAS`;
-14. salvar tudo em `MANUSCRITO/04_PARTE_IV/`, revisar o arco, atualizar status/histórico/alegações e criar snapshot antes do LOTE 04.
+1. tratar Pragas como mecanismos de drenagem/distorção, nunca como pessoas;
+2. distinguir autopiedade, autocompaixão, dor legítima, impossibilidade real e ruminação sem diagnóstico de `vitimismo`;
+3. escrever Sono da Negligência como o importante que permanece fora da decisão consciente, distinguindo negligência de descanso e de falta real de informação, recurso ou segurança;
+4. desenvolver Sofá Quente da Mentira como familiaridade, justificativa e alívio de curto prazo que podem cobrar custo futuro, sem confundi-lo com descanso saudável;
+5. aprofundar vozes, influência, pertencimento, repetição digital e autonomia sem demonizar influência externa;
+6. fazer Leis 10 e 11 retornarem com função nova no Cap. 20;
+7. nomear Fuga Identitária com força como ponte, sem desenvolver sua anatomia — matéria do Livro 3;
+8. consolidar a Casa/Jaula, barras internas, relacionais, institucionais e materiais;
+9. desenvolver Porta Possível, recursos, rede, risco, coerção, dependência e reversibilidade;
+10. preservar `A JAULA ESTÁ ABERTA` como comando de evidência percebida, nunca como `saia agora`;
+11. semear/aprofundar a lógica de `Abrace o Desconforto` com segurança, sem antecipar a síntese formal do Cap. 25;
+12. incorporar `Autopiedade × Autocompaixão`, `Você no Automático`, `Custo do Sofá`, `Filtrar Influências/Teste de Autonomia` e `Mapa Jaula/Porta Possível` conforme carga cognitiva prevista;
+13. usar Lia apenas quando demonstrar progressão real do método;
+14. fechar a Parte preparando `PARTE VI — FILTRO, EVIDÊNCIAS E ESPELHOS`;
+15. salvar tudo em `MANUSCRITO/05_PARTE_V/`, revisar o arco, atualizar status/histórico/alegações e criar snapshot antes do LOTE 05.
 
 ## Arquivos que governam a escrita
 
