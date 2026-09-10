@@ -37,6 +37,12 @@ Versões antigas fora desta pasta são bancos patrimoniais, não governam automa
 - `03_PARTE_III/11_O_LIMITE_SAGRADO.md`
 - `03_PARTE_III/12_ACORDOS_CONSCIENTES.md`
 
+### Parte IV — Os Galhos
+- `04_PARTE_IV/13_O_MAPA_DOS_GALHOS.md`
+- `04_PARTE_IV/14_AMOR_FAMILIA_E_VINCULOS.md`
+- `04_PARTE_IV/15_TRABALHO_DINHEIRO_CARREIRA_E_MARCA_PESSOAL.md`
+- `04_PARTE_IV/16_FE_CORPO_REDES_VIDA_PUBLICA_E_POLITICA.md`
+
 As próximas Partes serão acrescentadas em sequência canônica.
 
 ## Estado de produção
@@ -45,7 +51,8 @@ As próximas Partes serão acrescentadas em sequência canônica.
 - ETAPA 03 — escrita em massa por Partes: ativa.
 - LOTE 01 — Parte II, capítulos 5 a 8: **✓ escrito e revisado; snapshot criado**.
 - LOTE 02 — Parte III, capítulos 9 a 12: **✓ escrito e revisado; snapshot criado**.
-- LOTE 03 atual — Parte IV — Os Galhos, capítulos 13 a 16: **próximo lote de produção**.
+- LOTE 03 — Parte IV, capítulos 13 a 16: **✓ escrito e revisado; snapshot criado**.
+- LOTE 04 atual — Parte V — Pragas, Influências e Jaulas, capítulos 17 a 21: **próximo lote de produção**.
 
 ## Regra de edição
 Antes de alterar qualquer arquivo existente nesta pasta, reler sua versão atual no GitHub. Mudanças relevantes devem ser registradas no histórico/etapa correspondente.
