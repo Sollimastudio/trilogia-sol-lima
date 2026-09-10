@@ -410,5 +410,81 @@ Lia foi usada apenas para demonstrar transferência de recurso: percebeu que já
 
 ---
 
+### LOTE 04 — PARTE V: PRAGAS, INFLUÊNCIAS E JAULAS
+**Data:** 10/09/2026  
+**Status:** ✓ concluído.
+
+#### Estado de entrada
+A Parte IV havia provado que posicionamento varia por Galho e que influência precisa de filtro. Faltava explicar por que, mesmo depois de enxergar, uma pessoa ainda pode permanecer numa posição que produz Frutos incompatíveis: mecanismos de drenagem, adiamento, alívio, pertencimento, vozes e restrições internas/externas ainda participam do cultivo.
+
+#### Manuscrito produzido
+- `MANUSCRITO/05_PARTE_V/17_AS_PRAGAS_DA_ARVORE_AUTOPIEDADE_NAO_E_AUTOCOMPAIXAO.md`
+- `MANUSCRITO/05_PARTE_V/18_O_SONO_DA_NEGLIGENCIA.md`
+- `MANUSCRITO/05_PARTE_V/19_O_SOFA_QUENTE_DA_MENTIRA.md`
+- `MANUSCRITO/05_PARTE_V/20_QUEM_ESTA_PENSANDO_POR_VOCE.md`
+- `MANUSCRITO/05_PARTE_V/21_A_JAULA_ESTA_ABERTA.md`
+
+#### Decisões aplicadas
+1. Pragas foram consolidadas como mecanismos, nunca pessoas ou diagnósticos.
+2. Autopiedade foi definida operacionalmente e separada de dor legítima, autocompaixão, limitação, doença, exaustão e necessidade de ajuda.
+3. `Ganhos de permanência` foi refinado para `o que a posição evita, preserva ou torna previsível no curto prazo`, reduzindo acusação.
+4. Ruminação foi descrita com prudência e submetida à regra de parada da Árvore.
+5. Sono da Negligência foi escrito como o importante que permanece fora da decisão consciente enquanto a vida segue funcionando.
+6. Descanso, espera estratégica, prudência e falta real de informação/recurso/segurança não foram confundidos com negligência.
+7. Lei 2 — `Não Ignore o Óbvio` — amadureceu no Cap. 18 sem humilhar quem ainda não consegue agir.
+8. `Você no Automático` entrou com foco em repetição, alívio, custo e falta real de decisão/recurso/informação/segurança.
+9. Sofá Quente da Mentira foi consolidado como função de alívio e narrativa conveniente; frase-sofá não é falsa por natureza.
+10. Lei 9 — `Pense a Longo Prazo` — retornou no Cap. 19 para comparar alívio imediato, custo de mudança e conta futura.
+11. `Custo do Sofá` entrou com hoje / 90 dias / um ano / se nada mudar.
+12. Influência foi tratada como inevitável; o problema é entrega de governo, não aprender com outras pessoas.
+13. Foram distinguidas voz que orienta, voz que ocupa e voz que a pessoa chama de sua.
+14. Leis 10 e 11 retornaram com aprofundamento; `manada` descreve movimento em nós, nunca apelido para adversários.
+15. Repetição digital foi tratada como possível familiaridade/acessibilidade, sem afirmar controle mental ou crença automática.
+16. Fuga Identitária foi nomeada com força, mas a anatomia do apagamento do Eu permaneceu reservada ao Livro 3.
+17. Jaula foi consolidada como arquitetura simbólica, não diagnóstico nem sinônimo automático de abuso.
+18. Foram separadas barras internas, relacionais, institucionais e materiais.
+19. Porta Possível foi definida por margem real de movimento, segurança, recursos, rede, risco e reversibilidade.
+20. Foram distinguidas `não quero sair`, `não consigo sair ainda`, `não é seguro sair agora` e `não sabia que havia alternativa`.
+21. `A JAULA ESTÁ ABERTA` recebeu formulação completa e nunca significa `saia agora`, `você sempre pôde` ou `se ficou escolheu`.
+22. Soleira foi introduzida como momento entre percepção da possibilidade e sustentação da nova posição.
+23. `Abrace o Desconforto` foi semeada/qualificada sem romantizar risco, coerção ou sofrimento.
+24. A Parte termina exigindo Filtro antes da travessia.
+
+#### Ferramentas
+- Autopiedade × Autocompaixão — Pausa da Travessia;
+- Você no Automático;
+- Custo do Sofá;
+- Filtrar Influências / Teste de Autonomia — versão curta;
+- Mapa Jaula / Porta Possível.
+
+#### Caso-guia Lia
+Lia foi usada apenas para demonstrar função e progressão: a dor não recebeu governo, um intervalo útil foi reavaliado quando virou adiamento, uma frase herdada foi testada por simetria e a Jaula apareceu como combinação de regras, culpa, acordos, pressões e recursos — não como uma pessoa transformada em vilã pedagógica.
+
+#### Rigor e contenção
+- `vitimismo` não foi usado como diagnóstico ou arma contra sofrimento;
+- não foi afirmado que olhar Frutos elimina autopiedade;
+- prudência não foi reduzida a medo;
+- descanso não foi confundido com Sofá;
+- algoritmo/grupo/religião/autoridade não foram tratados como controle automático da mente;
+- Jaula não foi reduzida a mindset;
+- permanência não foi tratada como consentimento;
+- em risco/coerção/dependência, segurança e recursos precedem performance de confronto;
+- alegações ativadas foram registradas para validação na ETAPA 05.
+
+#### Leis no lote
+- Lei 2 — **Não Ignore o Óbvio**: amadurecimento no Cap. 18.
+- Lei 9 — **Pense a Longo Prazo**: amadurecimento no Cap. 19.
+- Lei 10 — **Filtre Suas Influências**: aprofundamento no Cap. 20.
+- Lei 11 — **Resista à Manada**: aprofundamento no Cap. 20.
+- Lei 13 — **Abrace o Desconforto**: semeada/qualificada nos Caps. 19–21, sem antecipar a síntese formal.
+
+#### Snapshot
+`ETAPAS/03_LOTE_04_PARTE_V_PRAGAS_INFLUENCIAS_JAULAS_2026-09-10.md`
+
+#### Próximo lote
+**ETAPA 03 — LOTE 05 — PARTE VI: FILTRO, EVIDÊNCIAS E ESPELHOS — Capítulos 22 a 24.**
+
+---
+
 ## Regra de atualização
 Ao concluir cada novo marco, acrescentar uma nova seção abaixo sem apagar as anteriores.
