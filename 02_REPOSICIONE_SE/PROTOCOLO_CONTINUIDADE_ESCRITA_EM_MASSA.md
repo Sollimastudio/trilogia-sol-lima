@@ -46,20 +46,20 @@ A produção deve avançar por Partes completas, não por microtrechos soltos. C
 
 ### ETAPA 03 — ESCRITA EM MASSA POR PARTES
 
-#### LOTE 01 — PARTE II — SEMENTE, SOLO E RAÍZES
+#### LOTE 01 — PARTE II — SEMENTE, SOLO E RAÍZES — ✓ CONCLUÍDO
 Capítulos 5–8.
 
-#### LOTE 02 — PARTE III — O TRONCO
+#### LOTE 02 — PARTE III — O TRONCO — ATIVO
 Capítulos 9–12.
 
 #### LOTE 03 — PARTE IV — OS GALHOS
 Capítulos 13–16.
 
 #### LOTE 04 — PARTE V — PRAGAS, INFLUÊNCIAS E JAULAS
-Capítulos 17–20.
+Capítulos 17–21 conforme arquitetura canônica vigente.
 
-#### LOTE 05 — PARTE VI — FILTRO E ESPELHOS DO POSICIONAMENTO
-Capítulos 21–24.
+#### LOTE 05 — PARTE VI — FILTRO, EVIDÊNCIAS E ESPELHOS
+Capítulos 22–24.
 
 #### LOTE 06 — PARTE VII — PODA, NOVA SEMENTE E FRUTOS
 Capítulos 25–28.
@@ -115,4 +115,4 @@ Todo comando entregue à Sol deverá usar este padrão:
 
 ## Comando atual
 
-> **REVISANDO E CONSTRUINDO: EXECUTE A ETAPA 03 — LOTE 01 — PARTE II: SEMENTE, SOLO E RAÍZES.** Releia primeiro `STATUS.md`, `BIBLIA_EDITORIAL_REPOSICIONE_SE.md`, `MAPA_MAE.md`, `MATRIZ_CAPITULOS_FUNCOES.md`, `MICROARQUITETURA_28_CAPITULOS.md`, `DICIONARIO_CANONICO_DO_METODO.md`, `LEIS_DO_POSICIONAMENTO.md`, `MAPA_STORYTELLINGS.md`, `MAPA_EXERCICIOS_TESTES.md`, `REGISTRO_DE_ALEGACOES_E_FONTES.md`, `PENDENCIAS_AUTORA.md` e todo o manuscrito canônico já escrito. Escreva integralmente os Capítulos 5 a 8 como prosa canônica de alta qualidade, preservando a distinção entre a Parábola do Semeador e a adaptação metodológica, aprofundando Solo, Semente, Raízes/modus operandi, Celular Configurado, mapas herdados, pertencimento e merecimento sem invadir o Livro 3. Distribua as Leis apenas onde nascerem organicamente, use histórias apenas com função pedagógica, mantenha a Árvore como método central, faça a Parte avançar como uma única narrativa e termine preparando inevitavelmente o Tronco. Salve tudo em `MANUSCRITO/02_PARTE_II/`, revise a Parte inteira, atualize `STATUS.md` e `HISTORICO_ETAPAS.md`, crie snapshot do lote em `ETAPAS/` e, ao concluir, entregue o comando exato do LOTE 02.
+> **REVISANDO E CONSTRUINDO: EXECUTE A ETAPA 03 — LOTE 02 — PARTE III: O TRONCO.** Releia primeiro `STATUS.md`, `BIBLIA_EDITORIAL_REPOSICIONE_SE.md`, `MAPA_MAE.md`, `MATRIZ_CAPITULOS_FUNCOES.md`, `MICROARQUITETURA_28_CAPITULOS.md`, `DICIONARIO_CANONICO_DO_METODO.md`, `LEIS_DO_POSICIONAMENTO.md`, `MAPA_STORYTELLINGS.md`, `MAPA_EXERCICIOS_TESTES.md`, `REGISTRO_DE_ALEGACOES_E_FONTES.md`, `PENDENCIAS_AUTORA.md`, `PROTOCOLO_CONTINUIDADE_ESCRITA_EM_MASSA.md` e todo o manuscrito canônico já escrito, especialmente a Parte II recém-fechada. Escreva integralmente os Capítulos 9 a 12 — `O Tronco: O que Você Sustenta Quando Custa`, `Soberania Interna e Corpo-Sismógrafo`, `O Limite Sagrado` e `Acordos Conscientes` — como prosa canônica de alta qualidade. Faça a transição de compreensão para sustentação: Tronco deve significar valores, identidade praticada, limites e eixo quando existe custo, sem virar rigidez ou performance. Amadureça a Lei 7 — Assuma Sua Responsabilidade; faça nascer a Lei 6 — Cultive o Silêncio Mental no Corpo-Sismógrafo; preserve `o corpo oferece sinais, não vereditos`; escreva limites como contorno e ação sob governabilidade própria, nunca controle do outro; considere risco, dependência e coerção antes de qualquer confronto; faça nascer a Lei 8 — Cumpra Seu Dever dentro de Acordos Conscientes sem santificar papéis impostos ou abuso. Use Lia apenas para demonstrar progressão real do método, não para preencher páginas. Incorpore `Alinhamento Interno`, `Corpo-Sismógrafo`, `Roteiro de Limite Responsável` e `Ficha do Acordo Consciente` conforme o mapa de exercícios. Preserve a fronteira com `Morte em Vida` e não antecipe a anatomia identitária do Livro 3. Salve tudo em `MANUSCRITO/03_PARTE_III/`, revise a Parte inteira como arco único e termine preparando inevitavelmente `PARTE IV — OS GALHOS`. Atualize `MANUSCRITO/README.md`, `STATUS.md`, `HISTORICO_ETAPAS.md` e `REGISTRO_DE_ALEGACOES_E_FONTES.md` quando aplicável, crie snapshot imutável do LOTE 02 em `ETAPAS/` e, ao concluir, entregue o comando exato do LOTE 03.
