@@ -7,53 +7,63 @@
 ```mermaid
 flowchart LR
 A[MV-22\nA Porta Depois da Saída\n2010] --> B[MV-I05\nFinalmente?\nalívio sem cura]
-B --> C[MV-23\nA Voz que Conhecia o Cativeiro\ntelefone · fé · propósito]
-C --> D[MV-24\nDois Homens, um Território\nfilhos no meio]
-D --> E[MV-25\nA Falsa Ressurreição\nVira Cativeiro]
-E --> F[MV-26\nProteger o Corpo\nPerder a Narrativa]
-F --> G[MV-27\nDepois da Falsa Ressurreição\nfronteira · saída · recuperação]
-G --> H[ETAPA 08\nO Cerco Contra a Mãe]
+B --> C[MV-23\nA Voz que Conhecia o Cativeiro]
+C --> D[MV-24\nDois Homens, um Território]
+D --> E[MV-25\nA Falsa Ressurreição Vira Cativeiro]
+E --> F[MV-26\nProteger o Corpo, Perder a Narrativa]
+F --> G[MV-27\nDepois da Falsa Ressurreição]
 ```
 
-## Movimento emocional da ETAPA 07
+## Movimento B — ETAPA 08
 ```mermaid
 flowchart LR
-A[Silêncio com espaço] --> B[Ser vista]
-B --> C[Esperança espiritual]
-C --> D[Presença física]
-D --> E[Casa perde fronteira]
-E --> F[Culpa materna]
-F --> G[Violência corporal]
-G --> H[Vergonha e cálculo de risco]
-H --> I[Proteção de Lelo]
-I --> J[Versão contra a mãe]
-J --> K[Colapso corporal]
-K --> L[Discernimento]
-L --> M[Estratégia de saída]
-M --> N[Fronteira física]
-N --> O[Agressor fora]
-O --> P[Narrativa permanece]
+A[MV-27\nAgressor fora\nnarrativa permanece] --> B[MV-28\nDo Teto Definitivo ao Portão]
+B --> C[MV-29\nO Portão de Papel]
+C --> D[MV-30\nVisitas Livres, Portas Fechadas]
+D --> E[MV-31\nA Via-Crúcis Institucional]
+E --> F[ETAPA 09\nFuncionando / Cadáver que Tomava Café]
 ```
 
-## Duas formas de cerco
+## Construção do Portão
+```mermaid
+flowchart LR
+A[Casinha / teto] --> B[Escola e rede familiar]
+B --> C[Viagem planejada]
+C --> D[Bicicleta / mudança de decisão]
+D --> E[FÁ-MI-LIA]
+E --> F[Acompanhamento]
+F --> G[Orientação de afastar conflito]
+G --> H[Caldas / trabalho / apartamento]
+H --> I[Chave + vaga escolar]
+I --> J[Retorno]
+J --> K[Portão de ferro]
+K --> L[Documento na secretaria]
+L --> M[Vara / processo]
+M --> N[Portão de papel]
+```
+
+## Mudança de mecanismo
 ```mermaid
 flowchart TD
-A[MOVIMENTO A\nCorpo e casa] --> B[Chileno]
-B --> C[gravata · arrastamento · chave de fenda\nchutes · murros]
-C --> D[saída física]
-D --> E[MOVIMENTO B\nMaternidade e narrativa]
-E --> F[versões · vínculos · documentos · instituições]
-F --> G[Portão da escola]
-G --> H[funcionar apesar da ausência]
-H --> I[A Cadáver que Tomava Café\ncapítulo-eixo posterior]
+A[Movimento A] --> B[corpo · casa · agressão física]
+B --> C[saída do agressor]
+C --> D[Movimento B]
+D --> E[maternidade · versões · vínculos]
+E --> F[documentos · instituições]
+F --> G[Portão]
+G --> H[direito formal sem presença]
+H --> I[peregrinação]
+I --> J[nascimento da investigadora]
 ```
 
-## Separação absoluta de autoria
+## Evidência jurídico-narrativa
 ```mermaid
 flowchart LR
-A[Pai dos filhos] --> B[braço no vidro · faca supermercado\nhomem sob cama · objeto percebido como arma\ntraições · vigilância]
-C[Chileno] --> D[gravata · arrastamento · chave de fenda\nchutes · murros · terror espiritualizado]
-E[ETAPA 08] --> F[Não presumir crime\nmapear memória + documentos]
+A[E1\nmemória direta] --> F[prosa com atribuição quando necessário]
+B[E3\ndocumento visto/não auditado] --> G[segundo minha leitura/recordação]
+C[E5\ninterpretação/suspeita] --> H[para mim / interpretei / suspeitei]
+D[E6\nlacuna] --> I[reservar ou aproximar]
+E[E4\ndocumento auditado] --> J[não disponível para o núcleo jurídico nesta etapa]
 ```
 
 ## Estado
@@ -63,6 +73,10 @@ E[ETAPA 08] --> F[Não presumir crime\nmapear memória + documentos]
 - MV-25 — ● V1
 - MV-26 — ● V1
 - MV-27 — ● V1
-- ETAPA 08 / Movimento B — ◐ próxima frente
+- MV-28 — ◑ arquitetura liberada
+- MV-29 — ◑ arquitetura liberada
+- MV-30 — ◑ arquitetura liberada
+- MV-31 — ◑ arquitetura liberada
+- `A Cadáver que Tomava Café` — reservado para ETAPA 09
 
-**Regra:** o Portão da escola não é continuação da violência física do Chileno. Ele pertence a outro movimento: o cerco da maternidade por versões, vínculos, documentos e instituições.
+**Regra:** o Portão deve ser consequência narrativa de uma vida preparada para o retorno que encontra uma barreira já organizada por versões e documentos. Não é continuação direta da violência física do Chileno.
