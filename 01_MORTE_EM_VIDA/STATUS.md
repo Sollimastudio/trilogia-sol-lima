@@ -9,15 +9,14 @@
 - Manuscrito novo: ◐ em produção por arquivos individuais
 - Parte I: ● primeira escrita integrada e auditada
 - Parte II: ● primeira escrita integrada e auditada
-- Parte III / Movimento A: ● primeira escrita e revisão concluídas
-- Parte III / Movimento B: ● primeira escrita e auditoria integrada concluídas
-- Parte III / cadáver funcional: ◐ próxima frente ativa
+- Parte III: ● primeira escrita integrada e auditada
+- Parte IV / A Autópsia da Alma: ◐ próxima frente ativa
 - Revisão de continuidade integral do livro: ⬜
 - Revisão factual integral: ⬜
 - Revisão literária final: ⬜
 
 ## Progresso textual acumulado
-**37 unidades possuem primeira escrita V1.**
+**41 unidades possuem primeira escrita V1.**
 
 ### Abertura + Parte I — 15 unidades
 MV-00 → MV-01 → MV-02 → MV-03 → MV-03A → MV-03B → MV-I01 → MV-04 → MV-05 → MV-06 → MV-07 → MV-08 → MV-09 → MV-10 → MV-11.
@@ -25,8 +24,8 @@ MV-00 → MV-01 → MV-02 → MV-03 → MV-03A → MV-03B → MV-I01 → MV-04 �
 ### Parte II — 12 unidades
 MV-12 → MV-13 → MV-14 → MV-I04 → MV-15 → MV-16 → MV-17 → MV-18 → MV-19 → MV-20 → MV-21 → MV-22.
 
-### Parte III — 10 unidades
-MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27 → MV-28 → MV-29 → MV-30 → MV-31.
+### Parte III — 14 unidades
+MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27 → MV-28 → MV-29 → MV-30 → MV-31 → MV-32 → MV-33 → MV-34 → MV-35.
 
 ## Etapas fechadas
 - ETAPA 00 — ✓ Mapa-mãe macro
@@ -38,52 +37,67 @@ MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27 → MV-28 → MV-29 →
 - ETAPA 06 — ✓ Vida conjugal/maternidade/competência/risco/ruptura + Parte II integrada
 - ETAPA 07 — ✓ Parte III / Movimento A: A Falsa Ressurreição
 - ETAPA 08 — ✓ Parte III / Movimento B: O Cerco Contra a Mãe
+- ETAPA 09 — ✓ Parte III / Movimento C: A Vida que Continuou
 
-## ETAPA 08 — resultado
-### Evidência
-Matriz E1–E6 criada em `LOTES/AUDITORIA_ETAPA08_CERCO_MATERNO.md`.
+# ETAPA 09 — resultado
+## Auditoria estrutural
+Os antigos núcleos restantes da Parte III foram auditados antes da prosa.
 
-No acervo consultado nesta etapa não foram localizados como documentos primários auditáveis o processo de guarda, o relatório da profissional, a medida apresentada na escola, a ata de conciliação ou o estudo de caso. Por isso, os núcleos processuais permanecem predominantemente E3 — documento visto/recordado, mas não auditado. Nenhum foi promovido a E4 sem fonte primária.
+Arquivo: `LOTES/AUDITORIA_ETAPA09_CADAVER_FUNCIONAL.md`.
 
-### Primeira escrita
-- MV-28 — Do Teto Definitivo ao Portão — ● V1
-- MV-29 — O Portão de Papel — ● V1
-- MV-30 — Visitas Livres, Portas Fechadas — ● V1
-- MV-31 — A Via-Crúcis Institucional — ● V1
+### Entraram nesta etapa
+- MV-32 — Funcionando — ● V1
+- MV-33 — A Cadáver que Tomava Café — ● V1
+- MV-34 — Meu Corpo Chegava Antes de Mim — ● V1
+- MV-35 — O Óbvio Estava na Sala — ● V1
 
 ### Curva
-`teto → conflito de versões → viagem frustrada → ajuda profissional → projeto em Caldas → retorno com chave/trabalho/escola → Portão → documento → processo → acesso formal sem presença → portas fechadas → peregrinação institucional → nascimento da investigadora`.
+`peregrinação → rotina → funcionamento → ausência interna → café → corpo registrando → evidências se alinhando → óbvio impossível de desver → pergunta`.
 
-### Proteções
-- Lelo permanece filho/criança; não antagonista, prova ou confessor jurídico.
-- Matheus não é usado como advogado da mãe.
-- Mãe-Véia permanece personagem complexa; cuidado e conflito podem coexistir.
-- Carlos entra depois da casinha e não é confundido com namorado da viagem ou Chileno.
-- Escola, porteiro, profissional, familiares e autoridades não recebem imputação de crime/dolo sem prova compatível.
-- `alienação parental`, `fraude`, `relatório forjado`, `psicóloga comprada`, `sequestro`, `falso testemunho` e equivalentes não são usados como fatos sem documentação suficiente.
-- `saquearam minha maternidade` é metáfora autoral, não categoria jurídica.
-- Saúde de Lelo e diagnósticos pessoais foram reservados quando desnecessários ao arco.
+## Capítulo-eixo
+**MV-33 — A Cadáver que Tomava Café** foi aprovado como pagamento da imagem/título central nesta V1.
 
-### Revisões
-- `LOTES/REVISAO_ETAPA08_CERCO_CONTRA_A_MAE.md`
-- `LOTES/AUDITORIA_INTEGRADA_PARTE_III.md`
+A metáfora não descreve morte física nem diagnóstico. Ela nomeia literariamente o contraste entre vida funcional preservada e perda de território de presença/autoria em partes decisivas.
 
-### Snapshot
-`ETAPAS/08_CERCO_CONTRA_A_MAE_2026-09-10.md`
+## Reservas deliberadas
+- `O Amor sem Toque` — reservado por falta de cena autobiográfica concreta suficiente nesta auditoria;
+- `O Purgatório` — permanece prioritariamente no Livro 2, Reposicione-se;
+- `Quando a Morte Voltou`, `Vinte e Cinco de Dezembro` e `A Casa e o que Não Tinha Nome` — reservados ao Epílogo;
+- Carlos — não usado nesta etapa como solução romântica, agressor automático, prova de cura ou fracasso.
 
-### Checklist
-`ACOMPANHAMENTO_ETAPA_08.md`
+## Revisões
+- `LOTES/REVISAO_ETAPA09_CADAVER_FUNCIONAL.md`
+- `LOTES/AUDITORIA_INTEGRADA_PARTE_III_POS_ETAPA09.md`
 
-## Decisão sobre o capítulo-eixo
-`A Cadáver que Tomava Café` foi transferido para a ETAPA 09. A metáfora agora está narrativamente merecida: o leitor já viu Portão, processo, portas fechadas e peregrinação, e pode acompanhar uma mulher que continua operacionalmente viva apesar da ausência interna.
+## Mapas
+- `MAPA_PARTE_III_ATUAL.md` — Parte III fechada em V1
+- `MAPA_VISUAL_PARTE_III_ATUAL.md` — três movimentos consolidados
+
+## Snapshot
+`ETAPAS/09_CADAVER_FUNCIONAL_PARTEIII_INTEGRADA_2026-09-10.md`
+
+## Checklist
+`ACOMPANHAMENTO_ETAPA_09.md`
+
+## Fronteira atual
+**Parte III termina em MV-35 — O Óbvio Estava na Sala.**
+
+A pergunta de saída é:
+**Fiz tudo errado achando que fazia tudo certo?**
+
+Ela não assume culpa pelas violências sofridas. Abre a investigação sobre consciência, leitura da realidade, repetições e responsabilidade própria depois que a consciência começa a surgir.
 
 # Próxima etapa ativa
-## ETAPA 09 — Funcionando / A Cadáver que Tomava Café
+## ETAPA 10 — ABERTURA DA PARTE IV / A AUTÓPSIA DA ALMA
 
-Executar `PROMPTS/ETAPA_09_COMANDO_ATUAL.md`.
+Executar `PROMPTS/ETAPA_10_COMANDO_ATUAL.md`.
 
-A próxima etapa muda a textura:
-`Portão/peregrinação → rotina → trabalho → café → funcionamento → ausência interna → corpo antecedendo consciência → óbvio começando a alinhar-se`.
+### Primeiro movimento obrigatório
+Auditar a arquitetura legada do antigo Ato VI antes de escrever. A entrada preferencial a testar é:
+
+`A Pergunta no Ônibus → story/pergunta → encontro/café/voucher → OSV/O Sentido da Vida → verdade deixa de ser apenas versículo → responsabilidade sem autoacusação`.
+
+Matemática do Perdão, Oripe e Sepultamento Simbólico ficam protegidos até terem preparação suficiente.
 
 ## Reservas da infância
 - Reino das Galinhas — ◐
