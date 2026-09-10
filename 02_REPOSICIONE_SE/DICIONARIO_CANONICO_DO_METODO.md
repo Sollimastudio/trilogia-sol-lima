@@ -214,6 +214,19 @@ Declaração ou prática sobre aquilo que a própria pessoa fará, aceitará, re
 ## Luto
 Custo emocional possível de deixar posição, papel, expectativa, fantasia, rotina, vínculo ou versão de vida. Não é sinal automático de decisão errada.
 
+## Sete Frutos do Posicionamento
+Sete lentes pedagógicas de colheita usadas no fechamento do método para observar se uma nova posição começa a aparecer na vida prática. **Não são etapas obrigatórias, traços de personalidade, promessa de resultado nem certificado de superioridade.**
+
+1. **Verdade:** relação menos defensiva com fatos, evidências, interpretação e desconhecido.
+2. **Responsabilidade:** capacidade de assumir a própria esfera de resposta sem carregar automaticamente a do outro.
+3. **Discernimento:** capacidade de examinar emoção, influência, narrativa, contraditório e evidência antes de concluir.
+4. **Coerência:** redução observável da distância entre valor declarado e prática, com possibilidade de reparação e revisão.
+5. **Coragem:** capacidade de sustentar movimento necessário sob desconforto sem confundir perigo com crescimento.
+6. **Sabedoria:** inclusão de contexto, custo, tempo, risco, recurso e consequência na decisão.
+7. **Legado:** efeitos que posições, práticas e interrupções de padrões deixam nas relações, ambientes e pessoas alcançadas, sem exigir fama ou reconhecimento.
+
+**Regra:** um Fruto não valida sozinho todo o método nem uma decisão específica; os sete devem continuar submetidos a contexto, evidência, custo e revisão.
+
 ---
 
 # 14 ESPELHOS DO POSICIONAMENTO
