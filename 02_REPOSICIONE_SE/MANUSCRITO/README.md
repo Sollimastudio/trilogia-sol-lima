@@ -50,6 +50,11 @@ Versões antigas fora desta pasta são bancos patrimoniais, não governam automa
 - `05_PARTE_V/20_QUEM_ESTA_PENSANDO_POR_VOCE.md`
 - `05_PARTE_V/21_A_JAULA_ESTA_ABERTA.md`
 
+### Parte VI — Filtro, Evidências e Espelhos
+- `06_PARTE_VI/22_METACOGNICAO_E_FILTRO_DA_SENSATEZ.md`
+- `06_PARTE_VI/23_CADEIA_DE_RESULTADOS_EVIDENCIAS_E_CUSTOS.md`
+- `06_PARTE_VI/24_OS_14_ESPELHOS_DO_POSICIONAMENTO.md`
+
 As próximas Partes serão acrescentadas em sequência canônica.
 
 ## Estado de produção
@@ -60,7 +65,8 @@ As próximas Partes serão acrescentadas em sequência canônica.
 - LOTE 02 — Parte III, capítulos 9 a 12: **✓ escrito e revisado; snapshot criado**.
 - LOTE 03 — Parte IV, capítulos 13 a 16: **✓ escrito e revisado; snapshot criado**.
 - LOTE 04 — Parte V, capítulos 17 a 21: **✓ escrito e revisado; snapshot criado**.
-- LOTE 05 atual — Parte VI — Filtro, Evidências e Espelhos, capítulos 22 a 24: **próximo lote de produção**.
+- LOTE 05 — Parte VI, capítulos 22 a 24: **✓ escrito e revisado; snapshot criado**.
+- LOTE 06 atual — Parte VII — Poda, Nova Semente e Frutos, capítulos 25 a 28: **próximo lote de produção**.
 
 ## Regra de edição
 Antes de alterar qualquer arquivo existente nesta pasta, reler sua versão atual no GitHub. Mudanças relevantes devem ser registradas no histórico/etapa correspondente.
