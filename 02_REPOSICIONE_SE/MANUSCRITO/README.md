@@ -43,6 +43,13 @@ Versões antigas fora desta pasta são bancos patrimoniais, não governam automa
 - `04_PARTE_IV/15_TRABALHO_DINHEIRO_CARREIRA_E_MARCA_PESSOAL.md`
 - `04_PARTE_IV/16_FE_CORPO_REDES_VIDA_PUBLICA_E_POLITICA.md`
 
+### Parte V — Pragas, Influências e Jaulas
+- `05_PARTE_V/17_AS_PRAGAS_DA_ARVORE_AUTOPIEDADE_NAO_E_AUTOCOMPAIXAO.md`
+- `05_PARTE_V/18_O_SONO_DA_NEGLIGENCIA.md`
+- `05_PARTE_V/19_O_SOFA_QUENTE_DA_MENTIRA.md`
+- `05_PARTE_V/20_QUEM_ESTA_PENSANDO_POR_VOCE.md`
+- `05_PARTE_V/21_A_JAULA_ESTA_ABERTA.md`
+
 As próximas Partes serão acrescentadas em sequência canônica.
 
 ## Estado de produção
@@ -52,7 +59,8 @@ As próximas Partes serão acrescentadas em sequência canônica.
 - LOTE 01 — Parte II, capítulos 5 a 8: **✓ escrito e revisado; snapshot criado**.
 - LOTE 02 — Parte III, capítulos 9 a 12: **✓ escrito e revisado; snapshot criado**.
 - LOTE 03 — Parte IV, capítulos 13 a 16: **✓ escrito e revisado; snapshot criado**.
-- LOTE 04 atual — Parte V — Pragas, Influências e Jaulas, capítulos 17 a 21: **próximo lote de produção**.
+- LOTE 04 — Parte V, capítulos 17 a 21: **✓ escrito e revisado; snapshot criado**.
+- LOTE 05 atual — Parte VI — Filtro, Evidências e Espelhos, capítulos 22 a 24: **próximo lote de produção**.
 
 ## Regra de edição
 Antes de alterar qualquer arquivo existente nesta pasta, reler sua versão atual no GitHub. Mudanças relevantes devem ser registradas no histórico/etapa correspondente.
