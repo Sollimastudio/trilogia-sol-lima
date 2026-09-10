@@ -22,8 +22,8 @@ Campos:
 | ID | Alegação/tema | Natureza | Fonte necessária | Limite obrigatório | Casa | Status |
 |---|---|---|---|---|---|---|
 | AF-001 | metacognição permite observar/revisar o próprio processo cognitivo | psicológica/neurocognitiva | revisão técnica/primária | não prometer controle total nem mudança automática | Caps. 4/22 | pendente |
-| AF-002 | aprendizagem, repetição e familiaridade podem estabilizar respostas/hábitos | psicológica | revisão técnica | não usar `reprogramação`, prazo universal ou determinismo | Caps. 6/27 | pendente |
-| AF-003 | neuroplasticidade participa de aprendizagem e adaptação | neurocientífica | revisão técnica contemporânea | não dizer que qualquer crença pode ser `desinstalada` por decisão simples | Cap. 6 | pendente |
+| AF-002 | aprendizagem, repetição e familiaridade podem estabilizar respostas/hábitos | psicológica | revisão técnica | não usar `reprogramação`, prazo universal ou determinismo | Caps. 6/27 | **em manuscrito / validar ETAPA 05** |
+| AF-003 | neuroplasticidade participa de aprendizagem e adaptação | neurocientífica | revisão técnica contemporânea | não dizer que qualquer crença pode ser `desinstalada` por decisão simples | Cap. 6 | **reservada; só manter se fonte elevar a precisão** |
 | AF-004 | sinais corporais/interocepção podem informar estados sem provar interpretação | clínica/neurocientífica | revisão técnica | corpo não é oráculo nem detector infalível de verdade | Cap. 10 | pendente |
 | AF-005 | controle coercitivo pode reduzir opções percebidas/reais e aumentar risco | clínica/social/jurídica | diretrizes técnicas/oficiais | não diagnosticar situação individual; segurança vem antes de confronto | Cap. 21 | pendente |
 | AF-006 | dependência econômica, filhos, moradia e rede podem limitar saída | social/segurança | fontes técnicas/oficiais | não concluir que permanência é escolha livre | Caps. 21/26 | pendente |
@@ -33,11 +33,11 @@ Campos:
 | AF-010 | ruminação pode manter sofrimento ou bloquear decisão | psicológica | revisão técnica | não diagnosticar ruminação por comportamento isolado | Caps. 4/17/22 | pendente |
 | AF-011 | autopiedade como conceito pedagógico | posição autoral com interface psicológica | definir sem reivindicar constructo clínico próprio | tratar como mecanismo possível, nunca diagnóstico | Cap. 17 | autoral / revisar linguagem |
 | AF-012 | `Feminicídio Emocional` | conceito autoral/metafórico | cânone + revisão jurídica de nomenclatura | não apresentar como tipificação penal ou diagnóstico clínico | Pré-livro | canônico / revisar uso |
-| AF-013 | Parábola do Semeador — semente como palavra/mensagem e quatro solos | teológica/bíblica | texto bíblico + referência teológica se necessário | distinguir sentido bíblico da adaptação pedagógica de Sol | Pré/Cap. 5 | pendente de citação final |
+| AF-013 | Parábola do Semeador — semente como palavra/mensagem e quatro solos | teológica/bíblica | texto bíblico + referência teológica se necessário | distinguir sentido bíblico da adaptação pedagógica de Sol | Pré/Cap. 5 | **em manuscrito / citação final pendente** |
 | AF-014 | `Conhecereis a verdade e a verdade vos libertará` | bíblica/teológica | texto bíblico/contexto | não usar como promessa causal de solução automática | Pré/Cap. 22 | pendente de citação final |
 | AF-015 | `Pelos frutos se conhece a árvore` | bíblica/teológica | texto bíblico/contexto | usar como lente autoral; Fruto do método continua evidência parcial | Pré/Cap. 2 | pendente de citação final |
-| AF-016 | algoritmo/repetição pode influenciar exposição e familiaridade | tecnologia/comportamento | fontes técnicas/empíricas | não afirmar `algoritmo controla a mente` | Caps. 6/20 | pendente |
-| AF-017 | pertencimento e validação podem influenciar decisão | psicológica/social | revisão técnica | não patologizar necessidade humana de pertencer | Caps. 8/20 | pendente |
+| AF-016 | algoritmo/repetição pode influenciar exposição e familiaridade | tecnologia/comportamento | fontes técnicas/empíricas | não afirmar `algoritmo controla a mente` | Caps. 6/20 | **em manuscrito com linguagem restrita / validar ETAPA 05** |
+| AF-017 | pertencimento e validação podem influenciar decisão | psicológica/social | revisão técnica | não patologizar necessidade humana de pertencer | Caps. 8/20 | **em manuscrito como lente operacional / validar ETAPA 05** |
 | AF-018 | críticas podem conter dado útil e também agressão | pedagógica/posição autoral | não exige fonte para distinção básica; revisar exemplos | não obrigar leitor a absorver violência para `aprender verdade` | Cap. 22 | revisão editorial |
 | AF-019 | política e identidade de grupo | social/política | fontes apenas quando houver alegação factual/populacional | não diagnosticar campos políticos; régua simétrica | Cap. 16 | pendente conforme prosa |
 | AF-020 | recaída/reaparecimento de padrão não equivale a retorno ao ponto zero | pedagógica/comportamental | literatura de mudança comportamental se alegação técnica | apresentar como regra pedagógica, não garantia clínica | Cap. 27 | pendente |
@@ -55,6 +55,18 @@ Campos:
 - `homens são...` / `mulheres fazem...` como regra universal;
 - `se a pessoa quisesse, já teria saído`;
 - promessa de prazo fixo para reprogramação, hábito ou reposicionamento.
+
+## Registro de uso — ETAPA 03 / LOTE 01 / PARTE II
+
+A escrita dos Capítulos 5 a 8 ativou especialmente AF-002, AF-013, AF-016 e AF-017.
+
+### Decisões de contenção aplicadas já na prosa
+- A Parábola do Semeador foi apresentada como lente bíblica própria e a definição metodológica de `Semente` foi declarada adaptação autoral.
+- O Cap. 6 usa `Celular Configurado` apenas como metáfora de permissões/prioridades; declara expressamente que cérebro não é software e que pessoa não é aparelho.
+- O texto evita usar `neuroplasticidade` como explicação decorativa. AF-003 permanece reservado à ETAPA 05; se não aumentar precisão, não precisa entrar na versão final.
+- Ambiente digital foi descrito como parte do Solo contemporâneo, sem afirmar controle mental algorítmico.
+- Pertencimento e merecimento foram definidos operacionalmente, sem patologizar o desejo humano de vínculo ou aprovação.
+- Uma formulação autobiográfica específica sobre revisão religiosa foi retirada do Cap. 8 porque a versão canônica do repositório não precisava desse fato para sustentar a ideia.
 
 ## Protocolo de atualização
 
