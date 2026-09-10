@@ -9,44 +9,59 @@ flowchart LR
 A[MV-35\nO Óbvio Estava na Sala] --> B[Pergunta\nFiz tudo errado achando que fazia tudo certo?]
 B --> C[MV-36\nA Pergunta no Ônibus\n● V1]
 C --> D[MV-37\nA Verdade que Deixou de Ser Versículo\n● V1]
-D --> E[ETAPA 11\nMatemática do Perdão + Sepultamento]
+D --> E[MV-38\nA Matemática do Perdão]
+E --> F[MV-39\nO Sepultamento Simbólico]
+F --> G[ETAPA 12\nInvestigadora / estudos]
 ```
 
-## MV-36 — movimento
+## MV-38 — movimento
 ```mermaid
 flowchart LR
-A[Goiânia / busca] --> B[Ônibus]
-B --> C[Story\nComo posso te ajudar hoje?]
-C --> D[Resposta sem expectativa]
-D --> E[Retorno do senhor]
-E --> F[Café / escuta]
-F --> G[Instituto Performance]
-G --> H[OSV — O Sentido da Vida]
-H --> I[Voucher]
-I --> J[Entrada na imersão]
+A[Perdão impossível de sentir] --> B[70 x 7]
+B --> C[490]
+C --> D[490 leões internos]
+D --> E[Perdão como decisão renovável]
+E --> F[Verdade permanece]
+F --> G[Limite permanece]
+G --> H[Reconciliação não é exigida]
+H --> I[Acesso não é devolvido]
+I --> J[Passado perde governo]
+J --> K[Oripe reaparece como dívida mais antiga]
 ```
 
-## MV-37 — movimento
+## MV-39 — movimento
 ```mermaid
 flowchart LR
-A[Imersão] --> B[Responsabilidade]
-B --> C[Medo de culpa]
-C --> D[Separar autorias]
-D --> E[João 8:32]
-E --> F[Verdade pessoal]
-F --> G[Dois Caminhos vira lente]
-G --> H[Óbvio / efeitos]
-H --> I[Responsabilidade pelo próximo movimento]
-I --> J[Dívida emocional ainda aberta]
-J --> K[70x7 / 490]
+A[Oripe / 18-07-1978] --> B[Dívida percebida de existir]
+B --> C[Banheiro comum]
+C --> D[Porta fechada / privacidade]
+D --> E[Separar nascimento e morte]
+E --> F[Devolver culpa]
+F --> G[EU DESOCUPEI O CAIXÃO]
+G --> H[Silêncio]
+H --> I[Abrir a porta]
+I --> J[Corredor / vida continua]
 ```
 
-## Três camadas de responsabilidade
+## Duas contas
 ```mermaid
 flowchart TD
-A[Terceiros] --> B[respondem pelos próprios atos]
-C[Sol no passado] --> D[escolhas e estratégias dentro das condições existentes]
-E[Sol consciente] --> F[responsabilidade presente pelo próximo movimento]
+A[Conta com os vivos] --> B[raiva · lembrança · vingança · versões]
+B --> C[Matemática do Perdão]
+C --> D[passado não governa o presente]
+E[Conta anterior] --> F[nascimento no dia da morte de Oripe]
+F --> G[dívida percebida de existir]
+G --> H[Sepultamento Simbólico]
+H --> I[vida e morte separadas]
+```
+
+## Regra do clímax
+```mermaid
+flowchart LR
+A[Experiência] --> B[Raciocínio]
+B --> C[Gesto]
+C --> D[Silêncio]
+D --> E[Efeito]
 ```
 
 ## Ato VI legado — destino
@@ -54,23 +69,16 @@ E[Sol consciente] --> F[responsabilidade presente pelo próximo movimento]
 flowchart TD
 A[72 núcleos / 6 lotes] --> B[L1 + L2\n✓ ETAPA 10]
 A --> C[L3\nETAPA 11 / clímax]
-A --> D[L4\nInvestigadora / estudos]
+A --> D[L4\nETAPA 12 / investigadora e estudos]
 A --> E[L5\nMulher / origem dos métodos]
 A --> F[L6\nAutoria / legado / Epílogo]
 ```
 
-## Clímax protegido
-```mermaid
-flowchart LR
-A[Perdão impossível de sentir] --> B[70x7]
-B --> C[490]
-C --> D[Perdão como decisão]
-D --> E[Oripe]
-E --> F[Culpa de existir]
-F --> G[Banheiro / centro de eventos]
-G --> H[Sepultamento Simbólico]
-H --> I[Eu desocupei o caixão]
-```
-
-## Regra
-A Parte IV começou com **consciência**, não com vitória. A ETAPA 11 agora pode entrar no clímax sem ter sido antecipada.
+## Proteções
+- 490 = formulação autoral, não terapia validada;
+- perdão não exige reconciliação nem devolução de acesso;
+- Oripe não é causa clínica;
+- data/evento exatos do Sepultamento permanecem abertos;
+- banheiro permanece comum e privado;
+- `Eu desocupei o caixão` aparece uma vez no centro da cena;
+- o livro continua depois do banheiro.
