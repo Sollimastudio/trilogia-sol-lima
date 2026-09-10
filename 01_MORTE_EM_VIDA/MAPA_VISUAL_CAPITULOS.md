@@ -1,6 +1,6 @@
 # MAPA VISUAL — CAPÍTULOS DE MORTE EM VIDA
 
-Este arquivo mostra a sequência operacional de escrita. Para funções detalhadas, consultar `MAPA_CAPITULOS.md`.
+Este arquivo mostra a sequência operacional de escrita. Para funções detalhadas, consultar `MAPA_CAPITULOS.md` e os adendos de etapa.
 
 ## Abertura + Parte I — estado após ETAPA 04
 ```mermaid
@@ -8,7 +8,9 @@ flowchart LR
 A[MV-00 Nota Forense\nA Cadáver Está Viva] --> B[MV-01 Oito dias antes]
 B --> C[MV-02 Dezoito de Julho]
 C --> D[MV-03 Berço ao Lado do Caixão]
-D --> I1[MV-I01 Debaixo do Girau]
+D --> S[MV-03A A Irmã que Ficou]
+S --> P[MV-03B O Colchão de Palha]
+P --> I1[MV-I01 Debaixo do Girau]
 I1 --> E[MV-04 A Menina que Não Pediu]
 E --> F[MV-05 O Cheiro do Silêncio]
 F --> G[MV-06 Eu Queria Ser um Anjo]
@@ -24,9 +26,9 @@ R3[MV-I03 Caminho das Águas\nRESERVADO] -. não confundir com Marcos .-> L
 ```
 
 ### Estado da Parte I
-- ● escritos: MV-00 a MV-11 + MV-I01 Debaixo do Girau;
+- ● primeira escrita: MV-00, MV-01, MV-02, MV-03, MV-03A, MV-03B, MV-I01, MV-04, MV-05, MV-06, MV-07, MV-08, MV-09, MV-10, MV-11;
 - ◐ reservas: Reino das Galinhas, MV-I02 Mangas e MV-I03 Caminho das Águas;
-- próxima ação após ETAPA 04: revisão integrada e ponte para Parte II.
+- numeração 03A/03B é de desenvolvimento; renumeração editorial limpa fica para o Manuscrito Alfa.
 
 ## Parte II
 ```mermaid
@@ -89,6 +91,8 @@ J[MV-33/36 O Óbvio] -. síntese .-> K[MV-42 Não Ignore o Óbvio]
 L[MV-43 Sepultamento] --> M[MV-45 Posicionamento]
 N[MV-I01 Girau\nvoz em espaço escondido] -. transformação .-> O[autoria / voz adulta]
 P[MV-08 Estrela\nvalor por competência] -. contraste .-> Q[competência externa x presença interna]
+R[MV-03A Sheila\npertencer sem convivência] -. eco, sem causalidade .-> S2[separações e pertencimento posteriores]
+T[MV-03B corpo contraído] -. eco sensorial .-> U[imobilidade / vigilância posterior]
 ```
 
 **Regra:** o mapa visual acompanha o estado real do manuscrito. Mudanças importantes devem ser versionadas.
