@@ -17,8 +17,8 @@ Atualizado em: 10/09/2026.
 | Mapa visual da trilogia | ◑ | criado |
 | Fronteiras editoriais | ◑ | regra “nenhum livro rouba a resposta do próximo” definida |
 | Cânone oficial | ◐ | estrutura e regras criadas; fatos serão consolidados progressivamente |
-| Cronologia mestre | ◐ | estrutura criada; consolidação progressiva |
-| Símbolos e metáforas | ◐ | principais símbolos identificados; funções serão refinadas |
+| Cronologia mestre | ◐ | consolidação progressiva |
+| Símbolos e metáforas | ◐ | principais símbolos identificados e refinados pela escrita |
 | Registro de decisões | ● | ativo |
 | Processo de trabalho | ● | ativo |
 | Protocolo de trabalho paralelo | ● | ativo |
@@ -28,21 +28,25 @@ Atualizado em: 10/09/2026.
 | Elemento | Status | Observação |
 |---|---:|---|
 | Mapa-mãe macro | ◑ | criado |
-| Mapa visual macro | ◑ | criado |
-| Mapa capítulo a capítulo | ◑ | 45 capítulos + 4 interlúdios + 2 notas forenses |
-| Mapa visual de capítulos | ◑ | criado |
-| Inventário de cenas | ◐ | em consolidação |
-| Plano de produção em massa | ● | lotes 00 a 10 definidos |
-| Pasta de capítulos | ● | pronta para arquivos individuais |
-| Histórico de etapas | ● | ativo |
-| Snapshot da engenharia de capítulos | ✓ | ETAPA 01 congelada |
-| Voz da Nota Forense de abertura | ◐ | próxima consolidação |
-| Manuscrito novo por lotes | ⬜ | pronto para iniciar |
-| Revisão de continuidade | ⬜ | após cada lote e integralmente ao final |
-| Revisão factual | ⬜ | pendente |
-| Revisão literária final | ⬜ | pendente |
+| Engenharia capítulo a capítulo | ◑ | estrutura inicial criada; refinada quando o acervo exige cirurgia |
+| Mapa visual de capítulos | ● | atualizado até Etapa 04 |
+| Mapa atual da Parte I | ● | sequência integrada pós-auditoria |
+| Inventário de cenas | ◐ | em consolidação contínua |
+| Plano de produção em massa | ● | lotes definidos |
+| Pipeline/prompts | ● | ativos |
+| Histórico/snapshots | ● | ativos; Etapas 01–04 preservadas |
+| Nota Forense de abertura | ● | primeira escrita |
+| Parte I — infância | ● | primeira escrita integrada e auditada; 15 unidades no percurso atual |
+| Reservas da infância | ◐ | Reino das Galinhas, Mangas e Caminho das Águas preservados |
+| Parte II — papéis adultos | ◐ | próxima frente ativa |
+| Parte III — cadáver funcional | ◑ | arquitetada, ainda não escrita neste ciclo |
+| Parte IV — autópsia | ◑ | arquitetada, ainda não escrita neste ciclo |
+| Manuscrito Alfa | ⬜ | após lotes de escrita |
+| Revisão factual integral | ⬜ | pendente |
+| Revisão literária Beta | ⬜ | pendente |
+| Prova final | ⬜ | pendente |
 
-**Estado operacional do Livro 1:** pronto para produção textual em lotes, começando por LOTE 00 e LOTE 01.
+**Estado operacional do Livro 1:** ETAPA 04 concluída. ETAPA 05 ativa — ordenar cronologicamente a entrada nos papéis adultos e escrever o próximo lote.
 
 ## Livro 2 — Reposicione-se
 | Elemento | Status | Observação |
@@ -71,9 +75,9 @@ Atualizado em: 10/09/2026.
 | Fronteira com Livro 2 | ◑ | definida |
 
 ## Próximas frentes
-**Morte em Vida:** consolidar cenas mínimas dos primeiros lotes → fixar voz-mãe → escrever LOTE 00 + LOTE 01 → revisar continuidade → congelar etapa.
+**Morte em Vida:** ETAPA 05 — auditar cronologia de MV-12 a MV-16 e escrever entrada na adolescência/papéis adultos sem comprimir pedido aos 13, estudos, noivado, casamento, fé e maternidade fora da ordem real.
 
-**Reposicione-se:** frente paralela pode executar auditoria integral do método dentro de `02_REPOSICIONE_SE/`, obedecendo versionamento e fronteiras.
+**Reposicione-se:** frente paralela pode continuar dentro de `02_REPOSICIONE_SE/`, obedecendo versionamento e fronteiras.
 
 ## Regra operacional
-Toda sessão que gerar mudança estrutural importante deve atualizar o estado do livro correspondente e preservar a etapa anterior por commit e/ou snapshot. Assim o estado real do projeto não depende de encontrar “o chat certo”.
+Toda sessão que gerar mudança estrutural importante deve atualizar o estado do livro correspondente e preservar a etapa anterior por commit e snapshot. O estado real do projeto não depende de encontrar “o chat certo”.
