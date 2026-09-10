@@ -1,6 +1,8 @@
 # ACOMPANHAMENTO — ETAPA 02
 ## Lote 00 + Lote 01
 
+**STATUS DA ETAPA:** ✓ FECHADA EM PRIMEIRA VERSÃO — 10/09/2026
+
 ### Sistema
 - [x] Pipeline de produção criado
 - [x] Prompts mestres por camada criados
@@ -13,18 +15,29 @@
 - [x] MV-01 — Oito dias antes — V1
 - [x] MV-02 — Dezoito de Julho — V1
 - [x] MV-03 — O Berço ao Lado do Caixão — V1
-- [ ] MV-I01 — O Reino das Galinhas — cena concreta ainda insuficiente
+- [x] MV-I01 — decisão editorial tomada: reservado/em apuração; não bloqueia a etapa
 
-### Revisão para fechar etapa
-- [ ] revisão contínua MV-00 → MV-03
-- [ ] decisão final sobre MV-I01: escrever / integrar / manter reservado
-- [ ] revisão do Lote 00+01
-- [ ] ajuste final da voz da Nota Forense para este estágio
-- [ ] atualização do mapa/status capítulo a capítulo
-- [ ] snapshot de fechamento da Etapa 02
+### Revisão de fechamento
+- [x] revisão contínua MV-00 → MV-03
+- [x] decisão sobre MV-I01: manter reservado até existir ocorrência concreta suficiente
+- [x] revisão do Lote 00+01 registrada em `LOTES/REVISAO_LOTE_00_01.md`
+- [x] voz da Nota Forense liberada como provisória para continuidade
+- [x] `STATUS.md` atualizado
+- [x] `HISTORICO_ETAPAS.md` atualizado
+- [x] snapshot de fechamento criado
 
-### Critério de avanço
-A lacuna de MV-I01 não deve bloquear capítulos posteriores se continuar sem material concreto. Na revisão da Parte I, ele poderá ser integrado a outra unidade em vez de forçado como interlúdio autônomo.
+### Pendências conscientemente transferidas
+Estas pendências não reabrem a Etapa 02; voltam na revisão da Parte I:
+- testar condensação da metanarrativa sobre memória;
+- controlar repetição do nascimento/morte;
+- testar maior sutileza na antecipação do Sepultamento Simbólico;
+- reavaliar o lugar definitivo do Reino das Galinhas.
 
-### Próxima etapa
-ETAPA 03 — LOTE 02: MV-04, MV-05, MV-06, MV-07 e MV-I02.
+### Snapshot final
+`ETAPAS/02_FECHAMENTO_LOTE00_01_2026-09-10.md`
+
+### Próxima etapa liberada
+**ETAPA 03 — LOTE 02: Corpo, silêncio e imaginação**  
+MV-04 · MV-05 · MV-06 · MV-07 · MV-I02
+
+Comando disponível em `PROMPTS/ROTEIRO_DE_ETAPAS_E_COMANDOS.md`.
