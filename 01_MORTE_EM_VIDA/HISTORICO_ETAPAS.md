@@ -74,44 +74,113 @@ Snapshot: `ETAPAS/04_LOTE03_E_PARTEI_INTEGRADA_2026-09-10.md`
 **Status:** ✓ concluída como primeira escrita + revisão de lote.
 
 ### Auditoria cronológica
-Antes da prosa, a ordem conceitual antiga de MV-12 a MV-16 foi confrontada com a cronologia. A maternidade foi retirada do Lote 04 para não comprimir 1994–1997 e para respeitar o nascimento de Matheus em seu tempo próprio.
+A ordem conceitual antiga de MV-12 a MV-16 foi confrontada com a cronologia. A maternidade foi retirada do Lote 04 para não comprimir 1994–1997.
 
-Arquivo: `LOTES/AUDITORIA_CRONOLOGICA_LOTE04.md`.
+### Primeira escrita
+- MV-12 — Ele Não Me Pediu Namoro;
+- MV-13 — O Primeiro Bolo e A Boa Mesa;
+- MV-14 — Congas Molhadas;
+- MV-I04 — Dueto com a Mãe;
+- MV-15 — Emancipada Para o Altar;
+- MV-16 — Quatro Cômodos sem Casa.
 
-### Nova sequência
-- MV-12 — Ele Não Me Pediu Namoro — ● V1;
-- MV-13 — O Primeiro Bolo e A Boa Mesa — ● V1;
-- MV-14 — Congas Molhadas — ● V1;
-- MV-I04 — Dueto com a Mãe — ● V1;
-- MV-15 — Emancipada Para o Altar — ● V1;
-- MV-16 — Quatro Cômodos sem Casa — ● V1.
+### Decisões centrais
+- pedido aos 13 em 02/05/1992;
+- primeiro bolo aos 14 preservado como alegria real;
+- caixa/A Boa Mesa/estudos/noivado separados no tempo;
+- pai quer escola e chora;
+- dueto com Elza posicionado antes do casamento;
+- 09/09/1994 narrado em momentos distintos;
+- lote termina na chegada aos quatro cômodos, antes de Matheus.
 
-### Decisões editoriais
-1. 02/05/1992, aos 13, abre a adolescência afetiva com o pedido direto de casamento.
-2. A alegria do primeiro bolo aos 14 permanece verdadeira e não é retroativamente transformada em fraude.
-3. Caixa, `A Boa Mesa`, estudos e noivado permanecem temporalmente distintos.
-4. O choro de Aurélio/Orelo preserva o pai como personagem complexo que desejava estudo para a filha.
-5. `Dueto com a Mãe` foi colocado antes do casamento para impedir caricatura de Elza e preservar afeto, fé e música ao lado do conflito.
-6. O dia 09/09/1994 é narrado com participação da adolescente sem fingir igualdade de condições: menoridade/emancipação relatada, agressão, intervenção e advertência paterna, oferta do avô, recusa, aparência regulada e cerimônia em momentos separados.
-7. O lote termina nos quatro cômodos do fundo da casa da sogra, antes da maternidade.
-
-### Revisão
-`LOTES/REVISAO_LOTE_04.md`.
-
-### Mapas atualizados
-- `MAPA_PARTE_II_ATUAL.md`;
-- `MAPA_VISUAL_PARTE_II_ATUAL.md`.
+### Controle
+- `LOTES/AUDITORIA_CRONOLOGICA_LOTE04.md`
+- `LOTES/REVISAO_LOTE_04.md`
+- `MAPA_PARTE_II_ATUAL.md`
+- `MAPA_VISUAL_PARTE_II_ATUAL.md`
 
 ### Snapshot
 `ETAPAS/05_LOTE04_ENTRADA_PAPEIS_ADULTOS_2026-09-10.md`.
 
+Estado acumulado: **21 unidades em primeira escrita**.
+
+---
+
+## ETAPA 06 — VIDA CONJUGAL, MATERNIDADE, COMPETÊNCIA, RISCO E RUPTURA
+**Data:** 10/09/2026  
+**Status:** ✓ concluída como primeira escrita integrada da Parte II.
+
+### Auditoria obrigatória antes da escrita
+Foram recuperados os 26 núcleos legados IDs 21–46. Cada um recebeu destino explícito antes da prosa.
+
+Cobertura:
+- 21–28 → MV-17;
+- 29–33 → MV-18;
+- 34–37 → MV-19;
+- 38–39 → MV-20;
+- 40–43 → MV-21;
+- 44–46 → MV-22.
+
+**26/26 núcleos destinados.**
+
+Arquivo: `LOTES/AUDITORIA_26_NUCLEOS_ETAPA06.md`.
+
+### Primeira escrita
+- MV-17 — A Cozinha no Fundo do Quintal;
+- MV-18 — O Leite que Não Chegava;
+- MV-19 — O Abraço no Supermercado;
+- MV-20 — Nove Metros de Tecido;
+- MV-21 — Duas Vozes no Telefone;
+- MV-22 — A Porta Depois da Saída.
+
+### Curva narrativa
+`tentativa de construir → maternidade → trabalho/cuidado → Rio Quente → competência → ameaça concreta → criação/renda → luto/gestação → nova maternidade → retorno → decisão → ruptura e proteção`.
+
+### Decisões centrais
+1. Matheus entra em 1997 e não recebe cena de parto inventada.
+2. Pit Dog, adobe, pele, separações temporárias e Fiesta permanecem distintos.
+3. Rio Quente é tentativa de reunir a família e ampliar possibilidades.
+4. Trabalho artístico recebe espaço de prazer e competência.
+5. Episódio do objeto na boca é narrado como objeto **percebido como arma**, não arma comprovada.
+6. MV-20 preserva a mulher criativa/produtiva e impede que sofrimento seja confundido com incapacidade.
+7. Fé permanece complexa e também acolhedora em 2006.
+8. Morte de Zé Caetano em 26/02/2006 e nascimento de Lelo em 10/11/2006 permanecem ordenados e distintos.
+9. Mudança para Itaberaí precede a separação definitiva.
+10. Em 2010, a separação começa pela primeira vez por decisão sustentada de Sol.
+11. Polícia/medida, litígio e vigilância permanecem sujeitos a conferência documental posterior.
+12. Filhos não são utilizados como prova de valor, culpa ou autorização da mãe.
+
+### Revisões
+- `LOTES/REVISAO_LOTE_05.md`;
+- `LOTES/AUDITORIA_INTEGRADA_PARTE_II.md`.
+
+### Mapas
+- `MAPA_PARTE_II_ATUAL.md` consolidado;
+- `MAPA_VISUAL_PARTE_II_ATUAL.md` consolidado.
+
+### Parte II integrada
+Sequência atual:
+MV-12 → MV-13 → MV-14 → MV-I04 → MV-15 → MV-16 → MV-17 → MV-18 → MV-19 → MV-20 → MV-21 → MV-22.
+
+**12 unidades em V1 na Parte II.**
+
 ### Estado acumulado
-**21 unidades possuem primeira escrita.**
+**27 unidades possuem primeira escrita** entre abertura, Parte I e Parte II.
+
+### Snapshot
+`ETAPAS/06_LOTE05_PARTEII_INTEGRADA_2026-09-10.md`.
+
+### Ponte
+A convivência terminou, mas o corpo continua esperando ameaça. A saída externa não reorganizou automaticamente percepção, autonomia, dinheiro ou identidade.
+
+Imagem de saída: **a porta está fechada; eu continuo escutando.**
 
 ### Próxima etapa
-**ETAPA 06 — LOTE 05: vida conjugal, maternidade, competência, normalização, risco e ruptura (1994–2010).**
+**ETAPA 07 — abertura da Parte III: A Cadáver que Tomava Café.**
 
-Primeiro auditar os 26 núcleos legados do período e só depois redefinir/escrever MV-17 a MV-22.
+Comando detalhado: `PROMPTS/ETAPA_07_COMANDO_ATUAL.md`.
+
+Antes da nova prosa, auditar todo o material legado pós-2010, especialmente recomeço, nova relação, maternidade atingida, conflitos de convivência/guarda e início do funcionamento automático.
 
 ---
 
