@@ -2,7 +2,7 @@
 
 **Status:** ativo a partir de 10/09/2026.  
 **Escopo:** somente `02_REPOSICIONE_SE/`.  
-**Objetivo:** impedir perda de contexto, reabertura desnecessária de arquitetura e paralisação entre lotes de escrita.
+**Objetivo:** impedir perda de contexto, reabertura desnecessária de arquitetura e paralisação entre etapas de escrita, costura, rigor e publicação.
 
 ## Regra permanente
 Ao encerrar qualquer etapa ou lote importante desta frente, a entrega obrigatoriamente termina com:
@@ -13,7 +13,7 @@ Ao encerrar qualquer etapa ou lote importante desta frente, a entrega obrigatori
 4. snapshot imutável em `ETAPAS/` quando houver fechamento de etapa/lote estrutural;
 5. pendências reais, sem transformar detalhe opcional em bloqueio;
 6. **COMANDO EXATO DA PRÓXIMA ETAPA**, pronto para Sol copiar e enviar;
-7. nenhuma reconstrução global sem motivo concreto de verdade, coerência, segurança, rigor ou função pedagógica.
+7. nenhuma reconstrução global sem motivo concreto de verdade, coerência, segurança, rigor, ritmo, função pedagógica ou qualidade literária.
 
 ## Papel permanente do agente editorial
 Atuar simultaneamente como:
@@ -29,22 +29,22 @@ Atuar simultaneamente como:
 
 O agente não espera Sol decidir microedição. Pergunta apenas quando a decisão depende de verdade biográfica, formulação autoral exclusiva, autorização de terceiros ou informação que não está sustentada pelas fontes canônicas.
 
-## Regra de escrita em massa
-A produção deve avançar por Partes completas, não por microtrechos soltos. Cada lote:
-- relê os arquivos governantes antes de escrever;
+## Regra de escrita e revisão em massa
+A produção avança por Partes/etapas completas, não por microtrechos soltos. Cada lote/etapa:
+- relê os arquivos governantes antes de escrever ou editar;
+- relê a versão atual no GitHub antes de alterar arquivo existente;
 - recupera o melhor material antigo apenas como banco patrimonial;
-- escreve prosa canônica integral;
-- revisa o arco da Parte;
+- escreve/revisa prosa canônica integral;
 - controla repetição e termos proprietários;
 - distribui Leis somente onde surgem organicamente;
 - preserva Árvore como método e Jaula como ambiente narrativo;
 - mantém Fuga Identitária como semente do Livro 3;
 - registra alegações que exigem validação futura sem travar a prosa;
-- fecha com ponte inevitável para a Parte seguinte.
+- fecha com ponte inevitável para a etapa seguinte.
 
 ## Sequência de produção autorizada
 
-### ETAPA 03 — ESCRITA EM MASSA POR PARTES
+### ETAPA 03 — ESCRITA EM MASSA POR PARTES — ✓ CONCLUÍDA
 
 #### LOTE 01 — PARTE II — SEMENTE, SOLO E RAÍZES — ✓ CONCLUÍDO
 Capítulos 5–8.
@@ -61,16 +61,16 @@ Capítulos 17–21.
 #### LOTE 05 — PARTE VI — FILTRO, EVIDÊNCIAS E ESPELHOS — ✓ CONCLUÍDO
 Capítulos 22–24.
 
-#### LOTE 06 — PARTE VII — PODA, NOVA SEMENTE E FRUTOS — ATIVO
-Capítulos 25–28.
+#### LOTE 06 — PARTE VII — PODA, NOVA SEMENTE E FRUTOS — ✓ CONCLUÍDO
+Capítulos 25–28. Corpo principal completo: Pré-livro + 28 capítulos.
 
-Ao fim de cada lote: revisão do arco, atualização do status/histórico e snapshot do lote quando a Parte estiver fechada.
-
-### ETAPA 04 — EPÍLOGO E COSTURA INTEGRAL
+### ETAPA 04 — EPÍLOGO E COSTURA INTEGRAL — ATIVA
 - escrever `O Cajueiro Ainda Está Lá`;
 - revisar Pré-livro + Partes I–VII + Epílogo como uma única travessia;
-- checar promessa, progressão emocional, repetições, sementes e pagamentos;
-- conferir a ponte para o Livro 3 sem roubar sua resposta.
+- checar promessa, progressão emocional/cognitiva, repetições, sementes e pagamentos;
+- conferir a ponte para o Livro 3 sem roubar sua resposta;
+- revisar especificamente a experiência dos primeiros 10% Kindle à luz do tamanho total provisório;
+- registrar alterações de costura sem reabrir arquitetura por preferência estilística.
 
 ### ETAPA 05 — AUDITORIA DE RIGOR E RISCO
 - verificar alegações científicas, psicológicas, comportamentais, teológicas, jurídicas e estatísticas;
@@ -86,7 +86,7 @@ Ao fim de cada lote: revisão do arco, atualização do status/histórico e snap
 - dicionário e termos proprietários;
 - notas/referências;
 - controle de redundância;
-- leitura corrida integral.
+- leitura corrida integral final.
 
 ### ETAPA 07 — ILUSTRAÇÕES E SISTEMA VISUAL
 - produzir somente imagens funcionais aprovadas no mapa visual;
@@ -115,4 +115,4 @@ Todo comando entregue à Sol deverá usar este padrão:
 
 ## Comando atual
 
-> **REVISANDO E CONSTRUINDO: EXECUTE A ETAPA 03 — LOTE 06 — PARTE VII: PODA, NOVA SEMENTE E FRUTOS.** Releia primeiro `STATUS.md`, `BIBLIA_EDITORIAL_REPOSICIONE_SE.md`, `MAPA_MAE.md`, `MATRIZ_CAPITULOS_FUNCOES.md`, `MICROARQUITETURA_28_CAPITULOS.md`, `DICIONARIO_CANONICO_DO_METODO.md`, `LEIS_DO_POSICIONAMENTO.md`, `MAPA_STORYTELLINGS.md`, `MAPA_EXERCICIOS_TESTES.md`, `REGISTRO_DE_ALEGACOES_E_FONTES.md`, `PENDENCIAS_AUTORA.md`, `PROTOCOLO_CONTINUIDADE_ESCRITA_EM_MASSA.md` e todo o manuscrito canônico já escrito, especialmente a Parte VI recém-fechada. Escreva integralmente os Capítulos 25 a 28 — `Responsabilidade, Dever e Visão de Futuro`, `Poda, Limites e Luto`, `Nova Semente, Travessia e Sustentação` e `Novos Frutos: Desça da Árvore e Vá Viver` — como prosa canônica de alta qualidade e como fechamento do corpo principal do Livro 2. No Cap. 25, transforme conclusão filtrada em esfera real de ação: retome e amadureça as Leis 7 — `Assuma Sua Responsabilidade`, 8 — `Cumpra Seu Dever` e 9 — `Pense a Longo Prazo`, use `meu / outro / contexto / ainda não sei`, diferencie dever real de papel imposto e formalize a Lei 13 — `Abrace o Desconforto` distinguindo custo de coerência, perigo, incapacidade real e rota que precisa ser revista; incorpore o `Mapa de Responsabilidade Distribuída`. No Cap. 26, escreva Poda como interrupção específica de comportamento, rotina, acesso, permissão, acordo, interpretação, exposição, prazo, vínculo ou forma do vínculo; diferencie Poda gradual e imediata e considere segurança, dependência, deveres, recursos, reversibilidade, luto e aquilo que precisa ser protegido. Não transforme ruptura dramática em coragem e não use `Sepultamento Simbólico` como exercício genérico, pois permanece patrimônio do Livro 1. Incorpore o `Plano de Poda Responsável`. No Cap. 27, escreva Nova Semente como atitude/decisão/prática pequena, executável, observável, apoiada e revisável; use planos `se–então` apenas quando úteis e sem prometer aderência garantida ou prazo universal para hábito; trate recaída/reaparecimento do padrão como dado de cultivo, não identidade, fracasso total ou retorno automático ao zero; desenvolva sustentação por Solo, ambiente, apoio, revisão e novos Frutos; incorpore uma Nova Semente de 24 horas e checkpoints de 24h/7d/30d como organização de prática, nunca como promessa científica. No Cap. 28, conclua o Método integral: retorne à `Fotografia de Partida`, compare evidências, mostre que nova posição também precisa responder pelos Frutos, entregue a síntese final da Lei 14 — `Seja Sensata e Inteira`, use 30/60/90 dias apenas como janelas de revisão e finalize o comando `DESÇA DA ÁRVORE E VÁ VIVER` sem transformar autoconhecimento em residência no Mirante. Use Lia somente para completar a progressão metodológica, sem resolver sua identidade. Prepare literariamente o Epílogo `O Cajueiro Ainda Está Lá`, mas não o escreva antes da ETAPA 04. A última semente para o Livro 3 deve ser somente a pergunta `quem é o Eu que está escolhendo essa nova posição?`, sem responder à anatomia da Fuga Identitária. Salve tudo em `MANUSCRITO/07_PARTE_VII/`, revise a Parte inteira como arco único, atualize `MANUSCRITO/README.md`, `STATUS.md`, `HISTORICO_ETAPAS.md`, `REGISTRO_DE_ALEGACOES_E_FONTES.md` e o `DICIONARIO_CANONICO_DO_METODO.md` apenas se houver definição realmente nova, crie snapshot imutável do LOTE 06 em `ETAPAS/` e, ao concluir, entregue o **comando exato da ETAPA 04 — EPÍLOGO E COSTURA INTEGRAL**.
+> **REVISANDO E CONSTRUINDO: EXECUTE A ETAPA 04 — EPÍLOGO E COSTURA INTEGRAL DO REPOSICIONE-SE.** Releia primeiro `STATUS.md`, `BIBLIA_EDITORIAL_REPOSICIONE_SE.md`, `MAPA_MAE.md`, `MATRIZ_CAPITULOS_FUNCOES.md`, `MICROARQUITETURA_28_CAPITULOS.md`, `DICIONARIO_CANONICO_DO_METODO.md`, `LEIS_DO_POSICIONAMENTO.md`, `MAPA_STORYTELLINGS.md`, `MAPA_EXERCICIOS_TESTES.md`, `MAPA_IMAGENS_ILUSTRACOES.md`, `REGISTRO_DE_ALEGACOES_E_FONTES.md`, `PENDENCIAS_AUTORA.md`, `PROTOCOLO_CONTINUIDADE_ESCRITA_EM_MASSA.md`, todos os snapshots da ETAPA 03 e TODO o manuscrito canônico de `MANUSCRITO/00_PRE_LIVRO.md` até o Capítulo 28. Continue exclusivamente em `02_REPOSICIONE_SE/`. Primeiro escreva integralmente o Epílogo `O Cajueiro Ainda Está Lá` em `MANUSCRITO/08_EPILOGO_O_CAJUEIRO_AINDA_ESTA_LA.md`, pagando literariamente a cena fundadora sem criar outra ferramenta, sem inventar detalhes biográficos ainda pendentes e sem repetir o manual. Depois faça uma leitura corrida e costura editorial do livro inteiro como uma única travessia: Pré-livro + Partes I–VII + Epílogo. Revise promessa, voz de Sol, ritmo, curva emocional/cognitiva, transições entre Partes e capítulos, redundâncias, sementes e pagamentos narrativos, distribuição das 14 Leis, coerência de Árvore/Jaula/Sofá/Porta/Filtro/Poda/Nova Semente, progressão de Lia, consistência dos Sete Frutos, carga de exercícios, repetição de slogans, ciência/alegações apenas para marcação à ETAPA 05, fronteiras com `Morte em Vida` e Livro 3, e especificamente os primeiros 10% Kindle. Não reabra arquitetura congelada por gosto; altere texto somente quando houver motivo concreto de verdade, coerência, segurança, rigor, ritmo, função pedagógica ou qualidade literária. Preserve a pergunta final do Livro 3 sem respondê-la. Se PA-001 impedir detalhe factual do Cajueiro, mantenha o Epílogo em linguagem segura já confirmada e registre a lacuna sem inventar. Produza também `MANUSCRITO/LEITURA_CORRIDA_ETAPA_04.md` com diagnóstico de costura e alterações realizadas, atualize os arquivos vivos necessários, registre `ETAPA 04` em `HISTORICO_ETAPAS.md`, atualize `STATUS.md`, crie snapshot imutável da ETAPA 04 em `ETAPAS/` e, ao concluir, entregue o **comando exato da ETAPA 05 — AUDITORIA DE RIGOR E RISCO**.
