@@ -76,10 +76,19 @@ Ponto metacognitivo de observação em que o leitor amplia perspectiva antes de 
 **Pergunta:** consigo ver antes de concluir?  
 **Não é:** morar na análise.
 
+## Metacognição — uso no método
+Capacidade de observar o próprio processo de leitura, interpretação e decisão enquanto ele acontece.
+
+**Pergunta:** como estou chegando a esta conclusão?  
+**Não é:** neutralidade perfeita, controle total da mente ou posição acima das próprias emoções.
+
 ## Filtro da Sensatez™
 Ferramenta subordinada à Árvore que examina fato, interpretação, emoção, evidências, premissas, simetria, direitos, deveres, acordos, participação, risco, recursos, custos, reversibilidade e posição possível.
 
 **Não é:** máquina para provar que a autora ou o leitor já estavam certos.
+
+### Regra de parada do Filtro
+Interromper a análise quando há evidência suficiente para ação reversível/proporcional; nova análise não muda materialmente a decisão; continuar virou repetição sem dado novo; segurança exige ajuda/recurso; ou falta informação relevante e a conclusão deve permanecer na Árvore.
 
 ## Poda
 Interrupção responsável de objeto específico.
@@ -143,8 +152,10 @@ Imagem autoral para aquilo que conduta, permissões, limites, concessões e comu
 
 **Não significa:** que a pessoa causa abuso, violência ou desrespeito alheio. O comportamento do outro continua pertencendo ao outro.
 
-## Vitrine
+## Vitrine — conceito geral
 Leitura prática do que é comunicado antes da explicação: presença, organização, limite, coerência, disponibilidade e valor percebido.
+
+**Distinção:** `Vitrine` também nomeia o Espelho nº 10; nesse uso específico, descreve posição excessivamente governada por imagem/plateia. O conceito geral de Vitrine não é patológico nem negativo.
 
 ## Corpo-Sismógrafo
 Ferramenta para tratar sinal corporal como dado a contextualizar, interpretar, contrastar e verificar antes de decidir.
@@ -160,6 +171,29 @@ Metáfora para permissões, prioridades, filtros, bloqueios e rotinas aprendidos
 Dado observável ou verificável que aumenta ou reduz plausibilidade de uma interpretação.
 
 **Não é:** certeza total por si só.
+
+## Cadeia de Resultados
+Mapa multicausal e pedagógico para investigar fatores que participam de opções percebidas, decisão/não decisão, consequência e Fruto.
+
+Forma canônica:
+
+`crenças/valores + emoção + hábito + corpo + contexto + informação + incentivos + risco + coerção + recursos → opções percebidas → decisão/não decisão → consequência → Fruto`
+
+**Não é:** fórmula causal rígida, equação psicológica nem afirmação de que pensamento cria destino.
+
+## Zonas de Governabilidade
+Classificação operacional dos fatores de uma situação em:
+1. sob minha governabilidade;
+2. parcialmente influenciável;
+3. fora da minha governabilidade;
+4. desconhecido.
+
+**Regra:** fora da governabilidade não significa irrelevante; significa que a resposta precisa se concentrar naquilo que pode ser feito diante do fator, e não fingir controle sobre ele.
+
+## Matriz de Custos
+Leitura dos custos/benefícios de uma posição ou mudança no curto, médio e longo prazo, incluindo o que ainda não pode ser previsto.
+
+**Não é:** profecia nem obrigação de escolher a opção aparentemente mais sacrificante.
 
 ## Conclusão provisória
 Leitura suficiente para orientar ação proporcional sem fingir saber o que ainda não foi demonstrado.
@@ -179,6 +213,36 @@ Declaração ou prática sobre aquilo que a própria pessoa fará, aceitará, re
 
 ## Luto
 Custo emocional possível de deixar posição, papel, expectativa, fantasia, rotina, vínculo ou versão de vida. Não é sinal automático de decisão errada.
+
+---
+
+# 14 ESPELHOS DO POSICIONAMENTO
+
+## Regra canônica
+Os Espelhos são modos pedagógicos e contextuais de operação em determinado Galho/período. **Não são personalidade, essência, diagnóstico clínico ou teste psicométrico validado.** A pessoa não `é` um Espelho; pode reconhecer um modo aparecendo numa situação.
+
+### Sete clássicos
+1. **Soberano:** posição examinada, sustentada com responsabilidade e abertura à revisão; risco de eixo virar controle/superioridade.
+2. **Vulcão:** intensidade/impulso assumem o governo antes do exame; recurso a recuperar: energia com pausa e proporcionalidade.
+3. **Névoa:** indefinição prolongada protege do custo de decidir; recurso: cautela com regra de parada e decisão pequena.
+4. **Fantasma:** presença, necessidade ou voz são reduzidas para preservar lugar/segurança; recurso: presença gradual e limite em contexto seguro.
+5. **Espelho Partido:** percepção de valor oscila excessivamente conforme validação externa; recurso: feedback sem terceirizar dignidade/Tronco.
+6. **Ator:** versão esperada/performance começa a substituir prática real; recurso: adaptação social sem abandonar verdade e capacidade de admitir limite.
+7. **Herdeiro:** regra recebida continua operando principalmente por lealdade/tradição sem revisão atual; recurso: preservar legado escolhido e revisar mandato herdado.
+
+### Sete amplificados pelo Novo Mundo
+8. **Náufrago:** ameaça/urgência/insegurança estreitam decisão entre busca infinita de certeza e agarrar rapidamente algo que pareça segurança; recurso: informação suficiente + passo reversível.
+9. **Eco:** ideia externa ganha a voz da pessoa sem passar por exame próprio suficiente; recurso: fonte, contraditório, simetria e autoria.
+10. **Vitrine:** imagem/plateia governam excessivamente a posição; recurso: coerência praticada mesmo sem observador.
+11. **Muro:** convicção se torna fechamento defensivo ao contraditório; recurso: firmeza capaz de dizer o que mudaria a conclusão.
+12. **Espelho:** posição protege imagem de superioridade/correção e transforma contraditório em ameaça à autoimagem; **não usar linguagem diagnóstica de narcisismo**; recurso: humildade, reparação e abertura à evidência.
+13. **Templo:** linguagem de fé/espiritualidade passa a substituir discernimento, responsabilidade, limite ou ação; recurso: fé como eixo sem terceirizar aquilo que continua sob governabilidade.
+14. **Camaleão:** adaptação ao ambiente começa a consumir valores, limites e eixo; recurso: flexibilidade de forma com continuidade reconhecível do Tronco.
+
+### Regra de uso
+Para cada Espelho, observar: Galho/contexto; condição de ativação; o que pode tentar preservar/evitar; Fruto provável, nunca inevitável; Praga possível; recurso saudável; Porta pequena; pergunta metacognitiva; evidência que contradiz o próprio rótulo.
+
+O livro recomenda escolher no máximo dois Espelhos por vez em um Galho/período. O Workbook aprofunda o mapeamento; não transforma o instrumento em diagnóstico.
 
 ---
 
