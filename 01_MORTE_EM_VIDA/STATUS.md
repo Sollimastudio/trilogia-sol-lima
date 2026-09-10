@@ -5,47 +5,51 @@
 - Mapa visual macro: ◑ estruturado
 - Engenharia capítulo a capítulo: ◑ estruturada
 - Mapa visual dos capítulos: ◑ estruturado
-- Inventário de cenas: ◐ em consolidação
+- Inventário de cenas: ◐ em consolidação contínua
 - Plano de produção em massa: ● ativo
 - Pipeline de produção: ● ativo
 - Biblioteca de prompts por camada: ● ativa
 - Roteiro de etapas 02–18: ● ativo
-- Voz da Nota Forense: ● primeira escrita; revisão de voz pendente após Lote 01
-- Manuscrito novo: ◐ iniciado por arquivos individuais
-- Revisão de continuidade: ⬜
-- Revisão factual: ⬜
+- Manuscrito novo: ◐ em produção por arquivos individuais
+- Revisão de continuidade integral: ⬜
+- Revisão factual integral: ⬜
 - Revisão literária final: ⬜
 
-## Escala atual
-Arquitetura operacional prevê:
+## Escala projetada
 - 45 capítulos;
 - 4 interlúdios;
 - 2 notas forenses;
-- 10 lotes principais de produção + lote de voz/abertura.
+- 10 lotes principais + lote de voz/abertura.
 
 ## Etapa ativa
 **ETAPA 02 — Consolidação de cenas e escrita do LOTE 00 + LOTE 01.**
 
-### Subetapa concluída
-**ETAPA 02A — preparação operacional + primeira escrita da abertura.**
+### ETAPA 02A — ✓ concluída
+- sistema de produção instalado;
+- prompts e etapas futuras registrados;
+- dossiês iniciais criados;
+- MV-00 escrito em V1.
 
-Entregas:
-- `PIPELINE_DE_PRODUCAO.md` criado;
-- prompts mestres criados;
-- roteiro de comandos das etapas futuras criado;
-- dossiê Lote 00+01 criado;
-- MV-00 escrito em V1;
-- MV-01, MV-02, MV-03 e MV-I01 com dossiês estruturados;
-- snapshot `ETAPAS/02A_ABERTURA_E_PREPARACAO_LOTE01_2026-09-10.md` criado.
+### ETAPA 02B — ◐ em execução
+**Consolidação factual:** realizada para o material disponível do Lote 01.  
+**Arquivo:** `LOTES/FICHAS_CENAS_LOTE01.md`
 
-## Próximo movimento — ETAPA 02B
-1. consolidar as fichas de cena reais de MV-01, MV-02, MV-03 e MV-I01;
-2. utilizar tudo que já estiver disponível sem pedir repetição desnecessária;
-3. marcar somente lacunas que bloqueiem precisão;
-4. escrever as quatro unidades do Lote 01;
-5. revisar Lote 00+01 como sequência única;
-6. ajustar a voz de MV-00 se necessário;
-7. atualizar status/histórico e congelar ETAPA 02 completa.
+### Unidades do início do manuscrito
+| Unidade | Estado | Observação |
+|---|---:|---|
+| MV-00 — Nota Forense de Abertura | ● | primeira escrita concluída |
+| MV-01 — Oito dias antes | ● | primeira escrita concluída |
+| MV-02 — Dezoito de Julho | ● | primeira escrita concluída |
+| MV-03 — O Berço ao Lado do Caixão | ● | primeira escrita concluída |
+| MV-I01 — O Reino das Galinhas | ◐ | dossiê pronto; falta uma ocorrência concreta completa para prosa longa sem invenção |
+
+## Próximo movimento dentro da Etapa 02
+1. recuperar uma ocorrência concreta do Reino das Galinhas quando houver fonte suficiente;
+2. escrever/reavaliar MV-I01;
+3. aplicar revisão de lote em MV-00 → MV-I01;
+4. ajustar a voz de MV-00 à voz emergente dos capítulos;
+5. congelar ETAPA 02 completa;
+6. iniciar ETAPA 03 / LOTE 02.
 
 ## Regra
-Nenhum capítulo é considerado definitivo apenas porque foi escrito. O status só vira `✓ fechado` depois de continuidade, precisão, fronteira editorial e revisão literária.
+A produção não fica parada por uma lacuna isolada. Unidades com material suficiente avançam; a lacuna permanece visível e rastreável até ser resolvida.
