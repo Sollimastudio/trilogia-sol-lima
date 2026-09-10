@@ -11,13 +11,14 @@
 - Parte II: ● primeira escrita integrada e auditada
 - Parte III: ● primeira escrita integrada e auditada
 - Parte IV / abertura da Autópsia: ● primeira escrita + revisão concluídas
-- Parte IV / clímax Perdão + Sepultamento: ◐ próxima frente ativa
+- Parte IV / clímax Perdão + Sepultamento: ● primeira escrita + revisão concluídas
+- Parte IV / investigadora e estudos: ◐ próxima frente ativa
 - Revisão de continuidade integral do livro: ⬜
 - Revisão factual integral: ⬜
 - Revisão literária final: ⬜
 
 ## Progresso textual acumulado
-**43 unidades possuem primeira escrita V1.**
+**45 unidades possuem primeira escrita V1/V1.1.**
 
 ### Abertura + Parte I — 15 unidades
 MV-00 → MV-01 → MV-02 → MV-03 → MV-03A → MV-03B → MV-I01 → MV-04 → MV-05 → MV-06 → MV-07 → MV-08 → MV-09 → MV-10 → MV-11.
@@ -28,8 +29,8 @@ MV-12 → MV-13 → MV-14 → MV-I04 → MV-15 → MV-16 → MV-17 → MV-18 →
 ### Parte III — 14 unidades
 MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27 → MV-28 → MV-29 → MV-30 → MV-31 → MV-32 → MV-33 → MV-34 → MV-35.
 
-### Parte IV — abertura — 2 unidades
-MV-36 → MV-37.
+### Parte IV — 4 unidades
+MV-36 → MV-37 → MV-38 → MV-39.
 
 ## Etapas fechadas
 - ETAPA 00 — ✓ Mapa-mãe macro
@@ -43,67 +44,68 @@ MV-36 → MV-37.
 - ETAPA 08 — ✓ Parte III / Movimento B: O Cerco Contra a Mãe
 - ETAPA 09 — ✓ Parte III / Movimento C: A Vida que Continuou
 - ETAPA 10 — ✓ Parte IV / abertura: pergunta, verdade e responsabilidade
+- ETAPA 11 — ✓ Parte IV / clímax: Matemática do Perdão + Sepultamento Simbólico
 
-# ETAPA 10 — resultado
-## Auditoria estrutural
-O antigo Ato VI foi auditado antes da escrita: **6 lotes / 72 núcleos**.
-
+# ETAPA 11 — resultado
+## Auditoria antes da escrita
 Arquivo:
-`LOTES/AUDITORIA_ETAPA10_AUTOPSIA_ABERTURA.md`
+`LOTES/AUDITORIA_ETAPA11_PERDAO_SEPULTAMENTO.md`
 
-### Destino dos lotes legados
-- Lote 1 / A Pergunta no Ônibus → MV-36 / ETAPA 10;
-- Lote 2 / A Verdade que Deixou de Ser Versículo → MV-37 / ETAPA 10;
-- Lote 3 / Matemática do Perdão + Sepultamento → ETAPA 11;
-- Lote 4 / Investigadora e estudos → reservado;
-- Lote 5 / mulher, TCC e origem dos métodos → reservado;
-- Lote 6 / autoria, IA, legado e Epílogo → reservado.
+### Cronologia segura
+- fase pós-Portão / processo formativo;
+- perto dos 39 anos / perto dos quarenta;
+- 70×7 → 490 confirmado no núcleo autoral;
+- Sepultamento confirmado em banheiro ligado a evento/imersão/centro de eventos;
+- data, nome do evento e coincidência exata com a edição do OSV permanecem abertos.
 
 ## Primeira escrita
-- MV-36 — A Pergunta no Ônibus — ● V1
-- MV-37 — A Verdade que Deixou de Ser Versículo — ● V1
+- MV-38 — A Matemática do Perdão — ● V1
+- MV-39 — O Sepultamento Simbólico — ● V1.1
 
 ## Curva
-`pergunta sem acusação → resposta → café/escuta → voucher → entrada → responsabilidade ouvida como culpa → separação de autorias → João 8:32 → Dois Caminhos como lente → verdade como critério → responsabilidade presente → dívida emocional aberta`.
+`perdão impossível de sentir → 70×7 → 490 → leões internos → decisão renovável → limite/verdade preservados → vivos perdem governo interno → Oripe reaparece → dívida de existir → banheiro comum → separar morte/nascimento → Eu desocupei o caixão → silêncio → corredor → Saí viva`.
+
+## Frases estruturais
+- `Oripe nunca me cobrou nada.`
+- `A morte era dele. A vida era minha.`
+- **`Eu desocupei o caixão.`**
+- `Eu não saí ressuscitada. Saí viva.`
 
 ## Proteções
-- senhor do story/café não identificado sem confirmação;
-- senhor do café e Paulo Bento não fundidos;
-- OSV — O Sentido da Vida não confundido com Sistema Operacional da Vida;
-- responsabilidade não é culpa;
-- violência continua pertencendo a quem a pratica;
-- fé permanece experiência complexa;
-- Quadro dos Dois Caminhos não é causa única;
-- método do Livro 2 não é ensinado;
-- ciência não é usada como decoração de autoridade;
-- Sepultamento não foi antecipado.
+- perdão não é obrigação universal;
+- 490 não é terapia validada;
+- reconciliação e acesso não são exigidos;
+- justiça/segurança/distância não são anuladas;
+- Oripe não é causa clínica;
+- Sepultamento não é tratamento clínico;
+- detalhes cenográficos não confirmados foram retirados;
+- nenhuma cura total foi proclamada;
+- o livro continua depois do banheiro.
 
 ## Revisão
-`LOTES/REVISAO_ETAPA10_AUTOPSIA_ABERTURA.md`
+`LOTES/REVISAO_ETAPA11_PERDAO_SEPULTAMENTO.md`
+
+A V1 inicial de MV-39 foi refinada para V1.1 porque explicava demais depois da frase de clímax. O pós-clímax foi reduzido para silêncio, porta, corredor e vida continuando.
 
 ## Snapshot
-`ETAPAS/10_AUTOPSIA_ABERTURA_VERDADE_RESPONSABILIDADE_2026-09-10.md`
+`ETAPAS/11_PERDAO_SEPULTAMENTO_CLIMAX_2026-09-10.md`
 
 ## Checklist
-`ACOMPANHAMENTO_ETAPA_10.md`
+`ACOMPANHAMENTO_ETAPA_11.md`
 
 # Próxima etapa ativa
-## ETAPA 11 — MATEMÁTICA DO PERDÃO + SEPULTAMENTO SIMBÓLICO
+## ETAPA 12 — A INVESTIGADORA GANHA LINGUAGEM
 
 Executar:
-`PROMPTS/ETAPA_11_COMANDO_ATUAL.md`
+`PROMPTS/ETAPA_12_COMANDO_ATUAL.md`
+
+### Pergunta de entrada
+**O que eu faço com a vida que deixei de usar como pagamento?**
 
 ### Primeiro movimento obrigatório
-Auditar cronologia e evento do clímax antes da prosa: 70×7, 490, Oripe, culpa de existir, banheiro de centro de eventos e Sepultamento Simbólico.
+Auditar VI-L4-001–012 antes da prosa: estudos, ciência do comportamento, corpo, padrões, crenças, diagnósticos como dados, formações documentadas e CSI da própria mente.
 
-A ETAPA 11 deve preservar:
-- perdão como experiência autoral, não prescrição;
-- verdade sem reconciliação obrigatória;
-- autoria das violências intacta;
-- Oripe como símbolo/núcleo biográfico, não causa clínica;
-- banheiro comum e cena íntima;
-- `eu desocupei o caixão` como frase de clímax, não slogan repetido;
-- vida continuando depois do gesto.
+A etapa não pode virar currículo nem aula de neurociência. Ela precisa mostrar a dor começando a produzir linguagem.
 
 ## Reservas da infância
 - Reino das Galinhas — ◐
