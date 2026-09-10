@@ -16,7 +16,7 @@ Depois da leitura obrigatória definida no `START_HERE.md` da raiz, leia nesta o
 10. `STATUS.md`
 11. `HISTORICO_ETAPAS.md`
 12. `PROMPTS/PROMPTS_MESTRES_DE_PRODUCAO.md`
-13. `PROMPTS/ETAPA_12_COMANDO_ATUAL.md`
+13. `PROMPTS/ETAPA_13_COMANDO_ATUAL.md`
 14. arquivos do lote ativo.
 
 ## Estado atual
@@ -32,10 +32,11 @@ Depois da leitura obrigatória definida no `START_HERE.md` da raiz, leia nesta o
 - ETAPA 09 — ✓ Parte III / Cadáver funcional
 - ETAPA 10 — ✓ Parte IV / abertura da Autópsia
 - ETAPA 11 — ✓ Matemática do Perdão + Sepultamento Simbólico
-- **ETAPA 12 — ATIVA / A Investigadora Ganha Linguagem**
+- ETAPA 12 — ✓ A Investigadora Ganha Linguagem
+- **ETAPA 13 — ATIVA / A Mulher que Quase Não Viveu**
 
 ## Manuscrito já em primeira escrita
-**45 unidades V1/V1.1.**
+**46 unidades V1/V1.1.**
 
 ### Abertura + Parte I — 15
 MV-00 → MV-01 → MV-02 → MV-03 → MV-03A → MV-03B → MV-I01 → MV-04 → MV-05 → MV-06 → MV-07 → MV-08 → MV-09 → MV-10 → MV-11.
@@ -46,49 +47,48 @@ MV-12 → MV-13 → MV-14 → MV-I04 → MV-15 → MV-16 → MV-17 → MV-18 →
 ### Parte III — 14
 MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27 → MV-28 → MV-29 → MV-30 → MV-31 → MV-32 → MV-33 → MV-34 → MV-35.
 
-### Parte IV — 4
-MV-36 → MV-37 → MV-38 → MV-39.
+### Parte IV — 5
+MV-36 → MV-37 → MV-38 → MV-39 → MV-40.
 
-## ETAPA 11 — arquivos obrigatórios para continuidade
-- `LOTES/AUDITORIA_ETAPA11_PERDAO_SEPULTAMENTO.md`
-- `LOTES/REVISAO_ETAPA11_PERDAO_SEPULTAMENTO.md`
-- `ETAPAS/11_PERDAO_SEPULTAMENTO_CLIMAX_2026-09-10.md`
-- `ACOMPANHAMENTO_ETAPA_11.md`
-- `CAPITULOS/MV-38_A_MATEMATICA_DO_PERDAO.md`
-- `CAPITULOS/MV-39_O_SEPULTAMENTO_SIMBOLICO.md`
+## ETAPA 12 — arquivos obrigatórios para continuidade
+- `LOTES/AUDITORIA_ETAPA12_INVESTIGADORA_LINGUAGEM.md`
+- `LOTES/REVISAO_ETAPA12_INVESTIGADORA_LINGUAGEM.md`
+- `CAPITULOS/MV-40_A_INVESTIGADORA_GANHA_LINGUAGEM.md`
+- `ETAPAS/12_INVESTIGADORA_GANHA_LINGUAGEM_2026-09-10.md`
+- `ACOMPANHAMENTO_ETAPA_12.md`
+- `MAPA_PARTE_IV_ATUAL.md`
+- `MAPA_VISUAL_PARTE_IV_ATUAL.md`
 
-## Clímax preservado
-A frase `Eu desocupei o caixão` aparece uma única vez no corpo central de MV-39.
+## Ponte atual
+A investigadora já ganhou linguagem para separar memória, relato, documento e interpretação. O conhecimento, porém, revelou uma ausência:
 
-O capítulo termina sem cura falsa:
-`Eu não saí ressuscitada. Saí viva.`
-
-Não repetir essas frases automaticamente em capítulos seguintes.
+**a mulher sem função ainda precisa ser vivida.**
 
 ## COMANDO ATUAL
 Executar integralmente:
-`PROMPTS/ETAPA_12_COMANDO_ATUAL.md`
+`PROMPTS/ETAPA_13_COMANDO_ATUAL.md`
 
-## ETAPA 12 — primeira obrigação
+## ETAPA 13 — primeira obrigação
 Antes da prosa:
-1. auditar VI-L4-001–012;
-2. fechar a cronologia possível dos estudos/formações;
-3. separar contato com ciência de formação documentada;
-4. conferir certificados antes de datas/cargas horárias finais;
-5. impedir catálogo de cursos;
-6. decidir arquitetura e códigos após MV-39;
-7. atualizar mapa antes da escrita.
+1. auditar VI-L5-001–012;
+2. recuperar cronologia de Mulher Magnética;
+3. verificar dados do TCC — curso, instituição, título e data;
+4. separar experiência do TCC de formulação posterior do Magnetus;
+5. localizar origem segura de `Antes de se relacionar, relacione-se`;
+6. distinguir experiência, método e produto;
+7. decidir arquitetura e códigos;
+8. atualizar mapa antes da escrita.
 
-## Pergunta de entrada
-**O que eu faço com a vida que deixei de usar como pagamento?**
+## Centro
+A próxima etapa precisa mostrar mulher, presença, desejo, escolha e limite — não publicidade.
 
 ## Fronteiras
-- não recontar o Sepultamento;
-- não ensinar Reposicione-se;
-- não usar neurociência como selo de autoridade;
-- diagnósticos são dados/limites, não identidade total;
-- ciência deve nascer de curiosidade e investigação;
-- a etapa prepara `A Mulher que Quase Não Viveu`.
+- Mulher Magnética não vira endosso comercial;
+- TCC não recebe detalhes inventados;
+- Magnetus entra apenas como fruto biográfico;
+- Relacione-se nasce como consequência;
+- Reposicione-se não é ensinado;
+- Fuga Identitária não é desenvolvida integralmente.
 
 ## Reservas preservadas da infância
 - `RESERVAS/REINO_DAS_GALINHAS.md`
