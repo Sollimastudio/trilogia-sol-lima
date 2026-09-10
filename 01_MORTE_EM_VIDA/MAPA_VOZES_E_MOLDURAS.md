@@ -1,6 +1,7 @@
 # MAPA CANÔNICO — VOZES, MOLDURAS E INTERLÚDIOS
 
 **Criado:** 10/09/2026  
+**Atualizado:** 10/09/2026 — ETAPA 13 concluída  
 **Função:** impedir que prólogos, monólogos e interlúdios desapareçam durante a produção capítulo a capítulo.
 
 > Capítulos carregam progressão factual. Estas peças especiais controlam voz, contraste, respiração, focalização e pagamentos emocionais. Nenhuma revisão futura deve cortá-las apenas porque não pertencem à numeração linear.
@@ -11,7 +12,7 @@
 **Posição:** primeira peça textual da obra.  
 **Função:** mostrar o efeito antes da causa: cadáver funcional, autópsia metafórica, promessa investigativa.
 
-### MV-P01 — Prólogo: O Portão — ◑ liberado na ETAPA 13
+### MV-P01 — Prólogo: O Portão — ● V1
 **Posição:** depois da Nota Forense e antes de 1978.  
 **Tipo:** cold open fora da cronologia.  
 **Função:** colocar o corpo da mãe diante da ferida central sem explicar ainda quem soldou o Portão.  
@@ -25,19 +26,21 @@
 **Posição:** antes do casamento.  
 **Função:** preservar vínculo, música, fé e complexidade de Elza.
 
-### MV-M01 — Agora Eu Não Posso Errar — ◑ liberado na ETAPA 13
+### MV-M01 — Agora Eu Não Posso Errar — ● V1 reintegrada
 **Posição:** depois de MV-22 e antes de MV-I05.  
 **Tipo:** monólogo em pensamento direto.  
-**Função:** provar que o divórcio encerrou uma convivência, mas não produziu uma mulher esclarecida. Sol entra no pós-divórcio com culpa, medo de errar, fé, corpo julgado e expectativa de direção externa/divina.
+**Função:** provar que o divórcio encerrou uma convivência, mas não produziu uma mulher esclarecida. Sol entra no pós-divórcio com culpa, medo de errar, fé, corpo julgado e expectativa de direção externa/divina.  
+**Fecho:** `Eu pedi o divórcio, Deus. Mas não queria que o Senhor fosse embora também.`
 
 ### MV-I05 — Finalmente? — ● V1
 **Posição:** entrada da Parte III, depois do monólogo pós-divórcio.  
 **Função:** silêncio/alívio provisório antes da Falsa Ressurreição.
 
-### MV-I06 — A Criança que Não Devia Nada — ◑ liberado na ETAPA 13
+### MV-I06 — A Criança que Não Devia Nada — ● V1
 **Posição:** depois de MV-39 e antes de MV-40.  
-**Tipo:** interlúdio de reencontro após o clímax.  
-**Função:** pagar a infância pela ternura; permitir que a narradora adulta reconheça que a criança não era autora da morte, do luto ou das dores adultas.
+**Tipo:** interlúdio/monólogo de reencontro após o clímax.  
+**Função:** pagar a infância pela ternura; permitir que a narradora adulta reconheça que a criança não era autora da morte, do luto ou das dores adultas.  
+**Frase-eixo:** `A criança que eu fui não devia nada.`
 
 ## RESERVAS
 ### Reino das Galinhas — ◐
