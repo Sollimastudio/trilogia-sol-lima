@@ -44,9 +44,6 @@ Este arquivo registra a evolução estrutural e textual do Livro 1 sem apagar es
 ### Decisão
 A obra será escrita em lotes de 4 a 6 unidades, mantendo cada capítulo em arquivo próprio. Isso permite velocidade sem perder rastreabilidade.
 
-### Próxima etapa
-**ETAPA 02 — Consolidação de cenas e escrita do LOTE 00 + LOTE 01.**
-
 ---
 
 ## ETAPA 02 — CONSOLIDAÇÃO DE CENAS E ESCRITA DO LOTE 00 + 01
@@ -56,31 +53,50 @@ A obra será escrita em lotes de 4 a 6 unidades, mantendo cada capítulo em arqu
 ### ETAPA 02A — Preparação operacional e primeira escrita da abertura
 **Status:** ✓ concluída e congelada.
 
-### Entregas
+#### Entregas
 - pipeline completo de produção criado;
 - biblioteca de prompts das camadas criada;
 - comandos das etapas 02–18 criados;
 - dossiê do Lote 00+01 criado;
 - `MV-00 — Nota Forense de Abertura`: primeira escrita concluída;
-- `MV-01 — Oito dias antes`: dossiê estruturado;
-- `MV-02 — Dezoito de Julho`: dossiê estruturado;
-- `MV-03 — O Berço ao Lado do Caixão`: dossiê estruturado;
-- `MV-I01 — O Reino das Galinhas`: dossiê estruturado.
+- `MV-01`, `MV-02`, `MV-03` e `MV-I01`: dossiês estruturados.
 
-### Decisões
-1. Produção em massa seguirá pipeline por camadas, e não improvisação capítulo a capítulo.
-2. Lacunas factuais não serão preenchidas por invenção literária.
-3. A voz da Nota Forense V1 será testada contra os primeiros capítulos antes de ser tratada como voz definitiva.
-4. Cada lote futuro possui comando de execução pré-escrito no repositório.
-
-### Snapshot
+#### Snapshot
 `ETAPAS/02A_ABERTURA_E_PREPARACAO_LOTE01_2026-09-10.md`
 
-### Próxima subetapa — 02B
-- consolidar fichas de cena reais do Lote 01;
-- escrever MV-01, MV-02, MV-03 e MV-I01;
-- revisar a leitura contínua de MV-00 + Lote 01;
-- congelar a Etapa 02 completa.
+### ETAPA 02B — Consolidação factual e primeira escrita do núcleo de origem
+**Data:** 10/09/2026  
+**Status:** ◐ parcialmente concluída; uma lacuna narrativa permanece visível.
+
+#### Fontes recuperadas
+Registro de continuidade e correções anteriores foram usados para distinguir:
+- acontecimentos consolidados;
+- história transmitida pela família;
+- interpretação posterior;
+- detalhes que versões antigas haviam inventado ou extrapolado.
+
+#### Entregas
+- `LOTES/FICHAS_CENAS_LOTE01.md` criado;
+- MV-01 — primeira escrita concluída;
+- MV-02 — primeira escrita concluída;
+- MV-03 — primeira escrita concluída;
+- MV-I01 permanece em apuração porque existe memória geral de convivência/brincadeira com galinhas, mas ainda não uma ocorrência completa segura para construir uma cena longa.
+
+#### Decisões
+1. A narradora não fingirá lembrar acontecimentos anteriores à própria memória.
+2. “O Berço ao Lado do Caixão” é imagem estrutural e não será apresentado como fotografia literal sem confirmação.
+3. Versões antigas que atribuam causalidades médicas/psicológicas não confirmadas não serão reaproveitadas como fato.
+4. Uma lacuna isolada não paralisa a produção em massa: capítulos com material suficiente continuam avançando.
+
+#### Estado do manuscrito
+Quatro unidades consecutivas possuem prosa V1: MV-00, MV-01, MV-02 e MV-03.
+
+#### Próximo movimento
+- resolver ou reclassificar MV-I01;
+- revisar Lote 00+01 em leitura contínua;
+- ajustar MV-00 se a voz do conjunto exigir;
+- congelar ETAPA 02;
+- iniciar ETAPA 03 / LOTE 02.
 
 ---
 
