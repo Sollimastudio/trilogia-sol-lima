@@ -2,7 +2,7 @@
 ## A Autópsia da Alma
 
 **Atualizado:** 10/09/2026  
-**Estado:** ETAPAS 10–12 concluídas; ETAPA 13 arquitetada com recuperação da criança e da mulher.
+**Estado:** ETAPAS 10–13 concluídas em primeira escrita; ETAPA 14 é a próxima frente.
 
 > Este arquivo governa a Parte IV. Os códigos/títulos antigos permanecem históricos até o Manuscrito Alfa.
 
@@ -33,25 +33,18 @@ Transformar a narradora de sobrevivente/investigadora em examinadora consciente 
 
 ---
 
-# INTERLÚDIO DE PAGAMENTO — RECUPERADO NA ETAPA 13
+# INTERLÚDIO DE PAGAMENTO — ✓ RECUPERADO NA ETAPA 13
 
-### MV-I06 — A Criança que Não Devia Nada — ◑ liberado para escrita
+### MV-I06 — A Criança que Não Devia Nada — ● V1
 **Posição:** imediatamente depois de MV-39 e antes de MV-40.
 
 **Função:** permitir que, depois de separar a morte de Oripe do próprio nascimento, Sol consiga olhar para a criança que foi sem transformá-la em ré.
 
 **Centro:** a criança era ingênua no sentido de não possuir compreensão adulta; não era burra, passiva por natureza ou culpada pelas dores dos adultos.
 
-**Pagamento:**
-- aniversário e culpa;
-- desejo de ser anjo;
-- corpo e necessidades;
-- menina que não pediu;
-- exigência de ser boa/madura/útil;
-- `a criança que eu fui não devia nada`;
-- inocência específica diante da morte de Oripe e das responsabilidades adultas.
+**Pagamento:** aniversário/culpa, desejo de ser anjo, corpo/necessidades, menina que não pediu, exigência de maturidade e utilidade.
 
-**Regra:** não usar o interlúdio para ensinar método ou explicar causalidade total da vida adulta.
+**Frase-eixo:** `A criança que eu fui não devia nada.`
 
 ---
 
@@ -61,7 +54,7 @@ Transformar a narradora de sobrevivente/investigadora em examinadora consciente 
 **Fonte:** VI-L4-001–012.
 
 **Curva:**
-`vida pós-Sepultamento → perguntas → comportamento humano → ciência como linguagem → conceitos testados contra cenas → cuidado com rótulos → diagnósticos como dados/limites → perfil/vocação/propósito → formações documentadas → arquivo de evidências → CSI da própria mente → dor produz linguagem → conhecimento não basta: é preciso viver a mulher`.
+`vida pós-Sepultamento → perguntas → comportamento humano → ciência como linguagem → conceitos testados contra cenas → cuidado com rótulos → diagnósticos como dados/limites → perfil/vocação/propósito → formações documentadas → arquivo de evidências → CSI da própria mente → dor produz linguagem → conhecimento não basta`.
 
 **Objeto-símbolo:** caderno/arquivo de evidências.
 
@@ -70,33 +63,53 @@ Transformar a narradora de sobrevivente/investigadora em examinadora consciente 
 
 ---
 
-# MOVIMENTO G — A MULHER QUE QUASE NÃO VIVEU — ETAPA 13
+# MOVIMENTO G — A MULHER QUE QUASE NÃO VIVEU — ✓ ETAPA 13
 
 ## Auditoria
 `LOTES/AUDITORIA_ETAPA13_MULHER_E_VOZES_RECUPERADAS.md`
 
-### MV-41 — A Mulher que Quase Não Viveu — ◑ arquitetura liberada
+## Revisão
+`LOTES/REVISAO_ETAPA13_MULHER_E_VOZES_RECUPERADAS.md`
+
+### MV-41 — A Mulher que Quase Não Viveu — ● V1
 **Fonte principal:** VI-L5-001–012.
 
 **Pergunta:**
 > Quem sou quando nenhum papel fala primeiro por mim?
 
 **Curva:**
-`sei explicar → estranho a própria preferência → experiência de presença → Mulher Magnética como formação pessoal → corpo sem tribunal → desejo sem obrigação → limite sem culpa automática → escolhas pequenas → TCC como laboratório biográfico com lacunas documentais → experiência observada → Magnetus nasce depois como organização → autorrelacionamento → Relacione-se como consequência`.
+`sei explicar → preferência me estranha → corpo sem tribunal → Mulher Magnética como experiência formativa → desejo sem direção obrigatória → limite → escolhas pequenas → presença → TCC como laboratório biográfico com lacunas documentais → experiência observada → Magnetus nasce depois como organização → autorrelacionamento → Relacione-se como consequência → futuro deixa de chegar pronto na boca de outra pessoa`.
 
-**Travas factuais:**
-- data do Mulher Magnética continua pendente;
-- participação é atribuída a programa de Vanessa de Oliveira no nível autoral/canônico atual;
-- curso, instituição, título e data do TCC não foram localizados;
-- ordem fina de Mulher Magnética, DISC, Master Love e TCC não será inventada;
-- data do nome Magnetus e nascimento formal do Relacione-se permanecem abertas.
+**Travas factuais preservadas:**
+- data do Mulher Magnética pendente;
+- participação atribuída ao programa de Vanessa de Oliveira no nível canônico atual;
+- curso, instituição, título e data do TCC não localizados;
+- ordem fina entre Mulher Magnética, DISC, Master Love e TCC não inventada;
+- data do nome Magnetus e nascimento formal do Relacione-se abertas.
 
-**Fronteira:** mulher antes do produto. Experiência antes do protocolo. Presença antes da marca.
+**Fronteira:** mulher antes do produto; experiência antes do protocolo; presença antes da marca.
+
+**Fecho:**
+> Eu já não precisava que alguém me dissesse quem eu seria.
 
 ---
 
-# MOVIMENTO H — AUTORIA, LEGADO E SAÍDA DA AUTÓPSIA — RESERVADO
-VI-L6-001–012. Escrita, IA como infraestrutura, moldura forense, assinatura Sol Lima, Epílogo e Laudo Final.
+# MOVIMENTO H — AUTORIA, MEMÓRIA, IA E LEGADO — ETAPA 14
+**Fonte:** VI-L6-001–012.  
+**Estado:** próxima frente.
+
+Deve auditar:
+- Mãe-Véia envelhecida e a imagem do vestido;
+- origem/evolução do MINDSETmagro no nível biográfico, sem protocolo;
+- distinção entre Magnetus, MINDSETmagro e Relacione-se;
+- escrita de Morte em Vida como missão;
+- IA/GPT como infraestrutura de organização e edição, nunca autora;
+- fragmentos tornando-se corpus/repositório;
+- moldura Autópsia/Laudo;
+- assinatura Sol Lima;
+- entrega ao Epílogo.
+
+**2025 permanece reservado ao Epílogo.**
 
 ---
 
@@ -107,4 +120,5 @@ VI-L6-001–012. Escrita, IA como infraestrutura, moldura forense, assinatura So
 **cena → estranhamento → pergunta → compreensão parcial → próxima evidência.**
 
 No reencontro com a criança: **ternura sem infantilização.**  
-Na mulher: **experiência antes de teoria.**
+Na mulher: **experiência antes de teoria.**  
+Na autoria: **obra antes de propaganda.**
