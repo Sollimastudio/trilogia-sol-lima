@@ -204,7 +204,7 @@ Primeiro lote: **Parte II — Semente, Solo e Raízes — Capítulos 5 a 8.**
 
 ## ETAPA 03 — ESCRITA EM MASSA POR PARTES
 **Data de abertura:** 10/09/2026  
-**Status:** ◐ em produção.
+**Status:** ✓ concluída no corpo principal em 10/09/2026.
 
 ### Regra
 Uma Parte por lote. Cada capítulo é salvo separadamente; a Parte é revisada como arco único antes do snapshot. Não reconstruir a arquitetura por preferência estilística.
@@ -554,6 +554,89 @@ A Parte V havia tornado visíveis Pragas, Sono, Sofá, influência, barras e Por
 
 #### Próximo lote
 **ETAPA 03 — LOTE 06 — PARTE VII: PODA, NOVA SEMENTE E FRUTOS — Capítulos 25 a 28.**
+
+---
+
+### LOTE 06 — PARTE VII: PODA, NOVA SEMENTE E FRUTOS
+**Data:** 10/09/2026  
+**Status:** ✓ concluído.
+
+#### Estado de entrada
+A Parte VI havia transformado observação em verificação: o leitor possuía Filtro, Cadeia, zonas de governabilidade, custos e Espelhos. Faltava cumprir a promessa central do Livro 2: converter conclusão filtrada em responsabilidade proporcional, intervenção específica, nova prática, sustentação e revisão por novos Frutos.
+
+#### Manuscrito produzido
+- `MANUSCRITO/07_PARTE_VII/25_RESPONSABILIDADE_DEVER_E_VISAO_DE_FUTURO.md`
+- `MANUSCRITO/07_PARTE_VII/26_PODA_LIMITES_E_LUTO.md`
+- `MANUSCRITO/07_PARTE_VII/27_NOVA_SEMENTE_TRAVESSIA_E_SUSTENTACAO.md`
+- `MANUSCRITO/07_PARTE_VII/28_NOVOS_FRUTOS_DESCA_DA_ARVORE_E_VA_VIVER.md`
+
+#### Decisões aplicadas
+1. Responsabilidade foi devolvida à esfera de ação presente: `meu / outro / contexto / ainda não sei`.
+2. Lei 7 — `Assuma Sua Responsabilidade` — amadureceu como `assuma o que é seu, não tudo`.
+3. Lei 8 — `Cumpra Seu Dever` — foi integrada distinguindo obrigação real de expectativa, favor e papel imposto.
+4. Lei 9 — `Pense a Longo Prazo` — passou a organizar direção sem transformar projeção em profecia.
+5. Lei 13 — `Abrace o Desconforto` — nasceu formalmente com quatro leituras: custo de coerência, perigo, incapacidade/falta de recurso e rota que precisa de revisão.
+6. `Mapa de Responsabilidade Distribuída` entrou como ferramenta central do Cap. 25.
+7. Poda foi consolidada como interrupção de objeto específico: comportamento, rotina, acesso, permissão, acordo, interpretação, exposição, prazo, vínculo ou forma do vínculo.
+8. Poda foi separada de vingança, reação total, performance de força e oposição automática à posição antiga.
+9. Poda gradual e imediata foram diferenciadas por risco, segurança, recursos, deveres, reversibilidade e aquilo que precisa ser protegido.
+10. Luto foi integrado como custo possível da mudança, inclusive luto de papel, pertencimento, expectativa, fantasia e esperança.
+11. `Sepultamento Simbólico` não foi convertido em exercício do Livro 2; a fronteira com o Livro 1 foi preservada.
+12. `Plano de Poda Responsável` foi incorporado.
+13. Nova Semente foi consolidada como atitude/decisão/prática pequena, executável, observável, ligada ao Fruto, apoiada quando necessário e revisável.
+14. Sustentação passou a incluir Solo, ambiente, apoio, acordo, recurso, redução de atrito, revisão e Frutos — não apenas repetição.
+15. Planos `se–então` entraram apenas como apoio possível e sem promessa de aderência garantida.
+16. Recaída/reaparecimento do padrão foi tratada como dado de cultivo e revisão, não identidade, fracasso moral ou retorno automático ao zero.
+17. Travessia foi consolidada sem prazo universal.
+18. Nova Semente de 24 horas e checkpoints de 24h/7d/30d foram escritos como janelas organizacionais, não cronogramas científicos de hábito.
+19. Cap. 28 retorna à `Fotografia de Partida` e exige comparação de evidências, inclusive direito de registrar `ainda não mudou`.
+20. Sete Frutos do Posicionamento foram consolidados como lentes pedagógicas: Verdade, Responsabilidade, Discernimento, Coerência, Coragem, Sabedoria e Legado.
+21. Os Sete Frutos não são estágios, diagnóstico, promessa, hierarquia moral nem certificado de superioridade.
+22. Lei 14 — `Seja Sensata e Inteira` — foi entregue como síntese: verdade, responsabilidade, compaixão, limite, dever, contexto, vínculo, risco, recurso, tempo, consequência e capacidade de revisão permanecem na mesma conversa.
+23. As 14 Leis foram reunidas somente após o leitor ter encontrado cada uma em contexto.
+24. Janelas 30/60/90 foram apresentadas apenas como pontos de revisão do cultivo.
+25. `Desça da Árvore` cumpriu a função final contra residência no Mirante e autoconhecimento usado como esconderijo.
+26. Lia fechou a trajetória do caso-guia com Poda, Nova Semente e Frutos novos, sem receber cura, identidade pronta ou final idealizado.
+27. O Cap. 28 prepara o Cajueiro sem escrever o Epílogo antecipadamente.
+28. A pergunta de ponte foi preservada sem resposta: `quem é o Eu que está escolhendo essa nova posição?`.
+
+#### Ferramentas
+- Mapa de Responsabilidade Distribuída;
+- Plano de Poda Responsável;
+- Nova Semente de 24 horas;
+- checkpoints 24h / 7d / 30d;
+- retorno à Fotografia de Partida;
+- janelas de revisão 30 / 60 / 90 dias;
+- síntese das 14 Leis;
+- Sete Frutos como lentes de colheita.
+
+#### Caso-guia Lia
+Lia concluiu o método sem virar personagem `resolvida`: definiu a própria responsabilidade, podou uma resposta específica em vez de pessoas, plantou uma prática observável, falhou em uma ocasião, tratou o retorno como dado e encontrou Frutos novos suficientes para continuar testando. A identidade de Lia permaneceu fora do escopo.
+
+#### Rigor e contenção
+- nenhum fato autobiográfico novo foi inventado;
+- responsabilidade não foi usada para transferir culpa por violência ou restrição;
+- Poda não foi apresentada como ruptura compulsória;
+- segurança e apoio especializado permanecem prioritários em situações de alto risco;
+- planos `se–então` não receberam promessa de eficácia garantida;
+- nenhum prazo de 24h/7d/30d/60d/90d foi usado como lei de hábito ou transformação;
+- recaída não foi transformada em conceito clínico nem garantia de progresso;
+- Sete Frutos não foram apresentados como desfechos clínicos;
+- Livro 3 continuou dono da anatomia da Fuga Identitária.
+
+#### Leis no lote
+- Lei 7 — **Assuma Sua Responsabilidade**: síntese prática no Cap. 25.
+- Lei 8 — **Cumpra Seu Dever**: síntese prática no Cap. 25.
+- Lei 9 — **Pense a Longo Prazo**: síntese prática no Cap. 25.
+- Lei 13 — **Abrace o Desconforto**: nascimento formal no Cap. 25 e aplicação na Travessia.
+- Lei 14 — **Seja Sensata e Inteira**: amadurecimento no Cap. 27 e síntese integral no Cap. 28.
+- As 14 Leis: síntese reunida no Cap. 28.
+
+#### Snapshot
+`ETAPAS/03_LOTE_06_PARTE_VII_PODA_NOVA_SEMENTE_FRUTOS_2026-09-10.md`
+
+#### Próxima etapa
+**ETAPA 04 — EPÍLOGO E COSTURA INTEGRAL.**
 
 ---
 
