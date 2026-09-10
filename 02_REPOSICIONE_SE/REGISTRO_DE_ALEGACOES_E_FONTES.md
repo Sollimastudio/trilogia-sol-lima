@@ -24,9 +24,9 @@ Campos:
 | AF-001 | metacognição permite observar/revisar o próprio processo cognitivo | psicológica/neurocognitiva | revisão técnica/primária | não prometer controle total nem mudança automática | Caps. 4/22 | pendente |
 | AF-002 | aprendizagem, repetição e familiaridade podem estabilizar respostas/hábitos | psicológica | revisão técnica | não usar `reprogramação`, prazo universal ou determinismo | Caps. 6/27 | **em manuscrito / validar ETAPA 05** |
 | AF-003 | neuroplasticidade participa de aprendizagem e adaptação | neurocientífica | revisão técnica contemporânea | não dizer que qualquer crença pode ser `desinstalada` por decisão simples | Cap. 6 | **reservada; só manter se fonte elevar a precisão** |
-| AF-004 | sinais corporais/interocepção podem informar estados sem provar interpretação | clínica/neurocientífica | revisão técnica | corpo não é oráculo nem detector infalível de verdade | Cap. 10 | **em manuscrito / validar ETAPA 05** |
-| AF-005 | controle coercitivo pode reduzir opções percebidas/reais e aumentar risco | clínica/social/jurídica | diretrizes técnicas/oficiais | não diagnosticar situação individual; segurança vem antes de confronto | Caps. 11/12/21 | **semeado na Parte III / aprofundar e validar ETAPA 05** |
-| AF-006 | dependência econômica, filhos, moradia e rede podem limitar saída | social/segurança | fontes técnicas/oficiais | não concluir que permanência é escolha livre | Caps. 11/12/21/26 | **em manuscrito com linguagem de segurança / validar ETAPA 05** |
+| AF-004 | sinais corporais/interocepção podem informar estados sem provar interpretação | clínica/neurocientífica | revisão técnica | corpo não é oráculo nem detector infalível de verdade | Caps. 10/16 | **em manuscrito / validar ETAPA 05** |
+| AF-005 | controle coercitivo pode reduzir opções percebidas/reais e aumentar risco | clínica/social/jurídica | diretrizes técnicas/oficiais | não diagnosticar situação individual; segurança vem antes de confronto | Caps. 11/12/14/21 | **semeado nas Partes III–IV / aprofundar e validar ETAPA 05** |
+| AF-006 | dependência econômica, filhos, moradia e rede podem limitar saída | social/segurança | fontes técnicas/oficiais | não concluir que permanência é escolha livre | Caps. 11/12/14/21/26 | **em manuscrito com linguagem de segurança / validar ETAPA 05** |
 | AF-007 | planos `se–então` podem apoiar execução de intenções | psicológica | literatura sobre intenções de implementação | não prometer aderência garantida | Cap. 27 | pendente |
 | AF-008 | primeira impressão e leitura de sinais interpessoais | psicológica | verificar estudo primário antes de qualquer número/tempo | retirar números como `33 ms` se não forem necessários e robustos | Cap. 1 | pendente |
 | AF-009 | locus de controle, agência e percepção de influência sobre resultados | psicológica | fonte original + revisão | não afirmar que locus externo é causa universal da falta de posicionamento | Caps. 3/25 | pendente |
@@ -36,13 +36,14 @@ Campos:
 | AF-013 | Parábola do Semeador — semente como palavra/mensagem e quatro solos | teológica/bíblica | texto bíblico + referência teológica se necessário | distinguir sentido bíblico da adaptação pedagógica de Sol | Pré/Cap. 5 | **em manuscrito / citação final pendente** |
 | AF-014 | `Conhecereis a verdade e a verdade vos libertará` | bíblica/teológica | texto bíblico/contexto | não usar como promessa causal de solução automática | Pré/Cap. 22 | pendente de citação final |
 | AF-015 | `Pelos frutos se conhece a árvore` | bíblica/teológica | texto bíblico/contexto | usar como lente autoral; Fruto do método continua evidência parcial | Pré/Cap. 2 | pendente de citação final |
-| AF-016 | algoritmo/repetição pode influenciar exposição e familiaridade | tecnologia/comportamento | fontes técnicas/empíricas | não afirmar `algoritmo controla a mente` | Caps. 6/20 | **em manuscrito com linguagem restrita / validar ETAPA 05** |
-| AF-017 | pertencimento e validação podem influenciar decisão | psicológica/social | revisão técnica | não patologizar necessidade humana de pertencer | Caps. 8/20 | **em manuscrito como lente operacional / validar ETAPA 05** |
+| AF-016 | algoritmo/repetição pode influenciar exposição e familiaridade | tecnologia/comportamento | fontes técnicas/empíricas | não afirmar `algoritmo controla a mente` | Caps. 6/16/20 | **em manuscrito com linguagem restrita / validar ETAPA 05** |
+| AF-017 | pertencimento e validação podem influenciar decisão | psicológica/social | revisão técnica | não patologizar necessidade humana de pertencer | Caps. 8/14/16/20 | **em manuscrito como lente operacional / validar ETAPA 05** |
 | AF-018 | críticas podem conter dado útil e também agressão | pedagógica/posição autoral | não exige fonte para distinção básica; revisar exemplos | não obrigar leitor a absorver violência para `aprender verdade` | Cap. 22 | revisão editorial |
-| AF-019 | política e identidade de grupo | social/política | fontes apenas quando houver alegação factual/populacional | não diagnosticar campos políticos; régua simétrica | Cap. 16 | pendente conforme prosa |
+| AF-019 | política e identidade de grupo | social/política | fontes apenas quando houver alegação factual/populacional | não diagnosticar campos políticos; régua simétrica | Cap. 16 | **em manuscrito sob regra de simetria / validar alegações factuais na ETAPA 05** |
 | AF-020 | recaída/reaparecimento de padrão não equivale a retorno ao ponto zero | pedagógica/comportamental | literatura de mudança comportamental se alegação técnica | apresentar como regra pedagógica, não garantia clínica | Cap. 27 | pendente |
 | AF-021 | acordos sob ameaça, coerção ou ausência relevante de possibilidade de recusa exigem distinção de acordos voluntários | ética/social/jurídica | fontes técnicas/oficiais conforme redação final | não transformar consentimento formal em prova automática de liberdade material | Caps. 12/21 | **em manuscrito / validar ETAPA 05** |
-| AF-022 | sinais corporais podem variar conforme contexto, cansaço, dor, expectativa e experiência anterior | clínica/neurocientífica | revisão técnica contemporânea | não converter variação corporal em diagnóstico nem causa universal | Cap. 10 | **em manuscrito / validar ETAPA 05** |
+| AF-022 | sinais corporais podem variar conforme contexto, cansaço, dor, expectativa e experiência anterior | clínica/neurocientífica | revisão técnica contemporânea | não converter variação corporal em diagnóstico nem causa universal | Caps. 10/16 | **em manuscrito / validar ETAPA 05** |
+| AF-023 | intensidade de um vínculo, por si só, não estabelece profundidade, saúde ou segurança relacional | pedagógica com interface relacional/psicológica | revisão técnica se mantida como alegação geral | não diagnosticar vínculo por intensidade nem converter calma em saúde automática | Cap. 14 | **em manuscrito com linguagem observacional / validar redação na ETAPA 05** |
 
 ## Alegações que NÃO entram sem fonte forte ou devem ser reformuladas
 
@@ -86,6 +87,23 @@ A escrita dos Capítulos 9 a 12 ativou especialmente AF-004, AF-005, AF-006, AF-
 - Acordo Consciente foi qualificado por possibilidade real de recusa, contexto, responsabilidade e revisão; comunicação explícita não torna automaticamente um acordo livre ou justo.
 - O texto evita a regra absoluta de que `limites afastam as pessoas erradas`; pessoas saudáveis podem discordar, negociar e precisar de adaptação.
 - Nenhum novo fato biográfico específico foi acrescentado para sustentar a Parte III.
+
+## Registro de uso — ETAPA 03 / LOTE 03 / PARTE IV
+
+A escrita dos Capítulos 13 a 16 ativou especialmente AF-004, AF-005, AF-006, AF-016, AF-017, AF-019, AF-022 e AF-023.
+
+### Decisões de contenção aplicadas já na prosa
+- `Galho` foi tratado como domínio contextual: um Fruto ou uma competência em uma área não define a pessoa inteira.
+- Em vínculos, intensidade, reciprocidade, dependência, acesso, proteção e controle foram diferenciados sem transformar descrições pedagógicas em diagnóstico de pessoas ou relações.
+- Permanecer não foi tratado como prova de fraqueza nem sair como prova automática de coragem; risco, coerção, dependência e recursos permanecem dentro da análise.
+- `Sim Dourado` e `Não Limpo` foram recuperados apenas como linguagem operacional e não como fórmulas universais.
+- O Cap. 15 separa dignidade humana, valor comunicado, contribuição profissional e preço; não afirma que autoestima, confiança ou `posicionamento` controlam mercado, renda ou aceitação de preço.
+- Como PA-004 continua sem episódio autobiográfico de trabalho confirmado, foi usado um caso hipotético claramente apresentado como tal; nenhum fato biográfico foi inventado.
+- Ambiente digital foi tratado como fonte de exposição/repetição e influência possível, sem linguagem de controle mental algorítmico.
+- Política foi usada como Galho de aplicação do teste de simetria, sem defesa partidária, diagnóstico moral de campos ou alegação populacional não sustentada.
+- Fé permaneceu lente autoral e campo de discernimento; não foi usada como autoridade científica, clínica ou como bloqueio automático a contraditório.
+- O corpo foi tratado como Galho de cuidado e como fonte de sinais já governada pela regra `sinal não é veredito`; questões de saúde são remetidas a informação/avaliação profissional quando necessário.
+- Fuga Identitária foi nomeada apenas pela pergunta sobre autoria da posição; sua anatomia foi explicitamente reservada ao Livro 3.
 
 ## Protocolo de atualização
 
