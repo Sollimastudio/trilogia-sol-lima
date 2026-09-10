@@ -486,5 +486,76 @@ Lia foi usada apenas para demonstrar função e progressão: a dor não recebeu 
 
 ---
 
+### LOTE 05 — PARTE VI: FILTRO, EVIDÊNCIAS E ESPELHOS
+**Data:** 10/09/2026  
+**Status:** ✓ concluído.
+
+#### Estado de entrada
+A Parte V havia tornado visíveis Pragas, Sono, Sofá, influência, barras e Porta Possível. O leitor tinha margem para reconhecer uma Jaula, mas ainda precisava de um instrumento que impedisse urgência, emoção, pertencimento ou primeira interpretação de virarem sentença antes da travessia.
+
+#### Manuscrito produzido
+- `MANUSCRITO/06_PARTE_VI/22_METACOGNICAO_E_FILTRO_DA_SENSATEZ.md`
+- `MANUSCRITO/06_PARTE_VI/23_CADEIA_DE_RESULTADOS_EVIDENCIAS_E_CUSTOS.md`
+- `MANUSCRITO/06_PARTE_VI/24_OS_14_ESPELHOS_DO_POSICIONAMENTO.md`
+
+#### Decisões aplicadas
+1. Mirante/metacognição foi consolidado como observação do próprio processo de leitura, sem promessa de neutralidade perfeita.
+2. `Filtro da Sensatez™` entrou integralmente com as 12 perguntas oficiais e regra de parada.
+3. A Lei 12 — `Exerça Seu Próprio Discernimento` — nasceu formalmente no Cap. 22; `Pratique o Julgamento Próprio` permanece apenas como nome histórico migrado.
+4. `Conhecereis a verdade...` foi preservado como lente de fé, com trava explícita contra solução causal automática da vida prática.
+5. `Arte de Ouvir Verdades` foi incorporada dentro do Cap. 22: conservar dado útil sem aceitar generalização, agressão ou sentença identitária.
+6. PA-003/Metrôbus continuou não confirmado; nenhuma cena autobiográfica foi inventada. O exemplo de transporte coletivo foi marcado como hipotético.
+7. Cadeia de Resultados foi consolidada como mapa multicausal de participação, não esteira causal rígida.
+8. Foram incluídos crenças/valores, emoção, hábito, corpo, contexto, informação, incentivos, risco, coerção, recursos e opções percebidas antes de decisão/não decisão, consequência e Fruto.
+9. Quatro zonas de governabilidade foram formalizadas: sob minha governabilidade, parcialmente influenciável, fora da governabilidade e desconhecido.
+10. Lei 1 — `Observe os Frutos` — voltou como mecanismo de revisão da própria hipótese após a ação.
+11. Lei 9 — `Pense a Longo Prazo` — amadureceu com Matriz de Custos; custo de mudar também entra na conta.
+12. Matriz de Custos foi escrita como análise de cenários/tendências, não profecia.
+13. Os 14 Espelhos foram escritos como modos contextuais em Galho/período, nunca identidades, personalidades ou diagnósticos.
+14. Sete clássicos preservados: Soberano, Vulcão, Névoa, Fantasma, Espelho Partido, Ator e Herdeiro.
+15. Sete amplificados pelo Novo Mundo preservados: Náufrago, Eco, Vitrine, Muro, Espelho, Templo e Camaleão.
+16. `Muro` foi consolidado como rigidez/fechamento defensivo ao contraditório; `Espelho` como proteção de autoimagem de superioridade/correção. A linguagem diagnóstica antiga foi retirada.
+17. `Vitrine` como Espelho nº 10 foi diferenciada do conceito geral de Vitrine no Dicionário Canônico.
+18. O Soberano não é categoria superior e também precisa permanecer aberto a Filtro, Fruto e reparação.
+19. O teste completo dos 14 Espelhos permaneceu no Workbook e foi protegido contra alegação de validade clínica/psicométrica não demonstrada.
+20. Lei 14 — `Seja Sensata e Inteira` — foi apenas semeada; sua síntese continua reservada ao Cap. 28.
+21. Lia foi usada para demonstrar Filtro/Cadeia/Espelhos e reconhecer recurso transferível, sem receber diagnóstico ou identidade pronta.
+22. O arco termina em Poda: reconhecimento sem intervenção seria apenas coleção de mapas.
+
+#### Rigor e contenção
+- metacognição não foi tratada como controle total;
+- emoção não foi usada como prova automática;
+- verdade bíblica não foi convertida em promessa material/terapêutica automática;
+- cenário Metrôbus não foi falsificado como memória;
+- pensamento não foi tratado como fabricante de destino;
+- resultado ruim não foi usado como prova retrospectiva de decisão moralmente errada;
+- 14 Espelhos não receberam linguagem clínica;
+- `narcísico` foi removido da definição do Espelho;
+- projeção de custos não foi tratada como previsão;
+- alegações ativadas foram registradas para ETAPA 05.
+
+#### Ferramentas
+- Filtro da Sensatez™ — 12 perguntas + regra de parada;
+- Arte de Ouvir Verdades como aplicação;
+- Cadeia de Resultados;
+- Zonas de Governabilidade;
+- Matriz de Custos;
+- 14 Espelhos — versão de livro;
+- Teste dos 14 Espelhos — mantido no Workbook.
+
+#### Leis no lote
+- Lei 12 — **Exerça Seu Próprio Discernimento**: nascimento no Cap. 22.
+- Lei 1 — **Observe os Frutos**: amadurecimento no Cap. 23.
+- Lei 9 — **Pense a Longo Prazo**: amadurecimento no Cap. 23.
+- Lei 14 — **Seja Sensata e Inteira**: apenas semeada no Cap. 24; síntese final permanece no Cap. 28.
+
+#### Snapshot
+`ETAPAS/03_LOTE_05_PARTE_VI_FILTRO_EVIDENCIAS_ESPELHOS_2026-09-10.md`
+
+#### Próximo lote
+**ETAPA 03 — LOTE 06 — PARTE VII: PODA, NOVA SEMENTE E FRUTOS — Capítulos 25 a 28.**
+
+---
+
 ## Regra de atualização
 Ao concluir cada novo marco, acrescentar uma nova seção abaixo sem apagar as anteriores.
