@@ -2,7 +2,7 @@
 ## A Autópsia da Alma
 
 **Atualizado:** 10/09/2026  
-**Estado:** ETAPA 10 concluída em V1; ETAPA 11 ativa.
+**Estado:** ETAPA 10 concluída em V1; ETAPA 11 arquitetada e em escrita.
 
 > Este arquivo governa a Parte IV. Os códigos/títulos antigos de `MAPA_CAPITULOS.md` permanecem históricos e serão renumerados no Manuscrito Alfa.
 
@@ -26,86 +26,85 @@ A Autópsia não é julgamento contra Sol. É separação de autorias, lentes, c
 # MOVIMENTO D — A PERGUNTA ABRE A MESA — ✓ ETAPA 10
 
 ### MV-36 — A Pergunta no Ônibus — ● V1
-**Fonte:** VI-L1-001–012 do mapa canônico do antigo Ato VI.
-
-**Movimento:** Goiânia → ônibus → story `Como posso te ajudar hoje?` → resposta sem expectativa → retorno de um senhor → convite para café → experiência de escuta → Instituto Performance → OSV — O Sentido da Vida → voucher → pergunta de consciência → entrada na imersão.
-
-**Função:** mostrar uma pergunta que não acusa e uma porta que não decide por Sol antes de ela atravessar.
-
-**Objeto-símbolo:** voucher.
-
-**Travas preservadas:**
-- linha/horário/local do ônibus não inventados;
-- senhor do café não identificado;
-- senhor e Paulo Bento não fundidos;
-- Paulo Bento = mentor citado do OSV;
-- OSV não é Sistema Operacional da Vida;
-- sem linguagem promocional.
+**Movimento:** Goiânia → ônibus → story `Como posso te ajudar hoje?` → resposta sem expectativa → retorno de um senhor → convite para café → Instituto Performance → OSV — O Sentido da Vida → voucher → pergunta de consciência → entrada na imersão.
 
 ### MV-37 — A Verdade que Deixou de Ser Versículo — ● V1
-**Fonte:** VI-L2-001–012.
-
-**Movimento:** imersão → responsabilidade → reação de culpa → separar autoria da violência de responsabilidade presente → João 8:32 → verdade pessoal → Dois Caminhos como lente → sofrimento/cobrança → amor sem consciência → óbvio → responsabilidade pelo próximo movimento.
-
-**Função:** mudar o significado de verdade e responsabilidade sem transformar a autobiografia em método.
-
-**Símbolos:** versículo + Quadro dos Dois Caminhos.
-
-**Sementes utilizadas com contenção:** piloto automático; negligência de si; efeito/fruto; `não ignore o óbvio`.
-
-**Conteúdo não ensinado:** Árvore, Jaula, Leis, testes ou protocolo.
-
-**Fecho:** verdade reconhecida; dívida emocional ainda aberta; 70×7 surge como próxima mesa da Autópsia.
-
-### Revisão
-`LOTES/REVISAO_ETAPA10_AUTOPSIA_ABERTURA.md`
-
-### Auditoria
-`LOTES/AUDITORIA_ETAPA10_AUTOPSIA_ABERTURA.md`
+**Movimento:** imersão → responsabilidade → medo de culpa → separar autorias → João 8:32 → verdade pessoal → Dois Caminhos como lente → consequências/efeitos → responsabilidade presente → dívida emocional aberta → 70×7.
 
 ---
 
-# MOVIMENTO E — CLÍMAX DA AUTÓPSIA — ETAPA 11 ATIVA
+# MOVIMENTO E — CLÍMAX DA DÍVIDA — ETAPA 11
 
-## Matemática do Perdão + Sepultamento Simbólico
-**Fonte:** VI-L3-001–012.  
-**Estado:** ◐ próxima frente.
+## Auditoria
+`LOTES/AUDITORIA_ETAPA11_PERDAO_SEPULTAMENTO.md`
 
-Núcleos:
-- perdão impossível de sentir;
-- 70×7 = 490;
-- perdão como decisão na experiência de Sol;
-- verdade preservada;
-- sem reconciliação obrigatória;
-- Oripe retorna;
-- culpa de existir;
-- banheiro de centro de eventos;
-- Sepultamento Simbólico;
-- `eu desocupei o caixão` somente quando a cena estiver preparada;
-- história permanece, peso muda de lugar.
+### Decisão estrutural
+O clímax será dividido em dois capítulos porque perdão e sepultamento realizam operações narrativas diferentes.
 
-### Lacunas protegidas
-- data/evento exatos da Matemática do Perdão;
-- data/evento exatos do Sepultamento Simbólico.
+### MV-38 — A Matemática do Perdão — ◑ arquitetura liberada
+**Fonte:** VI-L3-001–007 + memória autoral consolidada.
 
-Nenhuma lacuna autoriza invenção.
+**Curva:**
+`não consigo sentir perdão → setenta vezes sete → 70×7 = 490 → emoção não obedece comando → 490 leões internos → perdão como decisão renovável → verdade permanece → limite permanece → reconciliação não é exigida → acesso não é devolvido → passado perde direito de governar o presente → uma dívida anterior aos vivos reaparece`.
+
+**Função:** retirar perdão do campo da emoção obrigatória e colocá-lo, na experiência pessoal de Sol, no campo da decisão que não apaga verdade nem limite.
+
+**Travas:**
+- não prescrever perdão;
+- não chamar 490 de terapia;
+- não prometer cura;
+- não dizer que perdoar cancela justiça;
+- não ensinar método do Livro 2;
+- `490 leões` aparece como imagem autoral, não protocolo universal.
+
+**Fecho:** Oripe entra como a dívida que não pertencia diretamente aos vivos que feriram Sol.
+
+### MV-39 — O Sepultamento Simbólico — ◑ arquitetura liberada
+**Fonte:** VI-L3-008–012 + memória autoral consolidada.
+
+**Cronologia segura:** fase pós-Portão / processo formativo, perto dos 39 anos. O Sepultamento acontece num banheiro ligado a evento/imersão/centro de eventos. **Data, nome do evento e se era exatamente a mesma edição do OSV ainda não estão travados.**
+
+**Curva:**
+`Oripe → 18/07/1978 → história recebida → dívida percebida de existir → banheiro comum → porta fechada → privacidade → separar morte e nascimento → devolver culpa → EU DESOCUPEI O CAIXÃO → silêncio → abrir a porta → corredor → vida continua`.
+
+**Função:** pagar os símbolos de origem sem transformar Oripe em causa clínica e sem transformar o gesto em terapia prescrita.
+
+**Frase de clímax:** **Eu desocupei o caixão.**
+
+**Regra de execução:** a frase aparece uma única vez no corpo central do capítulo. Depois dela, menos explicação e mais silêncio/retorno ao cotidiano.
+
+**Detalhes deliberadamente não fixados na V1:**
+- nome/data do evento;
+- duração da cena;
+- diálogo literal com Oripe;
+- objetos rituais;
+- vaso/ralo/água como ação ritual;
+- parede branca, néon e outros detalhes cenográficos não confirmados diretamente.
+
+### Resultado esperado do Movimento E
+A história não é apagada. A autoria das violências não muda. A perda dos filhos não desaparece. A fé não vira fórmula. O que muda é o lugar de uma dívida que Sol percebeu ter carregado por décadas.
+
+O banheiro não encerra o livro.
 
 ---
 
 # MOVIMENTOS POSTERIORES — RESERVADOS
 
-## Investigadora / ciência
+## Movimento F — A Investigadora Ganha Linguagem
 VI-L4-001–012. Estudos, ciência do comportamento, diagnósticos como dados, DISC/Master Love documentados, CSI da própria mente.
 
-## A mulher que quase não viveu
+## Movimento G — A Mulher que Quase Não Viveu
 VI-L5-001–012. Mulher Magnética, TCC, origem vivida do Magnetus e Relacione-se — sem propaganda e com cronologia ainda a fechar.
 
-## Autoria / legado / Epílogo
-VI-L6-001–012. Escrita, IA como infraestrutura, moldura forense, assinatura Sol Lima, Mãe-Véia envelhecida, Epílogo e Laudo Final.
+## Movimento H — Autoria, legado e saída da Autópsia
+VI-L6-001–012. Escrita, IA como infraestrutura, moldura forense, assinatura Sol Lima, Epílogo e Laudo Final.
 
 ---
 
 ## Regra de voz da Parte IV
 **cena → estranhamento → pergunta → compreensão parcial → próxima evidência.**
+
+No clímax específico:
+**experiência → raciocínio → gesto → silêncio → efeito.**
 
 A explicação cresce. A palestra, não.
