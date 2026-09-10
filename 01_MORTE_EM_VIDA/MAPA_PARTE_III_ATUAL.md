@@ -2,15 +2,15 @@
 ## A Cadáver que Tomava Café
 
 **Atualizado:** 10/09/2026  
-**Estado:** Movimentos A e B concluídos em V1; ETAPA 09 arquitetada e em escrita.
+**Estado:** Parte III concluída em primeira escrita integrada; ETAPA 09 fechada.
 
 > Este arquivo prevalece, para a Parte III, sobre os códigos/títulos conceituais antigos de `MAPA_CAPITULOS.md`. O mapa global permanece como histórico. A renumeração limpa será feita no Manuscrito Alfa.
 
 ## Pergunta da Parte III
 **O que acontece quando uma mulher consegue sair, mas ainda não voltou para si?**
 
-## Missão
-Mostrar que ruptura externa não desfaz automaticamente vigilância interna, culpa materna, dependência de validação externa, fragilidade da própria percepção e funcionamento automático.
+## Missão cumprida nesta versão
+A Parte III mostra que ruptura externa não desfaz automaticamente vigilância interna, culpa materna, necessidade de validação externa, fragilidade da própria percepção e funcionamento automático.
 
 ---
 
@@ -38,63 +38,68 @@ Mostrar que ruptura externa não desfaz automaticamente vigilância interna, cul
 
 ---
 
-# MOVIMENTO C — A VIDA QUE CONTINUOU — ETAPA 09
+# MOVIMENTO C — A VIDA QUE CONTINUOU — ✓ ETAPA 09
 
-## Auditoria
-`LOTES/AUDITORIA_ETAPA09_CADAVER_FUNCIONAL.md`
+### MV-32 — Funcionando — ● V1
+**Função:** diminuir a escala. A narrativa assume uma montagem de rotinas repetidas e mostra a mulher acordando, deslocando, trabalhando, respondendo, procurando soluções, fazendo comida, pagando e continuando.
 
-### MV-32 — Funcionando — ◑ arquitetura liberada
-**Função:** diminuir a escala do acontecimento. Mostrar rotina repetida sem inventar uma manhã documental única: acordar, deslocar, trabalhar, responder, procurar soluções, voltar, cozinhar, pagar, planejar e continuar.
+**Centro:** atividade e presença não são sinônimos.
 
-**Centro:** uma pessoa pode estar objetivamente ativa e subjetivamente distante de si.
+### MV-33 — A Cadáver que Tomava Café — ● V1
+**Função:** pagar a imagem central da obra por experiência cotidiana.
 
-**Regra:** a montagem deve assumir sua natureza de rotina acumulada quando necessário. Não criar agenda, emprego, mensagem ou interlocutor específico sem fonte.
+**Símbolo:** café banal, quente, no meio de um dia normal.
 
-### MV-33 — A Cadáver que Tomava Café — ◑ arquitetura liberada
-**Função:** pagar o subtítulo/imagem central por experiência cotidiana, não por definição promocional.
+**Centro:** vida biológica, afeto, humor, fé, criatividade e competência permanecem; o que perde território é a autoria/presença em partes decisivas.
 
-**Símbolo:** café banal, quente, bebido no meio de tarefas normais.
+**Veredito de revisão:** promessa do título paga.
 
-**Centro:** por fora, competência; por dentro, dificuldade de localizar desejo, presença e autoria.
+### MV-34 — Meu Corpo Chegava Antes de Mim — ● V1
+**Função:** mostrar o corpo como primeiro registrador sem tratá-lo como oráculo ou diagnóstico.
 
-**Proibido:** zumbi literal, `necromancia emocional`, “nasci morta”, `criança de substituição`, batimentos inventados, Rivotril sem cena/documentação, gaslighting/alienação como rótulos automáticos.
+**Centro:** sensação antes de legenda; alerta e vigilância da própria reação coexistem.
 
-### MV-34 — Meu Corpo Chegava Antes de Mim — ◑ arquitetura liberada
-**Função:** mostrar o corpo como primeiro registrador: mandíbula, ombros, sono, susto, respiração, vigilância de voz/olhar/silêncio/porta/tom/mensagem/atraso, conforme material autobiográfico já registrado.
+### MV-35 — O Óbvio Estava na Sala — ● V1
+**Função:** fechar a Parte III quando cenas antes separadas passam a formar evidências.
 
-**Centro:** sensação antes de explicação. O corpo percebe; a consciência ainda está tentando legendar.
-
-**Regra:** não transformar sensação em diagnóstico retrospectivo nem afirmar causalidade médica.
-
-### MV-35 — O Óbvio Estava na Sala — ◑ arquitetura liberada
-**Função:** fechar a Parte III quando acontecimentos que pareciam desconectados começam a alinhar-se como evidências.
-
-**Movimento:** promessa × fruto; esforço × resultado; saída × permanência interna; competência × ausência; corpo × explicação.
+**Semente:** `Não ignore o óbvio` aparece como consequência narrativa, não método.
 
 **Fecho:** `Fiz tudo errado achando que fazia tudo certo?`
 
-A pergunta não assume culpa pelas violências sofridas. Ela abre a investigação sobre consciência, automatismos, escolhas e posições ocupadas.
+A pergunta não assume culpa pelas violências sofridas. Abre investigação sobre consciência, leitura da realidade, repetições e responsabilidade própria depois da consciência.
+
+---
+
+# REVISÕES DA ETAPA 09
+- `LOTES/AUDITORIA_ETAPA09_CADAVER_FUNCIONAL.md`
+- `LOTES/REVISAO_ETAPA09_CADAVER_FUNCIONAL.md`
+- `LOTES/AUDITORIA_INTEGRADA_PARTE_III_POS_ETAPA09.md`
 
 ---
 
 # NÚCLEOS RESERVADOS
 
 ## O Amor sem Toque
-Sem cena autobiográfica concreta suficiente nesta auditoria. Reservado para Epílogo/revisão posterior se fonte adequada provar função indispensável.
+Reservado por falta de cena autobiográfica concreta suficiente nesta auditoria. Pode ser reavaliado no Epílogo com fonte adequada.
 
 ## O Purgatório
-Permanece prioritariamente no Livro 2, `Reposicione-se`, como conceito de ambiguidade relacional. Não transformar a biografia em aula metodológica.
+Prioridade conceitual do Livro 2, `Reposicione-se`. Não virou aula dentro da biografia.
 
 ## Quando a Morte Voltou / Vinte e Cinco de Dezembro / A Casa e o que Não Tinha Nome
-Reservados ao Epílogo conforme cânone vigente. Não deslocar 2025 apenas para produzir simetria com 1978.
+Reservados ao Epílogo conforme cânone vigente. 25/12/2025 não foi deslocado apenas para produzir simetria com 1978.
 
 ## Carlos
-Vínculo real e imperfeito; não solução romântica nem antagonista automático. Não desenvolver nesta etapa sem cena concreta suficiente.
+Vínculo real e imperfeito, disponível ao Epílogo. Não utilizado como solução romântica, antagonista automático ou prova de qualquer tese.
 
 ---
 
 # FRONTEIRA DA PARTE III
-A Parte III termina em MV-35.
+**A Parte III termina em MV-35.**
+
+Sequência integrada:
+`MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27 → MV-28 → MV-29 → MV-30 → MV-31 → MV-32 → MV-33 → MV-34 → MV-35`.
+
+**14 unidades em V1.**
 
 O leitor já viu:
 `ruptura → falsa ressurreição → violência → proteção → cerco materno → Portão → papel → portas fechadas → peregrinação → rotina → funcionamento → ausência → corpo → evidências`.
@@ -102,7 +107,7 @@ O leitor já viu:
 Ele ainda **não** recebeu a Autópsia completa.
 
 # PARTE IV — próxima frente
-A arquitetura antiga será auditada antes da escrita. A entrada preferencial é o núcleo canônico **A Pergunta no Ônibus**, que conduz à experiência de ser ouvida, ao café/voucher/OSV e depois à verdade, responsabilidade, perdão e Sepultamento Simbólico.
+A arquitetura antiga será auditada antes da escrita. A entrada preferencial é o núcleo canônico **A Pergunta no Ônibus**, que conduz ao encontro/café/voucher/OSV e depois a verdade, responsabilidade, perdão, Sepultamento Simbólico e retorno da testemunha.
 
 A ordem da Parte IV não será forçada pelos códigos antigos MV-37–45.
 
