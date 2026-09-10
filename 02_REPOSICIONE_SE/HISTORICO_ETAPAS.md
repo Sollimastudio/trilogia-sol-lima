@@ -334,5 +334,81 @@ A Parte II havia localizado Semente, Solo, Raízes, mapas, pertencimento e merec
 
 ---
 
+### LOTE 03 — PARTE IV: OS GALHOS
+**Data:** 10/09/2026  
+**Status:** ✓ concluído.
+
+#### Estado de entrada
+A Parte III havia convertido compreensão em Tronco: valor praticado sob custo, Corpo-Sismógrafo, limite e acordo. Faltava provar que o mesmo leitor pode sustentar posições muito diferentes conforme o Galho e que recursos existentes numa área podem ser transferidos, com adaptação, para outra.
+
+#### Manuscrito produzido
+- `MANUSCRITO/04_PARTE_IV/13_O_MAPA_DOS_GALHOS.md`
+- `MANUSCRITO/04_PARTE_IV/14_AMOR_FAMILIA_E_VINCULOS.md`
+- `MANUSCRITO/04_PARTE_IV/15_TRABALHO_DINHEIRO_CARREIRA_E_MARCA_PESSOAL.md`
+- `MANUSCRITO/04_PARTE_IV/16_FE_CORPO_REDES_VIDA_PUBLICA_E_POLITICA.md`
+
+#### Decisões aplicadas
+1. `Galho` foi consolidado como domínio contextual: competência ou dificuldade numa área não vira identidade total.
+2. `Mapa dos Galhos` passou a registrar Fruto, posição e recurso já existente em cada área.
+3. Transferência consciente foi definida como transferência de capacidade/princípio, não cópia mecânica de comportamento entre contextos.
+4. Galhos foram mostrados como conectados: um pode sobrecarregar, sustentar ou interferir em outro.
+5. Sucesso externo permaneceu sujeito à Árvore: conquista não prova saúde nem é tratada como suspeita por definição.
+6. Amor/família distinguiu vínculo, fusão, reciprocidade, dependência, honra, acesso, permanência, proteção e controle.
+7. Permanecer não foi tratado como fraqueza e sair não recebeu certificado automático de coragem.
+8. `Sim Dourado` e `Não Limpo` foram recuperados como linguagem de posição consciente, sem fórmula universal.
+9. `Abrace o Desconforto` foi semeada com a distinção entre custo de coerência, risco e rota que precisa de revisão, sem antecipar a síntese formal do Cap. 25.
+10. `Auditoria de Vínculo` foi incorporada por presença, reciprocidade, segurança e autoria.
+11. `A JAULA ESTÁ ABERTA` apareceu uma vez no Cap. 14 como reconhecimento de evidência repetida, sem significar `saia agora`.
+12. O Letreiro de Neon ganhou segunda função no Cap. 15: trabalho, dinheiro, carreira e marca pessoal.
+13. Valor humano, valor comunicado, contribuição profissional e preço foram separados; preço não foi apresentado como medidor de dignidade.
+14. Necessidade financeira foi tratada como condição que pode estreitar margem de escolha, sem transformar remuneração em valor humano.
+15. Trabalho invisível, escopo, negociação, dever, favor e exploração foram diferenciados pelo contexto e acordo.
+16. Por falta de episódio autobiográfico profissional confirmado, foi usado caso hipotético claramente identificado; nenhum fato biográfico foi inventado.
+17. A Lei 9 — `Pense a Longo Prazo` — nasceu no Cap. 15 como exame da conta futura de uma posição, não como convite à paralisia.
+18. Fé permaneceu lente autoral e Galho de aplicação, sem virar atalho para encerrar contraditório.
+19. Corpo foi tratado como Galho de cuidado e continua subordinado à regra `sinal não é veredito`.
+20. Redes/ambiente digital foram tratados como exposição, repetição, influência e contexto de atenção, sem linguagem de controle mental.
+21. Política foi tratada como Galho/laboratório de simetria, não como palanque; aliados e adversários recebem a mesma exigência de princípio e evidência, salvo diferenças concretas justificáveis.
+22. As Leis 10 — `Filtre Suas Influências` — e 11 — `Resista à Manada` — nasceram no Cap. 16; contrarianismo automático foi recusado como falsa autonomia.
+23. Fuga Identitária foi nomeada pela pergunta `essa posição tem minha assinatura ou foi terceirizada?`, mas sua anatomia completa foi explicitamente reservada ao Livro 3.
+24. A Parte fecha mostrando que ver e compreender não eliminam mecanismos de drenagem; a próxima necessidade pedagógica são Pragas, Sono, Sofá, influências aprofundadas e Jaula.
+
+#### Ferramentas
+- Mapa dos Galhos;
+- transferência consciente de recurso;
+- Auditoria de Vínculo;
+- Sim Dourado / Não Limpo como linguagem operacional;
+- Matriz Valor × Preço × Dever × Favor + Fruto;
+- teste de simetria;
+- Mini-Filtro de Influência.
+
+#### Caso-guia Lia
+Lia foi usada apenas para demonstrar transferência de recurso: percebeu que já tolerava intervalo entre oferta e decisão no Galho dinheiro e levou o princípio `informação antes de compromisso` para pedidos em vínculos. Não recebeu diagnóstico nem nova biografia fictícia.
+
+#### Rigor e contenção
+- a linguagem antiga do Letreiro que poderia sugerir causalidade entre concessão da vítima e comportamento abusivo do outro não foi recuperada de forma causal; o comportamento alheio continua pertencendo ao outro;
+- não foi importada a alegação universal de que mérito não comunicado raramente recebe reconhecimento;
+- não foi afirmado que algoritmo, grupo, religião ou política controlam automaticamente a mente;
+- não foram usados universais de gênero, geração ou ideologia;
+- intensidade relacional não foi transformada em diagnóstico de profundidade, trauma ou saúde;
+- corpo não foi tratado como veredito;
+- alegações verificáveis ativadas foram registradas para a ETAPA 05.
+
+#### Leis no lote
+- Lei 1 — **Observe os Frutos**: amadurecimento por Galho no Cap. 13.
+- Lei 13 — **Abrace o Desconforto**: apenas semeada/qualificada no Cap. 14; sua síntese formal permanece adiante.
+- Lei 8 — **Cumpra Seu Dever**: eco funcional no Cap. 15.
+- Lei 9 — **Pense a Longo Prazo**: nascimento no Cap. 15.
+- Lei 10 — **Filtre Suas Influências**: nascimento no Cap. 16.
+- Lei 11 — **Resista à Manada**: nascimento no Cap. 16.
+
+#### Snapshot
+`ETAPAS/03_LOTE_03_PARTE_IV_OS_GALHOS_2026-09-10.md`
+
+#### Próximo lote
+**ETAPA 03 — LOTE 04 — PARTE V: PRAGAS, INFLUÊNCIAS E JAULAS — Capítulos 17 a 21.**
+
+---
+
 ## Regra de atualização
 Ao concluir cada novo marco, acrescentar uma nova seção abaixo sem apagar as anteriores.
