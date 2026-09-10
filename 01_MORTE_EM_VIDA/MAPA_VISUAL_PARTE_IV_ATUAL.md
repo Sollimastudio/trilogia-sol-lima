@@ -3,12 +3,12 @@
 
 **Atualizado:** 10/09/2026
 
-## Entrada da Parte IV
+## Entrada da Parte IV — ETAPA 10 concluída
 ```mermaid
 flowchart LR
 A[MV-35\nO Óbvio Estava na Sala] --> B[Pergunta\nFiz tudo errado achando que fazia tudo certo?]
-B --> C[MV-36\nA Pergunta no Ônibus]
-C --> D[MV-37\nA Verdade que Deixou de Ser Versículo]
+B --> C[MV-36\nA Pergunta no Ônibus\n● V1]
+C --> D[MV-37\nA Verdade que Deixou de Ser Versículo\n● V1]
 D --> E[ETAPA 11\nMatemática do Perdão + Sepultamento]
 ```
 
@@ -35,9 +35,10 @@ C --> D[Separar autorias]
 D --> E[João 8:32]
 E --> F[Verdade pessoal]
 F --> G[Dois Caminhos vira lente]
-G --> H[Óbvio / frutos / efeitos]
+G --> H[Óbvio / efeitos]
 H --> I[Responsabilidade pelo próximo movimento]
 I --> J[Dívida emocional ainda aberta]
+J --> K[70x7 / 490]
 ```
 
 ## Três camadas de responsabilidade
@@ -51,12 +52,25 @@ E[Sol consciente] --> F[responsabilidade presente pelo próximo movimento]
 ## Ato VI legado — destino
 ```mermaid
 flowchart TD
-A[72 núcleos / 6 lotes] --> B[L1 + L2\nETAPA 10]
+A[72 núcleos / 6 lotes] --> B[L1 + L2\n✓ ETAPA 10]
 A --> C[L3\nETAPA 11 / clímax]
 A --> D[L4\nInvestigadora / estudos]
 A --> E[L5\nMulher / origem dos métodos]
 A --> F[L6\nAutoria / legado / Epílogo]
 ```
 
+## Clímax protegido
+```mermaid
+flowchart LR
+A[Perdão impossível de sentir] --> B[70x7]
+B --> C[490]
+C --> D[Perdão como decisão]
+D --> E[Oripe]
+E --> F[Culpa de existir]
+F --> G[Banheiro / centro de eventos]
+G --> H[Sepultamento Simbólico]
+H --> I[Eu desocupei o caixão]
+```
+
 ## Regra
-A Parte IV começa com **consciência**, não com vitória. Perdão e Sepultamento permanecem protegidos até a próxima etapa.
+A Parte IV começou com **consciência**, não com vitória. A ETAPA 11 agora pode entrar no clímax sem ter sido antecipada.
