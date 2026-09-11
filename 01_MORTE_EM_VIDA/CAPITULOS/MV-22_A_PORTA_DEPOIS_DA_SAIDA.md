@@ -1,19 +1,21 @@
 # MV-22 — A Porta Depois da Saída
 
-**Status:** ● primeira escrita  
+**Status:** ● primeira escrita revisada  
 **Parte:** II — Quando suportar ganhou nomes bonitos  
 **Lote:** 05 — Vida conjugal, maternidade, competência, normalização, risco e ruptura  
-**Versão:** V1 — 10/09/2026
+**Versão:** V1.1 — revisão 13R — 10/09/2026
 
 ## Controle editorial
 **Faixa:** pós-2006 → 2010 e consequências imediatas.  
 **Função:** mostrar agência, ruptura, proteção e a diferença entre terminar a convivência e estar internamente livre.  
 **Núcleos:** 44–46.  
-**Regra:** filhos não legitimam nem deslegitimam a saída; procedimentos policiais/judiciais ficam como memória até conferência documental; vigilância digital é narrada pela experiência, sem nomear software não verificado.
+**Regra:** filhos não legitimam nem deslegitimam a saída; procedimentos policiais/judiciais ficam como memória até conferência documental; vigilância digital é narrada pela experiência, sem nomear software não verificado.  
+**Correção 13R:** conforme o registro autoral cumulativo V4 de 09/09/2026, a orientação do pastor se referia a preservar um princípio bíblico ferindo outros. Foram retirados os nomes/números incertos e a substituição por “poupar uma pessoa e destruir outras”. A outra orientação sobre inferno é distinta e permanece no monólogo MV-M01. A leitura sobre proteção e amor dos filhos foi marcada como compreensão atual, não clareza integral já possuída em 2010.  
+**Versão anterior:** blob `dff0c196be288d0e56e6b7a635ee38a4bf623426`, preservado no histórico Git.
 
 ---
 
-## TEXTO LITERÁRIO — V1
+## TEXTO LITERÁRIO — V1.1
 
 Voltei para Itaberaí porque queria estar mais perto dos meus filhos.
 
@@ -81,17 +83,15 @@ Romper podia parecer falha espiritual antes de parecer proteção.
 
 Procurei orientação.
 
-Em uma dessas conversas, ouvi uma imagem que ficou comigo. A ideia era que, para não ferir uma pessoa, eu podia estar destruindo outras vidas ao redor.
+Um pastor me disse, no sentido que guardo, que, tentando não ferir um princípio bíblico, eu estava ferindo outros.
 
-A frase usava João e três Marias.
+Eu tentava preservar o casamento. Mas o que estava acontecendo dentro dele também não precisava ser levado a sério?
 
-Eu me enxerguei nela.
+A orientação não chegou como autorização fácil. Eu continuava tentando entender como sair sem cometer outro erro.
 
-Não porque meus filhos devessem decidir meu casamento.
+Hoje reconheço o tamanho do meu hábito de organizar escolhas em torno da reação de um homem e chamar isso de cuidado com todos.
 
-Mas porque percebi o tamanho do meu hábito de organizar escolhas em torno da reação de um homem e chamar isso de cuidado com todos.
-
-Eu queria evitar que ele sofresse.
+Naquele tempo, eu queria evitar que ele sofresse.
 
 Queria evitar conflito.
 
@@ -109,7 +109,7 @@ Eu também.
 
 Não havia como pedir à vida que esperasse até que ele mudasse para eu decidir o que faria com a minha.
 
-A frase não me tornou corajosa de uma vez.
+A conversa não me tornou corajosa de uma vez.
 
 Continuei com medo.
 
@@ -235,13 +235,7 @@ Chamei a polícia.
 
 Relatei as ameaças que vinha ouvindo e busquei proteção. Na memória que preservo daquele período, obtive uma medida protetiva.
 
-Os documentos e detalhes jurídicos ainda precisarão ser conferidos na revisão factual final.
-
-O que a memória consegue afirmar é outra coisa:
-
-pela primeira vez, eu não estava tentando administrar sozinha uma ameaça até que ela coubesse dentro da casa.
-
-Coloquei outras pessoas dentro da informação.
+O que lembro é de ter colocado outras pessoas dentro da informação, em vez de tentar administrar sozinha mais uma ameaça.
 
 Isso tinha um preço emocional.
 
@@ -267,19 +261,11 @@ Não queria que Matheus virasse tradutor do conflito dos adultos.
 
 Não queria que nenhum dos dois tivesse de conhecer detalhes para me autorizar a procurar proteção.
 
-Eles tinham direito de continuar sendo filhos.
+Hoje consigo separar essas coisas: eu precisava decidir sobre proteção; eles podiam continuar amando o pai. Uma coisa não anulava a outra.
 
-Eu precisava continuar sendo a adulta da decisão.
+Naquele momento, porém, a culpa não respeitava essa divisão.
 
-Isso não me deixou imune à culpa.
-
-Deixou apenas a responsabilidade no lugar correto:
-
-a decisão sobre proteção era minha.
-
-O amor deles pelo pai era deles.
-
-Uma coisa não precisava anular a outra.
+Eu tinha feito alguma coisa para nos proteger e via meu filho chorar por causa daquilo que ele entendia da minha decisão.
 
 O divórcio foi litigioso.
 
@@ -305,15 +291,9 @@ Também encontrei sinais de vigilância sobre minhas conversas.
 
 Havia câmera e acesso a conteúdo do computador, com mensagens impressas e usadas para construir interpretações sobre mim.
 
-Não vou nomear software ou mecanismo técnico sem documentação.
+Não conheço com precisão suficiente o mecanismo técnico daquele acesso. O que vivi foi a descoberta de que conversas feitas num espaço que eu imaginava privado voltavam até mim pelas mãos de outra pessoa.
 
-A experiência foi suficiente:
-
-eu podia estar sozinha diante da tela e descobrir depois que aquela privacidade não tinha sido privada.
-
-Conversas podiam voltar fora de contexto.
-
-Palavras escritas num espaço que eu imaginava meu podiam reaparecer como prova de uma versão sobre quem eu era.
+Palavras podiam reaparecer como prova de uma versão sobre quem eu era.
 
 Passei a desconfiar também da tela.
 
@@ -372,12 +352,6 @@ Tinha comprado um carro com meu trabalho.
 E mesmo assim não sabia olhar para o que ganhava como recurso sobre o qual eu pudesse decidir plenamente.
 
 O fim do casamento não entregou essa consciência junto com os papéis.
-
-Eu saí de uma convivência.
-
-Não saí de todos os mecanismos que haviam vivido comigo nela.
-
-Essa diferença é a porta de entrada para a próxima parte desta história.
 
 Em 2010 eu havia feito algo que, para mim, era imenso:
 
