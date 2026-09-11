@@ -1,0 +1,28 @@
+name: Livro 3 ETAPA 06 leitura e integridade
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/livro3-etapa06-once.yml']
+permissions:
+  contents: read
+concurrency:
+  group: livro3-etapa06-once
+  cancel-in-progress: false
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Exportar leitura sem modificar manuscritos
+        run: |
+          mkdir -p /tmp/livro3-etapa06/01_MORTE_EM_VIDA /tmp/livro3-etapa06/02_REPOSICIONE_SE
+          cp -R 00_UNIVERSO_MESTRE /tmp/livro3-etapa06/
+          cp -R 03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU /tmp/livro3-etapa06/
+          cp 01_MORTE_EM_VIDA/MAPA_MAE.md /tmp/livro3-etapa06/01_MORTE_EM_VIDA/
+          cp 02_REPOSICIONE_SE/MAPA_MAE.md /tmp/livro3-etapa06/02_REPOSICIONE_SE/
+          git rev-parse HEAD > /tmp/livro3-etapa06/COMMIT_ORIGEM.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: livro3-etapa06-leitura
+          path: /tmp/livro3-etapa06/
+          retention-days: 7
