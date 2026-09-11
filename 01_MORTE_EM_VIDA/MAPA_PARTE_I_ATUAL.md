@@ -1,64 +1,62 @@
 # MAPA ATUAL — ABERTURA E PARTE I
 ## A menina que aprendeu a desaparecer
 
-**Versão:** pós-ETAPA 13 / revisão 13R — 10/09/2026.  
-**Precedência:** este mapa e `MAPA_VOZES_E_MOLDURAS.md` governam a ordem atual desta parte. A seção divergente de `MAPA_CAPITULOS.md` é arquitetura histórica, não instrução para retirar peças novas.
+**Atualização:** rodada 14–F01 / integração 13R2, 10/09/2026.  
+**Estado:** prosa de desenvolvimento, não versão final. Ordem executável em `DIAGRAMACAO/ORDEM_LEITURA_A1.json`.
 
-## Sequência de leitura — 16 unidades existentes
+## Abertura — 2 unidades
 
-| Ordem | Código | Unidade | Estado textual | Função principal |
-|---:|---|---|---|---|
-| 1 | MV-00 | Nota Forense — A Cadáver Está Viva | V1 | Abrir o caso metafórico |
-| 2 | MV-P01 | Prólogo — O Portão | V1 | Mostrar a mãe diante do impedimento, antes das causas |
-| 3 | MV-01 | Oito dias antes | V1 | Contagem regressiva da origem |
-| 4 | MV-02 | Dezoito de Julho | V1 | Nascimento e morte no mesmo calendário |
-| 5 | MV-03 | O Berço ao Lado do Caixão | V1.1 | Memória familiar, aniversário e luto |
-| 6 | MV-03A | A Irmã que Ficou | V1 | Sheila e a distância familiar |
-| 7 | MV-03B | O Colchão de Palha | V1 | Corpo, desconforto e medo noturno |
-| 8 | MV-I01 | Debaixo do Girau | V1 | Imaginação, canto e vida própria |
-| 9 | MV-04 | A Menina que Não Pediu | V1.1 / 13R | Necessidade e medo da recusa, com pensamento infantil direto |
-| 10 | MV-05 | O Cheiro do Silêncio | V1 | Vergonha, imobilidade e episódio distinto do ônibus |
-| 11 | MV-06 | Eu Queria Ser um Anjo | V1.1 / 13R | Desejo infantil de não ter necessidades corporais |
-| 12 | MV-07 | Os Dois Caminhos | V1 | Leitura religiosa infantil e vigilância |
-| 13 | MV-08 | Primeira da Classe / Estrela Vermelha | V1 | Competência e reconhecimento |
-| 14 | MV-09 | O Homem dos Picolés | V1 | Pai, trabalho, afeto e fragilidade |
-| 15 | MV-10 | Quando a Água Quase Levou | V1 | Marcos, risco e ajuda concreta |
-| 16 | MV-11 | O Que uma Criança Aprende sem Receber uma Aula | V1 | Passagem para a adolescência |
+1. **MV-00 — Nota Forense de Abertura / A Cadáver Está Viva — V1.1.** Condensada; abre o exame sem entregar todas as conclusões; conduz à escola.
+2. **MV-P01 — Prólogo: O Portão — V1.1.** A mãe diante do impedimento. Não antecipa mais a lembrança específica de urina/cheiro nem explica o processo; leva a 1978.
 
-Nota Forense e Prólogo são molduras, não acontecimentos da infância. Foram incluídos na tabela para impedir omissão na montagem. Não ordenar arquivos alfabeticamente: MV-03 precede MV-03A/MV-03B; MV-P01 vem antes de MV-01.
+## Parte I — 16 unidades
 
-## Correção de voz realizada na revisão 13R
+| Ordem | Código | Título | Função / estado |
+|---:|---|---|---|
+| 1 | MV-01 | Oito dias antes | Dois acidentes distintos; origem recebida, não memória neonatal — V1 |
+| 2 | MV-02 | Dezoito de Julho | Nascimento e morte no mesmo dia — V1 |
+| 3 | MV-03 | O Berço ao Lado do Caixão | Narrativa familiar, aniversário e luto; símbolo não literal — V1.1 |
+| 4 | MV-03A | A Irmã que Ficou | Sheila, distância e configuração familiar — V1 |
+| 5 | MV-03B | O Colchão de Palha | Corpo, noite e medo — V1 |
+| 6 | MV-I01 | Debaixo do Girau | Imaginação, canto e vida própria — V1 |
+| 7 | MV-04 | A Menina que Não Pediu | Necessidade e medo do não, pensamento infantil — V1.1 / 13R |
+| 8 | MV-05 | O Cheiro do Silêncio | Vergonha, imobilidade; escola e ônibus separados — V1 |
+| 9 | MV-06 | Eu Queria Ser um Anjo | Lógica infantil das necessidades e pureza — V1.1 / 13R |
+| 10 | MV-07 | Os Dois Caminhos | Leitura religiosa infantil e tentativa de despensar — V1 |
+| 11 | **MV-07A** | **O Rosto que Eu Tentava Esconder** | **Nova V1:** tanque, rosto ferido e exposição na igreja; interpretação infantil de castigo, não causa divina afirmada |
+| 12 | MV-08 | Primeira da Classe / Estrela Vermelha | Competência, prazer e reconhecimento — V1 |
+| 13 | MV-09 | O Homem dos Picolés | Pai, trabalho, doença e afeto — V1 |
+| 14 | MV-10 | Quando a Água Quase Levou | Marcos, risco e vizinha que age — V1 |
+| 15 | **MV-10A** | **Onze Anos Eram Suficientes** | **Nova V1:** batismo aos onze, garantia materna de maturidade e obrigação de corresponder |
+| 16 | MV-11 | O Que uma Criança Aprende sem Receber uma Aula | Síntese e passagem à adolescência — V1; pede economia na Beta |
 
-MV-04 e MV-06 receberam blocos de pensamento direto da menina, com reflexão adulta delimitada. A redação é reconstrução literária baseada nas memórias disponíveis, não transcrição documental. Continua sujeita ao reconhecimento da autora.
+## Fontes e limites das duas integrações
 
-MV-I06, situado na Parte IV, é a ADULTA acolhendo a infância. Não substitui essa voz vivida da Parte I. Não criar outro capítulo só para contar a mesma cena de novo.
+Registro cumulativo V4 de 09/09/2026, ID `file_000000004cf8820eb1458e5087bbbbed`, mensagem autoral do item 13.1 e limites dos itens 15–18. Os acontecimentos já estavam relatados; não são invenções para aumentar a infância.
 
-## Acréscimos autorais que ainda precisam de integração desenvolvida
+O lugar de MV-07A no conjunto é uma ordenação temática dentro da infância: não fixa o ano da queda nem sua idade pela faixa dos primeiros duetos. Não reproduz letra de música, plateia rindo, cuidado médico ou intenção materna inventados.
 
-Fonte: `Morte_em_Vida_Registro_Culpa_Divorcio_e_Pos_Divorcio_2026-09-09_V4.md`, itens 13–18 e 20–23, recuperado da Biblioteca. Esse registro contém correções diretas da autora; suas antigas contagens de capítulos não substituem a arquitetura atual.
+MV-10A não cria uma cerimônia detalhada. A conversa e a idade são relatadas; rio, roupa, imersão, local e data exatos continuam fora da prosa.
 
-| Núcleo | O que preservar | Destino de revisão | Estado real |
-|---|---|---|---|
-| INF-CANTO | Cantar com Elza, prazer e talento coexistindo com obrigação de dar testemunho; a menina não se reconhecia como atração infantil | Conferir MV-I01 e MV-I04; distinguir voz vivida de leitura adulta | Correção vinculada; tratamento completo ainda a conferir/incorporar |
-| INF-TANQUE | Queda ao lavar os pés, rosto ferido, apresentação naquela noite e interpretação religiosa do ferimento | Bloco da infância corporal/religiosa, antes do pedido de casamento; idade exata em aberto | Lembrança breve em MV-M01; não equivale a cena desenvolvida na infância |
-| INF-BATISMO | Batismo aos onze; mãe garantindo maturidade; peso de corresponder | Antes de MV-12, junto da passagem de responsabilidade infantil para adolescência | Lembrança em MV-M01; desenvolvimento em seu tempo próprio pendente |
-| Consulta após queda do balanço | Contexto necessário para a fala lembrada “Graças a Deus, não” | Arco corporal; recuperar a pergunta e a situação antes de escrever diálogo | Retirada apenas a explicação de bastidor de MV-06; episódio preservado como pendência |
+**Tanque e balanço não são a mesma queda.** A consulta após queda do balanço continua pendência contextual. Não reutilizar a fala isolada “Graças a Deus, não” sem recuperar a situação.
 
-Não fundir tanque e balanço. Não fixar a idade da queda do tanque pela idade aproximada dos primeiros duetos. Não inventar cerimônia de batismo, lugar de imersão, reação da plateia ou punição divina objetiva.
+## Vozes e retornos
 
-## Reservas anteriores preservadas
-- `RESERVAS/REINO_DAS_GALINHAS.md`: falta uma ocorrência concreta suficiente para narrativa autônoma.
-- `CAPITULOS/MV-I02_MANGAS.md`: reservado; não contar como prosa concluída.
-- `CAPITULOS/MV-I03_CAMINHO_DAS_AGUAS.md`: reservado; não confundir com Marcos nem com o rego de água do pós-divórcio.
+MV-04/MV-06 e as novas peças preservam pensamento infantil concreto. O reconhecimento adulto é delimitado. A ingenuidade é falta de informação posterior, não falta de inteligência.
 
-## Pendências de leitura contínua
+MV-M01 pode lembrar o tanque e o batismo porque é a mulher pós-divórcio pensando. Essas lembranças breves não substituem sua existência na infância. MV-I06 continua sendo a adulta acolhendo a menina após o clímax.
 
-A Nota Forense ainda termina apontando diretamente ao nascimento, enquanto agora existe um Prólogo intermediário. Ajustar essa costura na montagem da abertura. O Prólogo também antecipa a menina imóvel e o cheiro antes que o leitor viva a cena: reduzir essa antecipação na revisão da abertura.
+## Reservas preservadas e fora da contagem
 
-Controlar a repetição de nascimento/morte em MV-01–03, sem apagar a diferença entre fatos anteriores à memória, dia do nascimento e história familiar recebida. Cada retorno deve acrescentar significado.
+- Reino das Galinhas: `RESERVAS/REINO_DAS_GALINHAS.md`.
+- Mangas: `CAPITULOS/MV-I02_MANGAS.md`.
+- Caminho das Águas: `CAPITULOS/MV-I03_CAMINHO_DAS_AGUAS.md`.
+- Consulta após a queda do balanço: recuperação contextual pendente.
 
-## Estado editorial
+Não fundir Caminho das Águas com a enxurrada de Marcos nem com o rego de água do pós-divórcio.
 
-Primeira escrita existente, com revisões localizadas. **Não é Parte I finalizada para publicação.** As versões V1.1 de MV-04/MV-06 não significam aprovação autoral definitiva. Não há nova unidade: o total do manuscrito continua 50.
+## Revisão pendente
 
-A próxima etapa cronológica de produção do livro é a **ETAPA 14**. As pendências aqui permanecem explícitas para revisão integral; não reiniciar a ETAPA 05 nem apagar o material já produzido.
+A costura MV-00/P01 foi corrigida nesta rodada. Permanecem: economia de 01–03; menos antecipações nos capítulos familiares; conferir saúde e cronologia fina; reduzir a síntese de MV-11; revisar as novas cenas com a autora. A prova de leitura preserva as demais versões sem fingir que toda a Beta foi concluída.
+
+**Contagem:** 18 unidades na abertura + Parte I. A obra inteira passa a 55 ao incluir autoria, epílogo e nota final. A numeração de produção é preservada; não renumerar automaticamente arquivos por ordem alfabética.
