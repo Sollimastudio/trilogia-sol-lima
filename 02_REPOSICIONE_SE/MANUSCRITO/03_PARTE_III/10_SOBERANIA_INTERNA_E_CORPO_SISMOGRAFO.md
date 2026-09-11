@@ -44,6 +44,8 @@ Ele oferece **sinais**.
 
 E sinais precisam de contexto.
 
+**Antes de interpretar, cuide da segurança.** Dor no peito de início súbito, dificuldade importante para respirar ou outro sinal de urgência não deve ser atribuído a uma emoção por meio deste exercício. Procure atendimento; no Brasil, o SAMU é acionado pelo 192. Não espere a pausa, o Filtro ou uma hipótese psicológica para buscar socorro. A lista não pretende cobrir todas as urgências. [N06]
+
 ## Soberania não é vencer o que você sente
 
 Depois de falar em Tronco, algumas pessoas podem imaginar que soberania interna é dominar a emoção.
@@ -105,6 +107,8 @@ Ele mostra que alguma coisa aconteceu.
 É assim que quero que você use o corpo neste método.
 
 **Corpo-Sismógrafo** é uma ferramenta curta para tratar sinais corporais como informação que merece investigação, não como veredito instantâneo.
+
+É uma metáfora autoral, não uma medida de interocepção nem um protocolo clínico. Perceber um sinal, acreditar que o percebe com precisão e interpretar seu significado não são a mesma operação. Nem todo impulso é sensação corporal: vontade de sair, por exemplo, é uma tendência de ação que pode acompanhar o que você sente. [N05]
 
 A sequência é:
 
@@ -384,7 +388,7 @@ A pergunta não é `como eliminar o medo?`.
 
 **o que esse medo está tentando proteger e o que os fatos dizem sobre o risco?**
 
-Se há risco, posicionamento pode significar preparar, buscar apoio, documentar, planejar e ampliar recursos antes de confrontar.
+Se há risco, posicionamento pode significar procurar apoio e planejar proteção, sem obrigação de confrontar. Registros e comunicações também podem expor; não são condição para pedir ajuda. Retome o cuidado com vigilância do Capítulo 21. [N07]
 
 Coragem não é obedecer a qualquer impulso que tenha boa reputação.
 
@@ -566,6 +570,8 @@ Você não precisa parecer calma para merecer ser levada a sério.
 
 ## Corpo-Sismógrafo — aplicação
 
+Use a ferramenta somente como reflexão cotidiana, não para decidir se um sintoma merece atendimento. Se concentrar a atenção no corpo aumentar o sofrimento, interrompa ou adapte o exercício e busque apoio quando necessário. Não é preciso obter silêncio mental para prosseguir. Sentir pouco medo ou nenhum desconforto também não comprova segurança. [N05–N06]
+
 Pegue uma situação recente em que seu corpo reagiu forte.
 
 Use apenas seis linhas:
@@ -586,7 +592,7 @@ Não procure a resposta perfeita.
 
 Procure separar as etapas.
 
-Essa separação já muda a qualidade da decisão.
+O objetivo é distinguir o sinal da conclusão e reconhecer o que precisa de cuidado ou verificação; a ferramenta não garante a qualidade da decisão.
 
 ## Antes de seguir
 
