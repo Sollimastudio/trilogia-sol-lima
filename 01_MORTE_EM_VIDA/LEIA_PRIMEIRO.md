@@ -1,109 +1,53 @@
 # LEIA PRIMEIRO — MORTE EM VIDA
 
-Este arquivo é a porta de entrada operacional do Livro 1.
+## Estado vigente
 
-## Antes de trabalhar
-Depois da leitura obrigatória definida no `START_HERE.md` da raiz, leia nesta ordem:
-1. `MAPA_MAE.md`
-2. `MAPA_VOZES_E_MOLDURAS.md`
-3. `MAPA_PARTE_I_ATUAL.md`
-4. `MAPA_PARTE_II_ATUAL.md`
-5. `MAPA_PARTE_III_ATUAL.md`
-6. `MAPA_PARTE_IV_ATUAL.md`
-7. `MAPA_VISUAL_PARTE_IV_ATUAL.md`
-8. `MAPA_CAPITULOS.md` apenas como arquitetura global/histórica
-9. `PIPELINE_DE_PRODUCAO.md`
-10. `PLANO_PRODUCAO_EM_MASSA.md`
-11. `STATUS.md`
-12. `HISTORICO_ETAPAS.md`
-13. `PROMPTS/PROMPTS_MESTRES_DE_PRODUCAO.md`
-14. `PROMPTS/ETAPA_14_COMANDO_ATUAL.md`
-15. arquivos do lote ativo.
+**55 unidades literárias em primeira escrita, incluindo encerramento.** A ETAPA 14 já produziu MV-42. F01 já produziu o Epílogo MV-E01 e a Nota Forense Final MV-NF01. Não executar novamente os comandos antigos como se essas peças estivessem vazias.
 
-## Estado atual
-- ETAPA 00 — ✓ Mapa-mãe macro
-- ETAPA 01 — ✓ Engenharia capítulo a capítulo
-- ETAPA 02 — ✓ Contrato emocional + origem
-- ETAPA 03 — ✓ Corpo, silêncio e imaginação
-- ETAPA 04 — ✓ Parte I integrada
-- ETAPA 05 — ✓ Entrada nos papéis adultos
-- ETAPA 06 — ✓ Parte II integrada
-- ETAPA 07 — ✓ Parte III / Falsa Ressurreição
-- ETAPA 08 — ✓ Parte III / Cerco Contra a Mãe
-- ETAPA 09 — ✓ Parte III / Cadáver funcional
-- ETAPA 10 — ✓ Parte IV / abertura da Autópsia
-- ETAPA 11 — ✓ Matemática do Perdão + Sepultamento Simbólico
-- ETAPA 12 — ✓ A Investigadora Ganha Linguagem
-- ETAPA 13 — ✓ A Mulher que Quase Não Viveu + recuperação de vozes
-- **ETAPA 14 — ATIVA / Autoria, Memória, IA e Legado**
+A infância recebeu MV-07A (queda do tanque) e MV-10A (batismo aos onze). Abertura MV-00 e Prólogo MV-P01 foram revistos. A revisão 13R anterior de MV-04, MV-06, MV-I04 e MV-22 continua preservada.
 
-## Manuscrito já em primeira escrita
-**50 unidades V1/V1.1.**
+**Próxima frente:** revisão literária e de continuidade por partes sobre a leitura A1, com conferência factual e de privacidade em paralelo. Ainda não é edição final aprovada para publicação.
 
-### Abertura + Prólogo + Parte I — 16
-MV-00 → MV-P01 → MV-01 → MV-02 → MV-03 → MV-03A → MV-03B → MV-I01 → MV-04 → MV-05 → MV-06 → MV-07 → MV-08 → MV-09 → MV-10 → MV-11.
+## Leitura obrigatória de entrada
 
-### Parte II — 12
-MV-12 → MV-13 → MV-14 → MV-I04 → MV-15 → MV-16 → MV-17 → MV-18 → MV-19 → MV-20 → MV-21 → MV-22.
+Após `START_HERE.md` e a governança da raiz:
+1. `STATUS.md`;
+2. `LOTES/REVISAO_GLOBAL_POS_ETAPA13.md`;
+3. `LOTES/AUDITORIA_ETAPA14_AUTORIA_LEGADO.md`;
+4. `ETAPAS/14_AUTORIA_LEGADO_PRIMEIRA_ESCRITA_2026-09-10.md`;
+5. `ETAPAS/F01_PROVA_A1_55_UNIDADES_2026-09-10.md`;
+6. mapas atuais das quatro Partes e `MAPA_VOZES_E_MOLDURAS.md`;
+7. `DIAGRAMACAO/ORDEM_LEITURA_A1.json`;
+8. os arquivos literários do lote que será efetivamente revisado.
 
-### Ponte II → III
-MV-M01 — Agora Eu Não Posso Errar.
+A ordem explícita da prova A1 e os mapas atuais prevalecem sobre numeração histórica e instruções antigas já executadas. Não montar o livro pela ordem alfabética dos nomes de arquivo.
 
-### Parte III — 14
-MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27 → MV-28 → MV-29 → MV-30 → MV-31 → MV-32 → MV-33 → MV-34 → MV-35.
+## Estrutura de leitura
 
-### Parte IV — 7
-MV-36 → MV-37 → MV-38 → MV-39 → MV-I06 → MV-40 → MV-41.
+Abertura (2) → Parte I (16) → Parte II com monólogo de passagem (13) → Parte III (14) → Parte IV (8) → encerramento (2).
 
-## Vozes especiais recuperadas na ETAPA 13
-### Prólogo
-`CAPITULOS/MV-P01_PROLOGO_O_PORTAO.md`
+Manter **MV-22 → MV-M01 → MV-I05**. O monólogo pós-divórcio é longo e não pode ser substituído por resumo de autoestima ou planejamento que Sol ainda não fazia.
 
-Cold open após a Nota Forense e antes de 1978. Não confundir com o desenvolvimento cronológico do Portão em MV-28/MV-29.
+Manter **MV-38 → MV-39 → MV-I06 → MV-40**. O interlúdio I06 é a adulta acolhendo a criança, não substitui a voz ingênua da criança nos capítulos infantis. O clímax não deve ser repetido como bordão.
 
-### Monólogo pós-divórcio
-`CAPITULOS/MV-M01_AGORA_EU_NAO_POSSO_ERRAR.md`
+Encerrar com **MV-42 → MV-E01 → MV-NF01**. Epílogo e nota final têm funções distintas; não criar um terceiro laudo longo para recontar tudo.
 
-Foi transplantado integralmente do acervo. Não modernizar a consciência da personagem. Ela ainda teme pecado, culpa e nova escolha errada e não possui linguagem futura de posicionamento.
+## Como continuar
 
-### Criança ingênua/inocente
-`CAPITULOS/MV-I06_A_CRIANCA_QUE_NAO_DEVIA_NADA.md`
+Releia o arquivo atual antes de editar. Trabalhe em lotes reais, produzindo texto revisto, não apenas novos planos. Preserve a versão anterior e o motivo da alteração. Não sobrescreva snapshots históricos, não reduza o histórico para fazê-lo parecer linear e não altere os livros paralelos.
 
-Posição: MV-39 → MV-I06 → MV-40.  
-`Ingênua` significa sem conhecimento posterior, não tola. `Inocente` refere-se especialmente ao fato de não ser autora de Oripe, do luto e das decisões/danos dos adultos.
+A revisão começa pela Parte I e pelas transições da 13R: retirar bastidores desnecessários do miolo, reduzir repetição, dosar antecipações e manter a consciência que a personagem possuía em cada época. Não inventar cenas para aumentar a extensão.
 
-## ETAPA 13 — núcleo principal
-`CAPITULOS/MV-41_A_MULHER_QUE_QUASE_NAO_VIVEU.md`
+Ao gerar nova prova, validar os 55 códigos atuais ou a nova contagem explicitamente aprovada, a presença integral dos monólogos, os marcadores de prosa, a ordem, o sumário, a paginação e o manifesto. Um PDF bonito não comprova veracidade ou conclusão editorial.
 
-A mulher já apareceu como sujeito de preferência, corpo, desejo, escolha e limite. Mulher Magnética, TCC, Magnetus e Relacione-se entraram apenas nos níveis factuais/autoriais seguros.
+## Reservas e limites
 
-## Arquivos obrigatórios da ETAPA 13
-- `MAPA_VOZES_E_MOLDURAS.md`
-- `LOTES/AUDITORIA_ETAPA13_MULHER_E_VOZES_RECUPERADAS.md`
-- `LOTES/REVISAO_ETAPA13_MULHER_E_VOZES_RECUPERADAS.md`
-- `ETAPAS/13_MULHER_QUASE_NAO_VIVEU_E_VOZES_RECUPERADAS_2026-09-10.md`
-- `ACOMPANHAMENTO_ETAPA_13.md`
+Galinhas, Mangas, Caminho das Águas e consulta após queda do balanço ainda exigem fonte suficiente. Tanque e balanço são acontecimentos distintos. Documentos processuais e dados clínicos pendentes não viram fatos auditados por repetição. O dia da morte de Mãe-Véia continua conflitante no acervo utilizado; o epílogo usa dezembro de 2025.
 
-## COMANDO ATUAL
-Executar integralmente:
-`PROMPTS/ETAPA_14_COMANDO_ATUAL.md`
+O Sepultamento não é cura total. O manejo atual dos tremores não deve ser apagado nem transformado em cura clínica. Os filhos não precisam proporcionar um encontro inventado para o final. Reposicione-se recebe uma pergunta prática, não a obrigação de concluir este volume.
 
-## ETAPA 14 — centro
-A próxima etapa deve transformar presença em **autoria**, sem transformar o livro em catálogo de projetos.
+## Entregáveis e persistência
 
-Auditar VI-L6-001–012 antes da prosa e preservar:
-- Mãe-Véia complexa;
-- Magnetus, MINDSETmagro e Relacione-se como projetos distintos;
-- IA/GPT como infraestrutura de organização/edição, nunca autora;
-- escrita/repositório como forma de não perder fragmentos;
-- assinatura Sol Lima como autoria e integração;
-- 25/12/2025 reservado ao Epílogo;
-- Laudo Final preservado para o fechamento.
+A prosa e a ordem estão no repositório. A prova de leitura é uma representação dos arquivos-fonte. Não afirmar que PDF/DOCX binários estão salvos aqui sem uma gravação específica. A exportação privada contém arquivos rastreados e manifesto, não todo o histórico Git nem todos os anexos de outros chats.
 
-## Reservas da infância
-- `RESERVAS/REINO_DAS_GALINHAS.md`
-- MV-I02 — Mangas
-- MV-I03 — Caminho das Águas
-
-## Princípio
-**O mapa governa até o fato exigir correção. A cena prova. A voz precisa pertencer ao tempo vivido. O histórico preserva.**
+**Princípio:** o livro continua por revisão verificável do que já existe — não por recomeço, promessa ou contagem inflada.
