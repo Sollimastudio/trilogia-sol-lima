@@ -1,28 +1,43 @@
-name: Livro 3 ETAPA 06 leitura e integridade
+name: Livro 3 ETAPA 06 consolidacao verificada
 on:
   push:
     branches: [main]
     paths: ['.github/workflows/livro3-etapa06-once.yml']
 permissions:
-  contents: read
+  contents: write
 concurrency:
   group: livro3-etapa06-once
   cancel-in-progress: false
 jobs:
-  export:
+  consolidate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Exportar leitura sem modificar manuscritos
+        with:
+          fetch-depth: 1
+      - name: Validar e consolidar apenas a pasta do Livro 3
         run: |
-          mkdir -p /tmp/livro3-etapa06/01_MORTE_EM_VIDA /tmp/livro3-etapa06/02_REPOSICIONE_SE
-          cp -R 00_UNIVERSO_MESTRE /tmp/livro3-etapa06/
-          cp -R 03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU /tmp/livro3-etapa06/
-          cp 01_MORTE_EM_VIDA/MAPA_MAE.md /tmp/livro3-etapa06/01_MORTE_EM_VIDA/
-          cp 02_REPOSICIONE_SE/MAPA_MAE.md /tmp/livro3-etapa06/02_REPOSICIONE_SE/
-          git rev-parse HEAD > /tmp/livro3-etapa06/COMMIT_ORIGEM.txt
+          python -m py_compile 03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU/PRODUCAO_ETAPA_06/consolidar_etapa06.py
+          python 03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU/PRODUCAO_ETAPA_06/consolidar_etapa06.py
+          rm -rf 03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU/PRODUCAO_ETAPA_06/__pycache__
+          git add 03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU
+          python - <<'PY'
+          import subprocess
+          paths = subprocess.check_output(['git', 'diff', '--cached', '--name-only'], text=True).splitlines()
+          assert paths and all(p.startswith('03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU/') for p in paths), paths
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Livro 3 ETAPA 06: integra Parte V revisada, fontes, historico e snapshot verificado'
+          git push origin HEAD:main
+      - name: Exportar resultado salvo para verificacao independente
+        run: |
+          mkdir -p /tmp/livro3-etapa06-consolidado
+          cp -R 03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU /tmp/livro3-etapa06-consolidado/
+          git rev-parse HEAD > /tmp/livro3-etapa06-consolidado/COMMIT_INTEGRACAO.txt
+          git show --format= --name-only HEAD > /tmp/livro3-etapa06-consolidado/ARQUIVOS_COMMIT.txt
       - uses: actions/upload-artifact@v4
         with:
-          name: livro3-etapa06-leitura
-          path: /tmp/livro3-etapa06/
+          name: livro3-etapa06-consolidado
+          path: /tmp/livro3-etapa06-consolidado/
           retention-days: 7
