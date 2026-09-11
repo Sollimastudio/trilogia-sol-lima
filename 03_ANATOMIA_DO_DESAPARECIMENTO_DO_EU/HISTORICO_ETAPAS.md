@@ -191,3 +191,34 @@
 **ETAPA 04 — Parte III: A Anatomia da Ocupação — capítulos 9 a 12.**
 
 **Estado:** ✓ execução editorial concluída; texto do marco permanece em revisão autoral.
+
+---
+
+## ETAPA 04 — PARTE III: A ANATOMIA DA OCUPAÇÃO
+**Data local:** 2026-09-10.  
+**Entrada:** abertura + Partes I–II, capítulos 1–8; blob `a34f0038fd6339846c257c46a88050f55052b7c5`.
+
+### Execução
+- Escritos integralmente abertura, capítulos 9–12, fechamento e ponte para a Parte IV.
+- Parte III com 13.962 palavras; manuscrito acumulado com 34.527 palavras.
+- Reuso seletivo dos antigos capítulos 4–7 e 13–17; material legado não foi apagado.
+- Matriz NARRATIVA condensada; método de Reposicione-se não reconstruído.
+- Fontes verificadas e limites registrados em `REFERENCIAS_DE_TRABALHO.md`.
+- Corrigida distinção entre fusão científica e metáfora de restrição identitária.
+- Corrigida colisão de nomes: Marina funcionária preservada; criadora passa a Lívia. Novos casos Davi e Vera não substituem Rafael e Helena da primeira parte.
+- Correções anteriores delimitadas, preservadas em `REVISOES_ETAPA_04.json` e `DIFF_TEXTO_ANTERIOR_ETAPA_04.patch`.
+- Retirados comentários de migração de dentro da nova prosa; procedência preservada no registro editorial.
+- Atualizados estado e mapa-mãe apenas quanto ao avanço de produção, sem alterar arquitetura.
+
+### Integridade
+Snapshot integral: `ETAPAS/04_PARTE_III_ANATOMIA_OCUPACAO_2026-09-10.md`.  
+Manuscrito/snapshot: blob `5bdf895efd012b9b3c6b62d2b322971b264b9e29`, SHA-256 `656b75851e4caf005713d2abf610b7758e40eb687e43315df86baac43a854e86`, 237.179 bytes.  
+Capítulos numerados uma vez, de 1 a 12; Partes I–III; snapshots anteriores mantidos byte a byte.
+
+### Pendências
+Leitura e aprovação autoral; escrita das Partes IV–VI e epílogo; lapidação global de ritmo e diagramação; figuras legadas não inspecionadas visualmente nesta etapa; revisão factual/técnica final antes de publicar.
+
+### Próxima etapa
+ETAPA 05 — Parte IV, capítulos 13–16. Comando integral em `PROMPT_PROXIMA_ETAPA_05.md`.
+
+**Estado:** execução editorial concluída; obra ainda não aprovada para publicação.

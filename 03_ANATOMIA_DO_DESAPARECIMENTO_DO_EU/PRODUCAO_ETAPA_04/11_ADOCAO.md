@@ -6,7 +6,7 @@
 
 ### A palavra chegou antes da pessoa
 
-Luiza aprendeu a palavra limite num período em que aceitava tarefas demais. Este caso é composto e retoma, sob outra forma, uma situação do legado desta obra: alguém encontra uma linguagem útil e depois precisa descobrir até onde ela alcança.
+Luiza aprendeu a palavra limite num período em que aceitava tarefas demais. Neste caso composto, alguém encontra uma linguagem útil e depois precisa descobrir até onde ela alcança.
 
 Antes, Luiza atendia ligações de trabalho durante o jantar, assumia favores sem consultar a agenda e dizia que estava tudo bem quando já estava ressentida. Numa formação sobre comunicação, começou a distinguir disponibilidade de obrigação. Aprendeu a fazer pedidos mais específicos, a não prometer o que não conseguiria entregar e a avisar quando precisava de tempo.
 

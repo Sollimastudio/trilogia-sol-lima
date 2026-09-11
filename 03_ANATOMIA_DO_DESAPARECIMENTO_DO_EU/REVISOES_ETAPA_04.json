@@ -1,0 +1,142 @@
+[
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md: texto preexistente",
+    "antes": "manuscrito canônico vivo — ETAPA 03",
+    "depois": "manuscrito canônico vivo — ETAPA 04",
+    "ocorrencias": 1,
+    "motivo": "Atualizar marco, sem alterar identidade da obra."
+  },
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md: texto preexistente",
+    "antes": "Estamos testando dependência.",
+    "depois": "Estamos observando nossa relação com esses papéis, não medindo dependência. O desconforto deste exercício, sozinho, não prova desaparecimento identitário.",
+    "ocorrencias": 1,
+    "motivo": "Evitar impressão de teste clínico validado no capítulo 1."
+  },
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md: texto preexistente",
+    "antes": "Toda performance persistente recebe alguma recompensa.",
+    "depois": "Algumas performances persistem porque recebem recompensa; outras são mantidas por hábito, obrigação ou coerção.",
+    "ocorrencias": 1,
+    "motivo": "Retirar universalização não sustentada do capítulo 4."
+  },
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md: texto preexistente",
+    "antes": "Slogans são deliciosos porque poupam metabolismo.",
+    "depois": "Slogans são deliciosos porque parecem poupar o trabalho de examinar.",
+    "ocorrencias": 1,
+    "motivo": "Preservar ironia sem sugerir alegação metabólica não demonstrada."
+  },
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md: texto preexistente",
+    "antes": "Mas ninguém aprende a desaparecer sozinho.",
+    "depois": "Muitos desses aprendizados acontecem nas relações.",
+    "ocorrencias": 1,
+    "motivo": "Reduzir generalização causal e eco imediato do final da Parte I."
+  },
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md: texto preexistente",
+    "antes": "Na fusão, a fronteira entre vínculo e identidade enfraquece a ponto de discordar parecer traição de existência.",
+    "depois": "Na fusão restritiva que esta metáfora investiga, discordar pode parecer traição de existência. Esse uso autoral não equivale ao construto científico de fusão de identidade, distinguido no capítulo 12.",
+    "ocorrencias": 1,
+    "motivo": "Distinguir metáfora de construto científico desde o capítulo 6."
+  },
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md: texto preexistente",
+    "antes": "Riêm das mesmas piadas.",
+    "depois": "Riem das mesmas piadas.",
+    "ocorrencias": 1,
+    "motivo": "Correção ortográfica."
+  },
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md: texto preexistente",
+    "antes": "A opinião fica mais extrema porque a nuance reduz alcance.",
+    "depois": "A opinião pode ficar mais extrema quando o criador interpreta a reação do público como recompensa por eliminar nuances.",
+    "ocorrencias": 1,
+    "motivo": "Evitar lei geral sem evidência sobre nuance e alcance."
+  },
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md: texto preexistente",
+    "antes": "enquanto comparações laterais eram mais comuns e não apresentavam o mesmo padrão consistente (Burnell et al., 2024).",
+    "depois": "enquanto comparações laterais eram mais comuns e não apresentavam o mesmo padrão consistente (Burnell et al., 2024). Nesse estudo, a associação com menor autoestima foi observada para comparações ascendentes em relação às descendentes; não é uma medida do efeito de toda comparação sobre toda pessoa.",
+    "ocorrencias": 1,
+    "motivo": "Explicitar o contraste observado no estudo, sem inferência universal."
+  },
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md: texto preexistente",
+    "antes": "Uma meta-análise publicada em 2026 encontrou associação positiva modesta entre uso problemático de redes sociais e comparação social,",
+    "depois": "Uma meta-análise de Demir e colegas (2026) encontrou associação positiva modesta entre uso problemático de redes sociais e comparação social,",
+    "ocorrencias": 1,
+    "motivo": "Adicionar atribuição autor-data já verificada."
+  },
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md: texto preexistente",
+    "antes": "Uma meta-análise publicada em 2026 sobre engajamento parassocial com influenciadores encontrou associações",
+    "depois": "Uma meta-análise de Li, Liu e Liu (2026) sobre engajamento parassocial com influenciadores encontrou associações",
+    "ocorrencias": 1,
+    "motivo": "Adicionar atribuição autor-data e evitar referência anônima."
+  },
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md: apenas capítulo 8",
+    "antes": "Marina",
+    "depois": "Lívia",
+    "ocorrencias": 3,
+    "motivo": "Diferenciar criadora da Marina funcionária do capítulo 3."
+  },
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md: texto preexistente",
+    "antes": "Ele oferece uma lente.\n\nLentes não sentenciam pessoas.",
+    "depois": "Os casos e contracasos apresentados são ficcionais ou compostos para ilustrar possibilidades, sem corresponder a pessoas identificáveis. Não são relatos clínicos nem provas empíricas do mecanismo.\n\nEle oferece uma lente.\n\nLentes não sentenciam pessoas.",
+    "ocorrencias": 1,
+    "motivo": "Unificar transparência sobre os exemplos do conjunto na Nota Conceitual."
+  },
+  {
+    "arquivo": "PRODUCAO_ETAPA_04/09_ABERTURA_E_NARRATIVA.md",
+    "antes": "O legado deste livro organizou uma distinção útil:",
+    "depois": "Uma distinção útil para essa leitura separa",
+    "ocorrencias": 1,
+    "motivo": "Retirar comentário de produção do corpo literário."
+  },
+  {
+    "arquivo": "PRODUCAO_ETAPA_04/09_ABERTURA_E_NARRATIVA.md",
+    "antes": "Elisa é uma personagem composta adaptada do legado desta obra.",
+    "depois": "Elisa é uma personagem composta.",
+    "ocorrencias": 1,
+    "motivo": "Manter procedência de migração no registro editorial, não na narrativa."
+  },
+  {
+    "arquivo": "PRODUCAO_ETAPA_04/11_ADOCAO.md",
+    "antes": "Este caso é composto e retoma, sob outra forma, uma situação do legado desta obra: alguém encontra uma linguagem útil e depois precisa descobrir até onde ela alcança.",
+    "depois": "Neste caso composto, alguém encontra uma linguagem útil e depois precisa descobrir até onde ela alcança.",
+    "ocorrencias": 1,
+    "motivo": "Eliminar referência a bastidores de produção."
+  },
+  {
+    "arquivo": "PRODUCAO_ETAPA_04/12_REDOMA_FUSAO_DEPENDENCIA.md",
+    "antes": "O caso é composto, adaptado do legado desta obra.",
+    "depois": "O caso é composto.",
+    "ocorrencias": 1,
+    "motivo": "Separar ficção ilustrativa de comentários de migração."
+  },
+  {
+    "arquivo": "PRODUCAO_ETAPA_04/12_REDOMA_FUSAO_DEPENDENCIA.md",
+    "antes": "A frase do legado continua útil quando perde o tom de sentença universal:",
+    "depois": "Essa possibilidade pode ser resumida sem transformá-la em sentença universal:",
+    "ocorrencias": 1,
+    "motivo": "Preservar formulação autoral sem referência a versões técnicas."
+  },
+  {
+    "arquivo": "PRODUCAO_ETAPA_04/12_REDOMA_FUSAO_DEPENDENCIA.md",
+    "antes": "Vera é uma personagem composta. Sua história foi adaptada de um caso do legado, sem corresponder a Sol nem à Helena apresentada na Parte I. Essa distinção importa: não vamos inventar violência numa trajetória anterior só para facilitar uma explicação.",
+    "depois": "Vera é uma personagem composta. Sua história permite observar restrições concretas à liberdade, sem reduzir a permanência numa relação ao que a pessoa acredita sobre si.",
+    "ocorrencias": 1,
+    "motivo": "Retirar comentário técnico e preservar identificação independente de Vera."
+  },
+  {
+    "arquivo": "REFERENCIAS_DE_TRABALHO.md",
+    "antes": "**Uso herdado:** capítulo 8, personalização por interesses e engajamento. A consulta direta nesta rodada não expôs texto completo estável; a redação específica herdada deve ser novamente conferida na revisão técnica final das plataformas. Não acrescentada afirmação técnica nova sobre TikTok na Parte III. Essa limitação não foi ocultada como verificação integral.",
+    "depois": "**Uso herdado:** capítulo 8, personalização por interesses e engajamento. A rota original não expôs texto completo estável nesta consulta. A afirmação foi reconferida na página oficial alternativa https://support.tiktok.com/en/getting-started/for-you/test-for-you e no texto institucional https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you. O relato histórico não foi tratado como prova de implementação atual. Antes da publicação, reconferir interfaces e funções que podem mudar.",
+    "ocorrencias": 1,
+    "motivo": "Registrar resolução da limitação de acesso mediante fontes oficiais alternativas."
+  }
+]

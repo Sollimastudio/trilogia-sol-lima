@@ -1,6 +1,6 @@
 # MAPA-MÃE — LIVRO 3 — FUGA IDENTITÁRIA / ANATOMIA DO DESAPARECIMENTO DO EU
 
-**Estado vivo após ETAPA 01 — Auditoria e Consolidação do Legado**  
+**Arquitetura consolidada na ETAPA 01; produção atualizada até a ETAPA 04**  
 **Data:** 10/09/2026  
 **Snapshot anterior:** `ETAPAS/00_ESTRUTURA_BASE_2026-09-10.md`  
 **Auditoria:** `AUDITORIA_LEGADO_ETAPA_01.md`  
@@ -321,8 +321,8 @@ A última imagem deve comunicar:
 
 # 10. ESTADO
 
-**ETAPA 00 — Estrutura base:** ✓ preservada em snapshot.  
-**ETAPA 01 — Auditoria e Consolidação do Legado:** ✓ concluída.  
-**ETAPA 02 — Arquitetura Canônica + Abertura + Parte I:** próxima.
+ETAPAS 00 e 01 preservadas; ETAPAS 02, 03 e 04 com escrita e revisão executadas. O manuscrito vivo contém abertura e Partes I–III, capítulos 1–12. Aprovação autoral e publicação continuam pendentes.
 
-Na ETAPA 02, a produção deixa de ser predominantemente estrutural e começa a gerar **corpo de livro em massa**, reutilizando prosa do legado quando compatível e escrevendo integralmente os novos Caps. 1–4.
+A arquitetura deste mapa não foi alterada na ETAPA 04. Correções conceituais e de continuidade estão documentadas no registro editorial, especialmente a distinção entre fusão científica e metáfora autoral.
+
+Próxima frente: **ETAPA 05 — Parte IV: O Eu Emprestado em Funcionamento**, capítulos 13–16. Seguir `PROMPT_PROXIMA_ETAPA_05.md` e `STATUS.md`.

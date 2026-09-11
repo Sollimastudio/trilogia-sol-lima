@@ -1,0 +1,90 @@
+{
+  "etapa": "04",
+  "data_local": "2026-09-10",
+  "escopo": "abertura e Partes I–III; capítulos 1–12",
+  "metodo_contagem": "regex lexical Unicode; inclui títulos e chamadas autor-data; não equivale a páginas",
+  "palavras_base": 20457,
+  "palavras_base_apos_revisao": 20565,
+  "palavras_parte_III": 13962,
+  "palavras_manuscrito": 34527,
+  "palavras_por_capitulo": {
+    "1": 1614,
+    "2": 1522,
+    "3": 1852,
+    "4": 1748,
+    "5": 2300,
+    "6": 2021,
+    "7": 2043,
+    "8": 3120,
+    "9": 2720,
+    "10": 2898,
+    "11": 3289,
+    "12": 4021
+  },
+  "bytes_manuscrito": 237179,
+  "git_blob_base": "a34f0038fd6339846c257c46a88050f55052b7c5",
+  "git_blob_manuscrito_e_snapshot": "5bdf895efd012b9b3c6b62d2b322971b264b9e29",
+  "sha256_manuscrito_e_snapshot": "656b75851e4caf005713d2abf610b7758e40eb687e43315df86baac43a854e86",
+  "snapshot": "ETAPAS/04_PARTE_III_ANATOMIA_OCUPACAO_2026-09-10.md",
+  "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "snapshot_identico": true,
+  "snapshots_anteriores_sha256": {
+    "ETAPAS/03_PARTE_II_BLOCO_PRODUCAO_2026-09-10.md": "3d4412d61627ba0f69ab70a40a9f64139f4dc2fd764ced94ac441eb020fe3687",
+    "ETAPAS/03_PARTE_II_ESPELHOS_2026-09-10.md": "6ec42cebfd51f83c6a4d659c97897157d2c8b3187f335cb6a0ef294370c9daed",
+    "ETAPAS/00_ESTRUTURA_BASE_2026-09-10.md": "18058a7093004e4951ee5b5b622c84b7ac633b2e5d112f1aee8e882ab8bfdbf9",
+    "ETAPAS/01_AUDITORIA_CONSOLIDACAO_2026-09-10.md": "bb3935f7bce511639a651dd9882528fb14373ffc58018f6e7214a71665c0fe3a",
+    "ETAPAS/02_ABERTURA_PARTE_I_2026-09-10.md": "f95d9a6cdb4cebee674dfdc1ace6758e2e874d3d6e22d03fa4e39d86a2e57757"
+  },
+  "blocos_de_entrada": {
+    "09_ABERTURA_E_NARRATIVA.md": "6c94e22a376c2149d01bde1930d79057e7650c3d",
+    "10_EXPOSICAO_E_IDENTIFICACAO.md": "efaf2326f5950cb6f1a9bdf0cb74e2bb472b3ffd",
+    "11_ADOCAO.md": "4714c7c3103c81300b65f9dfb28370e8e5f88b47",
+    "12_REDOMA_FUSAO_DEPENDENCIA.md": "e9b9190a4e9bb59b1837c92caa655a5233b513ca",
+    "99_FECHAMENTO.md": "52a74f26e0cb88fc32a70954d3c7d5fe7fc580b5"
+  },
+  "blocos_revisados": {
+    "09_ABERTURA_E_NARRATIVA.md": {
+      "git_blob_sha": "3baab3899a86702655a98c98642ec500965d8c56",
+      "palavras": 3191,
+      "bytes": 21493
+    },
+    "10_EXPOSICAO_E_IDENTIFICACAO.md": {
+      "git_blob_sha": "efaf2326f5950cb6f1a9bdf0cb74e2bb472b3ffd",
+      "palavras": 2898,
+      "bytes": 19757
+    },
+    "11_ADOCAO.md": {
+      "git_blob_sha": "fe142d8872325ebddc69ee25977322d28b081859",
+      "palavras": 3289,
+      "bytes": 22012
+    },
+    "12_REDOMA_FUSAO_DEPENDENCIA.md": {
+      "git_blob_sha": "db5911c64d4e45da3f13425be4409ac8ceda3b81",
+      "palavras": 4021,
+      "bytes": 27228
+    },
+    "99_FECHAMENTO.md": {
+      "git_blob_sha": "52a74f26e0cb88fc32a70954d3c7d5fe7fc580b5",
+      "palavras": 563,
+      "bytes": 3688
+    }
+  },
+  "alteracoes_documentadas": 20,
+  "paragrafos_exatamente_duplicados_35_palavras": [],
+  "aprovacao_autoral": false,
+  "publicacao_aprovada": false,
+  "limites": "QA estrutural e revisão editorial; não validação clínica, revisão sistemática ou prova de publicação."
+}

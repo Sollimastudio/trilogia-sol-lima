@@ -166,7 +166,7 @@ TIKTOK SUPPORT. **For You.** Documentação institucional. Consulta e reconferê
 
 Fonte indicada no legado: https://support.tiktok.com/en/using-tiktok/exploring-videos/for-you
 
-**Uso herdado:** capítulo 8, personalização por interesses e engajamento. A consulta direta nesta rodada não expôs texto completo estável; a redação específica herdada deve ser novamente conferida na revisão técnica final das plataformas. Não acrescentada afirmação técnica nova sobre TikTok na Parte III. Essa limitação não foi ocultada como verificação integral.
+**Uso herdado:** capítulo 8, personalização por interesses e engajamento. A rota original não expôs texto completo estável nesta consulta. A afirmação foi reconferida na página oficial alternativa https://support.tiktok.com/en/getting-started/for-you/test-for-you e no texto institucional https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you. O relato histórico não foi tratado como prova de implementação atual. Antes da publicação, reconferir interfaces e funções que podem mudar.
 
 # ALEGAÇÕES AUTORAIS E RESERVAS
 

@@ -18,7 +18,7 @@ Algumas pessoas riram. O participante baixou a mão. Disse que estava comprometi
 
 No intervalo, Davi o viu recolher a pasta depressa. Não parou diante da mesa do café. Saiu olhando para o telefone, embora a tela estivesse apagada.
 
-O caso é composto, adaptado do legado desta obra. Davi é o profissional que, no capítulo 10, encontrou aprendizado, contatos e reconhecimento numa comunidade de formação. Esses benefícios não deixaram de existir. Por isso, o que ele percebeu na sala não encontrou uma resposta simples.
+O caso é composto. Davi é o profissional que, no capítulo 10, encontrou aprendizado, contatos e reconhecimento numa comunidade de formação. Esses benefícios não deixaram de existir. Por isso, o que ele percebeu na sala não encontrou uma resposta simples.
 
 Reconheceu uma humilhação. Quase no mesmo instante, começou a explicar por que talvez tivesse sido necessária: o mentor costumava provocar, o participante podia estar resistente, aquela formação exigia coragem. Davi conhecia todas as frases que tornavam a cena aceitável.
 
@@ -96,7 +96,7 @@ Esse trabalho não demonstra que pessoas mais inteligentes sejam sempre mais vul
 
 O próprio livro pode cair nessa armadilha. Eu poderia selecionar somente exemplos que confirmem minha tese e chamar qualquer exceção de uma forma mais sofisticada do mesmo fenômeno. Se fizer isso, terei construído uma redoma com a palavra autoria na entrada.
 
-A frase do legado continua útil quando perde o tom de sentença universal: **em certas redomas, a inteligência pode trabalhar como advogada da conclusão que deveria examinar**.
+Essa possibilidade pode ser resumida sem transformá-la em sentença universal: **em certas redomas, a inteligência pode trabalhar como advogada da conclusão que deveria examinar**.
 
 Davi percebeu essa diferença quando tentou escrever um relato da cena sem adivinhar motivos. Uma pergunta sobre cobrança. Uma resposta que diminuía o participante. Risos. A mão baixada. A saída antecipada. O relato não resolvia todo o caso, mas impedia que a interpretação pronta apagasse o que havia acontecido.
 
@@ -128,7 +128,7 @@ O que precisa ser investigado é o uso da exclusão como instrumento de coerçã
 
 ### Vera sabia que não era cuidado
 
-Vera é uma personagem composta. Sua história foi adaptada de um caso do legado, sem corresponder a Sol nem à Helena apresentada na Parte I. Essa distinção importa: não vamos inventar violência numa trajetória anterior só para facilitar uma explicação.
+Vera é uma personagem composta. Sua história permite observar restrições concretas à liberdade, sem reduzir a permanência numa relação ao que a pessoa acredita sobre si.
 
 No começo do relacionamento, o companheiro se oferecia para resolver tarefas que a deixavam cansada. Acompanhava pagamentos, lembrava compromissos e buscava Vera no trabalho. Ela gostava de receber ajuda. Não havia algo errado em desejar descanso dentro de um vínculo.
 

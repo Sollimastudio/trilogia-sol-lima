@@ -66,7 +66,7 @@ Na cena de Rafael, a pergunta não é qual história o fará sentir-se melhor. �
 
 ### Entre o acontecimento e o papel
 
-O legado deste livro organizou uma distinção útil: acontecimento, recorte, interpretação, reclassificação e comando. Não precisamos montar outro curso inteiro sobre cada camada. Precisamos ver o que elas fazem com a identidade.
+Uma distinção útil para essa leitura separa acontecimento, recorte, interpretação, reclassificação e comando. Não precisamos montar outro curso inteiro sobre cada camada. Precisamos ver o que elas fazem com a identidade.
 
 O acontecimento delimita o que sabemos: Rafael disse que não ficaria. O recorte escolhe o que entra: a recusa pode aparecer sozinha, sem sua oferta de revisão ou sem a história de trabalho acumulado. A interpretação acrescenta motivo: ele não se importa. A reclassificação dá um nome moral à conduta: falta de compromisso. O comando oferece um modo de recuperar valor: fique, prove que pertence, não seja o homem descrito no corredor.
 
@@ -82,7 +82,7 @@ O novo nome pode esclarecer uma violência antes escondida. Pode também esconde
 
 ### A explicação que ajudou Elisa
 
-Elisa é uma personagem composta adaptada do legado desta obra. Depois de deixar um emprego, encontrou uma formação sobre organização profissional. Estava com projetos interrompidos, documentos espalhados e medo de ter confundido mudança com fracasso. Nas primeiras aulas, aprendeu a separar tarefa de promessa, organizar prioridades e reconhecer hábitos de adiamento. O conteúdo era claro. Ela conseguiu concluir uma proposta que vinha evitando havia meses.
+Elisa é uma personagem composta. Depois de deixar um emprego, encontrou uma formação sobre organização profissional. Estava com projetos interrompidos, documentos espalhados e medo de ter confundido mudança com fracasso. Nas primeiras aulas, aprendeu a separar tarefa de promessa, organizar prioridades e reconhecer hábitos de adiamento. O conteúdo era claro. Ela conseguiu concluir uma proposta que vinha evitando havia meses.
 
 A formação não foi inútil. O resultado importou.
 

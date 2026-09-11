@@ -20,12 +20,12 @@
 | Auditoria do legado | ✓ | Camada 11 antiga classificada como reservatório editorial. |
 | Migração dos 24 capítulos | ✓ | Matriz de reaproveitamento criada. |
 | Arquitetura de 24 capítulos | ◑ | Consolidada para produção; ajustes futuros só por evidência de escrita. |
-| Manuscrito canônico novo | ● | `MANUSCRITO_CANONICO.md` contém abertura + Partes I e II, capítulos 1–8. |
+| Manuscrito canônico novo | ● | `MANUSCRITO_CANONICO.md` contém abertura + Partes I, II e III, capítulos 1–12. |
 | Abertura canônica | ◉ | Nota da Autora, Nota Conceitual e Introdução escritas e revisadas tecnicamente; aguardam leitura autoral sem bloquear continuidade. |
 | Parte I — O Eu que Aprende a Caber | ◉ | Caps. 1–4 completos, revisados e congelados em snapshot da ETAPA 02; aguardam leitura autoral. |
 | Parte II — Os Espelhos que Respondem por Nós | ◉ | Caps. 5–8 completos, revisados, auditados e congelados em snapshot integral da ETAPA 03; aguardam leitura autoral. |
-| Parte III — A Anatomia da Ocupação | ◐ | Próxima frente: Caps. 9–12. Forte legado em narrativa/exposição/identificação/adoção/redoma/fusão; precisa condensação para não duplicar `Reposicione-se`. |
-| Parte IV — O Eu Emprestado em Funcionamento | ◐ | Legado relevante + novos eixos Eu automático/sucesso. |
+| Parte III — A Anatomia da Ocupação | ◉ | Caps. 9–12 completos, revisados e integrados; snapshot integral da ETAPA 04 verificado; leitura autoral pendente. |
+| Parte IV — O Eu Emprestado em Funcionamento | ◐ | Próxima frente: ETAPA 05, Caps. 13–16, conforme prompt específico. |
 | Parte V — Quando Fugir de Si Parece Liberdade | ◐ | Material legado forte; hierarquia revisada. |
 | Parte VI — O Retorno da Autoria | ◐ | Legado forte + escrita nova de diferenciação/luto/permanecer em si. |
 | Epílogo | ◐ | Epílogo legado preservado como base; fechamento precisa terminar em presença identitária sustentável. |
@@ -45,7 +45,8 @@
 **ETAPA 00 — Estrutura Base:** ✓ concluída e preservada.  
 **ETAPA 01 — Auditoria e Consolidação do Legado:** ✓ concluída.  
 **ETAPA 02 — Arquitetura Canônica + Abertura + Parte I:** ✓ execução editorial concluída; texto em revisão autoral.  
-**ETAPA 03 — Parte II: Os Espelhos que Respondem por Nós:** ✓ execução editorial concluída; texto em revisão autoral.
+**ETAPA 03 — Parte II: Os Espelhos que Respondem por Nós:** ✓ execução editorial concluída; texto em revisão autoral.  
+**ETAPA 04 — Parte III: A Anatomia da Ocupação:** ✓ escrita, revisão, integração e integridade verificadas; leitura autoral pendente.
 
 ### Artefatos da ETAPA 03
 - `MANUSCRITO_CANONICO.md`
@@ -54,23 +55,24 @@
 - `ETAPAS/03_PARTE_II_BLOCO_PRODUCAO_2026-09-10.md` — bloco de produção preservado para auditoria de migração.
 
 ### Integridade do snapshot
-No fechamento da ETAPA 03, `MANUSCRITO_CANONICO.md` e `ETAPAS/03_PARTE_II_ESPELHOS_2026-09-10.md` compartilham o blob `a34f0038fd6339846c257c46a88050f55052b7c5`, com 142.199 bytes.
+No fechamento da ETAPA 03, `MANUSCRITO_CANONICO.md` e `ETAPAS/03_PARTE_II_ESPELHOS_2026-09-10.md` compartilhavam o blob `a34f0038fd6339846c257c46a88050f55052b7c5`, com 142.199 bytes.
+
+### Marco atual — ETAPA 04
+
+- Capítulos 1–12; 34.527 palavras no manuscrito (contagem lexical incluindo títulos).
+- Parte III: 13.962 palavras.
+- `REGISTRO_EDITORIAL_ETAPA_04.md`, `REFERENCIAS_DE_TRABALHO.md`, `REVISOES_ETAPA_04.json` e `QA_ETAPA_04.json` documentam trabalho e limites.
+- Manuscrito e snapshot integral: blob `5bdf895efd012b9b3c6b62d2b322971b264b9e29`; SHA-256 `656b75851e4caf005713d2abf610b7758e40eb687e43315df86baac43a854e86`.
+- Snapshots anteriores preservados, não sobrescritos.
+- A criadora do capítulo 8 passa a chamar-se Lívia; Marina continua sendo a funcionária do capítulo 3.
+- Fusão científica não é sinônimo de apagamento do Eu; distinção no capítulo 12 e remissão no capítulo 6.
 
 ## ETAPA ATIVA / PRÓXIMA
 
-**ETAPA 04 — PARTE III: A ANATOMIA DA OCUPAÇÃO**
+**ETAPA 05 — PARTE IV: O EU EMPRESTADO EM FUNCIONAMENTO**
 
-Entregas obrigatórias:
-1. reler o manuscrito atual antes de acrescentar texto;
-2. escrever integralmente a abertura da Parte III;
-3. escrever Cap. 9 — `Toda fuga identitária precisa de uma narrativa`;
-4. escrever Cap. 10 — `Exposição e identificação`;
-5. escrever Cap. 11 — `Adoção — quando linguagem recebida vira pensamento`;
-6. escrever Cap. 12 — `Redoma, fusão e dependência`;
-7. condensar Matriz NARRATIVA, lógica, valor operante e metacognição para não recriar o método de `Reposicione-se`;
-8. preservar diferença entre influência, identificação, adoção, fusão e coerção;
-9. revisar pesquisa e alegações sensíveis sobre repetição, influência, grupos de alto controle, controle coercitivo e pertencimento;
-10. revisar abertura + Partes I–III como um único livro;
-11. registrar auditoria editorial da etapa;
-12. atualizar STATUS/HISTORICO e congelar snapshot antes da ETAPA 05;
-13. deixar `PROMPT_PROXIMA_ETAPA_05.md` pronto.
+Executar `PROMPT_PROXIMA_ETAPA_05.md`, escrevendo abertura, capítulos 13–16 e fechamento. Preservar capítulos anteriores, conferir o estado vivo e os hashes antes de atualizar, revisar o conjunto, registrar fontes e alterações, atualizar histórico/status, congelar snapshot integral e preparar a ETAPA 06.
+
+Capítulos: 13 — Nomes que acolhem, rótulos que aprisionam; 14 — Quando o movimento começa a usar a pessoa; 15 — O Eu automático; 16 — O desaparecimento dentro do sucesso.
+
+**Execução editorial não equivale a aprovação autoral, validação clínica ou autorização de publicação.**
