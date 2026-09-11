@@ -2,580 +2,232 @@
 
 ## Resultado é evidência. Não é sentença.
 
-Tem uma coisa que o ser humano faz muito bem quando não gosta do resultado:
+Tem uma coisa que fazemos muito bem quando não gostamos do resultado: explicamos.
 
-explica.
+A conta atrasou porque o mês foi atípico. A discussão se repetiu porque o outro provocou. O projeto não saiu porque ainda não estava perfeito. A relação está vazia porque todo casal passa por fases. A marca não cresce porque o algoritmo resolveu perseguir justo você, o escolhido para sofrer nas mãos do engajamento.
 
-Explica com uma competência admirável.
+Talvez alguma dessas explicações seja verdadeira. Talvez várias sejam.
 
-A conta atrasou porque o mês foi atípico.
+O problema não é explicar. É explicar **antes de olhar**.
 
-A discussão se repetiu porque o outro provocou.
-
-O projeto não saiu porque ainda não estava perfeito.
-
-O limite foi atravessado porque não era o momento de criar conflito.
-
-A relação está vazia porque `todo casal passa por fase`.
-
-A carreira parou porque o mercado não reconhece talento.
-
-A marca não cresce porque o algoritmo persegue justo você, o escolhido para sofrer nas mãos do engajamento.
-
-Talvez alguma dessas explicações seja verdadeira.
-
-Talvez várias sejam.
-
-O problema não é explicar.
-
-O problema é explicar **antes de olhar**.
-
-Quando a explicação chega primeiro, ela vira advogada de defesa de uma conclusão que ainda nem foi investigada.
-
-Por isso, neste capítulo, eu vou te pedir uma coisa desconfortável:
-
-por alguns minutos, deixe sua intenção do lado de fora.
-
-Ela volta depois.
-
-Prometo.
+Quando a explicação chega primeiro, pode virar advogada de defesa de uma conclusão que ainda nem foi investigada. Por alguns minutos, proponho que você deixe a intenção ao lado da cena, em vez de permitir que ela substitua a cena. Voltaremos a ela depois.
 
 Agora vamos olhar o Fruto.
 
-## O Fruto é aquilo que aparece
+## O Fruto precisa ter endereço
 
-No Método Posicione-se, eu chamo de **Fruto** o resultado observável de uma situação, em um Galho e num período determinado.
+No Método Posicione-se, **Fruto é o resultado observável de uma situação, em um Galho e num período determinado**.
 
-Isso é importante porque Fruto precisa ter endereço.
+*Minha vida é um caos* não delimita um Fruto. É uma conclusão enorme.
 
-`Minha vida é um caos` não é um Fruto.
+*Nas últimas quatro semanas, perdi três prazos* já oferece um resultado que pode ser examinado. Se você acrescenta *porque aceitei mais entregas do que cabiam na agenda*, apresentou também uma explicação. Ela pode estar correta, mas ainda precisamos conferir o volume de trabalho, os prazos, as condições e o que mais participou.
 
-É uma conclusão enorme.
+O resultado e a hipótese sobre sua causa não são a mesma informação.
 
-`Nas últimas quatro semanas, perdi três prazos porque aceitei mais entregas do que cabiam na agenda` é muito melhor.
+*Ninguém me respeita* é amplo demais para começar.
 
-`Ninguém me respeita` não é um Fruto.
+*Em três reuniões seguidas, fui interrompida e não retomei minha fala* delimita acontecimentos. O que houve, por que houve e o que era possível fazer ainda pedem contexto.
 
-`Em três reuniões seguidas fui interrompida e, nas três, abandonei minha fala sem retomá-la` já é alguma coisa que conseguimos observar.
+*Meu relacionamento é péssimo* é uma avaliação.
 
-`Meu relacionamento é péssimo` ainda é uma avaliação.
+*Nas últimas três tentativas de conversar sobre dinheiro, a conversa terminou em gritos ou foi interrompida* oferece material mais preciso. A frase não diz, sozinha, quem provocou o quê ou por que a interrupção aconteceu.
 
-`Há seis meses somos nós dois que evitamos conversar sobre dinheiro porque toda tentativa termina em grito ou silêncio por dias` oferece material para investigação.
+Percebe a diferença? O Fruto tira uma parte da vida da neblina. Não resolve a situação, mas ajuda a investigar algo que tenha contorno.
 
-Percebe a diferença?
+## A câmera é uma pergunta, não uma testemunha perfeita
 
-O Fruto tira a vida da neblina.
+Imagine uma câmera acompanhando uma cena da sua terça-feira. Ela registraria uma mensagem aberta, um sim, um prazo assumido, uma fala interrompida. Não teria acesso automático à intenção de ninguém, ao cansaço que você não mostrou ou à história que tornou aquela resposta difícil.
 
-Ele não resolve a situação.
+É justamente por isso que uso essa imagem com um limite: a câmera ajuda a perguntar **o que aconteceu**, não a decidir a história inteira.
 
-Mas impede que você investigue um fantasma.
+Você não precisa gravar pessoas, reunir documentos sobre tudo nem se expor para produzir evidência. A metáfora também não torna irreais as dores e experiências que uma filmagem não conseguiria mostrar. Ela serve para separar descrição de conclusão.
 
-## Uma câmera não conhece sua versão
+*Abri o e-mail às 22h47 e aceitei a entrega* descreve.
 
-Imagine que eu coloque uma câmera na sua terça-feira.
+*Se não aceitasse, perderia meu lugar* interpreta uma consequência possível.
 
-Ela não sabe que você é uma boa pessoa.
+As duas frases podem importar. Precisamos apenas saber qual trabalho cada uma está fazendo na investigação.
 
-Não sabe que você sofreu.
+## O fato e a história em volta dele
 
-Não sabe que tentou.
+Fato: *Ele não respondeu minha mensagem desde ontem.*
 
-Não sabe que o outro é difícil.
+Interpretação: *Ele está me desprezando.*
 
-Não sabe que você está cansada.
+Pode estar. Pode não estar.
 
-Não sabe que, no fundo, sua intenção é linda.
+Fato: *Minha proposta foi recusada.*
 
-Ela registra.
+Interpretação: *Meu trabalho não tem valor.*
 
-Você abriu o e-mail às 22h47.
+Fato: *Minha filha saiu da conversa e bateu a porta.*
 
-Disse sim.
+Interpretação: *Ela não me respeita.*
 
-Apagou a mensagem antes de enviar.
+Experiência percebida: *Meu coração acelerou antes da reunião.*
 
-Ligou três vezes.
+Interpretação: *Meu corpo está avisando que não devo ir.*
 
-Não respondeu.
+Não estou tentando transformar você numa geladeira emocional com prancheta. Interpretar faz parte da vida. O método pede que a interpretação se apresente com o crachá certo, sem usar a intensidade da emoção como substituta de verificação.
 
-Gastou.
+A pergunta passa a ser: **o que sustenta esta leitura?**
 
-Adiou.
+E, logo depois: **o que a contradiz?**
 
-Prometeu.
+A segunda costuma dar menos audiência dentro da nossa cabeça. Ainda assim, merece ser ouvida.
 
-Chegou.
+## Você observa o Fruto sem virar o Fruto
 
-Não chegou.
+Perder um prazo não prova irresponsabilidade em todas as áreas. Permanecer numa relação difícil não prova fraqueza. Explodir numa discussão não entrega um diagnóstico de personalidade. Voltar a um padrão antigo não torna automaticamente falso tudo que mudou antes.
 
-Pediu.
+Um resultado pode exigir responsabilidade, reparação, proteção ou revisão. Não precisa se transformar numa definição total de quem você é.
 
-Calou.
+**Você observa o Fruto sem virar o Fruto.**
 
-Saiu.
+Quando *eu falhei nesta entrega* se transforma em *eu sou um fracasso*, a investigação perde o objeto. Já não há uma entrega, um prazo, um contexto e algo a corrigir. Há uma identidade inteira no banco dos réus.
 
-Ficou.
+Também existe a absolvição rápida demais: *sou uma pessoa boa, então o resultado não tem nada a ver comigo*. A boa intenção não encerra o exame, assim como o resultado ruim não encerra a pessoa.
 
-A câmera não é mais sábia do que você.
+Precisamos manter as duas coisas possíveis: reconhecer a própria dignidade e examinar com seriedade o que fizemos.
 
-Só é menos interessada em proteger sua narrativa.
+## O Fruto não revela sozinho a causa
 
-É por isso que vamos usá-la como metáfora.
+Outra armadilha é ver um resultado e inventar imediatamente a Raiz.
 
-Não para viver como robô.
+*Tenho dificuldade de dizer não porque minha mãe...*
 
-Para separar duas coisas que costumam chegar grudadas:
+*Sempre me envolvo com gente indisponível por causa do meu pai...*
 
-**fato e interpretação.**
+*Não cresço profissionalmente porque tenho medo de sucesso...*
 
-## O fato e a história que nasce em volta dele
+Essas formulações podem ser hipóteses. Nenhuma merece promoção automática para verdade apenas por parecer profunda.
 
-Fato:
+Um Fruto, sozinho, não autoriza concluir origem, intenção, diagnóstico ou caráter. Precisamos localizar a posição, observar condições e testar explicações. A pressa de encontrar uma causa elegante pode encerrar justamente a pergunta que daria acesso a algo mais útil.
 
-`Ele não respondeu minha mensagem desde ontem.`
-
-Interpretação:
-
-`Ele está me desprezando.`
-
-Pode estar.
-
-Pode não estar.
-
-Fato:
-
-`Minha proposta foi recusada.`
-
-Interpretação:
-
-`Meu trabalho não tem valor.`
-
-Fato:
-
-`Minha filha saiu da conversa e bateu a porta.`
-
-Interpretação:
-
-`Ela não me respeita.`
-
-Fato:
-
-`Eu senti o coração acelerar antes da reunião.`
-
-Interpretação:
-
-`Meu corpo está me avisando que não devo ir.`
-
-A interpretação pode estar correta.
-
-Eu não estou tentando transformar você numa geladeira emocional com prancheta.
-
-Interpretação faz parte da vida.
-
-O método só pede que ela se apresente com o crachá certo.
-
-`Sou interpretação.`
-
-Pronto.
-
-Já melhorou muito.
-
-Quando fato e interpretação ficam misturados, qualquer emoção intensa parece confirmação.
-
-Quando separamos, podemos perguntar:
-
-**o que sustenta esta leitura?**
-
-E também:
-
-**o que a contradiz?**
-
-Essa segunda pergunta costuma ser menos popular. Não dá tanta audiência dentro da nossa cabeça.
-
-Mas é excelente para discernimento.
-
-## Fruto não é identidade
-
-Você perdeu um prazo.
-
-Isso não prova que você é irresponsável.
-
-Você permaneceu numa relação ruim.
-
-Isso não prova que você é fraca.
-
-Você explodiu numa discussão.
-
-Isso não prova que você é uma pessoa tóxica.
-
-Você cedeu.
-
-Isso não prova que não tem personalidade.
-
-Você voltou para um hábito antigo.
-
-Isso não transforma todo o avanço anterior em mentira.
-
-Fruto é evidência de alguma coisa acontecendo.
-
-Só isso já é bastante.
-
-Não precisamos transformá-lo em tribunal.
-
-Essa é uma das regras que vou proteger ao longo do livro:
-
-**você observa o Fruto sem virar o Fruto.**
-
-Porque quando a pessoa se confunde com o resultado, ela perde justamente a liberdade de investigá-lo.
-
-Se `eu falhei` vira `eu sou um fracasso`, o problema deixou de ser uma situação e virou uma identidade inteira.
-
-Aí a Árvore some.
-
-Sobra sentença.
-
-E sentença é péssima matéria-prima para mudança.
-
-## Fruto também não é causa
-
-Outra armadilha:
-
-ver um resultado e inventar imediatamente a Raiz.
-
-`Tenho dificuldade de dizer não porque minha mãe...`
-
-Talvez.
-
-`Sempre me envolvo com gente indisponível por causa do meu pai...`
-
-Talvez.
-
-`Não cresço profissionalmente porque tenho medo de sucesso...`
-
-Talvez.
-
-Tudo isso pode ser hipótese.
-
-Nada disso merece promoção automática para verdade.
-
-Um Fruto sozinho não te autoriza a concluir origem, intenção, diagnóstico ou caráter.
-
-É por isso que o método sobe e desce pela Árvore em camadas.
-
-Primeiro eu vejo.
-
-Depois localizo.
-
-Depois investigo.
-
-A pressa de encontrar uma causa bonita produz explicações elegantes e decisões ruins.
+Não é necessário explicar sua história inteira para começar a examinar uma situação presente.
 
 ## O Galho importa
 
-Um dos motivos de eu insistir em localizar o Galho é que a mesma pessoa pode funcionar de maneiras muito diferentes em áreas diferentes.
+Você pode negociar bem no trabalho e ter dificuldade de recusar um pedido familiar. Pode sustentar uma opinião pública e não conseguir cobrar uma dívida de alguém próximo. Pode organizar dinheiro e comprometer o tempo com promessas que não cabem na semana.
 
-Você pode negociar muito bem no trabalho e aceitar qualquer coisa dentro da família.
+Por isso, a frase *não sei me posicionar* precisa ganhar endereço.
 
-Pode ser firme na política e completamente insegura no amor.
+Talvez exista dificuldade naquele Galho, diante daquela pessoa ou sob aquele custo. Em outro lugar, talvez você já faça parte do que está procurando aprender.
 
-Pode construir uma empresa e não conseguir cobrar uma dívida de alguém próximo.
+Agora basta localizar. Mais adiante, usaremos essa diferença para procurar recursos, não apenas falhas. Não precisamos transformar uma região da sua vida no retrato da Árvore inteira.
 
-Pode colocar limite em cliente e não colocar em mãe.
+## LEI 2 — NÃO IGNORE O ÓBVIO
 
-Pode ser muito disciplinada com dinheiro e caótica com tempo.
+A primeira Lei pediu observação. A segunda começa quando a evidência já apareceu e, mesmo assim, há uma tentação de diminuí-la.
 
-Isso importa porque evita frases preguiçosas como:
+**Não Ignore o Óbvio** significa: **quando há evidência suficiente, não reduza o que sabe apenas para proteger a narrativa que prefere**.
 
-`Eu não sei me posicionar.`
+Isso não significa que o óbvio esteja sempre disponível a quem está vivendo a situação. Quem olha de fora pode ter distância e informação que faltam por dentro. A pessoa pode ter visto e ainda não possuir recurso, segurança ou apoio para agir. Os dados também podem continuar ambíguos.
 
-Talvez saiba.
+Não vou usar essa Lei para dizer que quem ainda não mudou gosta de sofrer.
 
-Só não naquele Galho.
+A distinção é outra. Uma promessa quebrada uma vez e uma promessa quebrada quinze vezes da mesma maneira não oferecem o mesmo conjunto de dados. Um atraso isolado e um sistema de entregas inviáveis também pedem leituras diferentes.
 
-E se existe um Galho em que você já consegue sustentar algo, existe recurso para investigar.
+Se há dois anos todo mês é excepcional, talvez a exceção tenha aberto CNPJ.
 
-Mais adiante, vamos aprender a transferir repertório de um Galho para outro.
+Olhar a repetição não obriga a uma ruptura. Obriga a não tratar repetição como se nenhuma informação tivesse sido acumulada. E um episódio grave não precisa se repetir para merecer proteção: observar frequência não é uma autorização para esperar novo dano.
 
-Agora basta localizar.
-
-## A segunda Lei aparece
-
-No capítulo anterior nasceu a primeira:
-
-**Observe os Frutos.**
-
-Agora nasce a segunda.
-
-# LEI 2 — NÃO IGNORE O ÓBVIO
-
-Essa Lei precisa ser tratada com cuidado porque é muito fácil transformá-la em arrogância.
-
-Às vezes o `óbvio` só parece óbvio para quem está de fora.
-
-Às vezes a pessoa viu, mas não tem recurso.
-
-Às vezes viu, mas está sob ameaça.
-
-Às vezes os dados ainda são ambíguos.
-
-Às vezes ela está cansada, adoecida, dependente, confusa ou sem rede.
-
-Então **Não Ignore o Óbvio** não significa:
-
-`Se você ainda não mudou, é porque gosta de sofrer.`
-
-Isso é estupidez com tom de autoridade.
-
-A Lei significa:
-
-**quando a evidência suficiente já apareceu, não reduza o que sabe para proteger a narrativa que prefere.**
-
-Se uma promessa foi quebrada uma vez, investigue.
-
-Se foi quebrada quinze vezes do mesmo jeito, isso já é outro tipo de dado.
-
-Se um cliente atrasou uma vez, aconteceu.
-
-Se todos os seus contratos terminam com trabalho extra não cobrado porque você aceita mudanças sem renegociar, existe um padrão para examinar.
-
-Se você gastou além do orçamento num mês excepcional, é uma coisa.
-
-Se há dois anos todo mês é `excepcional`, talvez a exceção tenha aberto CNPJ.
-
-O óbvio não é aquilo que eu digo que você deve enxergar.
-
-É aquilo que **as evidências repetidas** tornam difícil continuar chamando de acaso.
+O óbvio não é aquilo que eu mando você enxergar. A conclusão precisa responder ao que a situação permite verificar.
 
 ## A Auditoria Oficial do Fruto
 
-Agora vamos fazer uma versão completa o bastante para mudar sua forma de olhar — e curta o bastante para você não precisar montar uma sala de investigação com barbante vermelho na parede.
+Retome a **Fotografia de Partida**. Você pode aprofundar a mesma situação; não precisa escolher outro problema só porque começou outro capítulo.
 
-Escolha **um** Fruto.
+Vamos organizar a investigação em sete movimentos. Eles pertencem a uma única auditoria, não a sete tarefas separadas.
 
-Um Galho.
+### 1. Descreva a cena
 
-Uma situação.
-
-Um período.
-
-E siga:
-
-### 1. Filme a cena
-
-O que uma câmera, documento, agenda, extrato, mensagem ou outra evidência mostraria?
-
-Sem adjetivo ainda.
+Que acontecimento uma agenda, mensagem, documento, lembrança delimitada ou outra informação disponível ajuda a descrever? Registre Galho e período. Evite usar um adjetivo sobre a pessoa no lugar do que ocorreu.
 
 ### 2. Separe fato de interpretação
 
-Faça duas colunas mentais ou escritas:
-
-**O que aconteceu.**
-
-**O que eu concluí sobre o que aconteceu.**
+Coloque lado a lado **o que aconteceu** e **o que você concluiu sobre isso**. Não é preciso apagar a interpretação; basta não apresentá-la como o próprio fato.
 
 ### 3. Nomeie a posição que aparece
 
-Você fez?
-
-Adiou?
-
-Aceitou?
-
-Recusou?
-
-Pediu?
-
-Calou?
-
-Permaneceu?
-
-Explodiu?
-
-Não pôde fazer?
-
-Ainda não sabe?
-
-Não explique ainda.
-
-Nomeie.
+Você pediu, aceitou, recusou, adiou, calou, permaneceu, reagiu ou não conseguiu agir? Talvez ainda não saiba. Nomeie a resposta sem inventar uma explicação completa para ela.
 
 ### 4. Distribua participação
 
-O que pertence a você?
+O que pertence à sua resposta? O que pertence a outra pessoa? Que condições participaram? O que continua desconhecido?
 
-O que pertence ao outro?
-
-O que pertence ao contexto?
-
-O que continua desconhecido?
-
-Essa pergunta salva o método de dois extremos igualmente ruins:
-
-`Tudo é culpa minha.`
-
-ou
-
-`Nada tem a ver comigo.`
-
-A vida geralmente é mais inconveniente que os extremos.
+Essas perguntas não dividem culpa artificialmente. Impedem tanto assumir tudo quanto excluir do exame aquilo que realmente está na sua esfera.
 
 ### 5. Localize custo, risco e recurso
 
-O que essa posição te custa hoje?
+O que essa posição custa hoje? Que tendência você observa se ela continuar? Existe risco em mudar? Que recurso está disponível e qual ainda falta? Projeção não é previsão garantida.
 
-O que custará se continuar?
+### 6. Deixe o desconhecido na Árvore
 
-Existe risco em mudar?
+Não force uma causa. Não invente uma Raiz porque está com pressa de entender. Uma hipótese assumidamente provisória é mais útil do que uma certeza preenchida sem dado.
 
-Que recurso você tem?
+### 7. Desça até o próximo movimento possível
 
-O que não tem?
+Uma ação pequena, reversível e proporcional pode produzir informação nova. Quando faltam segurança ou dados essenciais, o movimento pode ser buscar apoio, preparar condições ou decidir esperar com um critério de revisão. Descer da Árvore não é a mesma coisa que sair imediatamente da situação.
 
-### 6. Deixe o que você ainda não sabe na Árvore
+## Lia e o sim antes da agenda
 
-Não force uma causa.
+Imagine Lia, uma personagem pedagógica que nos acompanhará em situações compostas e hipotéticas. Não se trata de uma paciente nem do relato de uma mulher real.
 
-Não invente uma Raiz porque está com pressa para entender.
+Nas últimas duas semanas dessa situação imaginada, Lia aceitou quatro pedidos no momento em que chegaram. Depois precisou desmarcar dois compromissos pessoais. Sentiu sobrecarga e ressentimento.
 
-Hipótese não é humilhação. É inteligência em estágio provisório.
+Sua interpretação foi rápida: *As pessoas se aproveitam de mim.*
 
-### 7. Desça só até onde for seguro
+Pode haver alguém se aproveitando? Pode. Ainda não sabemos.
 
-Se existe uma ação pequena, reversível e proporcional, ela pode ser testada.
+A posição observada é mais específica: Lia responde antes de verificar a própria disponibilidade. Outras pessoas pedem; ela aceita; talvez o ambiente premie essa disponibilidade. Ainda precisamos descobrir que obrigações, medos, recursos ou regras entram em cada episódio.
 
-Se faltam dados, recursos ou segurança, **não agir ainda também pode ser uma decisão consciente**.
+Não diagnosticamos Lia. Não escolhemos um culpado para o relato ficar pronto. Mantivemos o incômodo e melhoramos a pergunta.
 
-Isso é muito diferente de permanecer no automático.
+O que a leva a assumir um compromisso antes de saber se consegue cumpri-lo?
 
-## Um exemplo simples
-
-Imagine Lia.
-
-Lia será uma personagem pedagógica deste livro — não uma paciente, não uma mulher real, não um perfil de vítima.
-
-Ela aceita compromissos antes de consultar a própria agenda.
-
-Depois se irrita.
-
-Sente que todo mundo exige demais.
-
-Então vamos olhar o Fruto.
-
-Fato:
-
-nas últimas duas semanas, Lia aceitou quatro pedidos no momento em que foram feitos e depois precisou desmarcar dois compromissos pessoais.
-
-Interpretação dela:
-
-`As pessoas se aproveitam de mim.`
-
-Pode haver pessoas se aproveitando?
-
-Pode.
-
-Mas ainda não sabemos.
-
-Posição observada:
-
-Lia responde antes de verificar a própria disponibilidade.
-
-Participação:
-
-os outros pedem; Lia aceita; o contexto talvez premie disponibilidade; ainda não sabemos que medo, crença, obrigação ou recurso participa.
-
-Custo:
-
-sobrecarga e ressentimento.
-
-Pronto.
-
-Não diagnosticamos Lia.
-
-Não culpamos Lia.
-
-Não inocentamos ninguém.
-
-Só melhoramos a pergunta.
-
-Agora temos uma situação que pode ser investigada.
+Essa pergunta é investigável. *Lia é assim* encerraria o assunto.
 
 ## O que o Fruto não tem direito de dizer
 
-O Fruto não pode sozinho dizer:
+O Fruto não pode, sozinho, concluir que você não merece amor, que escolheu ser abusado, que sua infância determinou tudo ou que seu negócio não cresce porque seu modo de pensar é ruim.
 
-`Você não merece amor.`
+Também não permite atribuir a alguém toda a intenção que você teme. Um resultado pode ser sério sem autorizar uma história completa sobre o que outra pessoa tem na cabeça.
 
-`Você é incapaz.`
+Essas sentenças pulam etapas. E método que pula etapa vira superstição com infográfico.
 
-`Você escolheu ser abusada.`
-
-`Sua infância determinou isso.`
-
-`Seu corpo sabe a verdade inteira.`
-
-`Seu relacionamento fracassou porque você não se posicionou.`
-
-`Seu negócio não cresce porque seu mindset é ruim.`
-
-Essas frases pulam etapas demais.
-
-E método que pula etapa vira superstição com infográfico.
-
-O Fruto tem um direito mais modesto e muito mais poderoso:
+O Fruto tem um direito mais modesto e muito mais útil:
 
 **pedir investigação.**
 
 ## E quando o Fruto é bom?
 
-Também se investiga.
+Também olhamos.
 
-Isso é importante.
+O Método Posicione-se não existe apenas para caçar problema. Uma conversa em que você sustenta diferença sem romper, uma área financeira organizada ou um compromisso que consegue cumprir oferecem informação sobre recursos já existentes.
 
-O Método Posicione-se não existe apenas para caçar problema.
+Uma conquista também pode ter custos que merecem ser conhecidos. Não precisamos suspeitar de toda coisa boa nem lhe conceder imunidade automática.
 
-Se você tem um relacionamento em que consegue conversar com clareza, existe recurso ali.
+Se uma nova posição participa de resultados mais coerentes com o que você deseja, registre. Sem transformar a colheita em certificado de superioridade e sem esquecer as condições que ajudaram.
 
-Se organiza bem dinheiro, existe alguma estrutura que funciona.
+O recurso que funciona num Galho pode nos ensinar algo sobre outro. A palavra importante continua sendo *investigar*, não copiar.
 
-Se no trabalho consegue negociar limite sem culpa, isso pode ensinar alguma coisa ao Galho familiar.
+## A posição por trás do resultado
 
-Se mudou uma posição e começou a colher mais paz, presença, coerência ou responsabilidade, o novo Fruto também é evidência.
+Ao terminar a auditoria, atualize três linhas da sua Fotografia de Partida:
 
-Fruto bom não é certificado de superioridade.
+**Neste Galho e neste período, o que observo é...**
 
-É informação sobre cultivo.
+**A posição que aparece na cena é...**
 
-Mais adiante, vamos aprender a procurar recursos onde a sua própria vida já os produz.
+**O que ainda não sei é...**
 
-## Antes de virar a página
+Não acrescente uma tarefa nova. Apenas veja se consegue escrever essas linhas com mais precisão do que no começo.
 
-Volte ao Fruto que você escolheu.
+Agora há um Fruto, uma resposta observada e uma parte desconhecida que você não precisou esconder. A investigação ganhou contorno sem transformar você no resultado.
 
-Agora termine esta frase sem explicar demais:
+Mas uma pergunta ficou aberta:
 
-**Neste Galho, neste período, o que eu observo é ____________________.**
+**Você escolheu essa posição — ou percebeu que já estava nela?**
 
-Depois:
-
-**A posição que aparece na cena é ____________________.**
-
-E por fim:
-
-**O que eu ainda não sei é ____________________.**
-
-Se você conseguiu escrever essas três frases sem se chamar de burro, fraco, tóxico, fracassado, vítima eterna, iluminado ou qualquer outro personagem definitivo, já fez algo importante.
-
-Você separou observação de identidade.
-
-Agora vem a pergunta inevitável:
-
-se existe uma posição aparecendo no Fruto, **quando essa posição começou a decidir antes de você?**
-
-Não estou perguntando ainda de onde ela veio.
-
-Estou perguntando algo anterior:
-
-você escolheu essa posição — ou só percebeu que já estava nela?
-
-É disso que vamos tratar agora.
+É desse lugar que vamos continuar.
