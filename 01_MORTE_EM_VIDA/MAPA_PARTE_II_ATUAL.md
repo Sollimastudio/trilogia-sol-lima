@@ -1,119 +1,83 @@
 # MAPA ATUAL — PARTE II
 ## Quando suportar ganhou nomes bonitos
 
-**Atualizado:** 10/09/2026  
-**Estado:** ● primeira escrita integrada completa; transição pós-divórcio reintegrada na ETAPA 13; revisão Beta futura.
+**Atualizado:** revisão 13R — 10/09/2026.  
+**Estado:** primeira escrita existente; MV-I04 e MV-22 em V1.1. Revisão integral Beta e conferência documental pendentes.
 
-> Este arquivo prevalece, para a Parte II, sobre a ordem conceitual antiga de `MAPA_CAPITULOS.md`. O mapa global permanece como histórico da engenharia inicial. A renumeração definitiva será feita no Manuscrito Alfa.
+Este mapa governa a ordem atual da Parte II. A antiga ordem conceitual de `MAPA_CAPITULOS.md` permanece histórica. A renumeração de leitura será decidida na montagem Alfa.
 
-## Missão da Parte II
-Mostrar como uma adolescente que já possuía inteligência, fé, capacidade de adaptação, desejo de pertencimento e grande tolerância ao desconforto entra cedo em papéis adultos; depois acompanhar como essas qualidades reais operam dentro de casamento, maternidade, trabalho, criação, medo, risco e ruptura.
+## Missão
 
-A Parte II não afirma que a infância determinou a vida adulta. Ela mostra repertório, contexto, decisões, ações de terceiros e consequências.
+Acompanhar como uma adolescente com inteligência, fé, capacidade de adaptação e desejo de pertencimento entra cedo nos papéis adultos; depois mostrar casamento, maternidade, trabalho, criação, medo e ruptura. A infância oferece repertório, não sentença. Capacidade profissional não significa autonomia afetiva ou financeira já consolidada.
 
-# SEQUÊNCIA OFICIAL
+## Sequência oficial — 12 unidades, mais a ponte de monólogo
 
-### MV-12 — Ele Não Me Pediu Namoro — ● V1
-**Data central:** 02/05/1992 · 13 anos.  
-**Função:** ser vista, receber pedido direto de casamento e ganhar identidade futura antes de experiência amorosa gradual.
+| Código | Unidade / versão | Tempo e função |
+|---|---|---|
+| MV-12 | Ele Não Me Pediu Namoro — V1 | 02/05/1992, 13 anos: pedido de casamento, experiência de ser vista e identidade futura |
+| MV-13 | O Primeiro Bolo e A Boa Mesa — V1 | 14–15 anos: alegria real do bolo, caixa, livro, preparação doméstica, escola e choro do pai; acontecimentos distintos |
+| MV-14 | Congas Molhadas — V1 | Adolescência e noivado aos 15: caminho para a igreja, vergonha, desconforto e promessa pública |
+| MV-I04 | Dueto com a Mãe — **V1.1 / 13R** | Retorno à infância antes do casamento: prazer no canto coexistindo com obrigação de dar testemunho; a menina não se reconhecia como criança talentosa |
+| MV-15 | Emancipada Para o Altar — V1 | 09/09/1994, 16 anos: menoridade/procedimento lembrado, agressão materna, intervenção e advertência paterna, oferta do avô, recusa, aparência e cerimônia |
+| MV-16 | Quatro Cômodos sem Casa — V1 | Noite do casamento e início da convivência: laquê, xampu, pequenas necessidades, proximidade da sogra e esperança de casa |
+| MV-17 | A Cozinha no Fundo do Quintal — V1 | Primeiros anos: Matheus em 1997, adobe, Pit Dog, cuidado, desmame, privação, pele, separações temporárias e Fiesta; revisar faixas temporais internas |
+| MV-18 | O Leite que Não Chegava — V1 | Fim dos anos 1990/início dos 2000: Rio Quente, rota do leite, Pousada a partir de novembro de 2000, arte, busca de ajuda e capotamento |
+| MV-19 | O Abraço no Supermercado — V1 | Começo dos anos 2000: comparações, traições e ameaças em supermercado, cama e apartamento; objeto percebido como arma, sem natureza comprovada |
+| MV-20 | Nove Metros de Tecido — V1 | Caldas até a gestação de Lelo: bandeiras, figurinos, trabalho, renda, Monza e estatuto; criatividade real sem autonomia plena presumida |
+| MV-21 | Duas Vozes no Telefone — V1 | 2006: Zé Caetano, morte lembrada em 26/02, gravidez difícil, cuidado materno, fé, decisão de voltar e nascimento de Lelo em 10/11 |
+| MV-22 | A Porta Depois da Saída — **V1.1 / 13R** | Pós-2006 → 2010: Itaberaí, filhos, iniciativa de romper, pai sustentando o não, ameaças, capacete, proteção, litígio e vigilância |
 
-### MV-13 — O Primeiro Bolo e A Boa Mesa — ● V1
-**Período:** 14–15 anos.  
-**Função:** preservar a alegria real do primeiro bolo e depois mostrar caixa, `A Boa Mesa`, preparação doméstica, estudo perdendo espaço e choro do pai.
+## Correções efetivamente realizadas na 13R
 
-### MV-14 — Congas Molhadas — ● V1
-**Período:** adolescência; noivado aos 15.  
-**Função:** materializar pobreza, vergonha, escola que perde espaço e aproximação do altar.  
-**Objeto:** Congas molhadas — `chic / chic / chic`.
+### Dueto / consciência infantil
+A nova prosa de MV-I04 preserva música, prazer e vínculo sem idealizar ausência de exigência. A correção direta da autora sobre sentir-se crente responsável, não criança fazendo sucesso, foi incorporada. A queda do tanque e o batismo aos onze ainda exigem tratamento próprio na infância; este interlúdio não os substitui.
 
-### MV-I04 — Dueto com a Mãe — ● V1
-**Posição:** retorno deliberado à infância antes do casamento.  
-**Função:** preservar vínculo, fé, música, prazer e escuta com Elza antes da cena de conflito.
+### Orientação anterior ao divórcio
+MV-22 agora preserva o sentido lembrado: o pastor falou de tentar não ferir um princípio bíblico enquanto outros eram feridos. Não fixar João/Maria nem números que a autora não confirmou; não substituir essa orientação por “poupar uma pessoa e destruir outras”. A outra fala, sobre inferno, é de pessoa não identificada como o mesmo pastor e permanece no monólogo.
 
-### MV-15 — Emancipada Para o Altar — ● V1
-**Data central:** 09/09/1994 · 16 anos.  
-**Função:** menoridade, providências chamadas de emancipação, agressão materna, intervenção/advertência paterna, oferta do avô, recusa, aparência regulada e cerimônia.
+A compreensão de que procurar proteção e permitir que os filhos amassem o pai não se anulavam foi sinalizada como leitura atual. A Sol de 2010 continua sentindo culpa; não recebe consciência pronta para tornar a saída mais heroica.
 
-### MV-16 — Quatro Cômodos sem Casa — ● V1
-**Ponto de partida:** noite do casamento.  
-**Função:** transformar `esposa` em cotidiano e esperança concreta; quatro cômodos nos fundos, cabelo com laquê, pequenas necessidades e desejo de construir uma casa.
+## Ponte II → III — MV-M01
 
-### MV-17 — A Cozinha no Fundo do Quintal — ● V1
-**Faixa:** 1994–1998 aproximadamente.  
-**Função:** cotidiano conjugal, nascimento de Matheus em 1997, noites no adobe, Pit Dog, desmame/privação, pele, separações temporárias, culpa atribuída e episódio do Fiesta.
+**Agora Eu Não Posso Errar — V1 reintegrada, preservada sem alteração nesta revisão.**
 
-### MV-18 — O Leite que Não Chegava — ● V1
-**Faixa:** fim dos anos 1990 / começo dos anos 2000.  
-**Função:** mudança para a região de Rio Quente, rota de leite, entrada na Pousada em novembro de 2000, descoberta da competência artística, busca de ajuda e capotamento.
+Ordem: **MV-22 → MV-M01 → MV-I05 → MV-23.**
 
-### MV-19 — O Abraço no Supermercado — ● V1
-**Faixa:** começo dos anos 2000 / por volta de 2003.  
-**Função:** comparações, traição/culpa atribuída e escalada para ameaças concretas em supermercado, cama e apartamento.  
-**Regra:** o objeto na boca é narrado como percebido como arma; sua natureza não foi confirmada.
+O monólogo conserva pensamento direto, medo de condenação, culpa por pedir o divórcio e pelas traições indevidamente atribuídas a ela, inadequação corporal, desejo de mudar o corpo, filhos, teto e espera por direção de Deus. A culpa é sentida; não é veredito do livro.
 
-### MV-20 — Nove Metros de Tecido — ● V1
-**Faixa:** anos de Caldas anteriores a Lelo.  
-**Função:** criação, figurinos, bandeiras, renda, Monza e igreja/estatuto. Provar competência e prazer sem inventar autonomia financeira plena.
+Mandiocal e rego de água permanecem lugares distintos. A pessoa da mensagem do “banho de loja” não é identificada por suposição. Não era busca deliberada por novo marido. O desejo de cirurgia não antecipa a cirurgia real, que pertence ao período depois da saída do Chileno e da venda da casa.
 
-### MV-21 — Duas Vozes no Telefone — ● V1
-**Faixa:** 2006.  
-**Função:** última lembrança do avô, morte de Zé Caetano em 26/02/2006, gestação difícil, experiência de fé/cuidado materno, decisão de voltar e nascimento de Lelo em 10/11/2006.
+Fecho preservado: `Eu pedi o divórcio, Deus. Mas não queria que o Senhor fosse embora também.`
 
-### MV-22 — A Porta Depois da Saída — ● V1
-**Faixa:** pós-2006 → 2010 e efeitos imediatos.  
-**Função:** retorno a Itaberaí, filhos, decisão de terminar, apoio paterno, ameaças, capacete, polícia/medida lembrada, litígio, vigilância e alívio parcial.  
-**Mudança:** pela primeira vez a separação começa por decisão de Sol e é sustentada; o corpo, porém, continua esperando perigo.
+O monólogo é composição literária baseada em memórias do período, não transcrição de pensamentos comprovadamente simultâneos numa única tarde.
 
----
+## Curva
 
-# PONTE II → III — RECUPERADA NA ETAPA 13
+`ser vista → ser escolhida → função de esposa → cotidiano → maternidade → competência → normalização → ameaça → criação → luto/nova maternidade → agência → ruptura → culpa pós-divórcio`.
 
-### MV-M01 — Agora Eu Não Posso Errar — ● V1 reintegrada
-**Tipo:** monólogo de pensamento direto.  
-**Posição:** imediatamente depois de MV-22 e antes de MV-I05 — Finalmente?.
+A separação é ação real. Não é cura instantânea, autonomia total nem prova de que todas as próximas escolhas seriam esclarecidas.
 
-**Função:** impedir a falsa leitura de que pedir o divórcio produziu automaticamente autonomia, autoestima ou projeto de vida. A mulher saiu da convivência, mas entrou no silêncio carregando:
-- medo de condenação espiritual;
-- culpa por ter pedido o divórcio;
-- culpa indevidamente internalizada pelas traições do marido;
-- sensação de inadequação do próprio corpo;
-- pensamento de que precisava mudar o corpo para mudar a história;
-- filhos e teto como prioridades imediatas;
-- ausência de plano consciente para uma “nova vida”;
-- expectativa de que Deus mostraria o próximo passo;
-- dificuldade de distinguir elogio, vaidade, crítica, desejo e pecado.
+## Ecos preservados
 
-**Regra de voz:** a personagem ainda não sabe que está “apagada”, não pensa em autoestima, não fala em assumir rédeas, não teoriza posicionamento. Sua ingenuidade é temporal — falta de conhecimento posterior —, não intelectual.
+- Pai dos picolés → choro pela escola → intervenção no casamento → sustentação do não em 2010.
+- Menina que não pede → necessidades conjugais → pedidos atravessados por culpa no pós-divórcio.
+- Girau/voz → trabalho artístico → canto e fé no nascimento de Lelo.
+- Dois Caminhos → medo espiritual de romper → temor de perder Deus no monólogo.
+- Sheila e caldeirão → oferta do avô no casamento → Zé Caetano em 2006.
+- Corpo atento → Fiesta → ameaças em lugares cotidianos → porta fechada e alerta persistente.
 
-**Objetos/lugares:** mandiocal, casa, mensagem do banho de loja, corpo, rego de água. Mandiocal e rego permanecem lugares distintos.
+## Pendências específicas para a Beta/conferência
 
-**Fecho canônico do monólogo:** `Eu pedi o divórcio, Deus. Mas não queria que o Senhor fosse embora também.`
+1. Reduzir repetição do choro do pai e dos estudos entre MV-13/MV-14, preservando um lugar desenvolvido e outro como eco breve.
+2. Separar cuidado de aparência e imposição: falta de maquiagem não é, por si, falta de valor ou escolha.
+3. A cronologia fina das separações temporárias e dos episódios de saúde segue aberta. Não transformar faixas dos capítulos em datas comprovadas.
+4. Revisar a densidade de MV-17–22: há muitos acontecimentos para pouco desenvolvimento de algumas cenas; ampliar apenas onde houver fonte, não por ornamentação.
+5. Conferir a identificação da rodovia no acidente de Zé Caetano antes de reafirmar uma das variantes do acervo.
+6. Reavaliar M01/I05 como leitura contínua: preservar monólogo e fatos exclusivos, cortar explicações repetidas sobre liberdade e autonomia.
+7. Conferir procedimento chamado de emancipação e documentos de proteção/divórcio, sem converter recordação em peça auditada.
 
-# CURVA DA PARTE II
-`ser vista → ser escolhida → papel de esposa → cotidiano → maternidade → competência → normalização → ameaça → criação → luto/nova maternidade → agência → ruptura → culpa pós-divórcio / não posso errar de novo`.
+## Controle
 
-# PRINCIPAIS ECOS
-- MV-09 pai dos picolés → choro pela escola → intervenção no casamento → sustentação do não em 2010;
-- MV-04 menina que não pede → pequenas necessidades conjugais → pós-divórcio ainda sem linguagem para pedir a própria vida;
-- MV-I01 girau/voz → trabalho artístico → canto no nascimento de Lelo;
-- MV-07 Dois Caminhos → medo espiritual de romper → monólogo pós-divórcio temendo condenação;
-- MV-03A Sheila + caldeirão → oferta do avô no casamento → retorno de Zé Caetano em 2006;
-- corpo imóvel/antecipação → Fiesta → supermercado/cama/apartamento → porta de 2010 → corpo ainda em alerta após saída.
+`LOTES/AUDITORIA_CRONOLOGICA_LOTE04.md` · `LOTES/AUDITORIA_26_NUCLEOS_ETAPA06.md` · `LOTES/AUDITORIA_INTEGRADA_PARTE_II.md` · `LOTES/AUDITORIA_ETAPA13_MULHER_E_VOZES_RECUPERADAS.md` · `LOTES/REVISAO_GLOBAL_POS_ETAPA13.md` · `MAPA_VOZES_E_MOLDURAS.md`.
 
-# PONTE PARA A PARTE III
-A convivência conjugal terminou, mas o monólogo prova que **a saída externa ainda não era retorno ao Eu**.
-
-A mulher não está procurando um novo homem nem planejando uma reinvenção sofisticada. Ela está tentando não errar, proteger os filhos, preservar Deus, entender o próprio corpo e esperar direção.
-
-É exatamente essa disponibilidade confusa para uma resposta externa que torna a entrada de MV-I05/MV-23 narrativamente inteligível sem reduzir Sol a passividade.
-
-## Arquivos de controle
-- `LOTES/AUDITORIA_CRONOLOGICA_LOTE04.md`
-- `LOTES/AUDITORIA_26_NUCLEOS_ETAPA06.md`
-- `LOTES/AUDITORIA_INTEGRADA_PARTE_II.md`
-- `LOTES/AUDITORIA_ETAPA13_MULHER_E_VOZES_RECUPERADAS.md`
-- `MAPA_VOZES_E_MOLDURAS.md`
-
-## Status
-**PARTE II: ● primeira escrita integrada; ponte pós-divórcio V1 reintegrada.**  
-Ainda não é versão final/publicável. Beta, verificação factual/jurídica e lapidação literária permanecem programadas.
+**Estado:** prosa de desenvolvimento existente, com correções localizadas. Não declarar esta parte finalizada para publicação.
