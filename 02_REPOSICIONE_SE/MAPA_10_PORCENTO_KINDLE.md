@@ -1,170 +1,69 @@
 # MAPA DOS PRIMEIROS 10% — KINDLE — REPOSICIONE-SE
 
-**Data:** 10/09/2026  
-**Origem:** ETAPA 01 — Auditoria Integral do Método.  
-**Função:** transformar a amostra inicial em experiência real de leitura e método, não em front matter burocrático.
+**Criação:** ETAPA 01 — 10/09/2026.  
+**Atualização:** ETAPA 04 — 11/09/2026.  
+**Versão do manuscrito medida:** `0f5ae3ef6dccc6c0ccf9810e56474183dec71d4e`.  
+**Status:** abertura conferida editorialmente; amostra Kindle efetiva ainda não validada.
 
-## 1. Objetivo editorial
+## 1. O que este arquivo mede agora
 
-Ao terminar a degustação, o leitor precisa ter vivido quatro coisas:
+A contagem registrada na integração do manuscrito é **68.412 palavras**, incluindo Pré-livro, 28 capítulos e Epílogo. Não entram arquivos de governança, relatórios de produção ou snapshots.
 
-1. **foi interrompido** — percebeu que já está posicionado;
-2. **se reconheceu** — encontrou um Fruto, um Letreiro ou uma posição própria;
-3. **entendeu a diferença** — intenção não é Fruto; posição não é culpa; contexto importa;
-4. **usou o método** — subiu na Árvore ao menos uma vez e quer saber o que sustenta a posição encontrada.
+O marco aritmético de 10% é **6.841,2 palavras**. Em uma marcação inteira, examina-se o entorno da palavra 6.842. Na conferência da integração, o ponto cai no começo do **Capítulo 3 — Você Já Está Posicionado**.
 
-O corte não pode encontrar o leitor ainda em prefácio, notas legais, biografia extensa ou explicação de metodologia.
+Isso é uma referência editorial por palavras. **Não é a confirmação do corte efetivo da amostra Kindle.** A composição de publicação, os elementos pré e pós-textuais e a experiência efetiva do arquivo final ainda serão conferidos na ETAPA 08.
 
-## 2. Regra de retenção
+As faixas percentuais propostas na ETAPA 01 eram planejamento, não medição. Não devem continuar sendo apresentadas como se descrevessem a versão costurada. O planejamento anterior permanece recuperável no histórico Git e nos registros das etapas anteriores.
 
-**Cena antes de teoria. Especificidade antes de slogan. Valor antes de promessa. Aplicação antes de venda.**
+## 2. O que o leitor recebe antes do marco editorial
 
-O leitor não deve permanecer porque a autora esconde a resposta. Deve permanecer porque já recebeu uma pergunta verdadeira e percebeu que o livro possui uma ferramenta que não terminou de usar.
+A abertura entrega o contrato de discernimento: o leitor pode suspender a conclusão, examinar e continuar discordando. A premissa de que toda pessoa já ocupa posições aparece acompanhada da distinção entre posição, escolha livre e consentimento.
 
-## 3. Sequência recomendada da amostra
+Sol entra por sua experiência e pelo Letreiro de Neon, sem recontar a biografia. A adaptação pedagógica da Semente é separada da leitura bíblica da Parábola. O Cajueiro funda a mudança de perspectiva sem depender de detalhe biográfico não confirmado.
 
-### Faixa 0%–0,8% — O contrato que interrompe
-Abrir sem prefácio burocrático.
+A Casa/Jaula e o Sofá são apresentados sem ordem imprudente de saída. A primeira aplicação cria a **Fotografia de Partida**, a ser aprofundada no percurso. A Parte I começa efetivamente: Vitrine, Lei 1 e Auditoria do Fruto oferecem prática, e não apenas a promessa de que haverá prática.
 
-**Texto/comando nuclear:**
+O Capítulo 2 acrescenta Lei 2, separação entre fato e interpretação, responsabilidade e desconhecido. Lia é identificada como personagem pedagógica, não paciente ou depoimento de resultado. Quando chega ao entorno dos 10% por palavras, o leitor já possui uma situação investigável e está entrando na distinção entre a posição ocupada e a habilidade de examiná-la.
 
-> Antes de me julgar, deixe seu julgamento na Árvore. Não jogue fora. Não finja neutralidade. Suba. Olhe de cima. Atravesse o raciocínio. Depois desça. Se continuar pensando da mesma forma, recolha seu julgamento. Me confronte. Discorde. Ou vá embora. Eu prefiro perder um leitor que pensou a ganhar um seguidor que concordou sem pensar.
+## 3. Critérios editoriais da abertura
 
-**Função:** definir a relação autora-leitor.
+- A voz de Sol aparece antes de um catálogo de ferramentas.
+- O leitor pode discordar sem receber rótulo de resistência.
+- Posição não é confundida com consentimento ou causa da violência alheia.
+- Letreiro, Semeador e Cajueiro têm funções diferentes.
+- A Fotografia de Partida tem nome e utilidade desde o começo.
+- O leitor realiza uma aplicação antes de receber o sistema completo.
+- Um Fruto é observado sem transformar a pessoa no resultado.
+- A Jaula não autoriza confronto nem exige saída sem recurso.
+- O livro oferece método suficiente para funcionar sem leitura prévia do Livro 1 ou Workbook.
+- A pergunta de continuidade nasce do que já foi observado, não de uma resposta artificialmente escondida.
 
-**Gancho:** se você já está me julgando, também já está ocupando uma posição.
+## 4. Ajustes de costura que afetam a degustação
 
-### Faixa 0,8%–1,8% — Você já está posicionado
-Instalar a tese sem manual.
+Foram reduzidas repetições do contrato de julgamento e catálogos antecipados de conceitos. O registro inicial foi nomeado Fotografia de Partida, pagando a retomada do Capítulo 28. As frases do Letreiro foram enquadradas como elaboração atual da autora, e a lembrança do Cajueiro não afirma subida física ou ponto elevado não confirmado.
 
-- até calar é uma posição;
-- até adiar é uma posição;
-- até permanecer é uma posição;
-- até `não posso agora` descreve uma posição real e não deve ser confundido com consentimento;
-- o problema não é ter posição; é não enxergar o que ela produz.
+No Capítulo 2, um exemplo que misturava fato e explicação causal foi separado. A câmera permanece metáfora de descrição, não garantia de neutralidade nem obrigação de filmar. A busca de repetição não se torna exigência de nova agressão para reconhecer um episódio grave.
 
-**Pergunta:** que parte da sua vida está respondendo antes de você?
+A travessia passa a aprofundar o mesmo registro, em vez de entregar tarefas independentes que recriam o problema a cada capítulo. Os tempos sugeridos de pausa não recebem explicação neurológica não verificada.
 
-### Faixa 1,8%–3,1% — Sol entra em cena: o Letreiro de Neon
-Usar o Letreiro como história e descoberta, não como lição pronta.
+## 5. O que não deve entrar para manipular o corte
 
-**Funções:**
-- apresentar a autora encarnada;
-- mostrar diferença entre valor interno e valor comunicado;
-- conectar limites, permissões, permanências e presença;
-- blindar explicitamente contra culpabilização por violência alheia.
+Não inserir enchimento para deslocar a marca de 10%. Não retirar proteção necessária apenas para encurtar a abertura. Não antecipar lista completa das 14 Leis, 14 Espelhos, dicionário integral, anatomia da Fuga Identitária ou testes longos.
 
-**Linha de força:** eu não era barata; meu Letreiro anunciava liquidação emocional.
+Não abrir com biografia extensa, agradecimentos, venda de curso ou aparato técnico que impeça o leitor de experimentar a proposta. Isso não dispensa os elementos legais e editoriais necessários ao arquivo de publicação; sua disposição será decidida na composição final.
 
-**Pergunta ao leitor:** que Letreiro sua vida acende enquanto sua boca conta outra história?
+## 6. Pergunta em movimento
 
-### Faixa 3,1%–4,2% — A mesma semente, solos diferentes
-Entrar na Parábola do Semeador com respeito ao texto bíblico.
+O entorno do marco editorial deve manter viva a pergunta:
 
-**Primeiro movimento:** na parábola, a mesma palavra/mensagem encontra solos diferentes e produz trajetórias diferentes.
+**Se eu já ocupo uma posição, o que a sustenta — e que parte dela consigo examinar agora?**
 
-**Segundo movimento:** revelar a adaptação autoral do Método Posicione-se:
+Ela conduz ao automático, à primeira subida completa e ao cultivo. Não entrega prematuramente a investigação identitária do Livro 3.
 
-> Neste método, eu chamo de Semente a atitude, a decisão ou a prática que você planta. Não estou reescrevendo a parábola. Estou usando a imagem para te lembrar de uma coisa que muita autoajuda esquece: a mesma atitude não encontra as mesmas condições em todas as vidas, relações ou momentos.
+## 7. Conferência obrigatória na ETAPA 08
 
-**Aplicação:** uma atitude igual pode encontrar segurança, coerção, apoio, escassez, ameaça, liberdade ou exaustão diferentes.
+Recalcular o tamanho a partir do corpus de publicação final. Registrar a regra de contagem e quais elementos foram incluídos. Conferir sumário, início de leitura, elementos pré/pós-textuais, imagens, notas e navegação.
 
-**Gancho:** se o Solo muda o cultivo, o que em você é escolha e o que ainda é condição?
+Verificar o corte efetivo da amostra no processo de publicação e ler o material que o leitor realmente recebe. Não deduzir esse corte exclusivamente da contagem do Markdown.
 
-### Faixa 4,2%–5,8% — Eu sempre amei árvores
-Não apresentar o Cajueiro como invenção conveniente do método.
-
-- Sol já amava árvores;
-- o Cajueiro de Pirangi oferece proporção e estrutura;
-- debaixo da árvore, sente-se grandeza;
-- mudando o ponto de observação, enxerga-se organização, sustentação, galhos, chão e direção;
-- nasce `Suba na Árvore`.
-
-**Linha de força:** debaixo da árvore, eu sentia a grandeza. De cima, eu entendia a estrutura.
-
-**Função:** fundar a metáfora proprietária por experiência, não por explicação.
-
-### Faixa 5,8%–6,7% — Primeira subida de 90 segundos
-O leitor usa o método.
-
-Escolher um Fruto real e responder:
-1. o que uma câmera, agenda, mensagem, extrato ou repetição mostraria?
-2. em qual Galho isso acontece?
-3. que posição aparece antes da justificativa?
-4. o que ainda não sei?
-5. qual movimento pequeno e reversível cabe hoje — ou o que precisa ficar na Árvore por falta de dado, recurso ou segurança?
-
-**Resultado:** o leitor sente que o livro já mudou a forma de formular a pergunta.
-
-### Faixa 6,7%–7,4% — A Casa que virou Jaula
-Introduzir sem explicar toda a arquitetura.
-
-A Jaula é uma casa simbólica. Dentro dela existe o Sofá Quente da Mentira. Algumas grades são internas; outras são materiais; algumas são vínculos, dependências, medos, recursos ausentes ou histórias repetidas.
-
-**Comando semeado:** `A JAULA ESTÁ ABERTA` não significa `saia agora`; significa `pare de fingir que não viu e investigue qual margem real existe`.
-
-### Faixa 7,4%–8,7% — Capítulo 1: A Vitrine da Vida
-Entrar efetivamente na Parte I antes do corte.
-
-- intenção × comunicação × conduta;
-- Letreiro reaparece com nova função;
-- um Fruto não explica a pessoa inteira;
-- valor humano não é preço de mercado.
-
-**Primeira Lei em contexto:** Observe os Frutos.
-
-### Faixa 8,7%–10% — Capítulo 2: O Fruto Não Mente
-Começar a Auditoria Oficial do Fruto.
-
-- fato antes de narrativa;
-- Fruto como evidência parcial;
-- período e Galho;
-- posição atual;
-- o que não pode ser concluído ainda.
-
-**Segunda Lei em contexto:** Não Ignore o Óbvio.
-
-## 4. Pergunta que deve permanecer em movimento no corte
-
-Uma das formulações abaixo deve estar viva no entorno do corte real, sem manipulação artificial:
-
-- **Se eu já estou posicionado, o que está sustentando esta posição?**
-- **Quem está pensando dentro de mim quando eu acho que estou escolhendo?**
-- **Se o Fruto já está visível, o que eu ainda estou protegendo para não olhar a árvore?**
-
-A posição exata será calibrada apenas quando o manuscrito total estiver fechado e a porcentagem real puder ser verificada na composição Kindle.
-
-## 5. O que NÃO entra antes do corte
-
-- lista completa das 14 Leis;
-- dicionário completo;
-- 14 Tipos;
-- história longa de Morte em Vida;
-- explicação extensa de Fuga Identitária;
-- promessa comercial de curso/Workbook;
-- notas científicas longas;
-- defesa ideológica;
-- exercícios extensos;
-- catálogo de ferramentas;
-- biografia da autora;
-- agradecimentos ou aviso legal no lugar da experiência narrativa.
-
-## 6. Critério de aprovação dos 10%
-
-A degustação só será considerada pronta quando for possível responder `sim`:
-
-- o leitor encontrou a voz de Sol antes de encontrar o manual?
-- entendeu que pode discordar?
-- sabe que já ocupa posições?
-- entendeu que posição não é consentimento?
-- encontrou Letreiro, Semeador e Cajueiro com funções distintas?
-- realizou uma primeira subida?
-- nomeou um Fruto sem se transformar nele?
-- viu a Jaula sem receber ordem imprudente de saída?
-- entrou na Parte I?
-- recebeu mais método do que biografia?
-- ficou com uma pergunta legítima que o restante do livro precisa responder?
-
-## 7. Nota de produção
-
-O arquivo do Pré-livro só será congelado na ETAPA 02 depois de ser comparado com este mapa e com a Bíblia Editorial. Nenhum texto anterior será descartado sem peneira: trechos fortes entram como patrimônio; repetições, explicações precoces e promessas acima do método serão cortadas ou deslocadas.
+Reavaliar retenção, clareza, promessa e conclusão interrompida. Ajustar somente quando houver motivo concreto de leitura, rigor, segurança ou navegação. A métrica auxilia o julgamento editorial; não governa a arquitetura do livro.
