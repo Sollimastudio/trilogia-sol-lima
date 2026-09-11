@@ -1,78 +1,68 @@
 # MAPA CANÔNICO — VOZES, MOLDURAS E INTERLÚDIOS
 
-**Criado:** 10/09/2026  
-**Atualizado:** 10/09/2026 — ETAPA 13 concluída  
-**Função:** impedir que prólogos, monólogos e interlúdios desapareçam durante a produção capítulo a capítulo.
+**Criado:** 10/09/2026.  
+**Atualizado:** revisão 13R, posterior à ETAPA 13.  
+**Função:** preservar peças especiais e, principalmente, a consciência disponível em cada fase da vida.
 
-> Capítulos carregam progressão factual. Estas peças especiais controlam voz, contraste, respiração, focalização e pagamentos emocionais. Nenhuma revisão futura deve cortá-las apenas porque não pertencem à numeração linear.
+## Três vozes que não são intercambiáveis
 
-## ORDEM DE LEITURA ESPECIAL
+| Voz | O que pode saber | Onde aparece |
+|---|---|---|
+| Criança no tempo vivido | Necessidade, medo, fantasia, fé, alegria, perguntas concretas; não as conclusões futuras | Pensamento direto em MV-04 e MV-06, revistos em V1.1 na 13R; demais cenas infantis |
+| Mulher do divórcio/pós-divórcio | Quer sair, não quer voltar, teme errar e perder Deus, pensa nos filhos e no teto; ainda não formula a própria reconstrução com conceitos posteriores | MV-M01 — Agora Eu Não Posso Errar |
+| Narradora adulta que investiga e acolhe | Pode comparar épocas, rever interpretações e reconhecer o que desconhecia | Autópsia, MV-I06, MV-40 e reflexões temporalmente sinalizadas |
 
-### MV-00 — Nota Forense de Abertura — ● V1
-**Posição:** primeira peça textual da obra.  
-**Função:** mostrar o efeito antes da causa: cadáver funcional, autópsia metafórica, promessa investigativa.
+**Correção da 13R:** MV-I06 é a adulta olhando a menina. Não é o monólogo ingênuo DA menina. As duas funções precisam existir; uma não comprova que a outra foi atendida.
 
-### MV-P01 — Prólogo: O Portão — ● V1
-**Posição:** depois da Nota Forense e antes de 1978.  
-**Tipo:** cold open fora da cronologia.  
-**Função:** colocar o corpo da mãe diante da ferida central sem explicar ainda quem soldou o Portão.  
-**Regra:** efeito agora; causa cronológica somente em MV-28/MV-29.
+O pensamento direto é composição literária baseada nos relatos, não gravação mental nem evidência documental autônoma. Não chamar nova redação de lembrança literal ou de texto aprovado sem reconhecimento da autora.
 
-### MV-I01 — Debaixo do Girau — ● V1
-**Posição:** infância.  
-**Função:** voz, imaginação e vida própria da menina.
+## Ordem de leitura especial
 
-### MV-I04 — Dueto com a Mãe — ● V1
-**Posição:** antes do casamento.  
-**Função:** preservar vínculo, música, fé e complexidade de Elza.
+### MV-00 — Nota Forense de Abertura — V1
+Primeira peça textual; dispositivo metafórico, não perícia clínica. A costura final com o Prólogo está indicada na revisão 13R.
 
-### MV-M01 — Agora Eu Não Posso Errar — ● V1 reintegrada
-**Posição:** depois de MV-22 e antes de MV-I05.  
-**Tipo:** monólogo em pensamento direto.  
-**Função:** provar que o divórcio encerrou uma convivência, mas não produziu uma mulher esclarecida. Sol entra no pós-divórcio com culpa, medo de errar, fé, corpo julgado e expectativa de direção externa/divina.  
-**Fecho:** `Eu pedi o divórcio, Deus. Mas não queria que o Senhor fosse embora também.`
+### MV-P01 — Prólogo: O Portão — V1
+Depois da Nota Forense e antes de 1978. Mostra o impedimento e o corpo da mãe; o desenvolvimento cronológico pertence a MV-28/MV-29. Reduzir a antecipação explícita da cena infantil do cheiro na revisão da abertura.
 
-### MV-I05 — Finalmente? — ● V1
-**Posição:** entrada da Parte III, depois do monólogo pós-divórcio.  
-**Função:** silêncio/alívio provisório antes da Falsa Ressurreição.
+### MV-I01 — Debaixo do Girau — V1
+Na infância: imaginação, voz e vida própria, não apenas preparação do sofrimento.
 
-### MV-I06 — A Criança que Não Devia Nada — ● V1
-**Posição:** depois de MV-39 e antes de MV-40.  
-**Tipo:** interlúdio/monólogo de reencontro após o clímax.  
-**Função:** pagar a infância pela ternura; permitir que a narradora adulta reconheça que a criança não era autora da morte, do luto ou das dores adultas.  
-**Frase-eixo:** `A criança que eu fui não devia nada.`
+### MV-04 / MV-06 — pensamento infantil — V1.1 / 13R
+Não são unidades novas. Os capítulos existentes passaram a dar duração ao raciocínio da menina, sem preencher cada intervalo com explicação adulta. V1 preservada no Git. A consulta após queda do balanço continua registrada para recuperação contextual; não repetir a fala isolada como se bastasse para uma cena.
 
-## RESERVAS
-### Reino das Galinhas — ◐
-Material preservado em `RESERVAS/REINO_DAS_GALINHAS.md`. Só retorna à ordem ativa se houver ocorrência concreta suficiente.
+### MV-I04 — Dueto com a Mãe — V1
+Antes do casamento, em retorno deliberado à infância. Preservar música e vínculo, mas confrontar a prosa com INF-CANTO: a criança também se sentia obrigada a dar testemunho e não se via como uma pequena atração. Alegria não invalida obrigação; obrigação não apaga toda alegria.
 
-### Mangas — ◐
-Título/memória ainda sem cena completa suficiente.
+### MV-M01 — Agora Eu Não Posso Errar — V1 reintegrada
+Depois de MV-22 e antes de MV-I05. Monólogo longo preservado. O desejo de mudar o corpo aparece; a cirurgia ainda não aconteceu. Mandiocal e rego de água são lugares diferentes.
 
-### Caminho das Águas — ◐
-Título/memória ainda sem cena completa suficiente.
+Fecho preservado: `Eu pedi o divórcio, Deus. Mas não queria que o Senhor fosse embora também.`
 
-## REGRA DE FOCALIZAÇÃO
-### Criança/adolescente no tempo vivido
-- linguagem concreta;
-- sensação antes da teoria;
-- ingenuidade = falta de conhecimento posterior, nunca falta de inteligência;
-- não implantar na personagem conceitos que só Sol adulta aprendeu depois.
+### MV-I05 — Finalmente? — V1
+Entrada da Parte III, após o monólogo. Agora precisa de revisão de economia: oferecer silêncio e alívio específico, sem reexplicar tudo o que MV-M01 já fez o leitor viver. Preservar fatos próprios antes de condensar.
 
-### Monólogo direto
-- pensamento pode ser contraditório, repetitivo e incompleto;
-- não precisa soar como ensaio;
-- não transformar cada linha em frase de efeito;
-- a narradora futura só entra se houver marca clara de mudança temporal.
+### MV-I06 — A Criança que Não Devia Nada — V1
+Depois de MV-39 e antes de MV-40. Interlúdio de reencontro narrado pela adulta. A criança não era responsável pela morte de Oripe, pelo luto ou pelas decisões dos adultos. Não refazer o Sepultamento nem transformar o acolhimento em inocência universal de toda a biografia.
 
-### Narradora adulta / Autópsia
-- separa fato, memória, relato, documento e interpretação;
-- pode nomear o que a criança/mulher anterior não sabia nomear;
-- não corrige retroativamente o pensamento antigo dentro da cabeça da personagem.
+## Memórias da infância com integração ainda pendente
 
-## REGRA DE CORTE
-Nenhuma peça especial é removida silenciosamente. Para mover, fundir ou cortar:
-1. registrar motivo;
-2. indicar onde sua função será cumprida;
-3. preservar versão anterior por snapshot/commit;
-4. atualizar este mapa.
+Consultar a tabela INF-CANTO / INF-TANQUE / INF-BATISMO em `MAPA_PARTE_I_ATUAL.md` e a fonte autoral V4. A lembrança breve desses fatos no monólogo adulto não encerra sua construção na infância.
+
+## Reservas anteriores
+- Reino das Galinhas: `RESERVAS/REINO_DAS_GALINHAS.md`.
+- Mangas: `CAPITULOS/MV-I02_MANGAS.md`.
+- Caminho das Águas: `CAPITULOS/MV-I03_CAMINHO_DAS_AGUAS.md`.
+
+Nenhuma reserva entra na contagem de prosa concluída só por possuir arquivo.
+
+## Regras de focalização e ritmo
+
+Ingenuidade é limite de informação, não falta de inteligência. Não chamar medo infantil de teimosia. Não entregar à personagem expressões como trauma, autoestima, autonomia ou apagamento do Eu antes de seu tempo de compreensão.
+
+O monólogo admite hesitações e repetições orgânicas. A narração não precisa fragmentar toda frase em uma linha. Alterar o tamanho dos parágrafos conforme a experiência; reservar frases isoladas aos pontos de pressão.
+
+Declarações sobre método editorial, documentos ainda não localizados, estrutura do livro e notas para revisão pertencem prioritariamente ao controle editorial. A primeira pessoa pode admitir limites da memória, mas não deve narrar a lista de tarefas do editor.
+
+## Regra de alteração
+
+Para mover, fundir, condensar ou cortar uma peça: reler, registrar motivo e destino de sua função, preservar referência da versão anterior e atualizar os mapas. Não reescrever snapshots históricos. O Git registra alterações; as versões novas continuam sujeitas a revisão e reconhecimento autoral.
