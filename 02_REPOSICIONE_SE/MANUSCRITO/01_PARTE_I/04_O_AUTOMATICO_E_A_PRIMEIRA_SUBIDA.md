@@ -2,589 +2,210 @@
 
 ## A resposta perfeita costuma aparecer no banho
 
-Você já viveu uma conversa inteira e, três horas depois, encontrou exatamente o que deveria ter dito?
+Você já terminou uma conversa e, três horas depois, encontrou exatamente o que gostaria de ter dito?
 
-No banho.
+No banho, no carro, lavando louça. Às duas da manhã, quando a outra pessoa já dormiu e você dá uma entrevista imaginária impecável para uma plateia inexistente.
 
-No carro.
+Na hora, a resposta foi outra. Você calou, explodiu, concordou, riu para aliviar ou pediu desculpas sem conseguir explicar pelo quê. Depois veio uma compreensão que não estava disponível daquele jeito no momento da conversa.
 
-Lavando louça.
+É dessa resposta que chega antes de um novo exame que quero tratar aqui.
 
-Às duas da manhã, quando a outra pessoa já dormiu em paz e você está dando uma entrevista imaginária impecável para uma plateia inexistente.
+Nem todo automático é problema. Você não precisa reaprender cada rotina conhecida toda manhã. Seria insuportável convocar uma reunião de diretoria interna para cada movimento cotidiano.
 
-Na hora, porém, a resposta foi outra.
+A pergunta do método é mais específica:
 
-Você calou.
-
-Explodiu.
-
-Concordou.
-
-Riu para aliviar.
-
-Pediu desculpa sem saber pelo quê.
-
-Disse sim.
-
-Desviou.
-
-Foi embora.
-
-Ficou.
-
-Depois veio a consciência.
-
-Não porque você seja falso.
-
-Porque muita coisa em nós aprende a responder antes que a parte mais deliberada do pensamento termine de entrar na sala.
-
-O automático é uma das grandes economias da vida humana.
-
-Você não reaprende a escovar os dentes toda manhã.
-
-Não calcula cada movimento para abrir uma porta.
-
-Não negocia do zero toda rotina conhecida.
-
-Ainda bem.
-
-Seria insuportável precisar de uma reunião de diretoria interna para escolher de que lado começar a mastigar.
-
-O problema não é ter automático.
-
-O problema começa quando uma resposta antiga continua governando uma situação nova sem passar por exame.
+**Esta resposta continua adequada ao contexto em que está sendo usada?**
 
 ## O piloto automático não é vilão
 
-Eu já usei a expressão `piloto automático` como se ela fosse quase uma entidade maligna.
+Uma resposta aprendida pode ter protegido algo importante.
 
-Hoje prefiro mais precisão.
+Imagine alguém que aprendeu a ficar quieto porque falar aumentava o perigo. Anos depois, pode continuar antecipando silêncio diante de uma conversa difícil, mesmo num vínculo que permite discordância. Ou pode ainda viver numa condição em que o silêncio oferece proteção real.
 
-Automatismos são necessários.
+Não são a mesma situação. Não precisamos insultar a resposta antiga. Precisamos verificar a condição presente.
 
-Hábitos poupam energia.
+No começo de uma carreira, aceitar determinado trabalho pode ser uma escolha possível diante da necessidade de renda e experiência. Em outro momento, o mesmo modo de aceitar prazos, preços e interrupções pode precisar de revisão. Não sabemos apenas olhando o comportamento de fora: há que conhecer as alternativas e os custos.
 
-Respostas rápidas podem proteger.
-
-Experiência cria repertório.
-
-O que precisamos investigar é outra coisa:
-
-**esta resposta continua adequada ao contexto em que está sendo usada?**
-
-Você pode ter aprendido a ficar quieta porque, numa época, falar aumentava o perigo.
-
-Essa resposta pode ter sido inteligente.
-
-Anos depois, talvez esteja numa relação segura e ainda sinta o corpo preparar silêncio antes de qualquer conversa difícil.
-
-O problema não é insultar a resposta antiga.
-
-É verificar se ela ainda precisa dirigir.
-
-Você pode ter aprendido a aceitar tudo no começo da carreira porque precisava de experiência, dinheiro e oportunidade.
-
-Talvez tenha sido uma estratégia possível naquela fase.
-
-Oito anos depois, se continua aceitando qualquer prazo, qualquer preço e qualquer invasão de agenda, aquilo que foi porta de entrada pode ter virado prisão profissional.
-
-Respostas podem envelhecer.
-
-E uma resposta velha não precisa ser chamada de trauma, defeito ou fraqueza para merecer revisão.
-
-Às vezes é apenas uma solução que venceu a validade.
+Uma resposta não precisa receber o nome de trauma, defeito ou fraqueza para ser examinada. Pode ser uma solução que serviu num contexto e continua sendo usada em outro.
 
 ## LEI 3 — PENSE ANTES DE REAGIR
 
-Parece uma Lei óbvia.
+Concordar com esta Lei é mais fácil do que praticá-la quando a emoção cresce, o grupo pressiona ou uma pessoa toca exatamente no assunto em que você costuma responder sem intervalo.
 
-E é.
+**Pense Antes de Reagir** não significa virar frio. Também não significa demorar três dias para responder bom dia porque agora você é um ser metacognitivo.
 
-As melhores geralmente parecem óbvias depois de alguém formular.
+Significa criar, quando a situação permite, um espaço entre o impulso e a decisão.
 
-O difícil não é concordar com ela.
+Às vezes cabe uma pergunta. Às vezes é necessário mais tempo. Pode ser suficiente dizer: *Preciso verificar antes de responder.* Pode ser mais responsável dormir e retomar uma decisão importante em outro momento.
 
-É conseguir praticá-la no segundo em que a Raiz antiga acende, a emoção cresce, o grupo pressiona ou a pessoa aperta exatamente o botão que funciona com você há anos.
+Não há um prazo universal. Uma urgência real não é igual à pressa de encerrar o desconforto. A pausa também precisa responder ao contexto.
 
-**Pense Antes de Reagir** não significa virar frio.
-
-Não significa demorar três dias para responder `bom dia` porque agora você é um ser metacognitivo.
-
-Significa criar, quando a situação permite, um intervalo mínimo entre o impulso e a decisão.
-
-Às vezes são noventa segundos.
-
-Às vezes uma noite.
-
-Às vezes uma pergunta.
-
-Às vezes a frase:
-
-`Eu preciso pensar antes de responder.`
-
-Essa frase é simples e poderosa porque ela impede que a urgência do outro se transforme automaticamente na sua decisão.
+Ela serve para que a urgência de alguém — inclusive a sua — não decida tudo sozinha.
 
 ## LEI 4 — DESLIGUE O PILOTO AUTOMÁTICO
 
-A quarta Lei nasce quase junto da terceira.
+Pensar antes de reagir cria o espaço. Desligar o piloto automático usa esse espaço para verificar a resposta conhecida.
 
-Pensar antes de reagir cria o espaço.
+**Se eu não repetisse imediatamente o que costumo fazer, o que precisaria examinar aqui?**
 
-Desligar o piloto automático usa o espaço.
+Talvez você descubra um acordo que ainda não consultou, uma obrigação real ou uma possibilidade que não considerava. Talvez perceba que seu medo tem fundamento. Talvez a resposta final permaneça igual à anterior.
 
-É quando você pergunta:
+Tudo bem. O objetivo não é produzir novidade a qualquer custo. É produzir uma decisão examinada.
 
-**se eu não repetisse a resposta conhecida, o que eu precisaria examinar aqui?**
-
-Talvez a resposta final seja exatamente a mesma de antes.
-
-Você pode subir na Árvore, investigar e concluir:
-
-`Sim. Quero dizer não.`
-
-Ótimo.
-
-O objetivo não é produzir uma decisão diferente a qualquer custo.
-
-É produzir uma decisão **examinada**.
-
-Mudar de resposta só para provar que mudou também é automatismo — agora fantasiado de evolução.
+Mudar só para provar que mudou também pode ser uma reação automática, agora fantasiada de evolução.
 
 ## O Mirante
 
-Eu te contei por que o Cajueiro de Pirangi me ensinou a importância de mudar o ponto de observação.
+No Pré-livro, contei como o Cajueiro de Pirangi passou a fazer parte da minha linguagem de estrutura e perspectiva. Na Árvore do método, **Mirante** é o nome desse ponto de observação.
 
-No método, chamo esse ponto de **Mirante**.
+Não é uma parte mística da mente. É uma imagem para o movimento de tentar enxergar a situação sem ficar colado apenas à primeira leitura.
 
-Mirante não é uma parte mística da sua mente.
+Você não abandona a emoção. Acrescenta perspectiva.
 
-É a posição em que você consegue observar antes de concluir.
-
-Debaixo da situação, você sente.
-
-No Mirante, tenta ver também.
-
-Não abandona a emoção.
-
-Acrescenta perspectiva.
-
-Essa diferença é essencial.
-
-Porque emoção sem perspectiva pode reagir.
-
-Perspectiva sem emoção pode virar frieza, abstração ou fuga.
-
-O método quer as duas coisas na mesma conversa.
+Da mesma forma, olhar com distância não é desprezar o que sente ou fingir que não participa da cena. A sua história, seus valores e seus limites continuam presentes. O Mirante não oferece neutralidade perfeita; oferece uma pergunta a mais antes da conclusão.
 
 ## DEIXE NA ÁRVORE
 
-Esse comando existe porque a mente detesta espaço vazio.
+A mensagem não chegou: *Ele perdeu o interesse.*
 
-Ela prefere uma explicação ruim agora a uma conclusão melhor depois.
+A chefe chamou para conversar: *Vou ser demitida.*
 
-A mensagem não chegou:
+O vídeo teve pouco alcance: *Meu conteúdo não presta.*
 
-`Ele perdeu o interesse.`
+O filho não contou algo: *Ele não confia em mim.*
 
-A chefe chamou para conversar:
+Pode ser. Ainda não sabemos.
 
-`Vou ser demitida.`
+**Deixe na Árvore** significa reconhecer a hipótese sem transformá-la em veredito. Você não precisa expulsar a primeira explicação. Precisa evitar que ela finja ser a única possível antes que você olhe o que a sustenta.
 
-O vídeo teve pouco alcance:
+Isso vale também para explicações confortáveis: *Foi só uma vez; todo mundo faz; amanhã estará resolvido.* O alívio de uma interpretação não prova sua qualidade.
 
-`Meu conteúdo não presta.`
+O que sabemos? O que estamos completando? Que informação faria diferença?
 
-A pessoa discordou:
+## Uma subida guiada
 
-`Ela me odeia.`
+Você começou uma Fotografia de Partida e aprofundou a leitura do Fruto. Agora vamos percorrer essa mesma situação com mais atenção. Não é necessário abrir um problema novo a cada pergunta.
 
-O filho não contou algo:
-
-`Ele não confia em mim.`
-
-Pode ser.
-
-Mas ainda não sabemos.
-
-**Deixe na Árvore** significa:
-
-`Eu reconheço a hipótese sem transformá-la em veredito.`
-
-Isso não é passividade.
-
-É disciplina cognitiva.
-
-E é uma das poucas coisas que protegem você de reagir com força total a uma história que talvez só exista na sua interpretação.
-
-## A primeira subida completa
-
-Você já fez uma versão de noventa segundos no Pré-livro.
-
-Agora vamos fazer a primeira subida inteira.
-
-Pegue o mesmo Fruto que acompanha você desde o início.
-
-Não troque de problema toda vez que uma pergunta fica desconfortável. Isso é turismo emocional.
-
-Fique com a situação.
+Também não há obrigação de insistir numa situação que esteja te expondo ou exigindo um apoio que você ainda não tem. Escolha uma escala de investigação que caiba no momento.
 
 ### 1. Observe o Fruto
 
-O que aconteceu de fato?
-
-Em qual período?
-
-Qual repetição existe?
-
-O que uma câmera ou documento mostraria?
+O que aconteceu? Em qual período? Existe repetição? Que informação disponível ajuda a descrever a situação sem transformá-la numa sentença sobre alguém?
 
 ### 2. Localize o Galho
 
-Relacionamento?
-
-Família?
-
-Trabalho?
-
-Dinheiro?
-
-Marca?
-
-Fé?
-
-Vida pública?
-
-Outro?
-
-Não transforme um Galho na árvore inteira.
+Em qual área isso aparece: vínculos, família, trabalho, dinheiro, marca, fé, vida pública ou outra? Não faça um Galho representar a Árvore inteira.
 
 ### 3. Nomeie a posição atual
 
-O que você fez?
+O que fez, aceitou, recusou, adiou ou não conseguiu fazer? Descreva a resposta sem insultar sua identidade.
 
-O que não fez?
+### 4. Separe fato, interpretação e emoção
 
-O que não pôde fazer?
+O que você sabe? O que concluiu? O que sente? Qual parte ainda precisa ser verificada?
 
-O que adiou?
+### 5. Investigue a função da resposta
 
-O que aceitou?
-
-O que recusou?
-
-Descreva sem adjetivar sua identidade.
-
-### 4. Separe fato de interpretação
-
-O que você sabe?
-
-O que concluiu?
-
-O que sente?
-
-O que ainda precisa ser verificado?
-
-### 5. Pergunte o que essa posição protege
-
-Esta é uma pergunta, não uma acusação.
-
-Ela protege vínculo?
-
-Evita conflito?
-
-Economiza energia?
-
-Mantém renda?
-
-Evita risco?
-
-Preserva imagem?
-
-Compra pertencimento?
-
-Mantém uma rotina conhecida?
-
-Ou você ainda não sabe?
-
-Tudo bem.
+Essa posição pode estar evitando conflito, preservando renda, protegendo segurança, mantendo pertencimento ou repetindo uma rotina? Não suponha que todo sofrimento tenha um ganho escondido. Pode haver restrição real; pode haver algo que ainda não sabe.
 
 ### 6. Localize custo e recurso
 
-O que você paga por permanecer nessa posição?
+O que custa permanecer assim? O que custaria mudar? Que apoio, informação ou condição já existe? O que falta de verdade?
 
-O que poderia pagar se mudasse?
+### 7. Deixe o desconhecido na Árvore
 
-Que recurso existe?
+Não invente uma origem nem declare intenção alheia só porque a emoção está convencida. Escrever *ainda não sei* impede uma hipótese de assumir um cargo que a evidência não lhe deu.
 
-Que recurso falta?
+### 8. Examine um movimento proporcional
 
-### 7. Deixe na Árvore o que não sabe
-
-Não invente origem.
-
-Não diagnostique ninguém.
-
-Não declare intenção alheia porque sua emoção está convencida.
-
-Escreva:
-
-`Ainda não sei.`
-
-Essa frase não enfraquece sua inteligência.
-
-Ela impede que sua inteligência seja usada para decorar uma certeza inventada.
-
-### 8. Pergunte qual movimento é reversível
-
-Existe alguma ação pequena que testa a nova posição sem colocar tudo em risco?
-
-Uma conversa?
-
-Um prazo?
-
-Um pedido de informação?
-
-Uma noite antes de responder?
-
-Um orçamento por escrito?
-
-Uma consulta profissional?
-
-Uma mensagem que delimita algo?
-
-Uma semana observando o padrão?
-
-Uma decisão de não decidir ainda até obter dado importante?
+Cabe pedir informação, consultar um acordo, propor um prazo, procurar orientação ou observar uma repetição delimitada? Há uma ação pequena cujas consequências sejam suficientemente conhecidas e revisáveis? O que recomenda não realizar o teste agora?
 
 ### 9. Desça
 
-Escolha o próximo movimento.
-
-Não a vida inteira.
-
-O próximo.
+Escolha a resposta praticável: uma ação, uma preparação ou uma espera consciente. Não a vida inteira. O próximo movimento dentro da sua margem real.
 
 ## Subir não é morar
 
-Aqui mora outra armadilha.
+Você pode aprender a explicar um padrão com um vocabulário cada vez melhor e continuar repetindo a mesma resposta. A análise vira endereço. O Mirante vira cobertura de luxo da procrastinação.
 
-A pessoa aprende autoconhecimento, linguagem psicológica, padrões, traumas, tipos, estilos, crenças, feridas, sistema nervoso, arquétipos, infância, apego, planeta, signo e, quando termina, consegue explicar perfeitamente por que continua fazendo a mesma coisa.
+Por isso, o comando não termina na subida:
 
-A análise virou endereço.
+**DESÇA DA ÁRVORE.**
 
-O Mirante virou cobertura de luxo da procrastinação.
+Quando há informação suficiente para uma ação segura e proporcional, volte à vida. Quando a análise só repete os mesmos argumentos e não acrescenta dado, talvez a próxima tarefa já não seja pensar mais sobre tudo. Pode ser buscar uma informação específica ou admitir que a conclusão precisa esperar.
 
-Por isso existe o comando:
+Não se trata de provar coragem. Trata-se de impedir que a investigação substitua indefinidamente aquilo que ela deveria ajudar a fazer.
 
-# DESÇA DA ÁRVORE
+## Descer não significa sair da situação
 
-Quando há evidência suficiente e um movimento seguro, específico e revisável, volte para a vida.
+Esta distinção é indispensável.
 
-Discernimento que nunca encontra prática pode se transformar em outra forma de fuga.
+Você pode descer da análise para buscar apoio e ainda permanecer onde está. Pode decidir descansar antes de continuar. Pode reconhecer que uma decisão exige avaliação especializada e procurar esse recurso. Nenhuma dessas respostas obriga a confrontar uma pessoa ou atravessar uma porta sem condições.
 
-O método não quer deixar você inteligente sobre seus padrões.
+Se há ameaça, coerção, dependência, filhos, moradia ou outro risco relevante, a margem de movimento precisa entrar no centro da decisão. Planejar, proteger informações, procurar uma rede e conhecer recursos podem ser mais necessários do que anunciar um limite.
 
-Quer deixar você mais capaz de escolher diante deles.
+Uma decisão irreversível não merece o mesmo tratamento de um teste cotidiano simples. E a ausência de uma saída segura não deve ser convertida em falta de vontade.
 
-## E quando eu não posso descer ainda?
-
-Então não desça.
-
-Isso também faz parte do método.
-
-Uma decisão irreversível, de alto risco ou tomada sob dependência exige mais cuidado do que escolher se responde uma mensagem agora ou amanhã.
-
-Se existe ameaça, controle coercitivo, risco físico, dependência econômica, filhos, moradia, patrimônio ou ausência de rede, sua margem real de movimento precisa ser avaliada.
-
-Talvez o próximo posicionamento não seja confrontar.
-
-Talvez seja guardar documentos.
-
-Buscar orientação.
-
-Contar para alguém confiável.
-
-Organizar dinheiro.
-
-Planejar.
-
-Observar.
-
-Criar rede.
-
-Ganhar tempo.
-
-Reconhecer que aquela Porta existe, mas você ainda não tem condições seguras de atravessá-la.
-
-Prudência não é covardia.
-
-E coragem sem leitura de risco pode ser só impulso com boa reputação.
+**Desça da Árvore** significa voltar à realidade possível. Não significa obedecer à pressa do livro.
 
 ## A JAULA ESTÁ ABERTA
 
-É aqui que esse comando aparece pela primeira vez com toda a sua função.
+Talvez a primeira subida tenha tornado visível uma repetição que você conhecia, mas nunca havia formulado: um limite que sempre desaparece, um preço que continua pagando, um depois que administra uma área inteira.
 
-Não como grito.
-
-Como alarme.
+É nesse ponto que o comando pode trabalhar:
 
 **A JAULA ESTÁ ABERTA.**
 
-Talvez você tenha acabado de encontrar uma evidência que já conhecia, mas nunca tinha formulado.
+Não porque tudo ficou fácil ou porque uma saída segura surgiu automaticamente. Porque algo já pode ser reconhecido e investigado.
 
-Talvez tenha percebido que a mesma conversa se repete.
+**O que mantém essa permanência — e o que seria necessário para ampliar sua margem com segurança?**
 
-Que o mesmo preço é pago.
+A pergunta crescerá ao longo da travessia. Agora ela pode apenas mostrar que o próximo passo não é negar o que ficou visível.
 
-Que o mesmo limite desaparece.
+## Lia experimenta um intervalo
 
-Que o mesmo `depois eu vejo` está administrando uma área inteira da sua vida.
+Voltemos ao caso hipotético de Lia. Ela aceita pedidos antes de verificar a agenda e depois se ressente. Sua primeira leitura é que as pessoas abusam da sua boa vontade.
 
-O comando não diz:
+No Mirante, acrescenta uma pergunta: *O que acontece entre o pedido e o meu sim?*
 
-`Mude tudo hoje.`
+Percebe que quase não existe intervalo. Ainda não conhece a lógica que sustenta a resposta e não precisa inventá-la para testar algo pequeno num contexto sem risco identificado.
 
-Diz:
+Diante de pedidos não urgentes, decide começar com uma frase:
 
-**`Você viu. Agora não precisa mais mentir para si dizendo que não viu.`**
+*Vou conferir e te retorno.*
 
-A próxima pergunta é:
+A frase não promete que aceitará. Interrompe a decisão antes da consulta à própria capacidade. Lia observará o que acontece com os pedidos e com a sua resposta.
 
-**o que mantém você sentada — e o que seria necessário para levantar com segurança?**
+Essa experiência não resolve toda a sua história. Pode produzir informação que antes faltava. A nova atitude será aprofundada, adiante, como cultivo de uma Nova Semente; ela não precisa esperar o fim do livro para começar a praticar o que já compreendeu.
 
-Essa pergunta vai crescer muito mais adiante.
+Ao testar, Lia pode sentir culpa. Algumas pessoas podem esperar; outras podem pressionar. Pode descobrir um medo que não se confirma ou uma dificuldade real do ambiente.
 
-Por enquanto, basta deixar a porta visível.
-
-## Lia sobe pela primeira vez
-
-Voltemos a Lia.
-
-Fruto:
-
-ela aceita compromissos antes de verificar a agenda e depois se ressente.
-
-Posição:
-
-responde sim rapidamente.
-
-Interpretação inicial:
-
-`As pessoas abusam da minha boa vontade.`
-
-No Mirante, Lia acrescenta outra pergunta:
-
-`O que acontece dentro de mim entre o pedido e o meu sim?`
-
-Ela percebe que quase não existe intervalo.
-
-Ainda não sabe a Raiz.
-
-Não precisamos inventar.
-
-Então escolhe uma Nova experiência provisória — ainda não a Nova Semente formal do final do método:
-
-por uma semana, diante de pedidos que não sejam urgentes, responderá:
-
-`Vou conferir e te retorno.`
-
-Pequeno.
-
-Reversível.
-
-Observável.
-
-Não cura Lia.
-
-Não resolve sua história.
-
-Mas produz dado novo.
-
-E dado novo é ouro para quem estava vivendo só de narrativa antiga.
-
-## Quando a reação muda, a pergunta muda
-
-Talvez, ao testar uma resposta diferente, Lia sinta culpa.
-
-Talvez alívio.
-
-Talvez alguém respeite.
-
-Talvez alguém pressione mais.
-
-Talvez descubra que metade do medo estava dentro dela.
-
-Talvez descubra que o ambiente realmente pune limite.
-
-Cada resultado ensina uma coisa diferente.
-
-Esse é o ponto.
-
-Você não precisa saber a história inteira antes de produzir a primeira evidência nova.
-
-Mas também não deve agir como se contexto não importasse.
-
-A Árvore trabalha justamente entre esses dois extremos.
-
-Nem paralisia por análise.
-
-Nem ação cega.
+Cada resultado exige uma leitura. Nenhuma reação isolada deve ser convertida, de saída, em diagnóstico de Lia ou dos outros.
 
 ## Checkpoint da Parte I
 
-Antes de entrar na próxima Parte, você precisa conseguir formular quatro frases:
+Releia a Fotografia de Partida e atualize o que conseguiu observar. Mantenha o que continua desconhecido, sem preencher a lacuna para terminar o exercício.
 
-**Meu Fruto observável é:** __________________________.
+**Meu Fruto observável é...**
 
-**O Galho em que ele aparece é:** ____________________.
+**O Galho em que ele aparece é...**
 
-**Minha posição atual aparece assim:** ________________.
+**Minha posição atual aparece assim...**
 
-**O que ainda não sei e vou deixar na Árvore é:** _______.
+**O que ainda não sei é...**
 
-Se houver um movimento pequeno e seguro:
+Acrescente somente o que a primeira subida tornou possível:
 
-**O próximo passo que posso testar é:** ________________.
+**O próximo passo que posso testar é...**
 
-Se não houver segurança, dado ou recurso suficiente:
+Ou:
 
-**O que preciso reunir antes de agir é:** _______________.
+**A condição que preciso reunir antes de agir é...**
 
-Pronto.
+Isso é o fechamento da mesma investigação iniciada na abertura. Não precisa ser outro formulário completo. A diferença está em conseguir olhar para uma situação com mais contorno do que a frase *minha vida está errada* oferecia.
 
-Você saiu do `minha vida está errada` para uma situação investigável.
+Agora surge outra necessidade. Uma posição não aparece no vazio: encontra condições, recebe sustentação, pode ser repetida, protegida ou revista. A experiência de Lia também não terá o mesmo percurso em qualquer ambiente.
 
-Isso é uma mudança de altitude.
+A Parábola do Semeador volta para dar profundidade à imagem que conhecemos no início: a mesma semente em solos diferentes não encontra o mesmo cultivo.
 
-Agora podemos descer mais fundo.
-
-Não para procurar culpados nas raízes.
-
-Para entender o cultivo.
-
-Porque uma posição não aparece no vazio.
-
-Ela é plantada, recebida, repetida, alimentada, protegida, corrigida ou mantida em condições específicas.
-
-E há uma parábola antiga que me ensinou isso antes mesmo de eu saber que um dia escreveria este livro.
-
-A mesma semente.
-
-Solos diferentes.
-
-Resultados diferentes.
-
-É para lá que vamos agora.
-
----
-
-# FIM DA PARTE I — O DESPERTAR
-
-Você viu o Fruto.  
-Localizou o Galho.  
-Nomeou uma posição.  
-Subiu pela primeira vez.  
-Deixou o que ainda não sabe na Árvore.  
-E voltou para a vida com uma pergunta melhor.
-
-Na Parte II, vamos investigar o cultivo sem transformar origem em destino.
+Na Parte II, vamos olhar para essas condições — sem transformar origem em destino.
