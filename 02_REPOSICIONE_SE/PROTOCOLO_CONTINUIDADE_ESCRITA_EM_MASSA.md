@@ -1,118 +1,115 @@
-# PROTOCOLO DE CONTINUIDADE — ESCRITA EM MASSA DO REPOSICIONE-SE
+# PROTOCOLO DE CONTINUIDADE — REPOSICIONE-SE
 
-**Status:** ativo a partir de 10/09/2026.  
-**Escopo:** somente `02_REPOSICIONE_SE/`.  
-**Objetivo:** impedir perda de contexto, reabertura desnecessária de arquitetura e paralisação entre etapas de escrita, costura, rigor e publicação.
+**Ativo desde:** 10/09/2026.  
+**Atualização:** fechamento editorial da ETAPA 04 — 11/09/2026.  
+**Escopo de escrita:** somente `02_REPOSICIONE_SE/`.  
+**Próxima etapa:** ETAPA 05 — AUDITORIA DE RIGOR E RISCO.
 
-## Regra permanente
-Ao encerrar qualquer etapa ou lote importante desta frente, a entrega obrigatoriamente termina com:
+## 1. Regra permanente
 
-1. resultado objetivo do que foi concluído;
-2. arquivos criados/alterados no repositório;
-3. atualização de `STATUS.md` e `HISTORICO_ETAPAS.md` quando o marco exigir;
-4. snapshot imutável em `ETAPAS/` quando houver fechamento de etapa/lote estrutural;
-5. pendências reais, sem transformar detalhe opcional em bloqueio;
-6. **COMANDO EXATO DA PRÓXIMA ETAPA**, pronto para Sol copiar e enviar;
-7. nenhuma reconstrução global sem motivo concreto de verdade, coerência, segurança, rigor, ritmo, função pedagógica ou qualidade literária.
+Cada etapa ou lote importante termina com resultado objetivo, identificação dos arquivos criados/alterados, atualização de STATUS e histórico, snapshot quando houver marco estrutural, pendências reais e **comando exato da próxima etapa**.
 
-## Papel permanente do agente editorial
-Atuar simultaneamente como:
-- editor-chefe sênior;
-- arquiteto de método;
-- escritor de não ficção transformacional;
-- preparador de texto;
-- guardião da voz autoral de Sol Lima;
-- auditor de coerência pedagógica;
-- curador de storytellings;
-- diretor editorial de exercícios, testes e imagens;
-- preparador para Kindle/KDP e futura adaptação em curso.
+O arquivo vivo mostra o estado atual. O histórico permite acompanhar decisões. Os snapshots não são sobrescritos. O Git conserva a diferença entre versões. Um envio de arquivo não deve ser confundido com confirmação de gravação; confirmar o estado antes de declarar conclusão.
 
-O agente não espera Sol decidir microedição. Pergunta apenas quando a decisão depende de verdade biográfica, formulação autoral exclusiva, autorização de terceiros ou informação que não está sustentada pelas fontes canônicas.
+Não reconstruir globalmente o livro por preferência. Mudanças exigem motivo concreto de verdade, coerência, segurança, rigor, ritmo, função pedagógica ou qualidade literária e devem ser registradas.
 
-## Regra de escrita e revisão em massa
-A produção avança por Partes/etapas completas, não por microtrechos soltos. Cada lote/etapa:
-- relê os arquivos governantes antes de escrever ou editar;
-- relê a versão atual no GitHub antes de alterar arquivo existente;
-- recupera o melhor material antigo apenas como banco patrimonial;
-- escreve/revisa prosa canônica integral;
-- controla repetição e termos proprietários;
-- distribui Leis somente onde surgem organicamente;
-- preserva Árvore como método e Jaula como ambiente narrativo;
-- mantém Fuga Identitária como semente do Livro 3;
-- registra alegações que exigem validação futura sem travar a prosa;
-- fecha com ponte inevitável para a etapa seguinte.
+## 2. Papel da frente editorial
 
-## Sequência de produção autorizada
+Atuar como editor-chefe, arquiteto de método, escritor de não ficção transformacional, preparador de texto, guardião da voz de Sol, auditor de coerência pedagógica e curador de storytellings, exercícios, testes e imagens. Preparar continuidade para Kindle/impresso e curso sem transformar livro em propaganda ou método incompleto.
 
-### ETAPA 03 — ESCRITA EM MASSA POR PARTES — ✓ CONCLUÍDA
+A autora não precisa decidir microedição. Perguntar somente quando houver verdade biográfica exclusiva, formulação autoral que exija aprovação, autorização de terceiro ou informação material não sustentada pelas fontes canônicas.
 
-#### LOTE 01 — PARTE II — SEMENTE, SOLO E RAÍZES — ✓ CONCLUÍDO
-Capítulos 5–8.
+## 3. Leitura e concorrência
 
-#### LOTE 02 — PARTE III — O TRONCO — ✓ CONCLUÍDO
-Capítulos 9–12.
+Antes de alterar arquivo existente, ler sua versão atual no GitHub. Confirmar etapa, histórico e snapshot anterior. Não pressupor que a versão ficou igual desde uma leitura passada. Quando houver edição paralela, preservar alterações de outras frentes e não forçar referência Git para substituir trabalho alheio.
 
-#### LOTE 03 — PARTE IV — OS GALHOS — ✓ CONCLUÍDO
-Capítulos 13–16.
+Os arquivos de `00_UNIVERSO_MESTRE/` são governança compartilhada. Esta frente não os edita, nem modifica os Livros 1 e 3, sem autorização explícita. Propostas que afetem o universo devem ser registradas dentro da pasta do Livro 2.
 
-#### LOTE 04 — PARTE V — PRAGAS, INFLUÊNCIAS E JAULAS — ✓ CONCLUÍDO
-Capítulos 17–21.
+## 4. Produção por escopo completo
 
-#### LOTE 05 — PARTE VI — FILTRO, EVIDÊNCIAS E ESPELHOS — ✓ CONCLUÍDO
-Capítulos 22–24.
+Trabalhar por Partes/etapas, não por fragmentos soltos. Relê-se o estado governante; recupera-se patrimônio apenas quando melhora a versão atual; escreve-se ou edita-se prosa integral; confere-se continuidade e fecha-se o registro.
 
-#### LOTE 06 — PARTE VII — PODA, NOVA SEMENTE E FRUTOS — ✓ CONCLUÍDO
-Capítulos 25–28. Corpo principal completo: Pré-livro + 28 capítulos.
+Preservar Árvore como método e Jaula como arquitetura narrativa. Manter Leis por necessidade pedagógica, controlar repetições e termos proprietários, distinguir memória de elaboração posterior, marcar alegações que exigem validação e preservar a fronteira do Livro 3.
 
-### ETAPA 04 — EPÍLOGO E COSTURA INTEGRAL — ATIVA
-- escrever `O Cajueiro Ainda Está Lá`;
-- revisar Pré-livro + Partes I–VII + Epílogo como uma única travessia;
-- checar promessa, progressão emocional/cognitiva, repetições, sementes e pagamentos;
-- conferir a ponte para o Livro 3 sem roubar sua resposta;
-- revisar especificamente a experiência dos primeiros 10% Kindle à luz do tamanho total provisório;
-- registrar alterações de costura sem reabrir arquitetura por preferência estilística.
+O Livro 2 entrega método suficiente por si. Workbook é complementar. Espelhos e Sete Frutos não substituem investigação identitária nem se apresentam como instrumentos clínicos.
 
-### ETAPA 05 — AUDITORIA DE RIGOR E RISCO
-- verificar alegações científicas, psicológicas, comportamentais, teológicas, jurídicas e estatísticas;
-- qualificar causalidades;
-- remover ciência decorativa;
-- conferir segurança em violência, coerção, dependência e saúde;
-- revisar responsabilidade sem culpabilização.
+## 5. Estado recuperado e fonte atual
+
+A retomada da ETAPA 04 recuperou textos da ramificação `editorial/livro2-etapa04-costura-2026-09-10`, no commit `93ac97a560c61cb4f0f87dd5db994c103d53d0fd`, e confirmou que o Epílogo já existia no `main`.
+
+**Marco do manuscrito costurado:** `0f5ae3ef6dccc6c0ccf9810e56474183dec71d4e`.
+
+Esse marco é referência histórica, não autorização para ignorar alterações posteriores. A próxima frente deve ler o `main` atual. Não continuar a partir da ramificação antiga ou de exportação anterior sem comparar diferenças.
+
+**Relatório obrigatório de continuidade:** `MANUSCRITO/LEITURA_CORRIDA_ETAPA_04.md`.
+
+**Snapshot:** `ETAPAS/04_EPILOGO_E_COSTURA_INTEGRAL_2026-09-11.md`.
+
+A prosa completa compreende Pré-livro, Partes I–VII, 28 capítulos e Epílogo. A contagem editorial registrada na integração é 68.412 palavras. O marco de 10% por palavras cai no começo do Capítulo 3; isso não é confirmação do corte efetivo da amostra Kindle.
+
+## 6. Sequência de produção
+
+### ETAPA 03 — ESCRITA EM MASSA POR PARTES — CONCLUÍDA
+
+- LOTE 01 — Parte II, Semente, Solo e Raízes, Capítulos 5–8;
+- LOTE 02 — Parte III, Tronco, Capítulos 9–12;
+- LOTE 03 — Parte IV, Galhos, Capítulos 13–16;
+- LOTE 04 — Parte V, Pragas, Influências e Jaulas, Capítulos 17–21;
+- LOTE 05 — Parte VI, Filtro, Evidências e Espelhos, Capítulos 22–24;
+- LOTE 06 — Parte VII, Poda, Nova Semente e Frutos, Capítulos 25–28.
+
+Pré-livro e Parte I pertencem à escrita da ETAPA 02. Os seis snapshots da ETAPA 03 continuam históricos e não são reescritos para incorporar a costura posterior.
+
+### ETAPA 04 — EPÍLOGO E COSTURA INTEGRAL — MARCO EDITORIAL CONCLUÍDO
+
+Epílogo existente recuperado; travessia integral costurada e integrada ao `main`; abertura conferida por contagem editorial; diagnóstico e pendências registrados. PA-001 permanece aberta para detalhes, com prosa segura já adotada. O fim não cria outra ferramenta e não responde à pergunta do Eu.
+
+Este fechamento não equivale a validação científica, revisão especializada, composição final ou liberação para publicação.
+
+### ETAPA 05 — AUDITORIA DE RIGOR E RISCO — PRÓXIMA
+
+Verificar alegações científicas, psicológicas, comportamentais, neurológicas, médicas, teológicas, jurídicas, estatísticas e sociais relevantes. Confrontar AF-001–AF-028 e a fila RC04-R01–RC04-R12 com o texto atual. Usar fontes realmente consultadas e adequadas à natureza de cada afirmação.
+
+Qualificar causalidades e generalizações; remover ciência decorativa; conferir segurança em violência, coerção, dependência, vigilância, filhos/dependentes e saúde. Revisar responsabilidade sem culpabilização. Nenhuma ferramenta recebe validade diagnóstica ou psicométrica presumida.
+
+Corrigir a prosa necessária, não apenas produzir um parecer. Registrar trecho, natureza, evidência, alcance, risco, decisão e redação adotada. Distinguir revisão editorial de validação especializada que não tenha ocorrido.
 
 ### ETAPA 06 — PREPARAÇÃO EDITORIAL FINAL
-- revisão de desenvolvimento final;
-- copyediting e consistência;
-- ritmo, voz, transições e títulos;
-- dicionário e termos proprietários;
-- notas/referências;
-- controle de redundância;
-- leitura corrida integral final.
+
+Revisão de desenvolvimento final, copyediting, consistência de nomes e termos, voz, ritmo, transições, títulos, notas/referências, redundância e leitura corrida integral depois da auditoria de rigor.
 
 ### ETAPA 07 — ILUSTRAÇÕES E SISTEMA VISUAL
-- produzir somente imagens funcionais aprovadas no mapa visual;
-- conferir legibilidade em celular, escala de cinza e acessibilidade;
-- criar legendas e textos alternativos;
-- impedir imagem decorativa que interrompa leitura.
+
+Produzir somente imagens funcionais governadas pelo mapa. Conferir celular, escala de cinza, legibilidade e acessibilidade; preparar legendas e textos alternativos. Não representar detalhe biográfico pendente como registro real nem acrescentar decoração que interrompa a leitura.
 
 ### ETAPA 08 — KINDLE, IMPRESSO E QA FINAL
-- montar versão Kindle refluível;
-- montar versão impressa;
-- conferir sumário/navegação;
-- revisar os primeiros 10% da amostra com a contagem final;
-- testar quebras, hierarquia, imagens e acessibilidade;
-- fechar arquivos mestres de publicação.
+
+Compor Kindle refluível e impresso; conferir sumário e navegação, hierarquia, quebras, notas, imagens e acessibilidade. Recalcular tamanho pelo corpus final e conferir o corte efetivo da amostra Kindle. Não substituir a conferência do arquivo real pela porcentagem do Markdown. Fechar arquivos mestres apenas após QA.
 
 ### ETAPA 09 — DISTRIBUIÇÃO E BÍBLIA DO CURSO
-- preparar metadados e materiais editoriais de distribuição;
-- sinopse, descrição de loja, palavras-chave e posicionamento editorial;
-- transformar a arquitetura do livro em Bíblia do curso sem criar método concorrente;
-- preservar livro como obra completa e curso como aplicação guiada.
 
-## Formato obrigatório do comando seguinte
-Todo comando entregue à Sol deverá usar este padrão:
+Preparar metadados, descrição de loja, sinopse, palavras-chave e posicionamento editorial. Transformar a arquitetura do livro em Bíblia do curso sem criar método concorrente. Livro completo; curso como aplicação guiada.
 
-> **REVISANDO E CONSTRUINDO: EXECUTE [ETAPA/LOTE].** Releia primeiro o estado atual do repositório e todos os arquivos governantes do Livro 2. Continue exclusivamente em `02_REPOSICIONE_SE/`. Preserve tudo que já foi congelado. Recupere material anterior apenas quando elevar a versão canônica sem reintroduzir redundância ou contradição. Execute escrita/edição em massa do escopo desta etapa, revise continuidade, voz, método, Leis, storytellings, exercícios, imagens previstas, segurança, fronteiras da trilogia e ponte para a etapa seguinte. Atualize os arquivos vivos necessários, registre histórico e snapshot quando aplicável. Não pare em análise se o escopo autoriza escrita. Ao concluir, entregue o **comando exato da próxima etapa**.
+## 7. Travas que atravessam as etapas
 
-## Comando atual
+Posição não é consentimento. A violência pertence a quem a pratica. Um Fruto é evidência parcial, não identidade, causa única ou certificado moral. O corpo oferece sinais, não vereditos. Contexto e recursos fazem parte do método.
 
-> **REVISANDO E CONSTRUINDO: EXECUTE A ETAPA 04 — EPÍLOGO E COSTURA INTEGRAL DO REPOSICIONE-SE.** Releia primeiro `STATUS.md`, `BIBLIA_EDITORIAL_REPOSICIONE_SE.md`, `MAPA_MAE.md`, `MATRIZ_CAPITULOS_FUNCOES.md`, `MICROARQUITETURA_28_CAPITULOS.md`, `DICIONARIO_CANONICO_DO_METODO.md`, `LEIS_DO_POSICIONAMENTO.md`, `MAPA_STORYTELLINGS.md`, `MAPA_EXERCICIOS_TESTES.md`, `MAPA_IMAGENS_ILUSTRACOES.md`, `REGISTRO_DE_ALEGACOES_E_FONTES.md`, `PENDENCIAS_AUTORA.md`, `PROTOCOLO_CONTINUIDADE_ESCRITA_EM_MASSA.md`, todos os snapshots da ETAPA 03 e TODO o manuscrito canônico de `MANUSCRITO/00_PRE_LIVRO.md` até o Capítulo 28. Continue exclusivamente em `02_REPOSICIONE_SE/`. Primeiro escreva integralmente o Epílogo `O Cajueiro Ainda Está Lá` em `MANUSCRITO/08_EPILOGO_O_CAJUEIRO_AINDA_ESTA_LA.md`, pagando literariamente a cena fundadora sem criar outra ferramenta, sem inventar detalhes biográficos ainda pendentes e sem repetir o manual. Depois faça uma leitura corrida e costura editorial do livro inteiro como uma única travessia: Pré-livro + Partes I–VII + Epílogo. Revise promessa, voz de Sol, ritmo, curva emocional/cognitiva, transições entre Partes e capítulos, redundâncias, sementes e pagamentos narrativos, distribuição das 14 Leis, coerência de Árvore/Jaula/Sofá/Porta/Filtro/Poda/Nova Semente, progressão de Lia, consistência dos Sete Frutos, carga de exercícios, repetição de slogans, ciência/alegações apenas para marcação à ETAPA 05, fronteiras com `Morte em Vida` e Livro 3, e especificamente os primeiros 10% Kindle. Não reabra arquitetura congelada por gosto; altere texto somente quando houver motivo concreto de verdade, coerência, segurança, rigor, ritmo, função pedagógica ou qualidade literária. Preserve a pergunta final do Livro 3 sem respondê-la. Se PA-001 impedir detalhe factual do Cajueiro, mantenha o Epílogo em linguagem segura já confirmada e registre a lacuna sem inventar. Produza também `MANUSCRITO/LEITURA_CORRIDA_ETAPA_04.md` com diagnóstico de costura e alterações realizadas, atualize os arquivos vivos necessários, registre `ETAPA 04` em `HISTORICO_ETAPAS.md`, atualize `STATUS.md`, crie snapshot imutável da ETAPA 04 em `ETAPAS/` e, ao concluir, entregue o **comando exato da ETAPA 05 — AUDITORIA DE RIGOR E RISCO**.
+Um episódio grave não precisa se repetir para merecer proteção. Nenhum exercício exige testar perigo ou confrontar para demonstrar coragem. Responsabilidade é proporcional à margem real e inclui reconhecer o que ainda não se sabe.
+
+Noventa segundos, 24h, 7d e 30/60/90 dias são propostas de organização, não prazos universais de mudança. As ferramentas autorais não são apresentadas como clinicamente validadas.
+
+PA-001 e as demais pendências não são resolvidas por invenção. O Cajueiro retorna pela memória; a elaboração posterior não é atribuída automaticamente à consciência da autora no encontro original. Metrôbus autobiográfico continua sem confirmação; o caso usado no Capítulo 22 é hipotético.
+
+`Morte em Vida` não é recontado. Sepultamento Simbólico não vira exercício genérico. A pergunta `quem é o Eu que está escolhendo essa nova posição?` permanece aberta para o Livro 3.
+
+## 8. Comando atual
+
+O comando exato, integral e pronto para copiar está em:
+
+**`PROMPT_PROXIMA_ETAPA_05.md`**.
+
+Sua abertura é:
+
+> **REVISANDO E CONSTRUINDO: EXECUTE A ETAPA 05 — AUDITORIA DE RIGOR E RISCO DO REPOSICIONE-SE.** Primeiro confirme o estado atual do main, releia o fechamento verificável da ETAPA 04, todos os arquivos governantes e todo o manuscrito. Continue exclusivamente em `02_REPOSICIONE_SE/`. Audite, pesquise, corrija a prosa necessária, registre decisões e pendências, verifique as gravações e feche com o comando exato da ETAPA 06 — PREPARAÇÃO EDITORIAL FINAL.
+
+Não substituir o comando integral por esta abertura resumida quando for transferir a execução.
