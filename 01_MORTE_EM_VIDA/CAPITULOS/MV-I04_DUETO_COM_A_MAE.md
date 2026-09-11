@@ -1,173 +1,104 @@
 # MV-I04 — Dueto com a Mãe
 
-**Status:** ● primeira escrita  
+**Status:** ● primeira escrita revisada; reconhecimento autoral pendente  
 **Parte:** II — Quando suportar ganhou nomes bonitos  
 **Lote:** 04 — Entrada nos papéis adultos  
-**Versão:** V1 — 10/09/2026
+**Versão:** V1.1 — revisão 13R — 10/09/2026
 
-## Controle editorial
-**Posição:** entre MV-14 e MV-15, como retorno deliberado à infância antes do dia do casamento.  
-**Função:** preservar complexidade do vínculo mãe-filha e da fé; mostrar afeto, prazer, escuta e voz compartilhada sem apagar os conflitos.  
-**Regra:** não inventar repertório, idade exata, aplausos ou apresentação específica não confirmada.
+## Controle editorial — não integrar à edição de leitura
+**Posição:** entre MV-14 e MV-15, em retorno deliberado à infância antes do casamento.  
+**Função:** preservar canto, vínculo e fé sem idealizar o dueto como espaço necessariamente livre de expectativas.  
+**Correção autoral:** registro cumulativo V4 de 09/09/2026, itens 13–18: a menina não se percebia como criança talentosa cantando com uma adulta; sentia-se crente obrigada a dar testemunho e exemplo. A compreensão de que era pequena pertence à autora de hoje.  
+**Forma:** memória e reflexão adulta explicitamente separadas. Redação literária revisada, não transcrição literal nem aprovação autoral definitiva.  
+**Limites:** sem inventar repertório, idade de uma apresentação específica, aplausos ou diálogos. A queda do tanque e o batismo aos onze têm destinos próprios no mapa da infância; este interlúdio não os substitui.  
+**Preservação:** V1 no blob `945df541eaf40321d176890430e1976392160da9`.
 
 ---
 
-## TEXTO LITERÁRIO — V1
-
-Antes de contar o dia em que minha mãe me agrediu horas antes do meu casamento, preciso voltar a uma igreja onde nós duas cantávamos juntas.
-
-Não para suavizar o que aconteceu depois.
-
-Para não mentir sobre o que existiu antes.
+## TEXTO LITERÁRIO — V1.1
 
 Minha mãe cantava comigo.
 
-Fazíamos dueto nas igrejas.
+Antes de chegar ao dia do meu casamento, preciso deixar essa lembrança existir.
 
-Fomos convidadas a cantar em ocasiões que minha memória hoje não consegue organizar numa agenda precisa. Não sei dizer qual apresentação veio primeiro, qual música escolhemos em cada uma, que roupa eu usava ou quantas pessoas estavam sentadas nos bancos.
+Nós fazíamos dueto nas igrejas. Fomos convidadas a cantar em ocasiões que hoje não consigo colocar numa ordem exata. Não guardo o repertório inteiro, as roupas de cada apresentação, os rostos nos bancos. Guardo nossas vozes juntas.
 
-Lembro do essencial.
+Eu gostava de cantar.
 
-Nossas vozes se encontravam.
+O som precisava encontrar o outro som. Eu tinha de ouvir minha mãe, acompanhar, entrar. A música não esperava que eu resolvesse o que sentia sobre nossa relação. Enquanto cantávamos, havia uma coisa concreta a fazer.
 
-Eu gostava.
+Fazer direito.
 
-Existe uma intimidade muito particular em cantar com alguém.
+Essa parte também estava lá.
 
-Uma pessoa começa.
+Hoje imagino o que as pessoas podiam ver: uma mulher e sua filha pequena cantando juntas. Talvez a presença de uma criança tornasse aquilo especial para quem ouvia. Não sei o que cada pessoa pensava.
 
-A outra precisa ouvir.
+Sei que eu não me via assim.
 
-Respirar.
+Não me sentia uma menininha fazendo uma coisa bonita ao lado da mãe. Eu me sentia uma crente. Precisava dar testemunho. Precisava ser exemplo. As responsabilidades que eu entendia ter pareciam grandes, mesmo quando minha voz ainda vinha de um corpo pequeno.
 
-Entrar no momento certo.
+Eu não pensava que, por ser criança, poderia saber menos.
 
-Sustentar a própria voz sem esmagar a voz que está ao lado.
+Não usava a idade como um lugar onde descansar da obrigação de acertar.
 
-Continuar juntas até a frase acabar.
+Eu sabia que precisava cantar direito e me comportar direito também. Uma coisa não terminava quando a música acabava.
 
-Eu não pensava nisso desse jeito quando era criança.
+Essa diferença demorou muito para eu enxergar. Na lembrança de hoje, há uma criança. Na experiência de então, havia alguém tentando corresponder ao que julgava ser uma responsabilidade muito séria diante de Deus.
 
-Eu queria cantar a música.
+Eu tinha prazer na música.
 
-Acertar.
+E tinha peso.
 
-Ouvir o resultado.
+Não preciso escolher uma dessas lembranças para apagar a outra.
 
-Sentir que nossa voz chegava até as pessoas.
+Minha mãe estava dentro das duas.
 
-Naqueles momentos, havia uma coisa que minha mãe e eu conseguíamos fazer juntas e que dava certo.
+Era a voz que eu conhecia, a pessoa que cantava ao meu lado, parte da fé e das histórias com que eu crescia. Era também alguém de quem eu tinha medo em outros momentos, cuja aprovação importava tanto que podia ocupar espaço demais dentro de mim.
 
-Isso importa.
+Quando escrevo sobre ela, encontro essas coisas juntas.
 
-Porque relacionamentos difíceis ficam falsos quando são contados apenas pelos piores dias.
-
-Se toda lembrança fosse dor, talvez fosse mais fácil organizar a história.
-
-Eu saberia onde colocar cada pessoa.
-
-Mocinho.
-
-Vilão.
-
-Vítima.
-
-Salvador.
-
-Só que minha família nunca colaborou com essa organização literária.
-
-Minha mãe podia ser uma presença que me assustava e, em outro momento, a mulher cuja voz eu procurava acompanhar.
-
-Eu podia ter medo dela e gostar profundamente de cantar ao lado dela.
-
-As duas coisas não anulam uma à outra.
-
-Na igreja, minha voz tinha motivo para sair.
-
-Eu era criança e estava diante de pessoas que queriam ouvir o que nós duas fazíamos.
-
-Talvez eu não me percebesse como “uma menininha talentosa” do jeito que um adulto olharia hoje.
-
-Eu me percebia dentro da fé.
-
-Crente.
-
-Servindo.
-
-Tentando fazer direito.
-
-Mas havia prazer.
-
-E quero protegê-lo da interpretação adulta.
-
-Nem toda música era medo.
-
-Nem toda igreja era ameaça.
-
-Nem toda experiência de fé me diminuía.
-
-A fé também me dava linguagem, pertencimento, histórias, música, encontro.
-
-E minha mãe estava dentro de parte dessa beleza.
-
-Cantando, ela não precisava explicar quem eu deveria ser.
-
-Eu não precisava explicar por que era diferente dela.
-
-Havia uma melodia entre nós.
-
-Por alguns minutos, isso bastava.
-
-Talvez por isso a lembrança seja tão importante antes do casamento.
-
-Porque a mulher que apareceria naquele dia não era uma desconhecida que entrou na história apenas para me ferir.
+Não consigo dividir a vida em uma mãe boa para as páginas de música e outra, sem relação com a primeira, para as páginas difíceis.
 
 Era minha mãe.
 
-A mulher com quem eu tinha cantado.
+A mesma mulher.
 
-A mulher cuja voz eu conhecia.
+Eu podia gostar de acompanhá-la e ainda não saber como discordar dela. Podia sentir alegria ao cantar e continuar atenta ao que precisava provar. Podia encontrar beleza na igreja e sair carregando uma exigência maior do que sabia explicar.
 
-A mulher que também havia trabalhado, adoecido, perdido, cuidado, brigado, dado ordens, assustado, alimentado e participado da construção da minha fé.
+Naquele tempo, eu não fazia essa análise.
 
-Eu não preciso inocentá-la para vê-la inteira.
+Cantava.
 
-Também não preciso destruí-la para reconhecer o que me feriu.
+Tentava acertar.
 
-Essa talvez seja uma das tarefas mais difíceis de uma memória adulta:
+Acreditava em Deus.
 
-não usar o amor para apagar o dano;
+A música não era fingimento. Minha fé também não.
 
-não usar o dano para falsificar o amor.
+Havia coisas que me fascinavam, palavras que eu gostava de ouvir, a experiência de uma voz não ficar sozinha. Nem toda lembrança de igreja é lembrança de ameaça. Seria outra maneira de perder a minha história permitir que o sofrimento escolhesse, depois, tudo o que teria direito de permanecer nela.
 
-Na infância, eu não precisava resolver essa contradição.
+Mas também seria falso limpar o canto de todas as obrigações que eu sentia.
 
-Eu cantava.
+Quando volto à menina, preciso escutar as duas coisas: a voz que queria sair e o esforço para que ela saísse do jeito certo.
 
-O que saía da minha voz encontrava a voz dela.
+Debaixo do girau, eu inventava meu próprio espaço. Cantando com minha mãe, havia outra pessoa, outras expectativas e a importância de fazer aquilo bem. Minha voz existia nos dois lugares, mas eu não me sentia do mesmo jeito dentro deles.
 
-Às vezes, isso me fazia querer cantar outra vez.
+Hoje isso me comove.
 
-Debaixo do girau, eu havia descoberto que minha voz podia criar um mundo.
+Eu gostaria de poder olhar para aquela menina sem lhe pedir nada por alguns minutos. Não uma prova de maturidade. Não um comportamento que justificasse confiança. Não uma garantia de que jamais faria alguma coisa errada.
 
-Na igreja, descobria que ela também podia encontrar outra voz e continuar sendo minha.
+Só ouvir.
 
-Eu possuía voz antes de passar tantos anos desconfiando do que dizia.
+Essa vontade é da mulher que escreve. Não vou colocá-la dentro da criança como se ela já soubesse o que lhe faltava.
 
-Possuía prazer antes de aprender a revisar cada desejo.
+A menina gostava de cantar com a mãe.
 
-Possuía vínculo com minha mãe antes de precisar compreender os limites daquele vínculo.
+A menina queria ser boa.
 
-É essa mulher inteira que eu quero levar comigo para 9 de setembro de 1994.
+O vínculo tinha beleza e tinha exigência. Foi com essa mistura, não com uma mãe inteiramente terna ou inteiramente cruel, que cheguei à adolescência.
 
-Não a caricatura.
+Por isso, ao me aproximar de 9 de setembro de 1994, não deixo essa voz para trás.
 
-Não a mãe ideal.
+Levo comigo a mulher com quem cantei.
 
-Não a inimiga perfeita.
-
-Minha mãe.
-
-A mesma voz que um dia cantou ao lado da minha.
-
-Naquela tarde, porém, nossas vozes não se encontrariam.
+E a menina que escutava, procurava sua entrada e tentava não errar.
