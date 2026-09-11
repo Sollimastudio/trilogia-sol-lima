@@ -1,230 +1,120 @@
 # MV-06 — Eu Queria Ser um Anjo
 
-**Status:** ● primeira escrita  
+**Status:** ● primeira escrita revisada; reconhecimento autoral pendente  
 **Parte:** I — A menina que aprendeu a desaparecer  
 **Lote:** 02 — Corpo, silêncio e imaginação  
-**Versão:** V1 — 10/09/2026
+**Versão:** V1.1 — revisão 13R — 10/09/2026
 
-## Controle editorial
-**Função:** conectar corpo, vergonha, pureza, religião e desejo infantil de não ter necessidades.  
-**Efeito:** ternura + humor desconfortável + compreensão crescente da lógica da menina.  
-**Retenção:** não transformar a fantasia infantil em explicação total da vida adulta nem em desejo de morte.  
-**Eco:** identidade, corpo, merecimento, desejo e direito de existir com necessidades.
+## Controle editorial — não integrar à edição de leitura
+**Função:** deixar a lógica infantil do desejo de ser anjo aparecer antes de sua interpretação adulta.  
+**Base:** `LOTES/FICHAS_CENAS_LOTE02.md`, memórias autorais sobre necessidades corporais, vergonha e pureza.  
+**Forma:** monólogo interior composto a partir dos sentidos relatados. Não é pensamento literalmente transcrito nem registro de uma única ocasião. A versão nova é proposta literária a ser reconhecida/corrigida pela autora.  
+**Limites:** desejo de não ter necessidades não será transformado em desejo de morrer, diagnóstico ou explicação determinista; a ideia infantil dos anjos não é afirmação teológica do livro; referências a puberdade pertencem ao crescimento posterior.  
+**Consulta após a queda do balanço:** o trecho de bastidor que mencionava a fala isolada “Graças a Deus, não” foi retirado do corpo de leitura. O episódio NÃO foi excluído da história: permanece pendência de recuperação contextual, com destino a decidir no arco corporal. Não confundir balanço com a queda do tanque.  
+**Preservação:** V1 recuperável pelo blob `4212172e12043885e4f3d9124d8a360c380d8d5f`; base em `ETAPAS/13R_BASE_PRE_REVISAO_2026-09-10.md`.
 
 ---
 
-## TEXTO LITERÁRIO — V1
+## TEXTO LITERÁRIO — V1.1
 
 Anjos não cagam.
 
-Na minha teologia infantil, esse era um argumento bastante convincente.
+Essa era uma vantagem difícil de superar.
 
-Talvez ninguém tivesse me ensinado exatamente isso.
+Eu queria ser anjo. Na ideia que fazia deles, não havia barriga doendo, roupa molhada nem pedido de licença que pudesse terminar num não. Eram santos. Eram limpos. Não tinham de resolver o próprio corpo antes de fazer qualquer outra coisa.
 
-Não lembro de uma professora da escola dominical desenhando no quadro uma tabela comparativa entre humanos e seres celestiais.
+Eu tinha.
 
-**Humano:** come, sua, faz xixi, faz cocô, cheira, sente vergonha.
+***
 
-**Anjo:** veste branco, tem asas e não precisa ir ao banheiro.
+Se eu fosse anjo, não precisava ir ao banheiro.
 
-Mas era mais ou menos assim que funcionava na minha cabeça.
+Podia ficar sentada até a professora terminar. Não ia apertar. Não ia doer. Não ia ter de juntar as pernas e segurar, segurar, até não conseguir mais.
 
-Eu queria ser anjo.
+Nem precisava levantar a mão.
 
-Durante muito tempo, essa lembrança parecia apenas uma daquelas excentricidades que toda criança possui. Algumas querem ser astronautas. Outras querem morar numa árvore. Eu queria resolver o problema de existir como corpo.
+Eu ficava lá e pronto. Sem sair, sem demorar, sem dar trabalho para ela.
 
-E anjo me parecia uma excelente solução.
+Anjo não faz xixi na roupa.
 
-Anjo não precisava segurar xixi.
+Também não precisa fazer cocô. Não fica com aquilo preso, querendo sair e não saindo. Não precisa que ninguém pergunte essas coisas. Eu não gosto que perguntem. Não gosto de ter de falar. Se não tivesse nada disso, não precisava contar.
 
-Não ficava apertado no meio da aula.
+Era só existir.
 
-Não precisava levantar a mão para pedir licença.
+Mas existir de outro jeito.
 
-Não molhava a roupa.
+Eu queria continuar cantando. Queria fazer minhas coisas. Só não precisava dessa parte que dói, que suja, que dá vontade quando não é hora.
 
-Não tinha intestino preso.
+E o cheiro?
 
-Não precisava explicar para médico, mãe, professora ou ninguém o que estava acontecendo dentro da barriga.
+Não tinha.
 
-Anjo não tinha cheiro ruim.
+Eu podia levantar e andar perto de todo mundo. Ninguém ia sentir nada. Eu mesma não ia sentir. Não precisava ficar parada tentando saber se alguém percebeu.
 
-Anjo não sujava nada.
-
-Anjo não dava esse tipo de trabalho.
-
-Era quase uma fraude fiscal da natureza: existir sem pagar os impostos da carne.
+Anjo deve conseguir ficar perto dos outros sem pensar nisso.
 
 Eu queria.
 
-E havia outra vantagem ainda maior.
+E já é santo. Não precisa ficar tentando ser o tempo inteiro. Já é.
 
-Anjos já eram santos.
+Se eu fosse assim, não corria o risco de fazer uma coisa errada sem saber. Não precisava lembrar de tudo o que não pode. Não precisava tomar tanto cuidado para não gostar de uma coisa que depois é pecado.
 
-Pelo menos era assim que eu os imaginava.
+Mas será que pode querer ser anjo?
 
-Eles não precisavam ficar o tempo inteiro tentando acertar.
+Deus me fez assim.
 
-Não precisavam policiar pensamento.
+Não estou falando que ele fez errado. Não é isso. É só que eu queria não precisar dessas coisas. Queria não fazer nada ruim. Anjo não dá esse trabalho. Não tem um corpo fazendo uma coisa enquanto a gente está tentando fazer outra.
 
-Não tinham aquele intervalo perigoso entre sentir alguma coisa e descobrir se sentir aquilo era permitido.
+Eu tento.
 
-Eram bons por natureza.
+Quando está apertando, seguro. Quando dói, continuo segurando. Não deixo porque quero. Só que chega uma hora em que sai mesmo assim. Eu não consigo mandar parar de precisar.
 
-Eu precisava me esforçar.
+Deus consegue.
 
-Essa diferença me impressionava.
+Se ele sabe tudo, sabe que eu não queria fazer xixi ali. Sabe que eu queria ser boa. Não precisava nem explicar, porque ele viu.
 
-Ser humana parecia exigir manutenção demais.
+Então ele sabe que eu queria ser anjo por isso também.
 
-Tinha o corpo e tinha a alma.
+Para não acontecer de novo.
 
-O corpo precisava de coisas.
+Para ficar limpa.
 
-A alma precisava não errar.
+Para não ter de pedir.
 
-O corpo fazia barulho.
+***
 
-A alma precisava vigiar até pensamento.
+Não passei a infância inteira desejando deixar o corpo. Havia canto, imaginação, brincadeira, curiosidade. Debaixo do girau, minha voz encontrava um lugar; na escola, eu também gostava de aprender. Essas lembranças existem ao lado das outras, não depois de uma infância inteiramente escura.
 
-Eu queria a versão sem defeito de fabricação.
+O desejo de ser anjo aparecia dentro dessa vida.
 
-Queria asas.
+Era a solução impossível que eu encontrava para dificuldades muito concretas. Eu não estava escrevendo uma doutrina. Estava tentando imaginar como seria não passar vergonha por precisar de coisas que não conseguia deixar de precisar.
 
-Não porque sonhasse necessariamente em voar sobre nuvens douradas.
+As asas pertenciam à imagem. O alívio que eu procurava não dependia só de voar.
 
-Voar era um bônus.
+Dependia de não ter de pedir licença para tudo.
 
-O verdadeiro luxo era não precisar negociar o tempo inteiro com a própria humanidade.
+Ao crescer, outras coisas entrariam nessa mesma conta. Menstruação, mudanças do corpo, desejo. Não pertencem todas à menina pequena sentada na escola. Vieram em seus tempos, acrescentando perguntas a uma relação comigo que já era difícil.
 
-Quanto mais eu crescia, mais a lista de inconveniências do corpo aumentava.
+O anjo da minha imaginação continuava fora daquela confusão. Sem sexo, sem sujeira, sem a possibilidade de o corpo se tornar um assunto que eu preferia esconder.
 
-A menina pequena já conhecia urina, intestino, suor, cheiro e dor.
+Hoje consigo reconhecer o tamanho da exigência escondida naquela fantasia. Para me sentir inteiramente boa, eu imaginava uma existência em que nem as necessidades humanas me comprometessem.
 
-Depois viriam outras descobertas sobre ser mulher.
+Na infância, não pensava assim.
 
-Menstruação.
+Pensava que um anjo não faria xixi na roupa.
 
-Desejo.
+A distância entre essas duas frases é a distância entre a mulher que escreve e a menina que viveu. Preciso deixá-la existir. A menina não pode receber minha compreensão pronta só porque agora eu gostaria de protegê-la com ela.
 
-Mudanças no corpo.
+Ela ainda tenta acertar.
 
-Tudo aquilo que torna uma pessoa biologicamente viva também podia parecer, na minha lógica de então, mais uma possibilidade de constrangimento, erro ou falta de controle.
-
-O anjo permanecia elegantemente fora disso.
-
-Sem sexo.
-
-Sem sujeira.
-
-Sem necessidade.
-
-Sem aquela bagunça toda que é estar vivo.
-
-Quando olho para essa menina hoje, tenho vontade de rir e abraçar ao mesmo tempo.
-
-Rir porque a solução era genial na sua completa impossibilidade.
-
-Abraçar porque por trás da fantasia havia uma pergunta muito séria:
-
-**quanto trabalho dá ter necessidades?**
-
-Eu ainda não sabia formular assim.
-
-Não dizia:
-
-— Gostaria de viver num ambiente em que minhas necessidades corporais fossem tratadas com naturalidade.
-
-Eu dizia, do jeito que uma criança consegue:
-
-quero ser anjo.
-
-O anjo era um atalho.
-
-Não precisava aprender a pedir.
-
-Não precisava aprender a receber um não.
-
-Não precisava insistir.
-
-Não precisava dizer “estou com dor”.
-
-Não precisava esperar alguém abrir espaço.
-
-Ele já existia inteiro, limpo e autorizado.
-
-Eu ainda estava tentando descobrir se ser humana era permitido sem pedir desculpa por isso.
-
-Há uma lembrança da consulta médica depois de uma queda de balanço que permaneceu ligada às questões do meu corpo. Os registros antigos guardam uma resposta curta — “Graças a Deus, não” — e eu sei que essa cena precisa existir uma única vez, não multiplicada em versões diferentes para provar um ponto.
-
-O que importa neste momento não é reproduzir uma consulta inteira que minha memória não conserva com precisão suficiente.
-
-Importa perceber o tamanho da vergonha que cercava assuntos absolutamente humanos.
-
-Urinar.
-
-Evacuar.
-
-Sentir.
-
-Precisar.
-
-O corpo fazia coisas que todo corpo faz.
-
-Eu reagia como se ele estivesse me comprometendo pessoalmente.
-
-Talvez por isso os anjos tivessem tanto prestígio na minha imaginação.
-
-Eles não tinham intestino para trair o projeto de santidade.
-
-Não havia risco de uma asa levantar no meio da igreja e alguém sentir cheiro de alguma coisa inconveniente.
-
-Essa imagem me faz rir hoje.
-
-A menina não ria.
-
-Para ela, pureza era assunto sério.
-
-Deus era assunto sério.
-
-Céu era assunto sério.
-
-Inferno era assunto seríssimo.
-
-E existia uma imagem capaz de organizar tudo isso de uma maneira que uma criança podia entender imediatamente.
+E há uma imagem que parece mostrar exatamente por onde ir.
 
 Um quadro.
 
 Dois caminhos.
 
-Um deles era largo.
+A promessa do céu de um lado. Do outro, um fim do qual ela tem medo até de pensar.
 
-Cheio de movimento.
+Eu ainda não tinha asas.
 
-Coisas acontecendo.
-
-Gente vivendo.
-
-E terminava onde eu jamais queria chegar.
-
-O outro era estreito.
-
-Difícil.
-
-Sério.
-
-E terminava no céu.
-
-Se a menina que queria não ter corpo precisava escolher entre prazer e segurança, ela sabia qual deveria escolher.
-
-Ou achava que sabia.
-
-Eu não queria correr o risco de estar errada diante de Deus.
-
-Então a fantasia do anjo encontrou uma imagem ainda mais poderosa para se apoiar.
-
-Não bastava não ter corpo.
-
-Era preciso estar do lado certo.
-
-Sempre.
+Precisava escolher onde colocar os pés.
