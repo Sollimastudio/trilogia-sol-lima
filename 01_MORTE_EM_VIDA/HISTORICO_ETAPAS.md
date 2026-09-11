@@ -270,3 +270,40 @@ Comando: `PROMPTS/ETAPA_14_COMANDO_ATUAL.md`.
 
 ## Regra de atualização
 Novas etapas são acrescentadas ao final. Não apagar etapas anteriores para fazer o histórico parecer linear ou perfeito.
+
+---
+
+## REVISÃO 13R — LEITURA GLOBAL ANTES DE CONTINUAR
+**Data:** 10/09/2026.  
+**Pedido:** “Revise tudo para continuar”.  
+**Status:** leitura de desenvolvimento das 50 unidades concluída; quatro revisões localizadas de prosa e orientação operacional gravadas.
+
+### Alcance
+Leitura do manuscrito existente, mapas e arquivos de continuidade, com confronto de correções autorais recuperadas da Biblioteca. Não equivale a revisão Beta integral, verificação independente de toda a biografia, montagem Alfa, diagramação ou aprovação para publicação.
+
+### Prosa revisada
+- MV-04 — V1.1: pensamento infantil direto e retirada de “teimosia” para interpretar medo.
+- MV-06 — V1.1: fantasia infantil de ser anjo, reflexão posterior separada e consulta do balanço preservada fora dos bastidores da prosa.
+- MV-I04 — V1.1: prazer de cantar com Elza coexistindo com obrigação de testemunho, conforme correção autoral.
+- MV-22 — V1.1: orientação religiosa corrigida para princípios bíblicos, sem nomes/números incertos; compreensão atual distinguida da culpa vivida em 2010.
+
+As formulações novas são redação literária proposta, não transcrição literal da mente nem aprovação autoral definitiva.
+
+### Organização
+Prólogo reincluído no mapa da Parte I; mapas das Partes I/II e vozes atualizados; roteiro antigo sincronizado para impedir conflito entre números históricos e etapas efetivas. ETAPA 14 continua sendo Autoria, Memória, IA e Legado. Camadas finais recebem códigos F01–F07 e não são consideradas executadas pelos números antigos.
+
+### Pendências principais
+Excesso de explicação/bastidores, repetições, antecipação de descobertas, ritmo fragmentado, densidade de acontecimentos conjugais, integração de queda do tanque/batismo e consulta do balanço, reservas da infância, datas e documentos pendentes, escrita do encerramento e futura Beta.
+
+O comando da ETAPA 14 passou a exigir cuidado com a interpretação de Mãe-Véia, divergência 22/25 de dezembro de 2025, distinção Sepultamento aos 39/diagnóstico referido aos 43 e relato mais recente de manejo dos tremores. Nenhuma data conflitante foi decidida por suposição.
+
+### Registros
+- `LOTES/REVISAO_GLOBAL_POS_ETAPA13.md` — inventário comentado das 50 unidades e prioridades;
+- `ETAPAS/13R_BASE_PRE_REVISAO_2026-09-10.md` — referências anteriores;
+- `ETAPAS/13R_REVISAO_GLOBAL_2026-09-10.md` — fechamento da revisão.
+
+### Preservação
+Snapsh​ots históricos 00–13 não foram alterados. Versões anteriores dos textos permanecem no Git. Nenhuma alteração foi feita nas pastas dos Livros 2/3 ou no Universo Mestre nesta revisão.
+
+### Saída
+**50 unidades continuam existentes. ETAPA 14 preparada, não executada.** Pode continuar a produção; não declarar o livro pronto para publicar.
