@@ -1,0 +1,107 @@
+[
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md",
+    "antes": "manuscrito canônico vivo — ETAPA 04",
+    "depois": "manuscrito canônico vivo — ETAPA 05",
+    "ocorrencias": 1,
+    "motivo": "Atualização do marco editorial, sem alteração da arquitetura."
+  },
+  {
+    "arquivo": "MANUSCRITO_CANONICO.md",
+    "antes": "Lívia, a criadora apresentada no capítulo anterior,",
+    "depois": "Lívia, a criadora apresentada na Parte II,",
+    "ocorrencias": 1,
+    "motivo": "Correção da remissão no capítulo 11: Lívia foi apresentada no capítulo 8, não no 10."
+  },
+  {
+    "arquivo": "PRODUCAO_ETAPA_05/13_ABERTURA_E_NOMES.md",
+    "antes": "### Um nome útil que não tomou a oficina\n\nNuma outra situação composta, uma restauradora recebia clientes que a chamavam de especialista. Tinha anos de trabalho, conhecia materiais e sabia reconhecer danos que passavam despercebidos. O nome ajudava a comunicar competência.\n\nCerto dia, recebeu uma peça com um acabamento que não sabia identificar com segurança. A cliente já falava em valor e prazo. A restauradora poderia ter aceitado para preservar a imagem de quem sempre sabe. Em vez disso, explicou o que reconhecia, o que ainda não reconhecia e por que outra avaliação seria necessária.\n\nPerdeu a encomenda naquela semana. Não perdeu a profissão.\n\nA competência do contracaso não está numa indiferença heroica ao dinheiro. Talvez a recusa pesasse no orçamento. Está em conservar critérios que permitem à especialidade ter uma fronteira. A palavra especialista não recebeu o direito de obrigá-la a simular conhecimento.\n\nA mesma profissional pode aprender a técnica e, mais tarde, aceitar uma peça semelhante. Não precisará negar a cautela anterior para provar evolução. O nome permanece útil porque acompanha o trabalho, em vez de exigir que o trabalho represente onisciência.\n\nHá pessoas que usam nomes desse modo: como referências suficientemente estáveis para orientar e suficientemente delimitadas para continuar aprendendo. Nem toda estabilidade é rigidez. Nem toda alteração é progresso. Uma categoria pode durar muitos anos e ainda ser vivida com autoria.\n\n",
+    "depois": "### Um nome útil que não tomou a mesa de trabalho\n\nNuma outra situação composta, uma tradutora recebia clientes que a chamavam de especialista. Tinha anos de trabalho, livros publicados e experiência em escolhas de linguagem que passavam despercebidas a quem apenas conhecia os idiomas. O nome ajudava a comunicar competência.\n\nCerto dia, recebeu um manual de equipamento cuja terminologia não dominava com segurança. O cliente já falava em valor e prazo. Ela poderia ter aceitado para preservar a imagem de quem sempre sabe. Em vez disso, explicou o que conseguiria fazer e por que o projeto exigiria experiência técnica que não possuía naquele momento. Indicou outra profissional.\n\nPerdeu a encomenda naquela semana. Não perdeu a profissão.\n\nA competência do contracaso não está numa indiferença heroica ao dinheiro. Talvez a recusa pesasse no orçamento. Está em conservar critérios que permitem à especialidade ter uma fronteira. A palavra especialista não recebeu o direito de obrigá-la a simular conhecimento.\n\nA mesma profissional pode estudar aquele campo e, mais tarde, participar de um projeto semelhante. Não precisará negar a cautela anterior para provar evolução. O nome permanece útil porque acompanha o trabalho, em vez de exigir que o trabalho represente onisciência.\n\nHá pessoas que usam nomes desse modo: como referências suficientemente estáveis para orientar e suficientemente delimitadas para continuar aprendendo. Nem toda estabilidade é rigidez. Nem toda alteração é progresso. Uma categoria pode durar muitos anos e ainda ser vivida com autoria.\n\n",
+    "ocorrencias": 1,
+    "motivo": "Varia o contracaso de competência delimitada: a restauração já ilustrava revisão e limite técnico no capítulo 10. Mantém função identitária com tradução."
+  },
+  {
+    "arquivo": "PRODUCAO_ETAPA_05/16_SUCESSO_E_FECHAMENTO.md",
+    "antes": "Sônia não precisou negar a causa para reconhecer uma tarde que não lhe pertencia.",
+    "depois": "Sônia não precisou negar a causa para reconhecer uma tarde que não pertencia à associação.",
+    "ocorrencias": 1,
+    "motivo": "Esclarece o referente: a tarde não pertencia à associação, não se nega a autonomia de Sônia."
+  },
+  {
+    "arquivo": "REFERENCIAS_DE_TRABALHO.md",
+    "antes": "**Escopo:** referências efetivamente utilizadas nas Partes II e III e verificações feitas na ETAPA 04.",
+    "depois": "**Escopo:** referências utilizadas nas Partes II–IV; verificações da ETAPA 04 preservadas e cinco fontes consultadas na ETAPA 05.",
+    "ocorrencias": 1,
+    "motivo": "Atualiza o escopo sem declarar nova reconferência integral das fontes anteriores."
+  },
+  {
+    "arquivo": "STATUS.md",
+    "antes": "| Migração dos 24 capítulos | ✓ | Matriz de reaproveitamento criada. |",
+    "depois": "| Matriz de migração dos 24 capítulos | ✓ | Planejamento de reaproveitamento criado; integração textual continua por etapa. |",
+    "ocorrencias": 1,
+    "motivo": "Distingue matriz concluída de migração integral ainda não concluída."
+  },
+  {
+    "arquivo": "STATUS.md",
+    "antes": "`MANUSCRITO_CANONICO.md` contém abertura + Partes I, II e III, capítulos 1–12.",
+    "depois": "`MANUSCRITO_CANONICO.md` contém abertura + Partes I–IV, capítulos 1–16.",
+    "ocorrencias": 1,
+    "motivo": "Atualiza extensão efetivamente integrada."
+  },
+  {
+    "arquivo": "STATUS.md",
+    "antes": "| Parte IV — O Eu Emprestado em Funcionamento | ◐ | Próxima frente: ETAPA 05, Caps. 13–16, conforme prompt específico. |",
+    "depois": "| Parte IV — O Eu Emprestado em Funcionamento | ◉ | Caps. 13–16 completos, revisados e integrados; snapshot integral da ETAPA 05 conferido; leitura autoral pendente. |",
+    "ocorrencias": 1,
+    "motivo": "Registra a execução sem antecipar aprovação autoral."
+  },
+  {
+    "arquivo": "STATUS.md",
+    "antes": "| Parte V — Quando Fugir de Si Parece Liberdade | ◐ | Material legado forte; hierarquia revisada. |",
+    "depois": "| Parte V — Quando Fugir de Si Parece Liberdade | ◐ | Próxima frente: ETAPA 06, Caps. 17–20, conforme prompt específico. |",
+    "ocorrencias": 1,
+    "motivo": "Atualiza a próxima frente."
+  },
+  {
+    "arquivo": "STATUS.md",
+    "antes": "### Marco atual — ETAPA 04",
+    "depois": "### Marco histórico — ETAPA 04",
+    "ocorrencias": 1,
+    "motivo": "Preserva os dados do marco anterior com rótulo histórico."
+  },
+  {
+    "arquivo": "STATUS.md",
+    "antes": "| Pesquisa e referências | ◑ | Parte II recebeu atualização de fontes sobre desenvolvimento identitário, autonomia/controle parental, recomendação, comparação social e relações parassociais; migração continua por capítulo. |",
+    "depois": "| Pesquisa e referências | ◑ | Registros das Partes II–III preservados; cinco fontes da Parte IV verificadas e registradas com limites; não se trata de revisão sistemática. |",
+    "ocorrencias": 1,
+    "motivo": "Distingue verificação desta etapa de fontes herdadas."
+  },
+  {
+    "arquivo": "STATUS.md",
+    "antes": "## ETAPA ATIVA / PRÓXIMA\n\n**ETAPA 05 — PARTE IV: O EU EMPRESTADO EM FUNCIONAMENTO**\n\nExecutar `PROMPT_PROXIMA_ETAPA_05.md`, escrevendo abertura, capítulos 13–16 e fechamento. Preservar capítulos anteriores, conferir o estado vivo e os hashes antes de atualizar, revisar o conjunto, registrar fontes e alterações, atualizar histórico/status, congelar snapshot integral e preparar a ETAPA 06.\n\nCapítulos: 13 — Nomes que acolhem, rótulos que aprisionam; 14 — Quando o movimento começa a usar a pessoa; 15 — O Eu automático; 16 — O desaparecimento dentro do sucesso.\n\n**Execução editorial não equivale a aprovação autoral, validação clínica ou autorização de publicação.**\n",
+    "depois": "### Marco atual — ETAPA 05\n\n**ETAPA 05 — Parte IV: O Eu Emprestado em Funcionamento:** escrita e revisão executadas; integração e integridade conferidas; leitura autoral pendente.\n\n- Manuscrito: 46.591 palavras, capítulos 1–16.\n- Parte IV: 12.064 palavras, incluindo abertura e fechamento.\n- Snapshot: `ETAPAS/05_PARTE_IV_EU_EMPRESTADO_2026-09-10.md`.\n- Git blob de manuscrito e snapshot: `02ea8037ae0a363e17a1aab8d99059c276deb58b`.\n- SHA-256: `1ef83243560d8486b03854321bf98dcc6407ec91652ed01b7edad97972a377b3`.\n- Registros: `REGISTRO_EDITORIAL_ETAPA_05.md`, `REVISOES_ETAPA_05.json`, `QA_ETAPA_05.json` e referências de trabalho.\n- Os seis arquivos históricos anteriores de ETAPAS permanecem intactos.\n\n## ETAPA ATIVA / PRÓXIMA\n\n**ETAPA 06 — PARTE V: QUANDO FUGIR DE SI PARECE LIBERDADE**\n\nExecutar `PROMPT_PROXIMA_ETAPA_06.md`: abertura, capítulos 17–20, fechamento e ponte para Parte VI. Os capítulos são Fuga cognitiva; Propósito emprestado; Quando o outro vira função; Autenticidade sem responsabilidade. Preservar versões, personagens e limites conceituais; revisar o conjunto, registrar fontes, salvar snapshot integral e preparar a ETAPA 07.\n\n**Execução editorial não equivale a aprovação autoral, validação clínica, conclusão dos 24 capítulos ou liberação para publicação.**\n",
+    "ocorrencias": 1,
+    "motivo": "Registra o marco atual e a próxima execução com hashes verificados."
+  },
+  {
+    "arquivo": "MAPA_MAE.md",
+    "antes": "**Arquitetura consolidada na ETAPA 01; produção atualizada até a ETAPA 04**",
+    "depois": "**Arquitetura consolidada na ETAPA 01; produção atualizada até a ETAPA 05**",
+    "ocorrencias": 1,
+    "motivo": "Atualiza progresso, não arquitetura."
+  },
+  {
+    "arquivo": "MAPA_MAE.md",
+    "antes": "**Snapshot anterior:** `ETAPAS/00_ESTRUTURA_BASE_2026-09-10.md`",
+    "depois": "**Snapshot estrutural inicial:** `ETAPAS/00_ESTRUTURA_BASE_2026-09-10.md`",
+    "ocorrencias": 1,
+    "motivo": "Evita confundir marco inicial com o snapshot mais recente."
+  },
+  {
+    "arquivo": "MAPA_MAE.md",
+    "antes": "# 10. ESTADO\n\nETAPAS 00 e 01 preservadas; ETAPAS 02, 03 e 04 com escrita e revisão executadas. O manuscrito vivo contém abertura e Partes I–III, capítulos 1–12. Aprovação autoral e publicação continuam pendentes.\n\nA arquitetura deste mapa não foi alterada na ETAPA 04. Correções conceituais e de continuidade estão documentadas no registro editorial, especialmente a distinção entre fusão científica e metáfora autoral.\n\nPróxima frente: **ETAPA 05 — Parte IV: O Eu Emprestado em Funcionamento**, capítulos 13–16. Seguir `PROMPT_PROXIMA_ETAPA_05.md` e `STATUS.md`.\n",
+    "depois": "# 10. ESTADO\n\nETAPAS 00 e 01 preservadas; ETAPAS 02–05 com escrita e revisão executadas. O manuscrito vivo contém abertura e Partes I–IV, capítulos 1–16. Aprovação autoral e publicação continuam pendentes.\n\nA arquitetura de seis partes e 24 capítulos não foi alterada. As correções da ETAPA 04, especialmente a distinção entre fusão científica e metáfora autoral, foram preservadas. A ETAPA 05 acrescentou nomes, causas, automatismo e sucesso com funções próprias; atualizou uma remissão a Lívia e registrou ajustes no novo texto.\n\nPróxima frente: **ETAPA 06 — Parte V: Quando Fugir de Si Parece Liberdade**, capítulos 17–20. Seguir `PROMPT_PROXIMA_ETAPA_06.md`, `STATUS.md` e `QA_ETAPA_05.json`.\n",
+    "ocorrencias": 1,
+    "motivo": "Sincroniza estado com a escrita efetiva e a próxima parte."
+  }
+]

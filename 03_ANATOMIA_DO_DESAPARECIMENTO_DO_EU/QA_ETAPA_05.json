@@ -1,0 +1,107 @@
+{
+  "etapa": "05",
+  "data_local": "2026-09-10",
+  "escopo": "abertura e Partes I–IV; capítulos 1–16",
+  "metodo_contagem": "regex lexical Unicode \\b[\\wÀ-ÿ]+(?:[-’'][\\wÀ-ÿ]+)*\\b; inclui títulos e chamadas autor-data; não equivale a páginas",
+  "palavras_base": 34527,
+  "palavras_base_apos_revisao": 34527,
+  "palavras_parte_IV": 12064,
+  "palavras_manuscrito": 46591,
+  "palavras_por_capitulo": {
+    "1": 1614,
+    "2": 1522,
+    "3": 1852,
+    "4": 1748,
+    "5": 2300,
+    "6": 2021,
+    "7": 2043,
+    "8": 3120,
+    "9": 2720,
+    "10": 2898,
+    "11": 3289,
+    "12": 4021,
+    "13": 2580,
+    "14": 2775,
+    "15": 2867,
+    "16": 2895
+  },
+  "palavras_abertura_parte_IV": 435,
+  "palavras_fechamento_parte_IV": 512,
+  "bytes_manuscrito": 317662,
+  "git_blob_base": "5bdf895efd012b9b3c6b62d2b322971b264b9e29",
+  "git_blob_manuscrito_e_snapshot": "02ea8037ae0a363e17a1aab8d99059c276deb58b",
+  "sha256_manuscrito_e_snapshot": "1ef83243560d8486b03854321bf98dcc6407ec91652ed01b7edad97972a377b3",
+  "snapshot": "ETAPAS/05_PARTE_IV_EU_EMPRESTADO_2026-09-10.md",
+  "snapshot_identico": true,
+  "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "partes": [
+    "I",
+    "II",
+    "III",
+    "IV"
+  ],
+  "bases_verificadas": {
+    "MANUSCRITO_CANONICO.md": "5bdf895efd012b9b3c6b62d2b322971b264b9e29",
+    "STATUS.md": "79a208331981ca920e020dec1e0f6f7b4c9a12e4",
+    "HISTORICO_ETAPAS.md": "8f29e274557ce479fe094205df7a85bd80abb4c4",
+    "REFERENCIAS_DE_TRABALHO.md": "82bfc363a89ba59c0187a93769b6060b6c55058b",
+    "MAPA_MAE.md": "f9807db2db4764b6116a1ddbc65d0c894f6947ce",
+    "PRODUCAO_ETAPA_05/13_ABERTURA_E_NOMES.md": "d85b49087c18b00cdeac6ffc4ef92ee7b78bcf2a",
+    "PRODUCAO_ETAPA_05/14_MOVIMENTO.md": "1c754f6bd5d6f8506a9334afb61b7394f74a1425",
+    "PRODUCAO_ETAPA_05/15_EU_AUTOMATICO.md": "0c24b475fd894f089fc9d1c738153ab9a8ef7bc9",
+    "PRODUCAO_ETAPA_05/16_SUCESSO_E_FECHAMENTO.md": "65c917b7221a90ad14d3f0b06b4f8145c34646ff",
+    "PRODUCAO_ETAPA_05/REFERENCIAS_ACRESCIMO.md": "8ee2eb1043abad938e61b5b6f3f3e26173a1fe59",
+    "PROMPT_PROXIMA_ETAPA_06.md": "1e93ed8e9f6cd08ca5b80d8715b507c470ec0da4"
+  },
+  "snapshots_anteriores_sha256": {
+    "ETAPAS/03_PARTE_II_BLOCO_PRODUCAO_2026-09-10.md": "3d4412d61627ba0f69ab70a40a9f64139f4dc2fd764ced94ac441eb020fe3687",
+    "ETAPAS/03_PARTE_II_ESPELHOS_2026-09-10.md": "6ec42cebfd51f83c6a4d659c97897157d2c8b3187f335cb6a0ef294370c9daed",
+    "ETAPAS/00_ESTRUTURA_BASE_2026-09-10.md": "18058a7093004e4951ee5b5b622c84b7ac633b2e5d112f1aee8e882ab8bfdbf9",
+    "ETAPAS/04_PARTE_III_ANATOMIA_OCUPACAO_2026-09-10.md": "656b75851e4caf005713d2abf610b7758e40eb687e43315df86baac43a854e86",
+    "ETAPAS/01_AUDITORIA_CONSOLIDACAO_2026-09-10.md": "bb3935f7bce511639a651dd9882528fb14373ffc58018f6e7214a71665c0fe3a",
+    "ETAPAS/02_ABERTURA_PARTE_I_2026-09-10.md": "f95d9a6cdb4cebee674dfdc1ace6758e2e874d3d6e22d03fa4e39d86a2e57757"
+  },
+  "blocos_revisados": {
+    "13_ABERTURA_E_NOMES.md": {
+      "palavras": 3015,
+      "git_blob_sha": "ecc57b105f8e5729e914f6569498eef481aab9a5"
+    },
+    "14_MOVIMENTO.md": {
+      "palavras": 2775,
+      "git_blob_sha": "1c754f6bd5d6f8506a9334afb61b7394f74a1425"
+    },
+    "15_EU_AUTOMATICO.md": {
+      "palavras": 2867,
+      "git_blob_sha": "0c24b475fd894f089fc9d1c738153ab9a8ef7bc9"
+    },
+    "16_SUCESSO_E_FECHAMENTO.md": {
+      "palavras": 3407,
+      "git_blob_sha": "cf7ae099ef447a57dc035d83ddf9caa4e0c601da"
+    }
+  },
+  "alteracoes_documentadas_total": 15,
+  "alteracoes_manuscrito_blocos_e_cabecalho": 4,
+  "paragrafos_exatamente_duplicados_35_palavras": [],
+  "chamadas_novas_pareadas_com_referencias": 5,
+  "historico_anterior_preservado_integralmente": true,
+  "aprovacao_autoral": false,
+  "publicacao_aprovada": false,
+  "limites": "QA estrutural e revisão editorial. Ausência de duplicatas exatas não prova ausência de toda repetição semântica. Não valida conceitos clínicos nem constitui revisão sistemática."
+}

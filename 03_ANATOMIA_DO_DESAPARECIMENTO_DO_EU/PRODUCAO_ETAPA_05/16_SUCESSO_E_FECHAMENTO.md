@@ -208,7 +208,7 @@ Não basta saber como o Eu emprestado funciona. Precisaremos observar por que ce
 
 ## Quando a vida pede uma atualização
 
-Cecília não precisou rasgar o cartão para devolver tamanho à palavra artista. Sônia não precisou negar a causa para reconhecer uma tarde que não lhe pertencia. Marina não precisou abandonar competência para examinar uma urgência. Augusto não precisou chamar o sucesso de fraude para admitir que desejava mudar sua participação.
+Cecília não precisou rasgar o cartão para devolver tamanho à palavra artista. Sônia não precisou negar a causa para reconhecer uma tarde que não pertencia à associação. Marina não precisou abandonar competência para examinar uma urgência. Augusto não precisou chamar o sucesso de fraude para admitir que desejava mudar sua participação.
 
 Essas diferenças importam porque uma investigação apressada poderia oferecer a mesma resposta a todos: rompa, abandone, reinvente-se, seja outra pessoa. Seria um novo conjunto de ordens, apenas com palavras mais atraentes.
 

@@ -142,17 +142,17 @@ Também há nomes que a pessoa não pode alterar sozinha porque descrevem respon
 
 A tarefa é delimitar o alcance da palavra, não torná-la inútil sempre que incomoda.
 
-### Um nome útil que não tomou a oficina
+### Um nome útil que não tomou a mesa de trabalho
 
-Numa outra situação composta, uma restauradora recebia clientes que a chamavam de especialista. Tinha anos de trabalho, conhecia materiais e sabia reconhecer danos que passavam despercebidos. O nome ajudava a comunicar competência.
+Numa outra situação composta, uma tradutora recebia clientes que a chamavam de especialista. Tinha anos de trabalho, livros publicados e experiência em escolhas de linguagem que passavam despercebidas a quem apenas conhecia os idiomas. O nome ajudava a comunicar competência.
 
-Certo dia, recebeu uma peça com um acabamento que não sabia identificar com segurança. A cliente já falava em valor e prazo. A restauradora poderia ter aceitado para preservar a imagem de quem sempre sabe. Em vez disso, explicou o que reconhecia, o que ainda não reconhecia e por que outra avaliação seria necessária.
+Certo dia, recebeu um manual de equipamento cuja terminologia não dominava com segurança. O cliente já falava em valor e prazo. Ela poderia ter aceitado para preservar a imagem de quem sempre sabe. Em vez disso, explicou o que conseguiria fazer e por que o projeto exigiria experiência técnica que não possuía naquele momento. Indicou outra profissional.
 
 Perdeu a encomenda naquela semana. Não perdeu a profissão.
 
 A competência do contracaso não está numa indiferença heroica ao dinheiro. Talvez a recusa pesasse no orçamento. Está em conservar critérios que permitem à especialidade ter uma fronteira. A palavra especialista não recebeu o direito de obrigá-la a simular conhecimento.
 
-A mesma profissional pode aprender a técnica e, mais tarde, aceitar uma peça semelhante. Não precisará negar a cautela anterior para provar evolução. O nome permanece útil porque acompanha o trabalho, em vez de exigir que o trabalho represente onisciência.
+A mesma profissional pode estudar aquele campo e, mais tarde, participar de um projeto semelhante. Não precisará negar a cautela anterior para provar evolução. O nome permanece útil porque acompanha o trabalho, em vez de exigir que o trabalho represente onisciência.
 
 Há pessoas que usam nomes desse modo: como referências suficientemente estáveis para orientar e suficientemente delimitadas para continuar aprendendo. Nem toda estabilidade é rigidez. Nem toda alteração é progresso. Uma categoria pode durar muitos anos e ainda ser vivida com autoria.
 

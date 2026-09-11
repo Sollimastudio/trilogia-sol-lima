@@ -222,3 +222,29 @@ Leitura e aprovação autoral; escrita das Partes IV–VI e epílogo; lapidaçã
 ETAPA 05 — Parte IV, capítulos 13–16. Comando integral em `PROMPT_PROXIMA_ETAPA_05.md`.
 
 **Estado:** execução editorial concluída; obra ainda não aprovada para publicação.
+
+---
+
+## ETAPA 05 — PARTE IV: O EU EMPRESTADO EM FUNCIONAMENTO
+
+**Data local:** 10/09/2026.  
+**Entrada:** abertura e Partes I–III, capítulos 1–12, blob `5bdf895efd012b9b3c6b62d2b322971b264b9e29`.  
+**Estado:** execução editorial concluída; leitura e aprovação autoral permanecem pendentes.
+
+### Escrita e integração
+
+Abertura e fechamento da Parte IV; capítulo 13 — Nomes que acolhem, rótulos que aprisionam; 14 — Quando o movimento começa a usar a pessoa; 15 — O Eu automático; 16 — O desaparecimento dentro do sucesso. Parte nova com 12.064 palavras; acumulado com 46.591. Contagem lexical Unicode, títulos e chamadas autor-data incluídos.
+
+### Revisão e migração
+
+Consultados por função os antigos capítulos 11 e 12 da Camada 11 do legado; preservados nomes como recursos, causa legítima, critério consistente e pertencimento sem posse. Não foi importado um catálogo de guerras culturais. Fontes externas específicas verificadas; referências herdadas preservadas sem alegar nova revisão sistemática.
+
+Lívia permanece criadora; Marina permanece funcionária e retorna no capítulo 15. Cecília, Sônia e Augusto são novos casos compostos. Corrigida uma remissão de Lívia no capítulo 11. No texto novo, variado o contracaso técnico para não repetir a restauração do capítulo 10 e esclarecido o referente de uma frase sobre a tarde de Sônia. Cabeçalho e arquivos de controle foram atualizados; cada substituição está documentada.
+
+### Integridade
+
+Snapshot `ETAPAS/05_PARTE_IV_EU_EMPRESTADO_2026-09-10.md` idêntico ao manuscrito. Git blob `02ea8037ae0a363e17a1aab8d99059c276deb58b`; SHA-256 `1ef83243560d8486b03854321bf98dcc6407ec91652ed01b7edad97972a377b3`. Capítulos 1–16 em sequência, quatro partes, notas e introdução. Os seis snapshots/arquivos históricos anteriores de ETAPAS foram mantidos byte a byte. Histórico anterior preservado por acréscimo.
+
+### Pendências e próxima etapa
+
+Leitura autoral; Partes V–VI e epílogo; lapidação global, bibliografia final, figuras e diagramação. Não há validação clínica ou autorização de publicação. Próxima execução: ETAPA 06, Parte V, capítulos 17–20, conforme `PROMPT_PROXIMA_ETAPA_06.md`.

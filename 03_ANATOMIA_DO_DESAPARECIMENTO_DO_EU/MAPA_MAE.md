@@ -1,8 +1,8 @@
 # MAPA-MÃE — LIVRO 3 — FUGA IDENTITÁRIA / ANATOMIA DO DESAPARECIMENTO DO EU
 
-**Arquitetura consolidada na ETAPA 01; produção atualizada até a ETAPA 04**  
+**Arquitetura consolidada na ETAPA 01; produção atualizada até a ETAPA 05**  
 **Data:** 10/09/2026  
-**Snapshot anterior:** `ETAPAS/00_ESTRUTURA_BASE_2026-09-10.md`  
+**Snapshot estrutural inicial:** `ETAPAS/00_ESTRUTURA_BASE_2026-09-10.md`  
 **Auditoria:** `AUDITORIA_LEGADO_ETAPA_01.md`  
 **Matriz de migração:** `MATRIZ_MIGRACAO_LEGADO_24_CAPITULOS.md`
 
@@ -321,8 +321,8 @@ A última imagem deve comunicar:
 
 # 10. ESTADO
 
-ETAPAS 00 e 01 preservadas; ETAPAS 02, 03 e 04 com escrita e revisão executadas. O manuscrito vivo contém abertura e Partes I–III, capítulos 1–12. Aprovação autoral e publicação continuam pendentes.
+ETAPAS 00 e 01 preservadas; ETAPAS 02–05 com escrita e revisão executadas. O manuscrito vivo contém abertura e Partes I–IV, capítulos 1–16. Aprovação autoral e publicação continuam pendentes.
 
-A arquitetura deste mapa não foi alterada na ETAPA 04. Correções conceituais e de continuidade estão documentadas no registro editorial, especialmente a distinção entre fusão científica e metáfora autoral.
+A arquitetura de seis partes e 24 capítulos não foi alterada. As correções da ETAPA 04, especialmente a distinção entre fusão científica e metáfora autoral, foram preservadas. A ETAPA 05 acrescentou nomes, causas, automatismo e sucesso com funções próprias; atualizou uma remissão a Lívia e registrou ajustes no novo texto.
 
-Próxima frente: **ETAPA 05 — Parte IV: O Eu Emprestado em Funcionamento**, capítulos 13–16. Seguir `PROMPT_PROXIMA_ETAPA_05.md` e `STATUS.md`.
+Próxima frente: **ETAPA 06 — Parte V: Quando Fugir de Si Parece Liberdade**, capítulos 17–20. Seguir `PROMPT_PROXIMA_ETAPA_06.md`, `STATUS.md` e `QA_ETAPA_05.json`.
