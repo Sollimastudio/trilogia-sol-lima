@@ -1,4 +1,4 @@
-name: Livro 3 ETAPA 07 leitura e integridade
+name: Livro 3 ETAPA 07 revisao completa
 on:
   push:
     branches: [main]
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Exportar somente fontes editoriais autorizadas
+      - name: Exportar texto, fontes e continuidade para conferência
         run: |
           mkdir -p /tmp/livro3-etapa07
           cp -R 00_UNIVERSO_MESTRE /tmp/livro3-etapa07/
@@ -24,6 +24,6 @@ jobs:
           git rev-parse HEAD > /tmp/livro3-etapa07/COMMIT_ORIGEM.txt
       - uses: actions/upload-artifact@v4
         with:
-          name: livro3-etapa07-leitura
+          name: livro3-etapa07-revisao-completa
           path: /tmp/livro3-etapa07/
           retention-days: 7
