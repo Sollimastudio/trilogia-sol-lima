@@ -1,0 +1,19 @@
+{
+  "obra": "Morte em Vida",
+  "autora": "Sol Lima",
+  "subtitulo": "A Anatomia de um Feminicídio Emocional",
+  "linha_complementar": "A Cadáver que Tomava Café",
+  "versao": "A1 — prova de desenvolvimento, não edição final",
+  "total_unidades": 55,
+  "resolucao_arquivo": "Buscar CAPITULOS/<codigo>_*.md, exigindo exatamente uma correspondência. Não ordenar alfabeticamente. Extrair somente o corpo posterior a TEXTO LITERÁRIO ou NOTA FORENSE — EXAME PRELIMINAR / NOTA FORENSE FINAL.",
+  "grupos": [
+    {"tipo":"abertura","titulo":"Abertura","unidades":["MV-00","MV-P01"]},
+    {"tipo":"parte","numero":"I","titulo":"A menina que aprendeu a desaparecer","unidades":["MV-01","MV-02","MV-03","MV-03A","MV-03B","MV-I01","MV-04","MV-05","MV-06","MV-07","MV-07A","MV-08","MV-09","MV-10","MV-10A","MV-11"]},
+    {"tipo":"parte","numero":"II","titulo":"Quando suportar ganhou nomes bonitos","unidades":["MV-12","MV-13","MV-14","MV-I04","MV-15","MV-16","MV-17","MV-18","MV-19","MV-20","MV-21","MV-22","MV-M01"]},
+    {"tipo":"parte","numero":"III","titulo":"A Cadáver que Tomava Café","unidades":["MV-I05","MV-23","MV-24","MV-25","MV-26","MV-27","MV-28","MV-29","MV-30","MV-31","MV-32","MV-33","MV-34","MV-35"]},
+    {"tipo":"parte","numero":"IV","titulo":"A Autópsia da Alma","unidades":["MV-36","MV-37","MV-38","MV-39","MV-I06","MV-40","MV-41","MV-42"]},
+    {"tipo":"encerramento","titulo":"Encerramento","unidades":["MV-E01","MV-NF01"]}
+  ],
+  "reservas_fora_do_miolo":["Reino das Galinhas","MV-I02 — Mangas","MV-I03 — Caminho das Águas","Consulta após a queda do balanço"],
+  "travas":["As novas redações não equivalem a aprovação autoral definitiva.","Não incorporar controles editoriais ao corpo de leitura.","Não suprimir silenciosamente parágrafos do manuscrito.","Não apresentar a prova como publicação pronta.","Não converter memórias ou ilustrações em documentos comprobatórios.","Epílogo seguido de uma única Nota Forense Final / Laudo literário.","A infância inserida não altera a ordem do monólogo pós-divórcio nem o clímax."]
+}
