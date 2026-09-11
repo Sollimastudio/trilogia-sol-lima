@@ -1,158 +1,82 @@
-# ROTEIRO DE ETAPAS E COMANDOS — MORTE EM VIDA
+# ROTEIRO VIGENTE DE ETAPAS — MORTE EM VIDA
 
-## Como usar
-Cada etapa abaixo corresponde a um marco de produção. O chat responsável deve executar o comando indicado, atualizar os arquivos vivos e congelar snapshot ao final.
+**Versão:** 2 — revisão 13R — 10/09/2026.
 
----
+## Correção de precedência
 
-## ETAPA 02 — LOTE 00 + LOTE 01
-**Unidades:** MV-00, MV-01, MV-02, MV-03, MV-I01.
+O roteiro inicial perdeu sincronização com a produção real. Nele, ETAPA 12 significava montagem Alfa, ETAPA 13 significava continuidade e ETAPA 14 significava verificação factual. **Esses números NÃO correspondem mais ao trabalho executado.**
 
-**Objetivo:** fixar voz-mãe, instalar mistério, origem, vida/morte e apego à menina.
+Na sequência vigente, ETAPA 12 é a Investigadora, ETAPA 13 é a Mulher e a recuperação das vozes, e ETAPA 14 é Autoria, Memória, IA e Legado. A montagem Alfa e a revisão factual continuam obrigatórias, mas não foram executadas apenas porque seus antigos números já passaram.
 
-**Comando:**
-> Execute a ETAPA 02 de Morte em Vida. Leia governança, mapa-mãe, mapa de capítulos, pipeline, dossiê do Lote 00+01 e todos os arquivos de capítulo do lote. Primeiro resolva apenas as lacunas indispensáveis; depois escreva/revise MV-00, MV-01, MV-02, MV-03 e MV-I01 em arquivos separados. Garanta a curva mistério → tensão → nascimento/morte → memória familiar → vida/humor. Não feche causalidades psicológicas. Aplique os Prompts 02, 03, 04, 05 e 06. Ao concluir, atualize status, histórico e crie snapshot da etapa.
+O texto integral do roteiro anterior permanece recuperável pelo blob `f4080a90e33854ce6c716c92576d21d77b95178f` e pelo histórico Git. Nenhum snapshot histórico foi renumerado.
 
----
+## Hierarquia para continuar
 
-## ETAPA 03 — LOTE 02
-**Unidades:** MV-04, MV-05, MV-06, MV-07, MV-I02.
+1. Correções diretas da autora, com fonte e data identificadas, governam os fatos e o sentido de sua experiência.
+2. `STATUS.md` e `LEIA_PRIMEIRO.md` identificam o estado operacional atual.
+3. Mapas atuais das Partes e `MAPA_VOZES_E_MOLDURAS.md` governam a ordem de leitura.
+4. `LOTES/REVISAO_GLOBAL_POS_ETAPA13.md` governa as pendências e correções da revisão 13R.
+5. O comando específico da etapa vigente governa a execução.
+6. `MAPA_CAPITULOS.md`, o plano inicial de lotes e versões antigas servem como histórico quando divergirem das fontes acima.
 
-**Objetivo:** corpo, necessidade, silêncio, antecipação do não, espiritualidade infantil e respiração sensorial.
+Não reiniciar uma etapa antiga para obedecer a uma numeração que deixou de ser vigente. Revisitas recebem código de revisão, preservando o marco anterior.
 
-**Comando:**
-> Execute a ETAPA 03 / LOTE 02. Construa ou revise fichas de cena e dossiês antes da prosa. Faça o leitor sentir a menina tentando lidar com necessidade, vergonha, medo, imaginação e fé sem diagnosticar retrospectivamente. Plante a equação necessidade → antecipação → silêncio → sofrimento → imobilidade para pagamento tardio na Autópsia. Escreva todos os arquivos do lote, faça revisão contínua e congele snapshot.
+## Etapas de desenvolvimento já registradas
 
----
+| Etapa | Conteúdo efetivamente produzido | Estado |
+|---|---|---|
+| 00 | Mapa-mãe macro | Registrada |
+| 01 | Engenharia inicial de capítulos e lotes | Registrada; evoluiu durante a escrita |
+| 02 | Nota Forense e origem: MV-00–03 | Primeira escrita |
+| 03 | Corpo, silêncio e imaginação: MV-04–07 | Primeira escrita; 04/06 revistos na 13R |
+| 04 | Competência, pai, risco e integração da infância; MV-03A/03B/I01 | Primeira escrita |
+| 05 | Entrada nos papéis adultos: MV-12–16 e I04 | Primeira escrita; I04 revisto na 13R |
+| 06 | Vida conjugal, maternidade, trabalho e ruptura: MV-17–22 | Primeira escrita; 22 revisto na 13R |
+| 07 | Falsa Ressurreição: MV-I05 e MV-23–27 | Primeira escrita |
+| 08 | Cerco Contra a Mãe: MV-28–31 | Primeira escrita; documentos primários pendentes |
+| 09 | Funcionando / Cadáver / Corpo / Óbvio: MV-32–35 | Primeira escrita |
+| 10 | Abertura da Autópsia: MV-36–37 | Primeira escrita |
+| 11 | Perdão e Sepultamento: MV-38–39 | Primeira escrita com revisão do clímax |
+| 12 | Investigadora: MV-40 | Primeira escrita |
+| 13 | Mulher: MV-41; recuperação de P01, M01 e I06 | Primeira escrita |
+| 13R | Leitura global do manuscrito existente, correções localizadas de voz/fato e sincronização operacional | Revisão preparatória; não equivale à Beta integral |
 
-## ETAPA 04 — LOTE 03
-**Unidades:** MV-08, MV-09, MV-I03, MV-10, MV-11.
+**Total continua 50 unidades de prosa existentes.** Prólogo, notas e interlúdios entram nessa contagem. Reservas sem prosa não entram. Uma unidade com V1 não é uma unidade pronta para publicação.
 
-**Objetivo:** competência, vínculo com figura paterna, risco familiar, água e primeira síntese da infância.
+## Próxima etapa de produção — 14
 
-**Comando:**
-> Execute a ETAPA 04 / LOTE 03. Preserve contraste entre inteligência/vitalidade e adaptação. Construa personagens familiares como humanos completos, não funções narrativas unidimensionais. Feche a Parte I mostrando o que uma criança pode aprender sem receber aula explícita. Evite dizer que a infância determina toda a vida adulta. Escreva, revise o lote e depois aplique também o Prompt 07 para continuidade da Parte I.
+**Autoria, Memória, IA e Legado.**
 
----
+Comando específico: `PROMPTS/ETAPA_14_COMANDO_ATUAL.md`.
 
-## ETAPA 05 — LOTE 04
-**Unidades:** MV-12 a MV-16 + MV-I04.
+Comando curto:
+> Revisando e construindo: execute a ETAPA 14 — Autoria, Memória, IA e Legado, seguindo a revisão 13R e o comando específico atualizado. Preserve as vozes, as lacunas factuais e as fronteiras da trilogia. Salve prosa, revisão, status e referências recuperáveis da etapa.
 
-**Objetivo:** entrada em papéis adultos, amor, fé, casamento, maternidade e pertencimento.
+## Camadas posteriores obrigatórias — ainda não concluídas
 
-**Comando:**
-> Execute a ETAPA 05 / LOTE 04. Mostre a passagem da menina para papéis adultos sem condenar retrospectivamente cada escolha. Faça aparecer a diferença entre identidade e função. Trate fé com complexidade, mostrando abrigo e influência sem transformá-la em vilã. Escreva cenas antes da análise. Preserve filhos e terceiros de exposição desnecessária. Revise continuidade e fronteira com o restante da Parte II.
+As fases abaixo usam códigos de FINALIZAÇÃO para não reutilizar números históricos. O comando específico de cada fase será registrado quando ela for aberta, após leitura do estado real.
 
----
+### F01 — Epílogo e encerramento forense
+Escrever o que falta: presente da autora, acontecimentos tardios confirmados, presença possível, ponte mínima para Reposicione-se e espelhamento da abertura. Decidir se Nota Forense Final e Laudo são uma mesma peça, evitando três finais que repetem a mesma conclusão. Não usar a morte de Mãe-Véia como cena genérica de cura. Não fechar data conflitante sem fonte.
 
-## ETAPA 06 — LOTE 05
-**Unidades:** MV-17 a MV-22.
+### F02 — Montagem Alfa e integração das lacunas
+Montar a leitura contínua pela ordem dos mapas atuais, nunca alfabeticamente. Resolver abertura MV-00/P01; manter M01 entre MV-22 e I05; manter I06 entre MV-39 e MV-40. Integrar as memórias autorais necessárias da infância, sem multiplicar cenas repetidas. Dar destino explícito a Galinhas, Mangas, Caminho das Águas e demais reservas. Remover controles editoriais da versão de leitura, preservando-os nos arquivos de trabalho.
 
-**Objetivo:** contratos invisíveis, deslocamento da régua, falsa paz, episódios graves, proteção e ruptura.
+### F03 — Conferência factual e riscos
+Conferir documentos, datas, citações, identificações, qualificações profissionais e afirmações médicas/jurídicas. Separar memória, relato, documento auditado, interpretação e lacuna. Não confundir a leitura dos capítulos com validação dos acontecimentos. A revisão profissional competente, quando necessária, não é substituída por uma simulação editorial.
 
-**Comando:**
-> Execute a ETAPA 06 / LOTE 05. Mostre normalização em câmera lenta por cenas concretas. Diferencie tolerância, medo, esperança e escolha sem culpabilizar a vítima. Nos episódios graves, reduza ornamentação e aumente precisão. Termine a ruptura oferecendo alívio verdadeiro ao leitor, mas plante a dúvida: sair de uma relação não significa necessariamente voltar para si. Revise Parte II como arco completo.
+### F04 — Revisão literária Beta
+Lapidar o manuscrito inteiro: reduzir bastidores e explicações repetidas, proteger descobertas tardias, variar ritmo e extensão de parágrafos, ampliar somente cenas sustentadas por material real. Auditar especialmente 01–03, 13/14, M01/I05, 25–31, 32–35 e 39–41. Preservar voz, fé, humor, trabalho, vínculos e contradições.
 
----
+### F05 — Imagens e projeto editorial
+Somente depois de estabilizar a leitura: selecionar imagens necessárias, distinguir fotografia documental de ilustração, fixar local, legenda, direitos e texto alternativo. Não converter imagens geradas em evidência biográfica nem contar um prompt de imagem como imagem pronta.
 
-## ETAPA 07 — LOTE 06
-**Unidades:** MV-23 a MV-27.
+### F06 — Leitura crítica e reconhecimento autoral
+Registrar o que Sol reconhece, corrige ou rejeita na redação proposta. Leitura crítica simulada pode ajudar, mas não equivale à recepção de leitores reais. Preservar discordâncias e corrigir sem apagar fontes.
 
-**Objetivo:** recomeço, esperança, nova relação, consequências familiares, perda e início do funcionamento automático.
-
-**Comando:**
-> Execute a ETAPA 07 / LOTE 06. Permita que o leitor acredite no recomeço antes de revelar o preço. Não escreva a nova relação como vilania anunciada desde a entrada. Trate conflitos familiares e jurídicos com precisão, dignidade e mínima exposição necessária. O lote deve terminar com a pergunta: como alguém continua vivendo quando uma parte central de sua identidade foi atingida?
-
----
-
-## ETAPA 08 — LOTE 07
-**Unidades:** MV-28 a MV-32.
-
-**Objetivo:** revelar a cadáver funcional, o cotidiano, o purgatório e o tremor.
-
-**Comando:**
-> Execute a ETAPA 08 / LOTE 07. Este é o coração conceitual do livro. Mostre trabalho, rotina, competência, café, relações e corpo funcionando enquanto cresce a ausência interna. Faça o título A Cadáver que Tomava Café se tornar inevitável, não uma frase de efeito. Desenvolva o tremor como fio sensorial e não como diagnóstico automático. Revise a densidade emocional para evitar cinco capítulos no mesmo tom.
-
----
-
-## ETAPA 09 — LOTE 08
-**Unidades:** MV-33 a MV-36.
-
-**Objetivo:** o óbvio, acontecimentos posteriores, morte familiar, casa e mudança de posição da narradora.
-
-**Comando:**
-> Execute a ETAPA 09 / LOTE 08. Faça acontecimentos posteriores funcionarem como lentes que mudam a leitura do passado. Preserve pessoas reais de reduções diagnósticas. Construa “Não ignore o óbvio” como descoberta conquistada pela narrativa, não slogan promocional. Feche preparando a entrada da investigadora na Autópsia.
-
----
-
-## ETAPA 10 — LOTE 09
-**Unidades:** MV-37 a MV-42.
-
-**Objetivo:** perdão, autoperdão, responsabilidades, conceito autoral, retorno da menina e releitura integral.
-
-**Comando:**
-> Execute a ETAPA 10 / LOTE 09. Faça a narradora se tornar investigadora da própria história. Separe claramente responsabilidade de quem praticou violência, estratégias de sobrevivência e responsabilidade atual depois da consciência. Apresente Feminicídio Emocional com precisão conceitual, sem tratá-lo como diagnóstico ou tipo penal. Pague sementes antigas, especialmente a necessidade não expressa e a antecipação do não. Produza a sensação de que elementos pequenos do início sempre estiveram preparando esta releitura.
-
----
-
-## ETAPA 11 — LOTE 10
-**Unidades:** MV-43 a MV-46.
-
-**Objetivo:** sepultamento simbólico, retorno da testemunha, nascimento do reposicionamento e fechamento forense.
-
-**Comando:**
-> Execute a ETAPA 11 / LOTE 10. Construa o Sepultamento Simbólico como clímax real, sem transformar o final em cura mágica. A identidade de sobrevivência deve ser reconhecida, integrada e encerrada sem desprezo. Faça a testemunha principal retornar à própria vida. Introduza apenas a descoberta necessária para Reposicione-se: toda pessoa já está posicionada. Não ensine o método. A Nota Forense final deve espelhar e transformar a abertura. Revise todo o lote e a Parte IV.
-
----
-
-## ETAPA 12 — MONTAGEM DO MANUSCRITO ALFA
-
-**Comando:**
-> Monte o Manuscrito Alfa a partir dos arquivos individuais já escritos. Não reescreva silenciosamente para cobrir lacunas. Verifique transições, interlúdios, progressão emocional, títulos, voz, redundâncias e coerência de tempo. Gere um relatório de lacunas e uma versão integral de leitura.
-
----
-
-## ETAPA 13 — AUDITORIA DE CONTINUIDADE
-
-**Comando:**
-> Leia Morte em Vida integralmente como editora sênior. Audite cronologia, arcos, personagem, tremor, símbolos, sementes/pagamentos, perguntas abertas, ritmo, repetição, personagens subdesenvolvidos e fronteiras da trilogia. Faça correções estruturais antes de polimento frase a frase.
-
----
-
-## ETAPA 14 — VERIFICAÇÃO FACTUAL E DE RISCO
-
-**Comando:**
-> Classifique afirmações factuais, relatos, memórias, interpretações, afirmações científicas e jurídicas. Identifique tudo que exige fonte, documento, anonimização, cautela jurídica ou reformulação. Não permita que força literária seja comprada com precisão factual falsa.
-
----
-
-## ETAPA 15 — REVISÃO LITERÁRIA BETA
-
-**Comando:**
-> Faça revisão literária integral buscando potência, economia, ritmo, originalidade e consistência de voz. Corte clichês, frases explicativas, autoajuda infiltrada na narrativa e repetições de tese. Preserve humanidade, humor e contradição. Entregue Manuscrito Beta.
-
----
-
-## ETAPA 16 — IMAGENS E PROJETO DE LEITURA
-
-**Comando:**
-> Audite as imagens previstas contra o Manuscrito Beta. Escolha somente imagens indispensáveis. Defina posição, função, legenda e relação simbólica. Verifique ritmo de páginas e pontos de respiração sem usar imagem como decoração.
-
----
-
-## ETAPA 17 — LEITURA CRÍTICA / TESTE DE LEITOR
-
-**Comando:**
-> Simule uma leitura crítica por perfis distintos: leitor comum, sobrevivente de relação abusiva, homem, mulher, profissional de saúde mental, jornalista/editor e leitor cético. Identifique onde o texto conecta, confunde, acusa, simplifica, perde ritmo ou ganha força. Separe feedback válido de tentativa de descaracterizar a autora.
-
----
-
-## ETAPA 18 — PROVA FINAL
-
-**Comando:**
-> Faça auditoria final de publicação: estrutura, sumário, títulos, consistência, ortografia, citações, notas, nomes/anonimizações, imagens, abertura, clímax, final, nota autoral e ponte para Reposicione-se. Só marque capítulos e livro como ✓ fechado quando todos os critérios forem cumpridos.
+### F07 — Prova e publicação
+Verificar sumário, ordem, ortografia, notas, fontes, anonimizações, imagens e arquivos finais. Só depois marcar a obra como fechada para publicação. Não anunciar quantidade de páginas ou percentual de conclusão sem contagem e projeto editorial definidos.
 
 ## Regra permanente
-A etapa seguinte nunca apaga a anterior. Cada marco gera histórico + snapshot. O mapa pode evoluir, mas a razão da mudança precisa ficar registrada.
 
-Versão 1.0 — 10/09/2026.
+Cada rodada deve distinguir: **lido / alterado / gravado / verificado / pendente**. Preservar a versão anterior por commit ou referência verificável antes de substituir texto. Não prometer que um registro editorial torna o repositório imune a exclusões. Não editar pastas dos Livros 2 e 3 nesta frente.
