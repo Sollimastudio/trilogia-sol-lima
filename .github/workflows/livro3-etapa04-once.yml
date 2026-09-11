@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Exportar fontes de leitura sem modificar manuscritos
+      - name: Exportar conjunto acumulado e capítulos 9 a 12 para revisão
         run: |
           mkdir -p /tmp/livro3-etapa04
           cp -R 00_UNIVERSO_MESTRE /tmp/livro3-etapa04/
@@ -21,6 +21,6 @@ jobs:
           git rev-parse HEAD > /tmp/livro3-etapa04/COMMIT_ORIGEM.txt
       - uses: actions/upload-artifact@v4
         with:
-          name: livro3-etapa04-fontes-leitura
+          name: livro3-etapa04-revisao-capitulos
           path: /tmp/livro3-etapa04/
           retention-days: 7
