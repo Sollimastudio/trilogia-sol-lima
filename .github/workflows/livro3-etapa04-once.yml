@@ -1,0 +1,26 @@
+name: Livro 3 ETAPA 04 leitura e integridade
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/livro3-etapa04-once.yml']
+permissions:
+  contents: read
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Exportar fontes de leitura sem modificar manuscritos
+        run: |
+          mkdir -p /tmp/livro3-etapa04
+          cp -R 00_UNIVERSO_MESTRE /tmp/livro3-etapa04/
+          cp -R 03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU /tmp/livro3-etapa04/
+          mkdir -p /tmp/livro3-etapa04/01_MORTE_EM_VIDA /tmp/livro3-etapa04/02_REPOSICIONE_SE
+          cp 01_MORTE_EM_VIDA/MAPA_MAE.md /tmp/livro3-etapa04/01_MORTE_EM_VIDA/
+          cp 02_REPOSICIONE_SE/MAPA_MAE.md /tmp/livro3-etapa04/02_REPOSICIONE_SE/
+          git rev-parse HEAD > /tmp/livro3-etapa04/COMMIT_ORIGEM.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: livro3-etapa04-fontes-leitura
+          path: /tmp/livro3-etapa04/
+          retention-days: 7
