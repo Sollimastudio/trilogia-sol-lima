@@ -1,321 +1,117 @@
-# MV-P01 — PRÓLOGO — O PORTÃO
+# MV-P01 — Prólogo — O Portão
 
-**Status:** ● primeira escrita reintegrada  
-**Posição:** depois da Nota Forense de Abertura; antes de 1978  
-**Tipo:** cold open fora da cronologia  
-**Versão:** V1 — 10/09/2026
+**Versão:** V1.1 — revisão de abertura / rodada 14–F01.  
+**Estado:** primeira escrita revisada; reconhecimento autoral pendente.  
+**Posição:** depois de MV-00, antes da Parte I e de MV-01.
 
-## Controle editorial
-**Função:** mostrar a ferida central antes das causas.  
-**Regra:** efeito agora; explicação somente quando a cronologia alcançar MV-28/MV-29.  
-**Proteções:** sem explicar processo, relatório, liminar, Caldas ou personagens do cerco; sem acusações jurídicas; portão cinza e cobertura verde conforme referência canônica.
+## Controle editorial — fora do miolo
+
+Cena de abertura em presente, composta a partir da memória autobiográfica já consolidada. Não representa transcrição de diálogo ou prontuário. Mantidos metal, portão, espera, sensação corporal e impedimento. Retiradas antecipação da menina imóvel/cheiro, recapitulação de violências, papéis e explicações completas do Eu. O processo e a cronologia são desenvolvidos em MV-28/MV-29. Não há imputação de ilegalidade ao porteiro ou à escola. V1 preservada no blob `7b2a63acc51bed53ca73ce9b9b5d4c7890c933e0`.
 
 ---
 
-## TEXTO LITERÁRIO — V1
+## TEXTO LITERÁRIO — V1.1
 
 O metal está quente.
 
-Mesmo assim, apoio as duas mãos no portão.
+Mesmo assim, apoio as mãos no portão. Não sei se tento segurá-lo ou se é ele que está me segurando.
 
-Não sei se tento segurá-lo ou se é ele que está me segurando.
+À minha frente, as barras cinzentas, a cobertura verde, o muro branco com lápis coloridos. Uma escola. Um lugar que continua funcionando enquanto eu tento entender por que não posso passar.
 
-À minha frente, barras cinzentas sobem até uma cobertura verde. O muro branco tem lápis coloridos pintados, grandes demais, alegres demais para combinar com o que meu corpo começa a fazer.
-
-Atrás daquele ferro há uma escola.
-
-Dentro da escola está meu filho.
-
-Do lado de fora estou eu.
-
-Essa é a única frase que meu pensamento consegue terminar.
-
-**Meu filho está lá dentro.**
+Meu filho está lá dentro.
 
 Eu vim buscá-lo.
 
-A ideia parecia simples quando saí de casa.
+A ideia era simples antes de chegar: entrar, encontrá-lo, resolver o que precisasse ser resolvido. Agora há uma pessoa diante de mim dizendo que minha entrada não está permitida.
 
-Chegar.
+Eu escuto. Tento perguntar.
 
-Entrar.
+A boca está seca.
 
-Encontrar meu filho.
+Explico que sou a mãe. Não sei se essa informação já foi recebida ou se preciso dizê-la outra vez. Parece impossível que tenham entendido e, mesmo assim, o portão continue fechado.
 
-Resolver o que precisasse ser resolvido.
+Sou a mãe dele.
 
-Agora alguém me diz que não posso passar.
+A frase não move o ferro.
 
-Não guardo palavra por palavra do que foi dito naquele primeiro instante. A memória não funciona como câmera de segurança. O que ela preservou foi o sentido:
+Olho para dentro. Escuto vozes de crianças, mas não consigo localizar meu filho entre elas. Ele não aparece. Não sei se sabe que estou aqui.
 
-você não entra.
+Meus dedos começam a formigar.
 
-Olho para dentro.
+Solto uma das barras, fecho a mão, abro. Tento perceber se consigo fazê-la voltar ao normal. O resto do corpo também está estranho, como se uma notícia tivesse chegado a ele antes de chegar inteira ao meu pensamento.
 
-A escola continua funcionando.
+Tenho de perguntar o que está acontecendo.
 
-Escuto vozes de crianças.
-
-Passos.
-
-Movimentos que não consigo localizar.
-
-Alguma porta abre em algum lugar.
-
-Outra fecha.
-
-O mundo não interrompe o expediente porque uma mãe parou de entender a própria vida.
-
-Meu corpo, porém, entende alguma coisa antes de mim.
-
-Os dedos começam a ficar estranhos.
-
-Solto uma das barras e fecho a mão.
-
-Abro.
-
-Fecho.
-
-Eles demoram a obedecer.
-
-Minha boca seca.
-
-O ar entra curto.
-
-O barulho da rua parece se afastar alguns metros sem que nada tenha mudado de lugar.
-
-Eu continuo em pé.
-
-Esse detalhe será usado contra mim muitas vezes pela minha própria cabeça.
-
-Se eu continuo em pé, talvez não seja tão grave.
-
-Se eu consigo perguntar, talvez esteja bem.
-
-Se eu ainda sei onde estou, talvez não esteja desmoronando.
-
-Se ninguém ao redor percebe uma emergência, talvez a emergência não exista.
-
-Meu corpo não consulta ninguém.
-
-Continua reagindo.
-
-O calor cola a roupa nas minhas costas e, ao mesmo tempo, sinto frio nos braços.
-
-Tenho vontade de explicar.
-
-Explicar que sou mãe.
-
-Explicar que vim buscar meu filho.
-
-Explicar que existe uma história inteira antes daquele portão.
-
-Mas não existe espaço suficiente numa frase para colocar anos de maternidade.
-
-— Sou mãe dele.
-
-A palavra mãe, que durante tanto tempo bastou para organizar minha vida inteira, não abre o ferro.
-
-Eu não estava preparada para isso.
-
-Houve momentos em que meu corpo esteve sob ameaça e eu pensei que poderia morrer.
-
-Naqueles momentos, pelo menos o perigo tinha forma.
-
-Um gesto.
-
-Uma voz.
-
-Uma ordem.
-
-Um corpo diante do meu.
-
-Ali não.
-
-Ninguém me bate.
-
-Ninguém precisa gritar.
-
-O portão apenas permanece fechado.
-
-E eu começo a perceber que existem maneiras de retirar uma pessoa de um lugar sem tocar nela.
-
-Meu filho continua do outro lado.
-
-Não o vejo.
-
-Essa ausência visível é pior do que eu imaginava que uma ausência pudesse ser.
-
-Se ele estivesse em outra cidade, a distância teria quilômetros.
-
-Se estivesse viajando, teria calendário.
-
-Se eu não soubesse onde estava, teria procura.
-
-Mas eu sei.
-
-Está ali.
-
-A poucos metros de uma mãe que não consegue atravessar.
-
-Meu corpo se inclina um pouco contra as barras.
-
-As mãos voltam ao metal.
-
-Uma parte de mim quer chamar o nome dele.
-
-Outra parte vigia a primeira.
-
-Não faça cena.
+Antes de conseguir, começo a calcular como perguntar.
 
 Não grite.
 
-Não perca o controle.
+Não faça cena.
 
-Não confirme nada que alguém possa estar esperando confirmar.
+Se eu perder o controle, será que fica pior?
 
-Eu ainda nem sei exatamente o que existe no papel.
+Não sei o que faria a situação melhorar. Sei que tenho medo de piorá-la. Então gasto uma parte da força que ainda tenho tentando parecer alguém capaz de esperar.
 
-Ainda não conheço toda a versão que chegou antes de mim.
+Eu espero.
 
-Mesmo assim, começo a administrar a aparência da minha própria dor.
+A escola não para.
 
-É uma habilidade antiga.
+Do lado de dentro há movimento. Na rua, a vida continua passando. Meu filho está perto o suficiente para que a distância pareça um erro. Se estivesse em outra cidade, haveria estrada entre nós. Ali há um portão.
 
-A menina que ficou imóvel para o cheiro não se espalhar não está na minha cabeça como lembrança consciente naquele instante.
+Eu sei onde ele está.
 
-Mas o corpo conhece o movimento.
+Não consigo chegar.
 
-Fique pequena.
+Tenho vontade de explicar a história inteira. Tudo o que vem antes daquela entrada, antes daquela manhã ou tarde que minha memória já não consegue prender a um relógio. Mas por onde começo? Como coloco anos de maternidade numa frase que precisa ser ouvida agora?
 
-Não piore.
+Digo de novo o que parece mais importante.
 
-Não dê motivo.
+Sou a mãe.
 
-A mulher adulta obedece a uma instrução que ninguém precisa pronunciar.
+Espero que, desta vez, alguma coisa mude.
 
-Eu me controlo.
+Não muda ainda.
 
-É possível entrar em pânico com educação.
+A palavra que organizou tantas horas da minha vida perdeu sua utilidade diante de uma coisa muito concreta: eu não posso atravessar.
 
-Eu descubro isso ali.
+Olho para as mãos no metal. Continuo em pé. Consigo ouvir, perguntar, segurar a bolsa. Uma parte de mim se agarra a isso como se estar funcionando fosse suficiente para impedir o que está acontecendo por dentro.
 
-Respiro pouco.
+Não é.
 
-Seguro a bolsa.
+Meu pensamento volta sempre ao mesmo lugar.
 
-Olho para o portão.
+Ele está lá.
 
-Olho para dentro.
-
-Tento construir uma sequência lógica.
-
-Quem decidiu?
-
-Quando?
+Eu estou aqui.
 
 Por quê?
 
-O que aconteceu enquanto eu acreditava que estava organizando a vida?
+Não conheço ainda toda a explicação. Não sei o que chegou antes de mim. Tenho o corpo reagindo e a necessidade de continuar perguntando sem parecer aquilo que temo que possam dizer de mim.
 
-Onde está meu filho dentro dessa história?
+A espera não cabe no tempo que dura.
 
-Onde estou eu?
+Minhas mãos continuam no portão.
 
-A última pergunta não chega inteira.
+Não estou pensando na minha infância. Não estou olhando minha vida como uma sequência que um dia fará sentido num livro. Estou tentando entrar na escola do meu filho.
 
-Ainda não tenho linguagem para ela.
+Essa é a cena.
 
-Tenho apenas a sensação de que alguma coisa que eu acreditava ser incontestável deixou de produzir efeito.
+O que veio antes dela é a história que preciso contar.
 
-Eu sou mãe.
+Porque uma mãe não chega a esse portão apenas pelo caminho que percorreu naquele dia. Eu trouxe coisas que ainda não sabia reconhecer. Trouxe outras que conhecia bem demais. Não conseguiria explicar tudo ali, com a boca seca, sem saber quem poderia abrir.
 
-Mas dizer isso não basta.
+Agora posso voltar.
 
-O ferro continua quente.
+Antes do portão.
 
-As crianças continuam falando lá dentro.
-
-Eu continuo respirando aqui fora.
-
-E, por alguns segundos, respirar parece uma prova pobre demais de vida.
-
-Há mortes que param o coração.
-
-Aquela não.
-
-Aquela preserva o pulso.
-
-Preserva as pernas.
-
-Preserva a capacidade de segurar uma bolsa, responder a uma pergunta e procurar outro lugar onde pedir explicação.
-
-Talvez seja justamente por isso que demore tanto para ser reconhecida.
-
-Ninguém olha para uma mulher em pé e pensa em cadáver.
-
-Eu também não pensei.
-
-Só soube que alguma coisa havia se separado dentro de mim.
-
-O som da rua existia.
-
-Eu ouvia de longe.
-
-O metal existia.
-
-Eu sentia nas mãos.
-
-Meu filho existia.
-
-Eu não conseguia alcançá-lo.
-
-E eu existia.
-
-Essa era a parte que começava a ficar difícil de localizar.
-
-Mais tarde eu encontraria papéis.
-
-Versões.
-
-Datas.
-
-Contradições.
-
-Mais tarde aprenderia a separar o que vi do que ouvi, o que li do que concluí, o que estava documentado do que ainda era memória.
-
-Mais tarde eu teria perguntas melhores.
-
-Naquele momento, só tinha uma:
-
-**Como eu cheguei até aqui?**
-
-O portão não podia responder.
-
-Este livro é a tentativa.
-
-Para entender aquela mulher com as mãos no ferro, não adianta começar naquele dia.
-
-Preciso voltar.
-
-Antes do processo.
-
-Antes do segundo cativeiro.
+Antes dos filhos.
 
 Antes do casamento.
 
-Antes do primeiro homem dizer que sabia qual seria o meu futuro.
-
-Antes da menina aprender a não pedir.
-
-Antes de o corpo virar problema.
-
-Antes até da primeira lembrança.
-
-Preciso voltar ao começo.
+Até um dia do qual não possuo lembrança própria, mas cuja história recebi muitas vezes.
 
 18 de julho de 1978.
 
-O dia em que uma menina nasceu.
+O dia em que eu nasci.
 
-E, na mesma família, um homem morreu.
+Na mesma família, naquele mesmo dia, um rapaz morreu.
