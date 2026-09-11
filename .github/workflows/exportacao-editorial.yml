@@ -1,0 +1,52 @@
+name: Exportacao editorial privada
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/exportacao-editorial.yml']
+permissions:
+  contents: read
+jobs:
+  exportar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Copiar somente documentos editoriais rastreados
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, os, pathlib, subprocess
+          base = pathlib.Path.cwd()
+          out = base / 'exportacao'
+          target = out / 'trilogia-sol-lima'
+          allowed = ('00_UNIVERSO_MESTRE/', '01_MORTE_EM_VIDA/', '02_REPOSICIONE_SE/', '03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU/')
+          entries = []
+          names = subprocess.check_output(['git', 'ls-files', '-z']).decode().split('\0')
+          for name in sorted(filter(None, names)):
+              if not (name in ('README.md', 'START_HERE.md') or name.startswith(allowed)):
+                  continue
+              p = pathlib.Path(name)
+              if p.suffix.lower() not in ('.md', '.txt', '.json', '.csv', '.html', '.css', '.py') or any(x.startswith('.') for x in p.parts):
+                  continue
+              source = base / p
+              if source.is_symlink():
+                  continue
+              data = source.read_bytes()
+              dest = target / p
+              dest.parent.mkdir(parents=True, exist_ok=True)
+              dest.write_bytes(data)
+              entries.append({'path': name, 'bytes': len(data), 'sha256': hashlib.sha256(data).hexdigest()})
+          out.mkdir(exist_ok=True)
+          (out / 'MANIFESTO_EXPORTACAO.json').write_text(json.dumps({'repository': os.environ['GITHUB_REPOSITORY'], 'commit': os.environ['GITHUB_SHA'], 'tipo': 'snapshot dos arquivos editoriais rastreados; sem historico .git; sem credenciais; sem publicacao', 'files': entries}, ensure_ascii=False, indent=2), encoding='utf-8')
+          print('Documentos exportados:', len(entries))
+          PY
+      - uses: actions/upload-artifact@v7
+        with:
+          name: trilogia-editorial-${{ github.run_id }}
+          path: exportacao/
+          if-no-files-found: error
+          retention-days: 7
+          compression-level: 6
