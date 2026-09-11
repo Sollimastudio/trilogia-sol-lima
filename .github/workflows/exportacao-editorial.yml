@@ -3,7 +3,9 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['.github/workflows/exportacao-editorial.yml']
+    paths:
+      - '.github/workflows/exportacao-editorial.yml'
+      - '01_MORTE_EM_VIDA/DIAGRAMACAO/EXPORTAR.txt'
 permissions:
   contents: read
 jobs:
