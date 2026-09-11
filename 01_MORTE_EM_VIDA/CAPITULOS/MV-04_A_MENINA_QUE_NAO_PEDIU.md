@@ -1,291 +1,142 @@
 # MV-04 — A Menina que Não Pediu
 
-**Status:** ● primeira escrita  
+**Status:** ● primeira escrita revisada; reconhecimento autoral pendente  
 **Parte:** I — A menina que aprendeu a desaparecer  
 **Lote:** 02 — Corpo, silêncio e imaginação  
-**Versão:** V1 — 10/09/2026
+**Versão:** V1.1 — revisão 13R — 10/09/2026
 
-## Controle editorial
-**Função:** plantar necessidade → antecipação do não → silêncio.  
-**Efeito:** ternura + incômodo crescente.  
-**Eco principal:** Autópsia / retorno da menina.  
-**Retenção:** não explicar a vida adulta a partir desta cena.  
-**Fonte narrativa:** memória autobiográfica da infância; idade/ano exatos não fixados.
+## Controle editorial — não integrar à edição de leitura
+**Função:** fazer o leitor viver a necessidade e a antecipação da recusa antes da interpretação adulta.  
+**Base:** memória autoral consolidada em `LOTES/FICHAS_CENAS_LOTE02.md`: professora reclamava de saídas demoradas; a menina antecipou um não, não pediu, reteve urina, sentiu dor, teve escape e tentou permanecer imóvel.  
+**Forma:** narração breve de entrada e monólogo interior em presente. O pensamento direto é composição literária baseada no relato, não transcrição comprovada da mente da criança nem ocorrência adicional. Frases e ritmo novos aguardam reconhecimento/correção da autora.  
+**Limites:** idade/ano não fixados; sem humilhação coletiva, falas da professora, resolução do acidente ou causalidade clínica inventadas. Não interpretar medo como teimosia. Não antecipar casamento, maternidade ou explicação integral da Autópsia.  
+**Continuidade:** o episódio segue em MV-05; o ônibus permanece ocorrência distinta.  
+**Preservação:** V1 recuperável pelo blob `b2a5ddb2f34c0f27317c34bdc89251e705254874`; base registrada em `ETAPAS/13R_BASE_PRE_REVISAO_2026-09-10.md`.
 
 ---
 
-## TEXTO LITERÁRIO — V1
+## TEXTO LITERÁRIO — V1.1
 
 Eu precisava fazer xixi.
 
-Não era uma dúvida.
+A professora tinha reclamado das crianças que saíam para o banheiro e demoravam a voltar. Davam trabalho. Às vezes, ela precisava ir atrás delas.
 
-Não era aquela vontade pequena que uma criança consegue distrair desenhando no caderno ou contando os minutos até o recreio.
+Eu tinha escutado.
 
-Eu precisava.
+Ainda não havia levantado a mão.
 
-A professora estava falando.
+***
 
-Não lembro qual era a matéria. Não lembro o que havia escrito no quadro. Não lembro a roupa dela, a disposição exata das carteiras, nem quem estava sentado perto de mim.
+Preciso ir.
 
-Lembro do que importava para o meu corpo.
+Mas ela acabou de falar. Se eu pedir agora, vai achar que quero sair também. Vai achar que vou demorar, que vai ter de ir me buscar.
 
-E lembro do que importou para a minha decisão.
+Eu volto depressa. É só fazer xixi e voltar. Eu não vou ficar lá fora.
 
-Outras crianças pediam para ir ao banheiro.
+Mas ela não sabe.
 
-A professora reclamava.
+Tenho de falar primeiro. Levantar a mão e esperar ela olhar. Aí falo que preciso ir. É assim que faz.
 
-Elas saíam, demoravam, davam trabalho. Às vezes ela precisava ir atrás porque não voltavam quando deveriam.
+E se ela disser não?
 
-Eu escutava.
+Fico aqui.
 
-Criança escuta mais do que adulto imagina.
+Então é melhor ficar aqui mais um pouquinho. Ainda dá.
 
-Não apenas as palavras.
+Junto as pernas. Aperto. Tento prestar atenção no que ela está falando, mas não consigo continuar escutando direito. Eu escuto uma parte e já volto a pensar no banheiro. Se prestar bastante atenção, talvez esqueça um pouco. Tem de esquecer. Não posso ficar pensando só nisso.
 
-Escuta o peso delas.
+Preciso ir.
 
-Escuta quando alguém está cansado.
+Ainda dá.
 
-Escuta o suspiro antes da resposta.
+Ela está falando. Vou esperar acabar.
 
-Escuta o tipo de pedido que parece bem-vindo e o tipo que parece acrescentar um problema ao dia de alguém.
+Mas, quando acaba uma coisa, começa outra. Eu também podia pedir enquanto ela fala; os outros pedem. Só que ela reclamou. Eu ouvi. Não foi comigo, mas ouvi. E se agora for?
 
-Eu precisava levantar a mão.
+Não quero dar trabalho.
 
-Era só isso.
+Não vou dar trabalho. Só preciso fazer xixi.
+
+Podia falar isso. Que eu preciso muito. Que não vou demorar. Mas, se ela disser não, eu falo de novo? Ela já vai ter respondido. Como é que peço outra vez depois de ela responder?
+
+Eu não sei.
+
+Aperto mais as pernas.
+
+Está doendo agora. Não era assim antes. Antes era só vontade e eu achava que dava para esperar. Agora tem essa dor e eu não consigo pensar em outra coisa.
+
+Se eu levantar a mão, ela olha.
+
+Só preciso levantar a mão.
+
+Penso em levantar. Fico pensando. A mão continua onde está.
+
+Eu podia ter pedido antes de começar a doer. Podia ter ido e já voltado. Mas antes ela também podia dizer não. Eu não sabia que ia apertar tanto. Achei que aguentava.
+
+Ainda aguento.
+
+Só mais um pouco.
+
+Não posso soltar. Se soltar, vai sair. Tenho de ficar assim. Apertar as pernas, não mexer muito, esperar. Quando eu puder ir, vou depressa. Não fico conversando com ninguém, não faço mais nada. Vou e volto. Ela nem vai precisar me procurar.
+
+Mas não falei isso para ela.
+
+Ela não sabe que estou precisando.
+
+Preciso contar.
+
+E se ela disser não?
+
+A dor está aqui. Não tem como mandar para outro lugar. Eu tento prestar atenção e ela continua. Tento ficar mais quieta e ela continua. Parece que tudo o que faço é para segurar, e mesmo assim está cada vez mais difícil.
+
+Não deixa sair.
+
+Não deixa.
+
+Saiu.
+
+Um pouco. Senti sair.
+
+Aperto mais, mas já está molhado. Não pode continuar. Ainda estou na sala. Não pedi para sair. Não fui ao banheiro.
+
+Ninguém pode perceber.
+
+Se eu levantar agora, vão ver?
+
+Fico parada.
+
+Agora eu precisava ir de verdade. Antes eu precisava, mas agora tem isso também. A roupa está molhada. Não é uma vontade que vai passar se eu conseguir pensar em outra coisa.
+
+Já aconteceu.
+
+Será que alguém viu?
+
+Não olho para procurar. Se eu me virar, vou mexer. É melhor não mexer. Se ficar bem quietinha, talvez não percebam.
+
+Mas estou sentindo o cheiro.
+
+Eles também estão?
+
+Eu não queria fazer aqui. Eu estava segurando. Segurei até doer. Não foi porque quis. Eu queria ir ao banheiro.
+
+Queria.
+
+Só não pedi.
+
+***
+
+Quando volto àquela sala pela memória, não encontro uma menina que compreendia a própria dificuldade e escolhia enfrentá-la de maneira errada. Encontro uma criança que precisava de ajuda para fazer uma coisa que, vista de fora, parecia muito simples.
 
 Levantar a mão.
 
-Esperar ela olhar.
+O gesto era pequeno. O medo que vinha antes dele, não.
 
-Dizer que precisava ir ao banheiro.
+Não sei qual resposta a professora teria dado ao meu pedido naquele momento. Eu não cheguei a fazê-lo. Também não sei reconstruir o restante do dia, quem percebeu, como saí dali, o que aconteceu com a roupa. O que guardo é a passagem de um medo para outro: primeiro, o de pedir; depois, o de ser percebida.
 
-Mas antes que eu fizesse qualquer uma dessas coisas, uma resposta já apareceu dentro de mim.
+A menina ainda estava sentada.
 
-Não.
+A vontade tinha virado acidente.
 
-Ela vai dizer não.
+Agora o problema não era apenas chegar ao banheiro.
 
-Eu não tinha ouvido aquele não dirigido a mim.
-
-Ele ainda não existia.
-
-Mesmo assim, comecei a obedecê-lo.
-
-Fiquei sentada.
-
-A vontade aumentou.
-
-Cruzei as pernas.
-
-Apertei uma contra a outra.
-
-Tentei prestar atenção em outra coisa.
-
-Quando a bexiga dói, porém, o mundo perde assunto.
-
-A professora pode explicar qualquer coisa.
-
-O quadro pode estar cheio.
-
-A sala pode ter barulho.
-
-O corpo só repete:
-
-preciso ir.
-
-preciso ir.
-
-preciso ir.
-
-Eu não fui.
-
-Também não pedi.
-
-Essa diferença é importante.
-
-Durante muito tempo, quando eu contava algumas histórias da minha infância, parecia que o problema era uma coleção de proibições vindas de fora.
-
-Nesta cena, o que me assombra hoje é outra coisa.
-
-A professora não precisou me proibir.
-
-Eu fiz o serviço antes.
-
-Naquele momento eu não tinha palavras para isso.
-
-Eu não pensava: estou antecipando uma resposta negativa e regulando meu comportamento a partir de uma hipótese.
-
-Pelo amor de Deus, eu era uma menina apertada para fazer xixi, não uma pesquisadora comportamental.
-
-Minha lógica era menor e mais urgente:
-
-se eu pedir, ela pode dizer não.
-
-E se ela disser não, o que eu faço?
-
-Eu não sabia insistir.
-
-Não sabia dizer:
-
-— Mas professora, eu preciso muito.
-
-Não sabia transformar um pedido em outro pedido.
-
-Não sabia negociar com a autoridade.
-
-Não sabia lidar com a vergonha de ser recusada na frente dos outros.
-
-Então tentei resolver sem precisar da resposta dela.
-
-Segurando.
-
-Há decisões infantis que parecem geniais durante alguns minutos.
-
-Depois o corpo cobra auditoria.
-
-Começou a doer.
-
-Não uma dor nobre, dessas que ganham metáfora bonita em livro.
-
-Dor de xixi preso.
-
-Ardência.
-
-Pressão.
-
-Desespero silencioso.
-
-Eu me mexia pouco.
-
-Apertava as pernas.
-
-Talvez ainda houvesse tempo de levantar a mão.
-
-Talvez a professora dissesse sim.
-
-Essa possibilidade é uma das coisas mais estranhas quando olho para trás.
-
-Eu nunca descobri.
-
-Não naquela hora.
-
-O não que governou meu corpo não veio da boca dela.
-
-Veio daquilo que eu imaginei que sairia da boca dela.
-
-E eu permaneci sentada até meu corpo fazer uma coisa profundamente inconveniente para qualquer projeto infantil de invisibilidade:
-
-parar de obedecer.
-
-A urina começou a escapar.
-
-Pouco primeiro.
-
-O suficiente para eu entender o que estava acontecendo.
-
-O suficiente para o medo mudar de lugar.
-
-Antes, eu tinha medo de pedir.
-
-Agora eu tinha medo de alguém perceber.
-
-A matemática da infância pode ser cruel.
-
-Eu quis evitar um constrangimento pequeno e produzi um constrangimento muito maior.
-
-Ainda assim, eu não me levantei.
-
-Não chamei a professora.
-
-Não anunciei o acidente.
-
-Não procurei ajuda.
-
-Meu objetivo deixou de ser ir ao banheiro.
-
-Passou a ser desaparecer dentro da carteira.
-
-Quanto menos eu mexesse, melhor.
-
-Quanto menos espaço ocupasse, melhor.
-
-Quanto menos chamasse atenção, maior a chance — na minha cabeça — de que ninguém percebesse.
-
-É difícil explicar a vergonha para quem olha uma criança de fora.
-
-Um adulto pode pensar:
-
-aconteceu, é só levantar, limpar, trocar a roupa, pedir ajuda.
-
-Mas “é só” é uma expressão muito confortável para quem já sabe fazer aquilo que a criança ainda não sabe.
-
-Eu não sabia transformar necessidade em pedido.
-
-Depois não sabia transformar acidente em ajuda.
-
-Eu sabia ficar quieta.
-
-Então fiquei.
-
-O corpo molhado.
-
-A dor diminuindo porque a bexiga tinha finalmente vencido minha teimosia.
-
-E outra coisa crescendo no lugar:
-
-medo de cheiro.
-
-Medo de movimento.
-
-Medo de levantar.
-
-Medo de existir demais naquele instante.
-
-Hoje, quando volto àquela sala, não quero colocar palavras adultas na boca da menina.
-
-Não quero dizer que naquele dia “aprendi” a desaparecer como se a vida funcionasse com uma aula inaugural seguida de diploma.
-
-Eu já vinha aprendendo coisas de muitos jeitos.
-
-E aprenderia outras depois.
-
-Aquela cena não explica tudo.
-
-Não explica casamento.
-
-Não explica maternidade.
-
-Não explica violência.
-
-Não explica escolhas que só seriam feitas décadas mais tarde.
-
-Mas guarda uma pergunta que eu demorei muito para formular:
-
-**quantas vezes uma pessoa sofre a consequência de uma resposta que ninguém chegou a dar?**
-
-A resposta dessa pergunta não pertence à menina ainda.
-
-Ela está ocupada demais tentando não se mexer.
-
-Eu consigo vê-la.
-
-Pequena.
-
-Sentada.
-
-Apertando o próprio corpo como se a solução fosse caber em menos espaço.
-
-Ela precisava de uma coisa simples.
-
-Não conseguiu pedir.
-
-Quando o corpo pediu por ela, já era tarde para fazê-lo discretamente.
-
-E então começou a segunda parte daquela lição sem professora:
-
-não bastava ficar calada.
-
-Agora eu precisava impedir que o silêncio tivesse cheiro.
+Era levantar sem que a sala descobrisse por quê.
