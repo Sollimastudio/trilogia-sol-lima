@@ -6,7 +6,7 @@
 
 # CAPÍTULO 25 — RESPONSABILIDADE, DEVER E VISÃO DE FUTURO
 
-## Nem tudo é seu. Alguma coisa é.
+## Nem tudo é seu. Qual parte pode estar ao seu alcance?
 
 Depois de aprender a observar Frutos, localizar Galhos, investigar Solo, Semente, Raízes, Tronco, Pragas, influências, Jaulas, custos e Espelhos, existe uma tentação muito humana.
 
@@ -46,11 +46,7 @@ A pergunta agora não é mais apenas:
 
 **diante do que eu já consigo enxergar, o que realmente cabe a mim?**
 
-Nem tudo.
-
-Mas alguma coisa.
-
-E é exatamente essa alguma coisa que precisamos localizar.
+Nem tudo. Talvez exista uma margem pequena; talvez faltem condições até para usá-la agora. É a margem real que precisamos localizar, não uma tarefa inventada para que a última linha fique preenchida.
 
 ## Responsabilidade não é culpa com roupa de adulto
 
@@ -792,7 +788,7 @@ Qual é o dever de Lia?
 
 Se ela não tinha assumido a tarefa, não existe automaticamente dever de aceitá-la.
 
-Mas existe um dever que ela mesma criou: responder no prazo que combinou consigo e não deixar o outro esperando indefinidamente para evitar desconforto.
+Mas há um compromisso que comunicou à outra pessoa: responder no prazo informado. A responsabilidade é cumprir esse retorno ou avisar que precisará revê-lo, em vez de deixar alguém esperando para evitar desconforto. Não é uma regra interna que o outro deveria adivinhar.
 
 O desconforto aparece.
 

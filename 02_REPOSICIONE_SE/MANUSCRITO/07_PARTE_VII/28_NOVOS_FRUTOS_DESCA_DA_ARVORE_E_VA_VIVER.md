@@ -572,69 +572,15 @@ Você pode entrar novamente por um Fruto novo sempre que precisar.
 
 ## Lia chega ao fim sem ganhar uma nova identidade
 
-Lia começou o livro aceitando compromissos antes de consultar a própria agenda e depois sentindo sobrecarga e ressentimento.
+Lia começou aceitando pedidos antes de consultar a agenda. Seu avanço não foi descobrir quem era para sempre, mas mudar uma resposta verificável sem abandonar a generosidade.
 
-Nós não descobrimos `quem Lia é`.
+Agora alguns pedidos recebem um não, outros um sim que ela consegue sustentar e outros uma proposta de prazo. Nem todas as pessoas gostam. A culpa não desapareceu, e houve um dia em que o sim antigo saiu antes da consulta.
 
-Descobrimos como ela estava operando naquele Galho.
+A diferença está também no que Lia faz depois: reconhece a falha, repara o que for necessário e revê a prática. Não precisa transformar um episódio no fracasso da vida inteira nem defender a Nova Semente quando ela pede ajuste.
 
-Ela observou Fruto.
+No caso hipotético que acompanhamos, há menos compromissos assumidos por reflexo e mais promessas compatíveis com a capacidade. Isso não comprova a eficácia universal do método. Mostra como observar uma mudança, seus custos e suas limitações.
 
-Localizou posição.
-
-Encontrou Solo.
-
-Levantou hipótese de Raiz.
-
-Redefiniu confiabilidade no Tronco.
-
-Criou limite e acordo.
-
-Comparou Galhos.
-
-Reconheceu pertencimento, adiamento e uma frase herdada.
-
-Passou pelo Filtro.
-
-Mapeou a Cadeia.
-
-Reconheceu Névoa num contexto e recurso Soberano em outro.
-
-Definiu Poda.
-
-Plantou Nova Semente.
-
-E começou a observar novos Frutos.
-
-Alguns pedidos agora recebem resposta depois da agenda.
-
-Alguns recebem não.
-
-Outros recebem sim consciente.
-
-Algumas pessoas estranham.
-
-Outras se adaptam.
-
-Lia ainda sente culpa em certas situações.
-
-Ainda falha em alguns dias.
-
-Ainda precisa revisar.
-
-Ótimo.
-
-Isso é vida.
-
-O método não precisa terminar transformando Lia numa personagem curada, iluminada e insuportável.
-
-Precisa deixá-la mais capaz de perceber e responder.
-
-Conseguiu.
-
-Agora Lia sai da página.
-
-O resto pertence à vida dela.
+Lia termina sem cura prometida, identidade pronta ou final perfeito. A demonstração pode parar aqui. A sua investigação, por sua vez, volta ao registro que você trouxe.
 
 ## Retorno à Fotografia de Partida
 
@@ -688,7 +634,9 @@ Não significam que um hábito se forma em determinado prazo.
 
 Servem apenas como pontos de revisão para impedir que intenção desapareça no calendário.
 
-### Em 30 dias
+### Em 30 dias — o mesmo checkpoint do capítulo anterior
+
+Reutilize as observações do Capítulo 27; não é preciso abrir outro acompanhamento ou reiniciar a contagem. As janelas seguintes são oportunidades de revisão, ajustáveis à sua prática, não obrigações de desempenho.
 
 O que aconteceu com a Nova Semente?
 
@@ -772,154 +720,22 @@ Quando há evidência suficiente e ação proporcional disponível, o Mirante pr
 
 Você precisa ir viver.
 
-## DESÇA DA ÁRVORE
-
-No começo eu te pedi:
-
-**antes de me julgar, deixe seu julgamento na Árvore.**
-
-Suba.
-
-Olhe de cima.
-
-Atravesse o raciocínio.
-
-Passe pelo Filtro.
-
-E então desça.
-
-Talvez você ainda discorde de mim em muita coisa.
-
-Ótimo.
-
-Recolha seu julgamento.
-
-Confronte minhas ideias.
-
-Mantenha o que resistiu ao seu exame.
-
-Deixe o que não resistiu.
-
-Eu não quero seguidores intelectuais.
-
-Quero que o método cumpra a função para a qual nasceu:
-
-**devolver você à própria responsabilidade de enxergar e escolher.**
-
-A Árvore não é um altar.
-
-Não é um esconderijo.
-
-Não é um lugar para morar.
-
-É um ponto de observação.
-
-Você sobe para enxergar.
-
-Desce para existir.
-
-## O próximo Fruto começa agora
-
-Reposicionar-se não começa quando toda a vida está resolvida.
-
-Começa no próximo movimento examinável.
-
-No próximo não que realmente precisa ser não.
-
-No próximo sim que você pode sustentar.
-
-Na próxima pergunta que não será morta antes de nascer.
-
-Na próxima opinião que você vai conferir antes de repetir.
-
-Na próxima Poda que protege o que deve continuar vivo.
-
-Na próxima Nova Semente pequena o bastante para caber nas próximas vinte e quatro horas.
-
-Na próxima vez que você olhar o Fruto antes de defender a intenção.
-
-Na próxima vez que perceber o Sofá e decidir se está descansando ou se escondendo.
-
-Na próxima vez que a Jaula ficar visível e você investigar a Porta sem humilhar seus próprios limites.
-
-Na próxima vez que o desconforto aparecer e você perguntar se é coerência, perigo, falta de recurso ou rota errada.
-
-A próxima colheita não começa no futuro.
-
-Começa na posição que você pratica agora.
-
 ## DESÇA DA ÁRVORE E VÁ VIVER
 
-Não responda bonito.
+Você não precisa decorar a Árvore para voltar à situação com que começou. Precisa reconhecer o que sabe, o que ainda não sabe e qual resposta cabe nas condições de agora.
 
-Responda verdadeiro.
+Talvez a resposta seja uma conversa. Talvez seja cumprir o que prometeu, reparar um erro ou procurar informação qualificada. Pode ser pedir ajuda, preparar proteção ou descansar sem fingir que a questão deixou de existir.
 
-Que Fruto sua vida produz hoje?
+O próximo passo não recebe valor pelo tamanho do anúncio. Recebe trabalho: tem custo, encontra outras pessoas e pode precisar de revisão. Uma decisão examinada não ganha imunidade contra a realidade só porque foi tomada depois de ler este livro.
 
-O que sustenta esse Fruto?
+O método está disponível quando um novo Fruto pedir investigação. Não precisa vigiar cada minuto da sua vida.
 
-Que parte é sua?
+Ao voltar à Fotografia de Partida, você talvez tenha descoberto mais do que uma maneira de agir. Pode ter percebido que uma posição usava sua voz sem ter passado pelo seu exame. A pergunta sobre a autoria de quem escolhe continua aberta; não será resolvida por mais um nome dado a um padrão.
 
-Que parte não é?
+Por enquanto, há uma prática possível — ou uma condição que você reconhece precisar reunir. Isso basta para que a travessia saia da página sem exigir que a vida inteira esteja pronta.
 
-O que precisa ser Podado?
+Antes de fechar este livro, volto à árvore que ajudou a dar linguagem a esse olhar.
 
-Que Nova Semente cabe agora?
+Ao Cajueiro.
 
-Então pare de me responder.
-
-Feche o livro quando terminar.
-
-Abra a agenda.
-
-Faça a ligação.
-
-Durma.
-
-Peça ajuda.
-
-Cumpra o dever.
-
-Diga não.
-
-Diga sim.
-
-Espere conscientemente.
-
-Busque informação.
-
-Proteja-se.
-
-Repare.
-
-Plante.
-
-Observe.
-
-Revise.
-
-Viva.
-
-A árvore que me ensinou a subir ainda vai aparecer uma última vez.
-
-Mas não para acrescentar outra ferramenta.
-
-O Cajueiro não precisa ensinar mais nada agora.
-
-Ele só precisa estar lá enquanto uma pergunta fica de pé.
-
-Porque, depois de aprender a examinar a posição que ocupa, existe uma pergunta que este livro deliberadamente não vai responder por inteiro:
-
-**quem é o Eu que está escolhendo essa nova posição?**
-
----
-
-# FIM DA PARTE VII — PODA, NOVA SEMENTE E FRUTOS
-
-O Método Posicione-se foi entregue integralmente.
-
-A próxima etapa não acrescenta outra camada ao método.
-
-Ela fecha a travessia literariamente.
-
-**O Cajueiro Ainda Está Lá.**
+Não para ensinar outra ferramenta. Para não esquecer o chão a que toda essa subida deveria nos devolver.

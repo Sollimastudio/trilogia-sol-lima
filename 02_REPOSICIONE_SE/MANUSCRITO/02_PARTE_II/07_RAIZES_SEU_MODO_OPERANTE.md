@@ -1,705 +1,245 @@
 # CAPÍTULO 7 — RAÍZES: SEU MODO OPERANTE
 
-## Talvez `eu sou assim` seja uma conclusão precoce
+## Talvez eu sou assim seja uma conclusão precoce
 
-`Eu sou assim.`
+*Eu sou assim.*
 
-Essa frase resolve muita coisa.
+A frase resolve muita coisa. Rápido demais.
 
-Rápido demais.
+Você se chama de explosivo, boazinha, frio, desorganizada, dependente ou controlador. A identidade recebe o processo inteiro no colo e ninguém mais precisa investigar a situação.
 
-Você é explosivo.
+Talvez existam características estáveis, preferências e limitações que fazem parte da sua experiência. O método não nega isso. Mas uma parte do que você está descrevendo pode ser uma forma repetida de funcionar em certas condições.
 
-Você é ansiosa.
+É por isso que uso a expressão **modo operante**. Não como termo clínico, mas como pergunta prática:
 
-Você é boazinha.
+**Como você costuma operar aqui?**
 
-Você é desorganizado.
+Diante de um pedido, uma crítica, uma autoridade, uma possibilidade de rejeição? O que faz quando precisa escolher entre discordar e preservar o lugar? Em que situações responde de outro jeito?
 
-Você é fria.
+A repetição oferece pistas sobre uma Raiz. Ainda não é a resposta inteira.
 
-Você é dependente.
+## Raiz é sustentação atual, não uma sentença sobre a origem
 
-Você é controladora.
+A origem pode estar distante. A Raiz, no método, é aquilo de onde um padrão ainda retira força **hoje**.
 
-Você é impulsivo.
+Uma frase ouvida na infância pode fazer parte da história sem governar a decisão atual. Uma experiência difícil pode ter sido atravessada com recursos que depois mudaram a maneira de responder.
 
-Pronto.
+Da mesma forma, uma Raiz não precisa ter começado na infância. Pode ter se fortalecido num trabalho, num casamento, numa comunidade ou numa experiência de sucesso.
 
-A identidade recebeu o processo inteiro no colo e agora ninguém mais precisa investigar nada.
+Imagine alguém elogiado por entregar tudo rapidamente. Esse elogio pode ter sido bom. A regra atual, porém, pode ter ficado estreita: *só tenho valor enquanto estou disponível*.
 
-No Método Posicione-se, eu não aceito essa facilidade tão cedo.
+A origem possível foi o elogio. A hipótese de Raiz é a regra que continua organizando a resposta.
 
-Talvez você realmente tenha características estáveis de temperamento, preferências, limitações e traços que fazem parte de quem é.
+Quando digo **Volte às Raízes**, não estou mandando você procurar na infância a explicação obrigatória de tudo. Estou perguntando:
 
-Mas talvez uma parte daquilo que chama de `eu` seja uma forma repetida de funcionar em determinadas condições.
-
-E forma repetida de funcionar é investigável.
-
-Por isso eu uso uma expressão que gosto muito:
-
-**modo operante.**
-
-Não como termo clínico.
-
-Como pergunta prática.
-
-Quando você não está pensando conscientemente em cada passo, **como costuma operar?**
-
-O que faz quando se sente rejeitado?
-
-O que faz quando alguém te pressiona?
-
-O que faz quando sente culpa?
-
-O que faz diante de dinheiro?
-
-O que faz quando recebe elogio?
-
-O que faz quando está inseguro?
-
-O que faz quando encontra autoridade?
-
-O que faz quando precisa escolher entre pertencer e discordar?
-
-A resposta repetida começa a mostrar Raiz.
-
-## Raiz não é origem. É sustentação atual.
-
-Essa distinção é decisiva.
-
-A origem pode ter acontecido trinta anos atrás.
-
-A Raiz, para o método, é aquilo de onde o padrão ainda retira força **hoje**.
-
-Você pode ter aprendido alguma coisa com seus pais e já não acreditar nela.
-
-Então talvez aquilo faça parte da origem, mas não da Raiz atual.
-
-Pode ter vivido uma experiência difícil e, depois, construído repertório suficiente para que ela não governe mais a decisão presente.
-
-Pode ter ouvido uma frase mil vezes na infância e hoje considerá-la absurda.
-
-Origem não é condenação vitalícia.
-
-Da mesma forma, uma Raiz atual nem sempre nasceu na infância.
-
-Pode ter sido construída num casamento.
-
-Num trabalho.
-
-Numa comunidade.
-
-Numa fase de escassez.
-
-Num ambiente digital.
-
-Numa experiência de sucesso.
-
-Até uma coisa boa pode criar uma regra ruim se for interpretada de forma estreita.
-
-Você foi elogiado porque entregava tudo rápido e começou a acreditar que só merece reconhecimento se estiver permanentemente disponível.
-
-A origem foi um elogio.
-
-A Raiz pode ser uma regra atual:
-
-`Se eu não estiver disponível, perco valor.`
-
-É por isso que, quando eu disser **Volte às Raízes**, não estou mandando você voltar para a infância.
-
-Estou dizendo:
-
-**pergunte de onde essa posição ainda retira força hoje.**
+**De onde esta posição ainda retira força?**
 
 ## O que pode funcionar como Raiz
 
-Uma Raiz pode ser uma crença operante.
+Uma crença operante: *se eu discordar, perco amor*.
 
-`Se eu discordar, perco amor.`
+Uma interpretação de valor: *ser leal significa nunca contrariar*.
 
-Pode ser um valor mal organizado.
+Um hábito: *respondo na hora porque sempre respondi*.
 
-`Ser leal significa nunca contrariar.`
+Uma recompensa: *quando resolvo tudo, recebo reconhecimento*.
 
-Pode ser um hábito.
+Uma lógica protetiva: *se antecipar o problema, talvez evite o conflito*.
 
-`Eu respondo na hora porque sempre respondi.`
+Uma regra sobre si: *pessoa forte não pede ajuda*.
 
-Pode ser uma lealdade.
+Uma interpretação de fé: *se eu questionar, estarei sendo rebelde*.
 
-`Na minha família ninguém abandona ninguém, independentemente do que aconteça.`
+Uma lógica de pertencimento: *para continuar aqui, preciso concordar*.
 
-Pode ser uma recompensa.
+São possibilidades de investigação. Nenhuma deve ser colada à pessoa apenas porque combina com um resultado. Precisamos ver quando aparece, o que sustenta e o que os fatos acrescentam.
 
-`Quando eu resolvo tudo, sou elogiada e me sinto necessária.`
-
-Pode ser uma lógica protetiva.
-
-`Se eu prever o problema antes, talvez consiga evitar conflito.`
-
-Pode ser uma regra de identidade.
-
-`Pessoa forte não pede ajuda.`
-
-Pode ser uma interpretação sobre Deus.
-
-`Se eu me posicionar, estou sendo rebelde.`
-
-Pode ser uma premissa sobre dinheiro.
-
-`Cobrar é explorar.`
-
-Pode ser uma lógica de pertencimento.
-
-`Para continuar aqui, preciso concordar.`
-
-Nenhuma dessas frases é automaticamente falsa.
-
-O trabalho não é ridicularizar a Raiz.
-
-É examinar o Fruto que ela participa de produzir.
+Não estamos procurando uma Raiz culpada. Estamos procurando sustentação suficiente para compreender uma repetição.
 
 ## Decisões são crenças em movimento
 
-Há uma frase que atravessou meu modo de pensar e que eu quero preservar neste livro:
+Gosto desta formulação: **decisões são crenças em movimento**.
 
-**decisões são crenças em movimento.**
+Uso-a como uma lente, não como explicação completa. Uma decisão também pode envolver emoção, hábito, corpo, informação, incentivo, risco, coerção, recursos e as opções percebidas naquele momento.
 
-Eu não quero dizer que toda decisão nasce de uma única crença escondida.
+Mas crenças e valores participam. Um modo de observá-los é olhar quando existe custo.
 
-A vida é mais complexa do que isso.
+Você diz que seu tempo importa. O que acontece quando alguém que teme decepcionar pede o horário reservado para você?
 
-Decisões também são atravessadas por emoção, hábito, corpo, contexto, informação, incentivo, risco, coerção, recurso e pelas opções que conseguimos perceber naquele momento.
+Diz que acredita em liberdade. Como responde quando alguém usa essa liberdade para discordar?
 
-Mas crenças e valores participam.
+Diz que a verdade importa. O que acontece quando uma evidência atrapalha seu grupo?
 
-E aparecem de um jeito especialmente interessante quando existe custo.
-
-Eu posso dizer:
-
-`Meu tempo é importante.`
-
-Ótimo.
-
-O que acontece quando alguém que eu admiro pede meu tempo justamente no horário que eu tinha reservado para mim?
-
-Posso dizer:
-
-`Família é prioridade.`
-
-O que acontece quando trabalho, dinheiro, ego ou disponibilidade digital competem com essa prioridade?
-
-Posso dizer:
-
-`Acredito em liberdade.`
-
-O que faço quando alguém usa essa liberdade para discordar de mim?
-
-Posso dizer:
-
-`A verdade importa.`
-
-O que acontece quando a verdade ameaça meu grupo?
-
-É aí que começamos a distinguir duas coisas:
-
-**valor declarado** e **valor operante.**
+É nessa diferença entre a declaração e a cena que começamos a investigar **valor declarado** e **valor operante**.
 
 ## Valor declarado e valor operante
 
-Valor declarado é aquilo que eu digo considerar importante.
+Valor declarado é aquilo que você diz considerar importante. Valor operante é o valor que consegue reconhecer orientando a conduta numa situação concreta.
 
-Valor operante é aquilo que realmente participou da minha conduta naquela situação, sob aquele custo.
+A distância entre os dois não prova, por si só, hipocrisia. E nem tudo que pesa numa resposta é um valor.
 
-A diferença entre os dois não é prova de hipocrisia.
+Medo, cansaço, pressão e falta de recurso podem interferir no que você consegue sustentar. Não vamos chamar medo de valor apenas porque ele participou da decisão.
 
-É pergunta.
+Você pode valorizar descanso e responder sob receio de perder uma oportunidade. Pode valorizar família e enfrentar uma urgência financeira que disputa o mesmo tempo. Pode reconhecer honestidade como princípio e ter mentido para evitar rejeição.
 
-Talvez você declare que valoriza descanso e opere sob medo de perder oportunidade.
+A pergunta é: **o que realmente pesou aqui?**
 
-Talvez declare honestidade e, numa conversa específica, opere sob medo de rejeição.
+Qual valor orientou a conduta? Que regra, emoção ou condição dificultou sustentar o valor declarado? Há um erro a reparar, uma limitação a reconhecer ou uma definição de valor que precisa ser revista?
 
-Talvez declare família e, naquele período, opere sob urgência financeira real.
+Precisão permite olhar essa distância sem esconder responsabilidade nem transformar toda dificuldade em falha moral.
 
-Talvez declare coragem e, diante de risco concreto, opere com prudência.
+## Uma Raiz pode ser banal
 
-Talvez declare fé e, num momento difícil, opere sob desespero.
+Nem toda sustentação está enterrada num passado remoto, esperando uma descoberta cinematográfica.
 
-O método não precisa transformar cada distância em falha moral.
+*É mais rápido.*
 
-Ele precisa perguntar:
+*Não quero parecer chata.*
 
-**o que realmente pesou na decisão?**
+*Todo mundo da área faz assim.*
 
-Essa pergunta aproxima a investigação da vida real.
+*Se eu não responder, vão achar ruim.*
 
-## Uma Raiz não precisa ser profunda para ser forte
+Frases pequenas podem acompanhar respostas repetidas por muito tempo. O que importa não é apenas a profundidade da origem. É a força que uma regra ainda recebe do hábito, do contexto, da recompensa ou do medo presente.
 
-Às vezes imaginamos Raiz como alguma coisa dramática, enterrada num passado remoto, esperando uma sessão cinematográfica para ser descoberta.
-
-Nem sempre.
-
-Uma Raiz pode ser extremamente banal.
-
-`Eu sempre faço assim.`
-
-`É mais rápido.`
-
-`Não gosto de conversa difícil.`
-
-`Não quero parecer chata.`
-
-`Depois eu vejo.`
-
-`Todo mundo da área faz desse jeito.`
-
-`Se eu cobrar mais, perco cliente.`
-
-`Se eu não responder, vão achar ruim.`
-
-São frases pequenas.
-
-Mas pequenas frases repetidas por anos podem sustentar Frutos enormes.
-
-A profundidade da origem não determina sozinha a força da Raiz.
-
-A repetição atual importa.
-
-O ganho atual importa.
-
-O ambiente atual importa.
-
-O medo atual importa.
-
-Por isso, às vezes o livro vai pedir menos escavação e mais observação.
+Às vezes a investigação pede menos escavação e mais observação do que acontece na próxima cena.
 
 ## Buscar a Lógica
 
-Quando uma posição se repete, em vez de perguntar imediatamente `qual trauma causou isso?`, experimente outra pergunta:
+Diante de uma posição repetida, em vez de perguntar imediatamente qual trauma a causou, experimente:
 
-**que lógica faz essa resposta parecer razoável para mim no momento em que acontece?**
+**Que lógica faz esta resposta parecer razoável para mim no momento em que acontece?**
 
 Essa é a ferramenta **Buscar a Lógica**.
 
-Toda resposta repetida costuma ter algum tipo de coerência interna, mesmo quando o Fruto final é ruim.
+Ela procura uma hipótese de coerência, não presume que todo sofrimento esconda uma vantagem.
 
-Você aceita mais trabalho.
+Você aceita trabalho além da capacidade. Uma hipótese pode ser: *se eu recusar, vão pensar que não sou competente*.
 
-Qual é a lógica?
+Evita conversar sobre dinheiro. Talvez opere como se toda conversa fosse terminar numa briga.
 
-`Se eu disser não, vão descobrir que não sou tão competente.`
+Responde a cada discussão política. Talvez interprete o silêncio como concordância com o erro.
 
-Você não conversa sobre dinheiro no casamento.
+Adia a conclusão de um projeto. Talvez esteja tentando evitar o momento de submetê-lo à avaliação.
 
-Qual é a lógica?
+Essas hipóteses não são explicações automáticas para tais comportamentos. Pode haver outro motivo ou uma restrição concreta que não apareceu na primeira leitura.
 
-`Se eu tocar no assunto, vamos brigar e é melhor manter a paz.`
+*Por que eu sou assim?* chama uma resposta sobre a pessoa inteira. *Que lógica torna essa resposta plausível aqui?* oferece um objeto menor e verificável.
 
-Você entra em discussão política toda noite.
+## A lógica pode ter sido útil e precisar de revisão
 
-Qual é a lógica?
+Uma regra pode nascer diante de um problema real e continuar operando depois que o problema mudou.
 
-`Se eu não responder, estou deixando a mentira vencer.`
+*Não dependa de ninguém* pode ter protegido alguém num período de abandono e, em outra fase, dificultar receber ajuda segura.
 
-Você volta para um vínculo que te esvazia.
+*Trabalhe dobrado para não dar motivo a críticas* pode ter sido uma resposta a um ambiente hostil e continuar exigindo esforço mesmo onde já existe espaço para negociar.
 
-Qual é a lógica?
+*Não conte o que sente* pode ter diminuído exposição a agressões e depois impedir que um vínculo diferente conheça uma necessidade.
 
-`Ficar sozinho seria pior.`
+Não é necessário humilhar quem você foi para investigar quem responde hoje. É possível reconhecer uma função antiga e perguntar se ela ainda é necessária.
 
-Você continua adiando um projeto.
+A resposta também pode ser sim. O método não exige que toda regra aprendida seja abandonada. Exige que não fique imune ao contexto atual.
 
-Qual é a lógica?
+## O que a permanência evita, preserva ou torna previsível?
 
-`Se eu não terminar, ninguém pode avaliar o resultado.`
+Às vezes uma resposta que cobra um custo alto depois reduz uma tensão imediata. Evita uma conversa, mantém aprovação, preserva uma imagem ou oferece previsibilidade.
 
-Não estou dizendo que essa é a lógica de quem faz essas coisas.
+Em outros casos, a permanência protege segurança, renda ou uma condição que ainda não pode ser substituída. Isso não deve ser tratado como ganho oculto nem como prova de que alguém escolheu sofrer.
 
-São hipóteses.
+Pergunte sem antecipar a resposta:
 
-E hipótese precisa ser testada.
+**O que esta posição evita, preserva ou torna previsível no curto prazo?**
 
-Mas repare como a pergunta muda.
+Se houver uma função a preservar, a nova posição terá de considerá-la. Se a resposta antiga protegia renda, talvez outra prática dependa de reserva. Se evitava a perda de um lugar, pode ser necessário construir apoio. Se o alívio imediato vinha de adiar um não, uma resposta diferente pode trazer desconforto.
 
-`Por que eu sou assim?` costuma chamar uma sentença.
+Compreender a função não obriga a manter o padrão. Ajuda a não propor uma mudança que ignore aquilo que ele vinha sustentando.
 
-`Que lógica torna essa resposta plausível para mim?` chama investigação.
+É aqui que o Tronco começa a se tornar necessário: uma direção examinada também precisa conseguir suportar seus custos.
 
-## A lógica pode ter sido boa e envelhecido mal
+## Lia encontra uma hipótese mais precisa
 
-Essa é uma das coisas mais humanas que existem.
+No caso de Lia, o pedido chegava, o sim saía e a agenda era consultada depois. Agora, além de observar as condições, ela pergunta por que responder depressa parece tão necessário.
 
-Uma regra nasce para resolver um problema real.
+Surge uma hipótese: *se não ajudar na hora, vou parecer egoísta e pouco confiável*.
 
-Depois o problema muda.
+Lia não trata a frase como revelação. Procura situações que a sustentem e que a contrariem.
 
-A regra fica.
+Percebe urgência ao receber pedidos e vontade de justificar muito quando precisa negar. Mas, quando outra pessoa diz não com respeito, não conclui automaticamente que ela é egoísta. Nem perde sempre a confiança em quem demora a responder.
 
-`Não dependa de ninguém.`
+A hipótese ganha precisão:
 
-Talvez tenha sido útil numa fase de abandono.
+*Eu exijo de mim uma disponibilidade que não exijo dos outros.*
 
-Anos depois, pode impedir intimidade e ajuda.
+Isso é mais útil do que se chamar de trouxa. Há uma regra localizada para examinar, sem transformar o valor da generosidade em problema nem escolher um vilão para explicar todas as demandas.
 
-`Trabalhe dobrado para ninguém ter motivo para te criticar.`
+## Uma Raiz também precisa aceitar contraditório
 
-Talvez tenha garantido sobrevivência num ambiente hostil.
+Trate suas primeiras formulações como hipóteses.
 
-Anos depois, pode produzir exaustão mesmo num ambiente mais seguro.
+Se acha que tudo se explica por medo de rejeição, observe situações em que houve receio de rejeição e você ainda conseguiu sustentar uma resposta diferente. Se considera impossível desagradar, procure onde já faz isso. Se uma regra sobre dinheiro parece total, procure decisões que não obedeceram a ela.
 
-`Não conte o que sente.`
+A evidência contrária não serve apenas para eliminar a hipótese. Pode ajudá-la a ganhar endereço: um Galho, um tipo de vínculo, um custo, um período.
 
-Talvez tenha reduzido risco onde vulnerabilidade era punida.
-
-Anos depois, pode deixar relações seguras sem acesso à sua realidade.
-
-Reposicionamento não precisa desrespeitar a inteligência antiga.
-
-Pode dizer:
-
-`Obrigada por ter me protegido quando isso era necessário. Agora eu preciso verificar se ainda é.`
-
-Parece simples.
-
-Mas essa frase muda o tom da investigação.
-
-Você deixa de tratar a si mesmo como inimigo e começa a tratar o padrão como estrutura que pode ser atualizada.
-
-## O medo de perder o ganho invisível
-
-Todo padrão que permanece costuma entregar alguma coisa — ou evitar alguma coisa — no curto prazo.
-
-Não precisa ser um `ganho` prazeroso.
-
-Pode ser alívio.
-
-Previsibilidade.
-
-Evitar conflito.
-
-Evitar vergonha.
-
-Continuar pertencendo.
-
-Manter renda.
-
-Manter imagem.
-
-Não precisar admitir erro.
-
-Não enfrentar luto.
-
-Não experimentar o desconhecido.
-
-Quando você olha apenas para o Fruto ruim, pode não entender por que continua repetindo.
-
-Quando olha para o que a Raiz protege, a repetição começa a fazer mais sentido.
-
-E fazer sentido não significa que precisa continuar.
-
-Significa que agora você sabe o que a nova posição terá de enfrentar.
-
-Se a posição antiga comprava pertencimento, a nova pode cobrar solidão temporária.
-
-Se comprava alívio, a nova pode cobrar desconforto.
-
-Se evitava conflito, a nova pode exigir conversa.
-
-Se protegia renda, a nova talvez dependa primeiro de reserva.
-
-Se mantinha uma imagem, a nova pode exigir admitir que você não sabe.
-
-É aqui que o método começa a preparar o Tronco.
-
-Porque uma nova posição precisa sustentar o custo que a antiga evitava.
-
-## Lia começa a encontrar uma Raiz
-
-Lia vem observando a mesma cena desde a Parte I.
-
-Pedido chega.
-
-Ela responde sim antes de consultar a agenda.
-
-Depois sente sobrecarga e ressentimento.
-
-No capítulo anterior, percebemos que o Solo importa.
-
-Agora Lia usa **Buscar a Lógica**.
-
-Ela não pergunta:
-
-`Qual trauma me fez assim?`
-
-Pergunta:
-
-`Que lógica faz meu sim rápido parecer tão necessário?`
-
-E aparece uma hipótese:
-
-`Se eu não ajudar na hora, vou parecer egoísta e pouco confiável.`
-
-Ainda é hipótese.
-
-Então Lia procura evidências.
-
-Quando alguém pede algo, ela sente necessidade de responder imediatamente?
-
-Sim.
-
-Quando precisa negar, costuma explicar demais?
-
-Sim.
-
-Quando outra pessoa diz não a ela de forma respeitosa, Lia considera essa pessoa egoísta?
-
-Não.
-
-Interessante.
-
-A régua talvez não seja simétrica.
-
-Quando alguém demora a responder, Lia realmente perde confiança nessa pessoa?
-
-Nem sempre.
-
-Mais interessante ainda.
-
-A Raiz começa a ficar mais precisa:
-
-`Eu exijo de mim um nível de disponibilidade que não exijo dos outros.`
-
-Isso já é melhor do que:
-
-`Sou trouxa.`
-
-Agora há algo que pode ser examinado.
-
-## A Raiz como hipótese verificável
-
-Quero que você trate suas primeiras Raízes assim:
-
-não como revelações.
-
-Como hipóteses.
-
-Uma boa hipótese de Raiz precisa explicar alguma coisa, mas também precisa aceitar contraditório.
-
-Se você acha que sua Raiz é `medo de rejeição`, procure cenas em que existe rejeição e você se posiciona mesmo assim.
-
-Se existem, ótimo.
-
-Isso mostra que o medo não governa tudo.
-
-Talvez o Galho, o tipo de vínculo ou o custo façam diferença.
-
-Se acha que sua Raiz é `preciso agradar`, observe onde você consegue desagradar sem grande sofrimento.
-
-Se acha que `dinheiro é insegurança`, procure situações em que você toma decisões financeiras com tranquilidade.
-
-O objetivo não é provar que a hipótese está errada.
-
-É impedir que ela vire identidade total.
-
-A Raiz pode ser localizada.
-
-Um Fruto não precisa transformar a árvore inteira numa teoria.
+Não precisamos que uma Raiz explique a Árvore inteira.
 
 ## VOLTE ÀS RAÍZES
 
-Esse comando entra agora oficialmente.
+Não pergunte apenas onde começou. Pergunte **o que sustenta isso hoje**.
 
-**Volte às Raízes** significa:
+Pode haver uma crença, um hábito, uma lealdade, uma recompensa ou uma interpretação. Pode haver uma condição material importante que você estava tentando explicar apenas como funcionamento interno. Pode haver algo ainda desconhecido.
 
-não pergunte apenas `onde isso começou?`.
-
-Pergunte:
-
-**o que sustenta isso hoje?**
-
-Que crença?
-
-Que valor?
-
-Que recompensa?
-
-Que medo?
-
-Que lealdade?
-
-Que hábito?
-
-Que interpretação?
-
-Que condição?
-
-Que falta de recurso?
-
-Que lógica?
-
-E o que ainda não sei?
-
-A última pergunta continua sendo parte do método.
+Essa última possibilidade faz parte do método.
 
 Raiz inventada é só narrativa com pá na mão.
 
 ## Lei 5 — Questione a Narrativa, agora voltada para dentro
 
-A Lei nasceu no capítulo anterior.
+A Lei 5 apareceu no **Capítulo 5**, ao examinarmos Semente e Solo. Aqui, o exame encontra a história que você conta sobre o próprio funcionamento.
 
-Aqui ela fica mais desconfortável.
+*Eu sou assim porque...*
 
-Porque é muito mais fácil questionar a narrativa dos outros do que questionar a história elegante que explica quem somos.
+*Na minha família sempre...*
 
-`Eu sou assim porque...`
+*Depois do que vivi, nunca mais...*
 
-Talvez.
+Questionar não é negar a história. É verificar se a explicação continua descrevendo a resposta presente ou se passou a encerrar qualquer investigação.
 
-`Na minha família sempre...`
-
-Talvez.
-
-`Depois do que vivi, nunca mais...`
-
-Talvez.
-
-Questione a Narrativa não manda negar sua história.
-
-Manda impedir que a história feche a investigação antes da evidência.
-
-A pergunta é:
-
-**esta explicação continua descrevendo meu funcionamento atual ou virou uma história antiga que eu repito porque ela organiza tudo de forma confortável?**
-
-Às vezes a resposta será:
-
-`continua descrevendo.`
-
-Tudo bem.
-
-O método não exige novidade.
-
-Exige verdade suficiente para agir.
+Talvez continue descrevendo. Talvez precise de ajuste. O método não exige novidade. Exige que a narrativa permaneça aberta ao que a realidade mostra.
 
 ## Buscar a Lógica — aplicação
 
-Pegue a posição que acompanha você desde a Parte I.
+Acrescente à sua Fotografia de Partida uma hipótese de sustentação:
 
-Complete:
+**Quando acontece..., costumo responder...**
 
-**Quando acontece ____________________, eu costumo ____________________.**
+**Naquele momento, a resposta parece razoável porque...**
 
-Depois:
+**Talvez eu opere como se...**
 
-**Naquele momento, essa resposta parece razoável porque ____________________.**
+Procure o que sustenta a hipótese, o que a contradiz e os contextos em que ela não aparece. Depois compare:
 
-Agora transforme a explicação em hipótese de Raiz:
+**O valor que declaro é...**
 
-**Talvez eu opere como se ____________________.**
+**O valor que reconheço na conduta é...**
 
-Procure três tipos de dado:
+**A regra, emoção ou condição que também pesou foi...**
 
-1. **O que sustenta essa hipótese?**
-2. **O que a contradiz?**
-3. **Em que Galhos ou contextos ela não aparece?**
+Não use a distância entre intenção e prática para se humilhar. Use-a para localizar o que precisa de cuidado, recurso, reparação ou outra maneira de responder.
 
-Depois compare:
+## Nomear ainda não é sustentar
 
-**Valor que eu declaro:** ____________________.
+Entender uma lógica pode trazer alívio. Também pode criar a sensação de que o trabalho terminou. Você encontra o nome, explica a repetição e, no dia seguinte, responde como antes.
 
-**Valor que parece ter operado nesta situação:** ____________________.
+Isso não apaga a compreensão. Mostra que conhecer a resposta e conseguir praticar outra são trabalhos relacionados, mas diferentes.
 
-Não use a diferença para se humilhar.
+Um teste pequeno e seguro já pode produzir informação. O que não precisamos fazer é arrancar uma explicação da vida inteira apenas porque o primeiro nome pareceu convincente.
 
-Use para descobrir o custo que ainda está vencendo sua intenção.
+Algumas regras ficam especialmente difíceis de rever porque protegem um lugar ou parecem ser o preço para receber amor, respeito, descanso ou reconhecimento.
 
-## Não arranque uma Raiz só porque descobriu o nome
+A investigação chega, então, a duas perguntas:
 
-Entender é sedutor.
+**O que faço para não perder meu lugar?**
 
-Dá sensação de progresso.
+**O que acredito precisar provar, pagar, suportar ou sacrificar para ter direito a receber?**
 
-Às vezes a pessoa nomeia um padrão e já se sente quase curada dele.
-
-`Agora entendi tudo.`
-
-Maravilha.
-
-E amanhã faz igual.
-
-Isso não é fracasso.
-
-É a diferença entre consciência e sustentação.
-
-Nomear Raiz não muda automaticamente Fruto.
-
-Ainda falta Tronco.
-
-Ainda faltam limites.
-
-Acordos.
-
-Galhos.
-
-Pragas.
-
-Filtro.
-
-Poda.
-
-Nova Semente.
-
-Travessia.
-
-Sustentação.
-
-Não tente colher o final do método no capítulo 7.
-
-A sua ansiedade editorial interna vai sobreviver.
-
-## O que recebemos sem escolher
-
-Algumas Raízes foram fortalecidas por mapas que chegaram antes do nosso próprio exame.
-
-Mapas sobre amor.
-
-Família.
-
-Lealdade.
-
-Autoridade.
-
-Dinheiro.
-
-Fé.
-
-Mas há duas forças que tornam esses mapas especialmente difíceis de revisar:
-
-**pertencimento** e **merecimento.**
-
-Porque nem toda regra é obedecida por medo explícito.
-
-Algumas são obedecidas porque protegem um lugar.
-
-Outras porque parecem ser o preço para ter direito a receber alguma coisa.
-
-E aí a pergunta deixa de ser apenas:
-
-`No que eu acredito?`
-
-Passa a ser:
-
-**o que eu faço para não perder meu lugar?**
-
-E:
-
-**o que eu acredito precisar provar, pagar, suportar ou sacrificar para merecer receber?**
-
-Essas perguntas abrem o próximo capítulo.
-
-Não para dizer quem você é.
-
-Ainda não.
-
-Para entender quais mapas continuam na mão enquanto você tenta escolher uma rota nova.
+Pertencimento e merecimento entram na conversa. É com esses mapas na mão que vamos continuar.

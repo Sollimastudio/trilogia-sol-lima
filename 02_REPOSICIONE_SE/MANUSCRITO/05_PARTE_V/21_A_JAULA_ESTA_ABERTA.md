@@ -834,47 +834,11 @@ Premia precisão suficiente para o próximo passo.
 
 ## Antes de atravessar, filtre
 
-Agora temos muito material na mesa.
+Agora você consegue distinguir uma narrativa que acomoda de uma condição que realmente restringe. A Jaula reúne essas forças sem apagar suas diferenças. A Porta Possível não promete o destino: mostra uma margem que ainda precisa ser examinada.
 
-Fruto.
+Se decidir apenas pela intensidade da reação, pode trocar uma resposta automática por outra. Se continuar analisando sem acrescentar informação, pode fazer do Mirante um novo Sofá.
 
-Galho.
-
-Posição.
-
-Semente.
-
-Solo.
-
-Raiz.
-
-Tronco.
-
-Praga.
-
-Corpo.
-
-Limite.
-
-Acordo.
-
-Sono.
-
-Sofá.
-
-Influência.
-
-Jaula.
-
-Porta.
-
-Se você tentar decidir tudo apenas pela intensidade do que sente agora, pode trocar reação por outra reação.
-
-Se tentar analisar para sempre, pode transformar o Mirante em novo Sofá.
-
-Por isso a próxima Parte reúne o que vinha aparecendo em pedaços:
-
-**metacognição, evidência, simetria, custo, risco e ação proporcional.**
+A próxima Parte organiza a verificação que vinha sendo praticada em pedaços: o que é fato, que interpretação resiste ao contraditório e qual movimento cabe nas condições reais?
 
 É hora do **Filtro da Sensatez**.
 
@@ -882,26 +846,6 @@ Por isso a próxima Parte reúne o que vinha aparecendo em pedaços:
 
 # FIM DA PARTE V — PRAGAS, INFLUÊNCIAS E JAULAS
 
-A dor pode pedir cuidado sem receber governo.
+Ver a arquitetura não elimina as barras. Reconhecer uma Porta não obriga a atravessá-la.
 
-O importante pode dormir dentro de uma rotina que funciona.
-
-A mentira pode ser confortável sem deixar de ser mentira.
-
-A influência pode orientar sem precisar ocupar sua consciência.
-
-A Jaula pode ter barras internas e externas.
-
-A Porta pode existir e ainda exigir recurso.
-
-E enxergar não é o mesmo que atravessar.
-
-**A JAULA ESTÁ ABERTA.**
-
-Não porque tudo ficou fácil.
-
-Porque agora a arquitetura está visível o bastante para ser investigada.
-
-Antes de tocar na maçaneta, porém, existe uma responsabilidade:
-
-**passar pelo Filtro.**
+Antes da intervenção, a própria leitura precisa ser examinada. É essa responsabilidade que levamos ao Filtro.

@@ -102,7 +102,7 @@ E não significa que aquela pessoa é soberana em toda a vida.
 
 **O que pode ativar/preservar:** desejo de coerência, clareza e responsabilidade diante do custo.
 
-**Fruto provável:** decisões mais consistentes, limites mais claros, capacidade de reparar e relações em que discordância não precisa significar desaparecimento.
+**Fruto possível a verificar:** decisões mais consistentes, limites mais claros, capacidade de reparar e relações em que discordância não precisa significar desaparecimento.
 
 **Praga possível:** orgulho. O eixo pode virar pedestal.
 
@@ -130,7 +130,7 @@ Depois pode vir arrependimento, justificativa ou nova explosão.
 
 **O que pode ativar/preservar:** tentativa de recuperar espaço rápido, descarregar tensão, impedir que a pessoa se sinta ignorada ou impotente.
 
-**Fruto provável:** desgaste, medo nos vínculos, falas que ultrapassam a questão original, culpa posterior ou dificuldade de resolver o problema real.
+**Fruto possível a verificar:** desgaste, medo nos vínculos, falas que ultrapassam a questão original, culpa posterior ou dificuldade de resolver o problema real.
 
 **Praga possível:** ressentimento somado a impulso.
 
@@ -164,7 +164,7 @@ O Espelho só faz sentido quando a indefinição persiste mesmo depois de existi
 
 **O que pode ativar/preservar:** evitar perda, conflito, erro ou responsabilidade por escolher.
 
-**Fruto provável:** ambiguidade, oportunidades expirando, acordos nunca formulados, ressentimento e decisões tomadas pelo tempo em vez de pela pessoa.
+**Fruto possível a verificar:** ambiguidade, oportunidades expirando, acordos nunca formulados, ressentimento e decisões tomadas pelo tempo em vez de pela pessoa.
 
 **Praga possível:** adiamento protegido por excesso de análise.
 
@@ -184,7 +184,7 @@ Ela pode estar fisicamente presente e, ainda assim, quase nunca colocar algo pr�
 
 **O que pode ativar/preservar:** segurança, aceitação, previsibilidade, fuga de conflito ou medo de ocupar espaço demais.
 
-**Fruto provável:** necessidades não comunicadas, invisibilidade relacional, acordos desequilibrados, ressentimento ou sensação de viver sempre a partir da agenda alheia.
+**Fruto possível a verificar:** necessidades não comunicadas, invisibilidade relacional, acordos desequilibrados, ressentimento ou sensação de viver sempre a partir da agenda alheia.
 
 **Praga possível:** anestesia e autoapagamento como resposta repetida.
 
@@ -214,7 +214,7 @@ A ausência dela parece prova de insuficiência.
 
 **O que pode ativar/preservar:** necessidade de confirmação, medo de rejeição ou busca de orientação sobre o próprio valor.
 
-**Fruto provável:** comparação, oscilação, dificuldade de sustentar preço ou limite, decisões reorganizadas pela plateia.
+**Fruto possível a verificar:** comparação, oscilação, dificuldade de sustentar preço ou limite, decisões reorganizadas pela plateia.
 
 **Praga possível:** dependência de validação.
 
@@ -224,7 +224,7 @@ A ausência dela parece prova de insuficiência.
 
 **Pergunta do Mirante:** **o que muda em mim quando ninguém confirma quem eu espero ser?**
 
-O Livro 3 vai mais fundo na questão identitária. Aqui, o trabalho é posição observável.
+A pergunta se limita à posição observável; não pretende definir a pessoa.
 
 ## 6. O ATOR — performance como estratégia de pertencimento
 
@@ -240,7 +240,7 @@ O problema começa quando o personagem precisa trabalhar tanto que a pessoa já 
 
 **O que pode ativar/preservar:** aprovação, segurança, admiração, oportunidade ou medo de decepcionar.
 
-**Fruto provável:** exaustão, incoerência entre discurso e prática, relações pouco capazes de acessar a realidade da pessoa e medo de ser desmascarado por uma imperfeição comum.
+**Fruto possível a verificar:** exaustão, incoerência entre discurso e prática, relações pouco capazes de acessar a realidade da pessoa e medo de ser desmascarado por uma imperfeição comum.
 
 **Praga possível:** dependência de plateia e perfeccionismo de imagem.
 
@@ -264,7 +264,7 @@ O Espelho entra quando receber virou obrigação de repetir.
 
 **O que pode ativar/preservar:** honra, pertencimento, gratidão, lealdade, medo de parecer ingrato ou de romper continuidade.
 
-**Fruto provável:** culpa diante de escolhas próprias, reprodução de acordos que já não fazem sentido, dificuldade de distinguir valor herdado de mandato herdado.
+**Fruto possível a verificar:** culpa diante de escolhas próprias, reprodução de acordos que já não fazem sentido, dificuldade de distinguir valor herdado de mandato herdado.
 
 **Praga possível:** lealdade invisível usada contra evidência atual.
 
@@ -310,7 +310,7 @@ Ou, no outro extremo, o primeiro vínculo, proposta ou certeza que pareça boia.
 
 **O que pode ativar/preservar:** necessidade de segurança, medo de errar, medo de perder apoio ou desejo de interromper rapidamente uma sensação de desamparo.
 
-**Fruto provável:** paralisia disfarçada de pesquisa, escolha precipitada por alívio, terceirização temporária de decisão ou aceitação de opções pouco examinadas.
+**Fruto possível a verificar:** paralisia disfarçada de pesquisa, escolha precipitada por alívio, terceirização temporária de decisão ou aceitação de opções pouco examinadas.
 
 **Praga possível:** ansiedade decisória, urgência e busca de certeza impossível — descritas aqui como função, não diagnóstico clínico.
 
@@ -332,7 +332,7 @@ O problema é terceirizar o exame junto com a ideia.
 
 **O que pode ativar/preservar:** pertencimento, economia cognitiva, confiança legítima em uma fonte ou medo de romper com o grupo.
 
-**Fruto provável:** dificuldade de explicar a própria posição, rigidez emprestada, mudança automática quando a voz de referência muda e vulnerabilidade à régua de dois pesos.
+**Fruto possível a verificar:** dificuldade de explicar a própria posição, rigidez emprestada, mudança automática quando a voz de referência muda e vulnerabilidade à régua de dois pesos.
 
 **Praga possível:** influência não filtrada e dependência de aprovação do grupo.
 
@@ -356,7 +356,7 @@ Existe uma versão forte na tela e outra que não consegue sustentar a mesma reg
 
 **O que pode ativar/preservar:** reputação, admiração, pertencimento, mercado, segurança social ou medo de parecer incoerente.
 
-**Fruto provável:** exaustão de imagem, dificuldade de mudar de ideia publicamente, distância entre discurso e prática, decisões feitas para parecer posicionadas em vez de serem examinadas.
+**Fruto possível a verificar:** exaustão de imagem, dificuldade de mudar de ideia publicamente, distância entre discurso e prática, decisões feitas para parecer posicionadas em vez de serem examinadas.
 
 **Praga possível:** validação externa e performance.
 
@@ -384,7 +384,7 @@ Mudar de ideia parece derrota.
 
 **O que pode ativar/preservar:** segurança, coerência, identidade social, medo de perder autoridade ou desconforto diante da incerteza.
 
-**Fruto provável:** diálogo empobrecido, repetição de argumentos, dificuldade de corrigir erro, afastamento de quem traz informação inconveniente.
+**Fruto possível a verificar:** diálogo empobrecido, repetição de argumentos, dificuldade de corrigir erro, afastamento de quem traz informação inconveniente.
 
 **Praga possível:** rigidez e confirmação seletiva.
 
@@ -400,9 +400,7 @@ Convicção sem possibilidade de revisão precisa entrar no Filtro.
 
 ## 12. O ESPELHO — quando estar certo precisa significar estar acima
 
-Este nome apareceu em versões anteriores acompanhado de linguagem diagnóstica que não pertence à edição atual.
-
-Aqui, **Espelho** não é diagnóstico de narcisismo nem descrição de personalidade.
+**Espelho**, aqui, não é diagnóstico de narcisismo nem descrição de personalidade.
 
 É um modo contextual em que a pessoa protege uma imagem de superioridade, lucidez ou correção e começa a usar posicionamento para sustentar essa imagem.
 
@@ -418,7 +416,7 @@ Serve também à necessidade de continuar sendo aquele que sabe, que vê, que n�
 
 **O que pode ativar/preservar:** reputação, sensação de controle, medo de errar, necessidade de manter posição de autoridade ou de não parecer vulnerável.
 
-**Fruto provável:** relações em que contraditório fica perigoso, dificuldade de pedir desculpas, racionalização sofisticada e pessoas ao redor cada vez menos dispostas a dizer a verdade.
+**Fruto possível a verificar:** relações em que contraditório fica perigoso, dificuldade de pedir desculpas, racionalização sofisticada e pessoas ao redor cada vez menos dispostas a dizer a verdade.
 
 **Praga possível:** superioridade e defesa da autoimagem.
 
@@ -454,7 +452,7 @@ O Espelho existe para perguntar pela função.
 
 **O que pode ativar/preservar:** pertencimento, coerência espiritual, medo de errar moralmente, desejo de confiar ou dificuldade de assumir responsabilidade diante da incerteza.
 
-**Fruto provável:** decisões sempre adiadas em nome de uma resposta externa, confusão entre interpretação humana e vontade divina, limite tratado como falta de fé ou responsabilidade prática entregue à espera.
+**Fruto possível a verificar:** decisões sempre adiadas em nome de uma resposta externa, confusão entre interpretação humana e vontade divina, limite tratado como falta de fé ou responsabilidade prática entregue à espera.
 
 **Praga possível:** espiritualização da fuga ou terceirização de discernimento.
 
@@ -488,7 +486,7 @@ O Camaleão aparece quando a adaptação começa a mudar não apenas a forma, ma
 
 **O que pode ativar/preservar:** pertencimento, vantagem, segurança, aceitação ou medo de exclusão.
 
-**Fruto provável:** inconsistência entre ambientes, cansaço, perda de confiança, dificuldade de saber o que realmente consegue sustentar quando os grupos entram em conflito.
+**Fruto possível a verificar:** inconsistência entre ambientes, cansaço, perda de confiança, dificuldade de saber o que realmente consegue sustentar quando os grupos entram em conflito.
 
 **Praga possível:** pertencimento sem eixo e adaptação automática.
 
@@ -498,9 +496,7 @@ O Camaleão aparece quando a adaptação começa a mudar não apenas a forma, ma
 
 **Pergunta do Mirante:** **estou adaptando a forma ou negociando o eixo para caber?**
 
-A pergunta sobre quem resta quando todas as plateias saem pertence a uma investigação maior.
-
-Você já sabe qual livro vai recebê-la.
+O que você consegue sustentar nessa situação continua sendo a pergunta de trabalho. Não transforme a resposta no retrato inteiro de quem é.
 
 ## Nenhum Espelho deve virar arma
 
@@ -554,11 +550,11 @@ No segundo em que a abertura fecha, o recurso mudou de função.
 
 ## O espelho muda conforme Galho e custo
 
-Talvez você seja muito Névoa no amor e bastante Soberano no dinheiro.
+Talvez reconheça o modo Névoa em certas situações amorosas e um recurso Soberano em decisões de dinheiro.
 
-Talvez tenha comportamento de Ator nas redes e consiga grande presença na família.
+Talvez observe comportamento de Ator nas redes e consiga grande presença na família.
 
-Talvez seja Herdeiro na fé e Muro na política.
+Talvez uma regra herdada governe uma posição de fé e um fechamento ao contraditório apareça numa discussão política.
 
 Talvez um período de crise te deixe Náufrago numa área em que normalmente decide com calma.
 

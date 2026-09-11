@@ -554,7 +554,7 @@ Talvez reconhecer que uma rota não funciona e escolher outra.
 
 ## Abrace o desconforto, agora em movimento
 
-A Lei 13 nasceu no capítulo anterior.
+A Lei 13 foi formalizada no Capítulo 25 e encontrou a Poda no capítulo anterior.
 
 Aqui ela sai da classificação e entra na Travessia.
 
@@ -700,7 +700,7 @@ Complete:
 
 **A Poda específica é:** ______________________________.
 
-**Nas próximas 24 horas, minha Nova Semente será:** ______________________________.
+**Nas próximas 24 horas, ou na próxima ocasião segura e viável, minha Nova Semente será:** ______________________________.
 
 Ela precisa ser observável.
 
@@ -729,6 +729,8 @@ Depois escreva:
 Uma Semente.
 
 Não uma fazenda inteira.
+
+Escolha a frequência de revisão que faça sentido para essa prática. Os checkpoints abaixo acompanham o mesmo registro; não são três novos planos nem exigem repetir uma ação quando não houver ocasião segura.
 
 ## Checkpoint de 24 horas
 

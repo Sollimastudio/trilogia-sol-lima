@@ -104,11 +104,7 @@ Use para investigar.
 
 ## O Letreiro reaparece
 
-No Pré-livro eu te contei sobre o meu Letreiro de Neon.
-
-Ele não volta aqui para repetir a mesma história.
-
-Volta porque agora você já pode perceber a função dele.
+Na abertura, meu Letreiro de Neon tornou visível uma distância entre valor e prática. Agora vamos olhar para essa distância na sua Vitrine.
 
 O Letreiro era a frase que eu consegui criar para nomear uma incoerência entre aquilo que eu reconhecia como meu valor e aquilo que, em determinadas situações, eu conseguia sustentar.
 
@@ -326,9 +322,7 @@ Se começar pelo Fruto, talvez encontre uma pergunta nova.
 
 ## Auditoria da Vitrine
 
-Escolha uma única área da sua vida.
-
-Não faça inventário da existência inteira. Isso é ansiedade usando planilha.
+Retome o Galho e o Fruto da sua Fotografia de Partida. Acrescente a esta mesma situação as perguntas da Vitrine, sem começar outro inventário da existência inteira.
 
 Pode ser trabalho.
 
@@ -414,10 +408,6 @@ Não para humilhar você.
 
 Para dar ao Fruto o direito de testemunhar.
 
-Porque existe uma frase que eu vou repetir até ela parar de ser slogan e virar método:
-
 **Pelos frutos se conhece a árvore.**
 
-Mas, para conhecer a árvore, primeiro precisamos aprender a olhar um Fruto sem inventar o resto.
-
-É isso que vem agora.
+Essa lente pede agora uma disciplina: olhar um Fruto sem inventar o resto. É por aí que continuamos.

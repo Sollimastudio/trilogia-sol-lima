@@ -2,574 +2,196 @@
 
 ## A posição aparece antes da explicação
 
-Você não precisa dizer:
+Você não precisa dizer que decidiu ocupar uma posição para estar nela.
 
-`Eu decidi ocupar esta posição.`
+O pedido chega e você responde. A crítica vem e você se defende. A pessoa aumenta o tom e você diminui o seu. O grupo escolhe um lado e uma frase conhecida oferece o ingresso para continuar pertencendo.
 
-para estar nela.
+Depois aparece a explicação: *Eu sou assim. Não gosto de confusão. Foi melhor. Não tinha o que fazer. Eu só estava tentando manter a paz.*
 
-Às vezes a vida chega primeiro.
+Talvez. Mas antes da explicação houve uma resposta, uma permanência, uma restrição ou um lugar ocupado na situação.
 
-O pedido chega.
+Essa é a Lei-mãe deste livro:
 
-Você responde.
+**TODO MUNDO JÁ ESTÁ POSICIONADO.**
 
-A crítica vem.
+Com consciência ou sem ela. Por escolha, hábito, proteção, imposição, pertencimento, recurso ou falta dele. Até não conseguir se posicionar como gostaria descreve uma posição real naquele contexto.
 
-Você se defende.
+Isso não significa que todas as posições foram livres. Significa que a vida não fica vazia esperando uma decisão consciente.
 
-A pessoa aumenta o tom.
+## O lugar ocupado e a habilidade de examiná-lo
 
-Você diminui o seu.
+Uso a palavra posicionamento em dois níveis que precisam ficar próximos, mas não confundidos.
 
-O grupo escolhe um lado.
+**A posição ocupada** é o que estamos tentando reconhecer: de que lugar você responde, permanece, aceita, recusa ou fica impedido de agir.
 
-Você repete a frase que garante pertencimento.
+**A habilidade de se posicionar conscientemente** é o que estamos desenvolvendo: examinar esse lugar e sustentar uma direção deliberada, dentro da margem real de segurança, recurso e responsabilidade.
 
-A oportunidade aparece.
+Por isso posso afirmar que todo mundo já ocupa posições e, ao mesmo tempo, propor que aprendamos a nos posicionar melhor. Não falta existência ao lugar anterior. Pode faltar exame, repertório, condição ou sustentação.
 
-Você diz `não estou pronta` antes de descobrir se está.
-
-O conflito se aproxima.
-
-Você some.
-
-Depois, quando tudo passou, aparece a explicação.
-
-`Eu sou assim.`
-
-`Não gosto de confusão.`
-
-`Foi melhor.`
-
-`Não tinha o que fazer.`
-
-`Não valia a pena.`
-
-`Eu só estava tentando manter a paz.`
-
-Talvez.
-
-Mas antes da explicação houve uma posição.
-
-E essa é a Lei-mãe deste livro:
-
-# TODO MUNDO JÁ ESTÁ POSICIONADO
-
-Bem ou mal.
-
-Com consciência ou sem ela.
-
-Por escolha, repetição, medo, prudência, hábito, proteção, imposição, pertencimento, recurso ou falta dele.
-
-Até não se posicionar como você gostaria **já descreve uma posição real naquele contexto**.
-
-Isso não significa que todas as posições foram livres.
-
-Significa que a vida não fica vazia esperando você decidir conscientemente.
-
-Alguma resposta ocupa o lugar.
+Reposicionar-se começa nessa diferença. Não é fabricar uma pessoa nova. É conhecer o lugar de onde você já responde e verificar o que precisa mudar nele.
 
 ## Posicionamento não é pose
 
-Existe uma caricatura de pessoa `bem posicionada` que eu quero destruir logo.
-
-Ela entra na sala com coluna reta, voz grave, frase curta, cara de quem já bloqueou três pessoas antes do café e nunca pede desculpas porque `sabe o próprio valor`.
-
-Não é isso.
+Há uma caricatura de pessoa bem posicionada que entra na sala com coluna reta, voz grave e cara de quem já bloqueou três pessoas antes do café. Nunca pede desculpas porque sabe o próprio valor.
 
 Pode ser só grosseria com boa iluminação.
 
-Posicionamento não é performance de poder.
+Não estou ensinando performance de poder, opinião sobre tudo ou recusa permanente. Ter limite não autoriza passar por cima dos outros. Sustentar uma direção não obriga a mantê-la quando a realidade oferece motivo para revisão.
 
-Não é falar mais alto.
+No Método Posicione-se, a habilidade que buscamos é **recuperar governo da própria consciência, examinar o que participa de uma situação e sustentar uma direção quando existe custo, dentro da margem real de segurança, recurso e responsabilidade**.
 
-Não é ter opinião sobre tudo.
+Em uma situação, isso pode significar falar. Em outra, calar conscientemente. Pode ser sair, permanecer por enquanto, pedir, recusar, reconhecer um erro ou dizer que ainda não sabe.
 
-Não é nunca ceder.
-
-Não é ser difícil.
-
-Não é vencer discussão.
-
-Não é parecer confiante.
-
-E definitivamente não é passar por cima dos outros e chamar isso de limite.
-
-No Método Posicione-se, posicionamento aparece quando você consegue recuperar governo da própria consciência, examinar o que participa de uma situação e sustentar uma direção quando existe custo — dentro da margem real de segurança, recurso e responsabilidade.
-
-Há situações em que isso significa falar.
-
-Outras em que significa calar conscientemente.
-
-Às vezes significa sair.
-
-Às vezes permanecer por enquanto e preparar uma saída segura.
-
-Às vezes pedir.
-
-Às vezes recusar.
-
-Às vezes dizer:
-
-`Eu não sei ainda.`
-
-Às vezes reconhecer:
-
-`Eu estava errada.`
-
-Mudar de ideia depois de enxergar melhor também é posicionamento.
-
-Rigidez é outra coisa.
+Mudar de ideia depois de enxergar melhor também é posicionamento. Rigidez é outra coisa.
 
 ## Posicionamento não é personalidade
 
-Uma pessoa introvertida pode ser muito posicionada.
+Uma pessoa introvertida pode sustentar limites com clareza. Uma pessoa expansiva pode reorganizar cada resposta pela aprovação da plateia. Sensibilidade não impede firmeza; voz forte não garante sustentação.
 
-Uma pessoa expansiva pode ser completamente governada pela plateia.
+Por isso, *eu sou assim* não encerra a investigação. A frase pode descrever temperamento, preferência ou uma resposta aprendida. Pode ser adequada a um Galho e pouco precisa em outro.
 
-Uma pessoa sensível pode sustentar limites excelentes.
+O método não tenta substituir todas as características da pessoa. Pergunta:
 
-Uma pessoa de voz forte pode ceder sempre que a rejeição ameaça.
+**O que você faz com seus recursos, valores e limites quando existe custo?**
 
-Por isso, `eu sou assim` não encerra a investigação.
+Talvez a mudança necessária não seja deixar de sentir muito. Talvez seja não prometer antes de verificar. Talvez não seja falar mais, mas terminar uma frase que costuma abandonar. Precisão permite trabalhar com uma resposta sem exigir uma revolução de personalidade.
 
-Pode descrever temperamento.
+## Posicionamento não entrega um veredito sobre caráter
 
-Pode descrever preferência.
+Você pode reconhecer um valor e não conseguir sustentá-lo numa situação. Pode defender liberdade e tentar controlar quem discorda. Pode valorizar honestidade e mentir por medo. Pode se importar com a família e, num conflito, ferir alguém dela.
 
-Pode descrever hábito.
+Nada disso deve ser apagado em nome da boa intenção. Também não precisa virar uma sentença sobre tudo que você é.
 
-Pode esconder medo.
+Há uma distância entre o valor declarado e aquilo que efetivamente pesou na conduta. O medo pode ter pesado mais; uma urgência real pode ter ocupado espaço; pode ter faltado repertório; pode haver um erro a reparar.
 
-Pode ser uma adaptação antiga.
+Essa distância será investigada nas Raízes e no Tronco. Por enquanto, guarde:
 
-Pode ser verdade em um Galho e completamente falsa em outro.
+**Intenção fala. A sustentação de uma posição aparece quando o valor encontra custo.**
 
-O método não pergunta apenas:
+## Posição não é consentimento
 
-`Quem você é?`
+Uma pessoa pode estar no silêncio porque falar aumenta o risco. Pode permanecer por dependência material, obedecer sob ameaça ou não perceber uma alternativa. Pode não conseguir responder naquele momento.
 
-Pergunta:
+Nomear esse lugar não transforma restrição em consentimento.
 
-**`O que você faz com quem você é quando existe custo?`**
+Posso dizer *naquela situação, eu calei* sem dizer *eu autorizei o que fizeram*. Posso reconhecer *eu permaneci* sem concluir *eu queria aquilo*. Posso perceber *eu não pedi ajuda* sem apagar quem ameaçou, feriu ou dificultou o acesso a apoio.
 
-Essa pergunta é menos romântica.
+Examinar uma posição não é recolher indícios para culpar quem sofreu. É distinguir o que aconteceu, o que restringia a resposta e o que hoje pode ou não estar ao alcance da pessoa.
 
-E muito mais útil.
+A margem de ação não deve ser inventada para tornar a teoria mais confortável.
 
-## Posicionamento não é caráter
+## De que forma essa posição foi ocupada?
 
-Você pode ter bons valores e não conseguir sustentá-los numa determinada situação.
-
-Pode acreditar em honestidade e mentir por medo.
-
-Pode acreditar em família e ferir a própria família.
-
-Pode defender liberdade e tentar controlar quem discorda.
-
-Pode valorizar saúde e continuar repetindo escolhas que a sabotam.
-
-Isso não prova automaticamente que seu caráter inteiro é falso.
-
-Mostra uma distância entre valor declarado e valor operante naquela situação.
-
-Mais adiante vamos entrar profundamente nessa distância.
-
-Por enquanto, guarde:
-
-**intenção fala. Posicionamento aparece quando o valor encontra custo.**
-
-## E, principalmente, posicionamento não é consentimento
-
-Esse talvez seja o cuidado mais importante de todo o livro.
-
-Uma pessoa pode estar posicionada no silêncio porque falar aumenta o risco.
-
-Pode permanecer porque depende financeiramente.
-
-Pode obedecer porque existe ameaça.
-
-Pode congelar.
-
-Pode não conseguir enxergar alternativa.
-
-Pode estar adoecida, isolada, sem rede ou sem recurso.
-
-Pode ter sido colocada numa posição que não escolheu.
-
-Nomear essa posição não transforma restrição em consentimento.
-
-Eu posso dizer:
-
-`Naquela situação, eu calei.`
-
-sem dizer:
-
-`Eu autorizei o que fizeram.`
-
-Posso reconhecer:
-
-`Eu permaneci.`
-
-sem concluir:
-
-`Eu queria aquilo.`
-
-Posso perceber:
-
-`Eu não pedi ajuda.`
-
-sem apagar a responsabilidade de quem me feriu, ameaçou, manipulou ou impediu acesso.
-
-Reposicionamento começa quando conseguimos fazer essa distinção sem cair nos extremos.
-
-Nem culpa total.
-
-Nem ausência total de agência.
-
-## Existem posições diferentes
-
-Para investigar sem transformar posição em identidade, vou te apresentar algumas categorias provisórias.
-
-Não são caixas.
-
-São perguntas.
+As distinções a seguir são perguntas de investigação. Não são caixas exclusivas: uma mesma posição pode ser aprendida, protetiva e hoje parcialmente automatizada.
 
 ### Posição escolhida
 
-Você examinou, comparou custos e decidiu.
-
-Pode até ter medo.
-
-Mas reconhece a decisão como sua.
+Você reconhece uma escolha entre possibilidades percebidas. Isso não garante que todas as informações estivessem disponíveis ou que o resultado fosse previsível. A escolha também merece exame.
 
 ### Posição herdada
 
-Veio de um mapa recebido.
-
-`Na nossa família é assim.`
-
-`Pessoa decente faz isso.`
-
-`Homem não demonstra.`
-
-`Mulher aguenta.`
-
-`Dinheiro é sujo.`
-
-`Quem ama perdoa tudo.`
-
-Você não necessariamente concordou. Às vezes só nunca percebeu que havia algo para revisar.
+Veio de um mapa recebido: *Na nossa família é assim. Pessoa decente faz isso. Quem ama aguenta.* Talvez você concorde com uma parte desse mapa. Talvez nunca tenha percebido que havia algo para revisar.
 
 ### Posição aprendida
 
-Foi construída por repetição e contexto.
-
-Você descobriu que determinada resposta reduzia conflito, preservava vínculo, conseguia aprovação ou evitava punição.
-
-Com o tempo, a resposta ficou rápida.
-
-Tão rápida que parece `eu`.
+Uma resposta foi sendo construída no contato com o ambiente. Pode ter reduzido conflito, conseguido aprovação ou protegido de uma punição. Precisamos investigar a função que teve e a que conserva hoje.
 
 ### Posição automatizada
 
-Hoje a situação pode ter mudado, mas a resposta continua chegando antes do exame.
-
-É aqui que o piloto automático vira um problema.
-
-Não porque automatismo seja mau.
-
-Porque a estrada mudou e o carro continua virando onde virava antes.
+A resposta chega antes de um novo exame. Ela pode continuar útil ou pode ter permanecido enquanto as condições mudaram. O problema não é todo automatismo; é uma resposta antiga que já não combina com a situação atual e continua sem revisão.
 
 ### Posição protetiva
 
-Foi — ou ainda é — uma forma de reduzir risco.
-
-Nem toda resposta que parece pequena do lado de fora é covardia.
-
-Às vezes é sobrevivência.
-
-O trabalho do método é perguntar se essa proteção continua necessária, se precisa ser atualizada e que recursos seriam necessários para outra posição.
+Foi, ou ainda é, uma forma de reduzir risco. O que parece pequeno de fora pode ter protegido algo importante. Antes de pedir outra resposta, o método precisa perguntar se a proteção continua necessária e quais recursos seriam exigidos para mudá-la.
 
 ### Posição imposta ou fortemente restringida
 
-Existe coerção, poder, dependência, lei, ameaça, recurso ausente ou condição material que reduz seriamente as opções.
-
-Aqui o discurso de `basta decidir` não apenas é inútil.
-
-Pode ser perigoso.
-
-Posicionamento, neste caso, pode começar por reconhecer a restrição, buscar informação, construir rede, documentar, planejar e ampliar margem.
+Poder, coerção, ameaça, regra institucional ou falta de condições materiais podem reduzir seriamente as opções. Nessa situação, pedir apenas decisão pode ser inadequado. Reconhecer a restrição, procurar informação, apoio e proteção pode vir antes de qualquer mudança visível.
 
 ### Posição deliberada
 
-É a posição examinada que você decide praticar agora.
+É a direção que você decide praticar depois de examinar a posição atual. Pode incluir permanecer, mas com outro acordo; esperar, mas sabendo o que falta; agir, mas em uma escala compatível com os recursos.
 
-Ela não precisa ser heroica.
+A palavra deliberada marca esse trabalho de revisão. Não torna a decisão perfeita nem a separa de toda influência. Ela continua sujeita a novas evidências.
 
-Precisa ser possível.
+## Troque o insulto por uma descrição
 
-E revisável.
+Volte à posição anotada na Fotografia de Partida. Tente dar a ela uma forma que possa ser examinada.
 
-Porque uma posição inteligente pode mudar diante de nova evidência.
+*Sou frouxa* condena.
 
-## A frase que revela mais do que parece
+*Quando essa pessoa aumenta o tom, abandono o assunto antes de concluir o que precisava dizer* descreve uma resposta. Ainda falta saber o risco e o contexto.
 
-Volte ao Fruto do capítulo anterior.
+*Sou irresponsável com dinheiro* generaliza.
 
-Você escreveu algo parecido com:
+*Nos últimos três meses, comprei depois de dias de tensão e evitei olhar a fatura até o vencimento* delimita um padrão a investigar.
 
-`Neste Galho, neste período, observo este Fruto.`
+*Sou dependente* pode esconder muitas situações diferentes.
 
-Agora acrescente:
+*Quando imagino que o vínculo está ameaçado, cancelo meus planos e fico disponível mesmo sem pedido explícito* oferece algo mais específico.
 
-**`Minha posição aparece assim: ___________________.`**
+*Não tenho posicionamento político* apaga o lugar já ocupado.
 
-Tente descrever comportamento, não personalidade.
+*Compartilho opiniões de fontes em que confio sem verificar a afirmação e evito argumentos contrários* mostra uma prática que pode ser revista.
 
-Ruim:
-
-`Sou frouxa.`
-
-Melhor:
-
-`Quando essa pessoa aumenta o tom, eu abandono o assunto antes de concluir o que precisava dizer.`
-
-Ruim:
-
-`Sou irresponsável com dinheiro.`
-
-Melhor:
-
-`Nos últimos três meses, comprei por impulso depois de dias de tensão e evitei olhar a fatura até o vencimento.`
-
-Ruim:
-
-`Sou dependente.`
-
-Melhor:
-
-`Quando sinto que o vínculo está ameaçado, eu cancelo meus próprios planos e fico disponível mesmo sem pedido explícito.`
-
-Ruim:
-
-`Não tenho posicionamento político.`
-
-Melhor:
-
-`Eu compartilho opiniões de pessoas em quem confio sem abrir a fonte original e fico desconfortável quando encontro argumento forte do lado que critico.`
-
-Agora temos matéria de trabalho.
-
-Não um insulto.
+Não é preciso usar exatamente essas frases. Elas mostram a diferença entre insultar uma pessoa e nomear o que ela faz em determinadas condições.
 
 ## Quem está pensando dentro de você?
 
-Essa pergunta começa a aparecer aqui, mas eu não vou respondê-la inteira agora.
+Depois de reconhecer uma resposta rápida, experimente perguntar:
 
-Você acabou de nomear uma posição.
+**Quem está pensando dentro de mim quando eu acho que estou escolhendo?**
 
-Talvez tenha percebido que ela chega rápido.
+Talvez a pergunta leve a um valor examinado. Talvez a uma regra familiar, uma autoridade, um hábito ou uma experiência anterior. Pode haver prudência real, falta de recurso ou uma hipótese ainda pouco clara sobre o que o outro fará.
 
-Antes do exame.
+A influência não torna uma ideia falsa. O fato de ela soar com a sua voz também não a torna examinada.
 
-Então pergunte:
+Por enquanto, basta reconhecer que uma posição pode ser repetida sem que sua lógica tenha voltado à mesa. Não precisamos decidir quem você é para começar a investigar de onde essa resposta retira força.
 
-**quem está pensando dentro de mim quando eu acho que estou escolhendo?**
-
-É meu valor?
-
-É medo?
-
-É uma regra familiar?
-
-É uma autoridade?
-
-É um grupo?
-
-É uma experiência antiga?
-
-É o algoritmo repetindo a mesma narrativa até ela ganhar cheiro de verdade?
-
-É prudência real?
-
-É hábito?
-
-É falta de recurso?
-
-É uma crença que eu ainda considero verdadeira depois de examiná-la?
-
-Por enquanto, não conclua.
-
-Deixe na Árvore.
-
-Essa pergunta é importante demais para receber resposta apressada.
-
-E existe uma camada ainda mais profunda sobre identidade, pertencimento e as versões que construímos para sobreviver. Ela não será esgotada neste livro.
-
-Aqui precisamos apenas reconhecer que **uma posição pode estar usando a nossa voz sem ter sido submetida ao nosso discernimento.**
+Deixe a primeira explicação na Árvore.
 
 ## Responsabilidade distribuída
 
-Agora faça um exercício que vai reaparecer várias vezes.
+Aprofunde a mesma situação da sua Fotografia, usando quatro campos. Não é outro teste: é uma maneira de impedir que sua descrição coloque tudo na mesma coluna.
 
-Pegue a situação que escolheu.
+**O que é meu:** minha fala, ação, limite, pedido, compromisso ou resposta que consigo examinar. Considere a capacidade real de agir naquele contexto.
 
-Divida em quatro partes:
+**O que é do outro:** a escolha, a palavra, o descumprimento, a violência, a promessa ou a recusa que pertencem a outra pessoa. Poder responder ao que ela fez não me torna autor do que ela fez.
 
-### O que é meu
+**O que é do contexto:** condições de saúde, dinheiro, tempo, cuidado, hierarquia, risco, distância, regras e recursos que alteram as possibilidades.
 
-Minha fala.
+**O que ainda não sei:** intenção, informação ausente, consequência futura ou explicação que não foi confirmada.
 
-Minha ação.
+Maturidade não é ter certeza de tudo. É reconhecer onde a certeza termina.
 
-Meu limite.
+Esses campos não atribuem percentuais de culpa. Uma violência não se torna compartilhada só porque analisamos o contexto e a resposta de quem a sofreu. O que estamos distribuindo é a investigação das participações e das possibilidades presentes.
 
-O pedido que fiz ou não fiz.
+## Responsabilidade tem fronteira
 
-O acordo que aceitei.
+Uma pergunta acompanhará toda a travessia:
 
-A decisão que posso revisar.
+**Qual resposta cabe a mim agora?**
 
-### O que é do outro
+Ela está na origem de **Assuma Sua Responsabilidade**, uma das Leis que aprofundaremos quando os valores encontrarem o custo de sustentá-los.
 
-A escolha dele.
+Não é um pedido para provar que tudo foi sua culpa. Nem para assumir aquilo que o outro decidiu fazer.
 
-A palavra dele.
+Quando tudo é responsabilidade sua, você fica encarregado de controlar um universo que não obedece. Quando exclui do exame tudo que pode fazer, a investigação também perde movimento.
 
-A violência dele.
+A fronteira não precisa ser enorme para merecer atenção. Mas precisa ser real. Reconhecer que falta segurança ou condição é diferente de inventar uma ação apenas para preencher a última linha de um exercício.
 
-A promessa dele.
+## Mudar a posição sem substituir a pessoa
 
-A mentira dele.
+Você não precisa deixar de ser sensível para estabelecer limite, deixar de ser gentil para dizer não ou abandonar a fé para examinar uma interpretação religiosa.
 
-A recusa dele.
+Pode amar sua família e revisar um mapa recebido. Pode comunicar valor profissional sem viver como uma marca ambulante. Pode sustentar uma decisão provisória sem fingir certeza absoluta.
 
-A responsabilidade dele.
+Reposicionamento não exige uma personalidade substituta. Exige reconhecer a posição, examinar o que participa dela e encontrar uma prática compatível com a mudança necessária.
 
-### O que é do contexto
+Leia sua frase de posição outra vez. Foi escolhida, aprendida, herdada ou restringida? Ainda protege algo? Que parte pode ser examinada hoje?
 
-Dinheiro.
+Não precisa resolver a origem inteira agora. O próximo problema é mais próximo: muitas vezes você só reconhece a resposta depois que ela aconteceu.
 
-Lei.
+**Como criar espaço entre o que acontece e a resposta que sempre chega primeiro?**
 
-Mercado.
-
-Saúde.
-
-Distância.
-
-Tempo.
-
-Crianças envolvidas.
-
-Estrutura familiar.
-
-Hierarquia profissional.
-
-Risco.
-
-### O que ainda não sei
-
-Intenção.
-
-Informação ausente.
-
-Consequência futura.
-
-Explicação alternativa.
-
-Fato que ainda não foi confirmado.
-
-Essa quarta coluna é uma das mais importantes.
-
-Maturidade não é ter certeza de tudo.
-
-É saber onde a certeza termina.
-
-## A Lei 7 é semeada cedo, mas ainda vai amadurecer
-
-Mais adiante você encontrará formalmente uma das Leis mais importantes:
-
-**Assuma Sua Responsabilidade.**
-
-Ela aparece cedo porque sem responsabilidade não existe reposicionamento.
-
-Mas eu não vou deixar você usá-la como chicote.
-
-Responsabilidade, aqui, significa:
-
-**qual resposta cabe a mim agora?**
-
-Não:
-
-`Como provo que tudo foi minha culpa?`
-
-Nem:
-
-`Como encontro uma forma de me responsabilizar pelo que o outro decidiu fazer?`
-
-A responsabilidade devolve movimento justamente porque tem fronteira.
-
-Quando tudo é responsabilidade sua, você vira deus — e culpado por não controlar o universo.
-
-Quando nada é responsabilidade sua, vira passageiro eterno da própria vida.
-
-Nenhum dos dois serve.
-
-## A posição pode mudar sem você virar outra pessoa
-
-Talvez isso seja libertador para quem passou anos achando que precisaria mudar completamente para viver diferente.
-
-Você não precisa deixar de ser sensível para estabelecer limite.
-
-Não precisa deixar de ser gentil para dizer não.
-
-Não precisa deixar de amar sua família para revisar um mapa herdado.
-
-Não precisa abandonar sua fé para questionar uma interpretação religiosa.
-
-Não precisa virar agressiva para parar de ser apagada.
-
-Não precisa se tornar uma marca ambulante para comunicar valor profissional.
-
-Não precisa ter certeza absoluta para assumir uma decisão provisória.
-
-Reposicionamento não exige uma personalidade substituta.
-
-Exige consciência suficiente para perceber a posição, critério suficiente para examiná-la e prática suficiente para começar a sustentar outra.
-
-## Antes de seguir
-
-Leia sua frase de posição mais uma vez.
-
-Agora pergunte:
-
-**Eu escolhi isso?**
-
-**Eu aprendi isso?**
-
-**Isso me protege?**
-
-**Isso ainda é necessário?**
-
-**Existe alguma restrição real que preciso respeitar?**
-
-**Que parte dessa posição eu consigo examinar hoje?**
-
-Não tente responder tudo.
-
-O próximo capítulo existe justamente porque, muitas vezes, a posição já está funcionando antes que a consciência chegue.
-
-Você vê a cena depois.
-
-Entende a reação depois.
-
-Pensa no que gostaria de ter dito no banho, três horas mais tarde — onde todos nós somos filósofos, advogados e campeões mundiais de debate.
-
-A pergunta agora é:
-
-**como criar espaço entre o que acontece e a resposta que sempre chega primeiro?**
-
-É hora da primeira subida completa.
+É hora de praticar a subida com mais atenção.

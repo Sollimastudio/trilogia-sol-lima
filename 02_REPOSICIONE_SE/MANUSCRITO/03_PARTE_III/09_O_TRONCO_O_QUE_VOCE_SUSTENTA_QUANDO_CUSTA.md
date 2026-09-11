@@ -80,7 +80,7 @@ Você diz que deseja uma relação recíproca.
 
 O que faz quando pedir reciprocidade pode revelar que o outro não quer oferecer o mesmo?
 
-É por isso que, na Parte II, distinguimos **valor declarado** de **valor operante**.
+É por isso que, na Parte II, distinguimos **valor declarado** de **valor operante**. Nem toda força que pesa numa resposta é um valor: medo, pressão e falta de recurso também participam e precisam manter seu próprio nome.
 
 Agora o Tronco acrescenta uma terceira pergunta:
 

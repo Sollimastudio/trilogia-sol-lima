@@ -232,9 +232,11 @@ Por isso a culpa não é ignorada.
 
 Mas também não recebe automaticamente o martelo do tribunal.
 
-Volte ao Corpo-Sismógrafo.
+Volte ao Corpo-Sismógrafo, distinguindo a emoção do que percebe fisicamente.
 
-**Sinal:** culpa.
+**Emoção reconhecida:** culpa.
+
+**Sinal corporal:** descreva o que de fato percebeu; pode ser tensão, mas não precisa haver um sinal nítido.
 
 **Contexto:** depois de dizer não.
 
@@ -526,9 +528,7 @@ Talvez procure outra solução.
 
 Tudo isso é dado.
 
-O posicionamento de Lia não garante que o outro ficará satisfeito.
-
-Garante apenas que a resposta dela não será prometida antes de ser examinada.
+Lia não controla a satisfação do outro. Neste episódio, conseguiu não prometer antes de examinar a própria capacidade. Nos próximos pedidos, essa prática continuará sujeita a falhas e revisão.
 
 ## Nem todo limite precisa de discurso
 

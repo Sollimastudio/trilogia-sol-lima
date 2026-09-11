@@ -796,7 +796,7 @@ A vida não deve nada ao método.
 
 `Vai ficar caro.`
 
-Pode ser Sofa.
+Pode ser Sofá.
 
 Pode ser fato.
 
@@ -862,9 +862,7 @@ Prepara-se e ainda falha.
 
 Busca tratamento e a resposta não é a esperada.
 
-Discernimento não promete controle do Fruto.
-
-Promete uma relação mais consciente com a posição que você ocupa diante dele.
+Discernimento não promete controle do Fruto. O método oferece perguntas para examinar a posição que você ocupa diante dele; o resultado da prática também precisa ser observado.
 
 Essa diferença é central.
 

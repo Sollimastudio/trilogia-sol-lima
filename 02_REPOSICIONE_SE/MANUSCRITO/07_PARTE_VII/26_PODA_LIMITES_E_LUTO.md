@@ -268,7 +268,7 @@ Algumas permissões nunca foram assinadas, mas funcionam como se tivessem carimb
 
 Poda de permissão não significa que o outro obedecerá à nova regra.
 
-Significa que você deixa de renovar automaticamente uma autorização que já não reconhece como coerente.
+Significa examinar o acesso ou a resposta que está na sua esfera e pode ser alterado com segurança. Onde houve coerção ou violência, não chamamos a permanência de autorização: a ação abusiva continua pertencendo a quem a praticou.
 
 Depois entram limite, acordo, consequência e, se necessário, proteção.
 
@@ -468,7 +468,7 @@ continuar exposto aumenta dano.
 
 Mas `imediata` não significa `faça sozinho`.
 
-Em situações perigosas, ação rápida pode signific buscar apoio especializado, não confrontar diretamente.
+Em situações perigosas, ação rápida pode significar buscar apoio especializado, não confrontar diretamente.
 
 Velocidade não é coragem.
 

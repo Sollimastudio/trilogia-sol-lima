@@ -162,7 +162,7 @@ O Filtro tem doze perguntas.
 
 Você não precisa transformá-las em ritual para escolher sabor de sorvete.
 
-Use intensidade proporcional ao custo da decisão.
+Use intensidade proporcional ao custo da decisão. O Filtro não é uma lista que você precise completar antes de procurar proteção ou atendimento: uma necessidade urgente de ajuda não deve esperar o fim das doze perguntas.
 
 Quanto maior o risco, a irreversibilidade, a dependência ou o impacto sobre outras pessoas, mais cuidado a investigação merece.
 
@@ -528,13 +528,7 @@ E algumas mostrarão que você já possui evidência suficiente para parar de ad
 
 ## LEI 12 — EXERÇA SEU PRÓPRIO DISCERNIMENTO
 
-Esta Lei nasce aqui.
-
-Ela já teve outro nome nas versões antigas deste método: `Pratique o Julgamento Próprio`.
-
-Mas julgamento pode soar como condenação, sentença ou licença para decidir rápido demais.
-
-**Discernimento** descreve melhor o que estamos construindo.
+Esta Lei nasce aqui. **Discernimento**, neste livro, não é condenação nem licença para decidir depressa. É o trabalho de examinar antes de sustentar uma conclusão.
 
 Exercer seu próprio discernimento não significa confiar cegamente em si.
 

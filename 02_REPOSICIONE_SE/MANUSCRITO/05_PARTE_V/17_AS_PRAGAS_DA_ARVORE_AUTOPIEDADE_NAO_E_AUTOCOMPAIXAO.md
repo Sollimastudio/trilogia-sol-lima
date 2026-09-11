@@ -1,6 +1,6 @@
 # PARTE V — PRAGAS, INFLUÊNCIAS E JAULAS
 
-**Você já aprendeu a olhar a Árvore. Agora precisa reconhecer o que drena a seiva sem virar identidade.**
+**Reconhecer o cultivo também é olhar para o que o drena — sem transformar ninguém no nome do problema.**
 
 ---
 
@@ -8,634 +8,198 @@
 
 ## Dor merece cuidado. Não precisa receber o governo.
 
-Existe um momento delicado em qualquer processo de autoconhecimento.
+Existe um momento delicado na investigação de uma vida. Você olha o Fruto, reconhece uma condição, encontra uma possível Raiz e pensa: *então era por isso*.
 
-Você finalmente entende alguma coisa.
+A frase pode trazer alívio, raiva, luto ou compaixão pela pessoa que você foi. Também pode abrir outro caminho: usar a explicação como moradia.
 
-Vê o Fruto.
+*Eu sou assim porque...*
 
-Reconhece o Solo.
+*Eu fiquei porque...*
 
-Encontra uma Raiz possível.
+*Eu não consigo porque...*
 
-Percebe o preço do pertencimento.
+Alguns desses porquês podem ser verdadeiros. O problema não está em explicar o que aconteceu. Começa quando a explicação recebe o poder de impedir qualquer revisão do que ainda pode ser feito.
 
-Descobre um limite que nunca aprendeu a sustentar.
-
-E então olha para trás e pensa:
-
-`Então era por isso.`
-
-Essa frase pode trazer alívio.
-
-Pode trazer luto.
-
-Pode trazer raiva.
-
-Pode trazer compaixão pela pessoa que você foi.
-
-E pode também abrir uma porta perigosa:
-
-usar a explicação como moradia.
-
-`Eu sou assim porque...`
-
-`Eu não consigo porque...`
-
-`Eu fiquei porque...`
-
-`Eu reajo assim porque...`
-
-`Eu nunca tive escolha porque...`
-
-Alguns desses `porquês` podem ser absolutamente verdadeiros.
-
-O problema não está em explicar.
-
-O problema começa quando a explicação ganha poder para impedir qualquer revisão futura.
-
-É aqui que entram as **Pragas** no Método Posicione-se.
+É para olhar esse tipo de funcionamento que uso a palavra **Pragas** no Método Posicione-se.
 
 ## Praga é mecanismo. Nunca pessoa.
 
-Quero deixar isso claro antes de qualquer outra coisa.
-
-No meu método, **ninguém é Praga**.
-
-Seu ex não é Praga.
-
-Sua mãe não é Praga.
-
-Seu pai não é Praga.
-
-Seu chefe não é Praga.
-
-Seu líder não é Praga.
-
-Seu adversário político não é Praga.
-
-Você não é Praga.
-
-Pessoa é pessoa.
-
-Com responsabilidade, contexto, história, escolhas e limites próprios.
+Ninguém é Praga. Nem seu ex, nem sua mãe, seu chefe, seu líder, seu adversário político. Nem você.
 
 **Praga é o nome pedagógico para um mecanismo que drena, distorce ou sabota o cultivo.**
 
-Pode ser medo.
+Pode haver perfeccionismo que impeça uma entrega, comparação que organize escolhas, controle que se apresente como cuidado ou uma necessidade de certeza que mantenha toda decisão suspensa. O medo pode participar de um bloqueio; em outra situação, pode estar protegendo diante de risco real.
 
-Perfeccionismo.
+Não basta encontrar o nome de um sentimento para declará-lo Praga. A função precisa ser examinada.
 
-Comparação.
+Cuidado pode se tornar controle. Lealdade pode exigir silêncio diante de um erro. Prudência pode ser usada para adiar indefinidamente uma pergunta. A linguagem do autocuidado também pode esconder o abandono de uma responsabilidade.
 
-Procrastinação.
+Os valores não se tornam ruins por admitirem usos inadequados. Precisamos distinguir aquilo que sustenta vida daquilo que, naquela situação, está drenando o discernimento.
 
-Ressentimento.
+## Nem toda drenagem parece uma tragédia
 
-Controle.
+Um padrão pode cobrar um pouco de tempo a cada dia, impedir uma conversa durante meses ou manter um projeto sempre perto de começar. Não precisa derrubar a Árvore inteira para merecer atenção.
 
-Anestesia.
+Às vezes esperamos uma emergência para nos autorizar a investigar. Enquanto não há incêndio, continuamos chamando fumaça de decoração.
 
-Dependência de validação.
+O método não exige mudança diante de todo desconforto. Pede que uma repetição importante não seja apagada apenas porque ainda não produziu um desastre.
 
-Automatismo.
+Também não precisamos presumir que sabemos qual seria a colheita perfeita sem aquele mecanismo. Podemos olhar o custo que já existe, sem inventar uma vida alternativa em que tudo teria dado certo.
 
-Uma necessidade de certeza que impede qualquer ação.
+## De qual autopiedade estou falando?
 
-Uma narrativa tão protegida que nenhuma evidência consegue entrar.
+Esta palavra pode ferir quando é usada sem cuidado. Por isso, quero delimitar o seu sentido neste livro.
 
-Uma lealdade antiga operando contra a vida atual.
+**Autopiedade não é chorar, precisar de colo, reconhecer uma injustiça ou dizer que uma experiência foi demais.** Não é sinônimo de doença, depressão, trauma, exaustão ou incapacidade. Não é a necessidade de ajuda profissional. Não é dizer, com verdade: *não consigo fazer isso agora*.
 
-Até uma coisa boa pode ser sequestrada por um mecanismo ruim.
+Há limitações reais. Há momentos em que sobreviver consome os recursos disponíveis. Há descanso que não precisa provar produtividade para ser legítimo.
 
-Cuidado pode virar controle.
+Não vou chamar essas situações de autopiedade.
 
-Lealdade pode virar silêncio obrigatório.
+Uso o termo como uma hipótese de funcionamento: **a dor passa a bloquear toda revisão possível ou é usada para reivindicar governo permanente sobre a próxima resposta**.
 
-Fé pode virar fuga de responsabilidade.
+Existe uma diferença entre reconhecer *olha o que aconteceu comigo* e concluir *por causa do que aconteceu, nenhuma pergunta sobre minha participação presente pode ser feita*.
 
-Prudência pode virar adiamento eterno.
+Nem sempre é fácil distinguir. A pessoa não deve receber um rótulo porque alguém de fora ficou impaciente com seu tempo de sofrimento. O conceito só ajuda se descreve uma função que pode ser observada naquela situação.
 
-Autocuidado pode virar abandono de dever.
+## Autocompaixão não exige ausência de responsabilidade
 
-Coragem pode virar imprudência.
+Autocompaixão permite reconhecer: *isso doeu; isso foi injusto; eu preciso de cuidado; talvez ainda não consiga; não preciso me humilhar para mudar*.
 
-Pertencimento pode virar desaparecimento.
+Quando houver margem, a pergunta seguinte pode ser: **o que me cabe agora?**
 
-É por isso que Praga não é sinônimo de `coisa ruim`.
+A segunda pergunta não cancela a primeira. Reconhecer responsabilidade também não obriga a apagar a dor.
 
-É algo que precisa ser observado pela função que exerce.
+É possível oscilar entre dois extremos: assumir culpa por tudo ou tratar toda explicação externa como motivo para não examinar mais nada. A Árvore procura uma divisão mais precisa: meu, do outro, do contexto e ainda não sei.
 
-A pergunta é:
+Para olhar essas quatro partes, você não precisa se tornar inimigo de si mesmo. Pode reconhecer um erro e reparar sem transformar a reparação em castigo. Pode reconhecer uma injustiça e buscar cuidado sem ter de provar força no mesmo instante.
 
-**isso está protegendo vida ou drenando discernimento?**
+## Uma dor usada como argumento não se torna falsa
 
-## A Praga não precisa destruir a Árvore para ser relevante
+Uma pessoa pode recorrer a uma dor verdadeira para justificar uma permanência. Essa função não transforma o sofrimento em invenção.
 
-Nem todo mecanismo produz desastre cinematográfico.
+Se houve traição, a traição não desaparece. Se houve escassez, a escassez não deixa de importar. Se houve violência, sua autoria continua pertencendo a quem a praticou. Uma limitação de saúde também não se resolve porque o livro usou a palavra agência.
 
-Alguns apenas roubam dez minutos por dia.
+O método não reescreve o passado para exigir ação no presente.
 
-Depois vinte.
+Pergunta se existe alguma parte da próxima resposta que hoje possa ser examinada. Às vezes existe. Às vezes ainda falta condição. Às vezes é preciso apoio para conhecer melhor a própria margem.
 
-Depois uma hora.
+A honestidade da investigação depende de aceitar essas respostas, inclusive quando não oferecem um próximo passo vistoso.
 
-Alguns fazem você adiar uma conversa por uma semana.
+## E agora?
 
-Outros fazem um projeto nunca sair.
+*Por que isso aconteceu comigo?* pode ser uma pergunta necessária. Ela pode não receber uma resposta completa. Pode também explicar o passado sem organizar o que vem depois.
 
-Alguns deixam uma relação suportável o bastante para você nunca perguntar se ela ainda é boa.
+Por isso acrescento outra: **e agora?**
 
-Outros transformam cansaço em estado permanente.
+Não como impaciência com quem sofre. Como um modo de devolver o presente à conversa.
 
-Tem Praga que não derruba a árvore.
+Talvez agora seja necessário tratamento, descanso, renda, informação, proteção ou apoio. Talvez seja preciso parar de pedir a uma pessoa algo que ela não oferece. Talvez a decisão seja permanecer estrategicamente enquanto outras condições são construídas.
 
-Só impede que ela produza o Fruto que poderia.
+A pergunta não exige velocidade. Exige atenção ao que a situação realmente pede, em vez de supor que a única resposta possível será sempre a mesma.
 
-Isso importa porque muita gente só se autoriza a mudar quando a vida vira emergência.
+## Quando a explicação impede o exame
 
-Enquanto não há incêndio, continua chamando fumaça de decoração.
+Imagine que alguém aponte um problema específico numa atitude sua e você responda: *você não sabe o que eu vivi*.
 
-No Método Posicione-se, nós olhamos antes.
+Pode ser verdade. O contexto pode mudar completamente a leitura. Mas também é possível que a frase esteja sendo usada para impedir a discussão de um dano concreto que precisa ser reconhecido.
 
-Não porque todo desconforto exija mudança.
+Não é necessário escolher uma das interpretações antes de olhar. Pergunte o que a história acrescenta ao episódio e o que ainda precisa ser examinado nele.
 
-Mas porque repetição merece investigação.
+O mesmo vale para *minha família sempre foi assim*. A origem pode explicar uma regra. Ainda precisamos verificar como ela participa da decisão atual.
 
-## Autopiedade: uma palavra que pode ferir se for usada sem cuidado
+Frases totais, como *não tem jeito*, *ninguém me ajuda* e *já tentei tudo*, também pedem precisão quando existe condição para investigar. O que foi tentado? Com que recurso? Em qual período? O que continua impossível?
 
-Eu vou entrar num território em que é muito fácil soar cruel.
+A resposta pode confirmar uma restrição. Não estamos procurando uma brecha para acusar o leitor de não ter se esforçado. Estamos tentando não dar ao vago o poder de decidir toda a situação.
 
-Por isso quero definir exatamente do que estou falando.
+## Pensar de novo ou apenas circular?
 
-Neste livro, **autopiedade não significa sentir pena de si depois de sofrer**.
+Há momentos em que voltar a uma história faz parte do cuidado. Este livro não diagnostica o que acontece com quem precisa retomá-la muitas vezes.
 
-Não significa chorar.
+Na investigação prática, porém, é útil perceber quando a repetição já não acrescenta informação: a mesma cena, o mesmo julgamento, os mesmos argumentos, sem alterar a pergunta ou a próxima resposta possível.
 
-Não significa precisar de colo.
+É por isso que a Árvore tem uma regra de parada. Falta dado? Procure o dado que realmente importa, quando for possível. Precisa de ajuda? Reconheça esse limite. Há informação suficiente para um movimento proporcional? A investigação pode ceder lugar à prática.
 
-Não significa reconhecer que alguém foi injusto.
+Mirante não foi feito para residência fixa. Tem uma vista ótima. Mas não entrega almoço.
 
-Não significa estar deprimido, traumatizado, doente, esgotado ou limitado.
+Não use a regra para expulsar sua dor. Use-a para distinguir cuidado, investigação e uma repetição que talvez precise de outro tipo de apoio.
 
-Não significa precisar de ajuda profissional.
+## Em que sentido uso Praga-Mãe
 
-Não significa dizer:
+Chamo de **Praga-Mãe** a possibilidade de um bloqueio à revisão alimentar outros mecanismos. Quando toda pergunta sobre o presente é impedida pela dor, o adiamento, o ressentimento ou a procura por validação podem encontrar ali uma justificativa que nunca volta a ser examinada.
 
-`Isso foi demais para mim.`
+A expressão não afirma que toda Praga nasce da autopiedade. Não diz que toda procrastinação tem a mesma causa nem que toda pessoa ferida esteja presa a esse mecanismo.
 
-Nem:
+Se o nome não descreve a situação, ele não deve ser usado para forçá-la a caber.
 
-`Eu não consigo fazer isso agora.`
+O leitor não existe para confirmar a metáfora.
 
-Há impossibilidades reais.
+## O que a permanência preserva?
 
-Há feridas que precisam de tempo.
+Perguntar *o que você ganha sofrendo?* pode ser injusto e impreciso. Não parto da suposição de que exista uma vantagem secreta em toda permanência.
 
-Há situações em que sobreviver já consome recurso demais.
+Prefiro esta pergunta:
 
-Há dias em que descansar é a resposta mais posicionada disponível.
+**O que esta posição evita, preserva ou torna previsível no curto prazo?**
 
-Eu não vou chamar nada disso de autopiedade.
+Pode evitar uma conversa, uma perda de imagem, a admissão de um erro ou um luto. Pode preservar pertencimento e familiaridade. Pode também preservar segurança real, renda ou uma condição que ainda não pode ser substituída.
 
-No Reposicione-se, uso a palavra de forma operacional para nomear um mecanismo possível:
+Essas situações não são equivalentes. Não chamamos de Praga aquilo que está protegendo alguém de um dano maior. E não concluímos que a pessoa escolheu sofrer apenas porque conseguimos identificar algo que a permanência conserva.
 
-**a dor começa a bloquear toda revisão, ampliar a sensação de impotência ou reivindicar governo permanente sobre a próxima decisão.**
+Conhecer a função ajuda a dimensionar o próximo passo. Não autoriza humilhação.
 
-A dor deixa de dizer:
+## Lia e a dor de não ser reconhecida
 
-`Olha o que aconteceu comigo.`
+Lia passou a consultar a agenda, criou um limite temporal e fez uma combinação mais clara no trabalho. Ainda assim, em algumas situações, encontra a expectativa da disponibilidade antiga.
 
-E começa a dizer:
+Pensa: *depois de tudo que fiz, ainda acham ruim eu colocar limite*.
 
-`Por causa do que aconteceu, nenhuma pergunta sobre minha participação presente pode ser feita.`
+No caso que acompanhamos, há sobrecarga anterior que merece ser reconhecida. Pode haver também uma expectativa legítima a esclarecer, uma pressão inadequada ou uma irritação de Lia que amplia a leitura do novo pedido.
 
-É diferente.
+Autocompaixão permite que ela reconheça o que machuca. A investigação pergunta o que fazer com isso.
 
-## Autocompaixão faz outra coisa
+Se voltar ao sim automático para recuperar aprovação, Lia precisa observar a função dessa resposta. Se começar a tratar qualquer pedido como abuso, também. Se acolher a irritação e retomar a combinação feita, estará usando o Tronco sem exigir que a dor desapareça primeiro.
 
-Autocompaixão olha para a dor e diz:
+A dor continua na conversa. Não recebe sozinha o cargo de diretora-geral da agenda.
 
-`Isso doeu.`
+## Autopiedade × Autocompaixão — Pausa da Travessia
 
-`Isso foi injusto.`
+Escolha uma situação. Não faça um teste para descobrir se você é uma pessoa autopiedosa.
 
-`Eu fiz o que consegui com os recursos que tinha.`
-
-`Eu preciso de cuidado.`
-
-`Talvez eu ainda não consiga.`
-
-`Eu não preciso me humilhar para mudar.`
-
-E depois pergunta, quando existe margem:
-
-**`O que me cabe agora?`**
-
-Autocompaixão não apaga responsabilidade.
-
-Responsabilidade não apaga compaixão.
-
-Essa dupla é importante porque o leitor pode oscilar entre dois extremos.
-
-No primeiro:
-
-`Tudo é culpa minha.`
-
-No segundo:
-
-`Nada pode ser revisto porque tudo tem uma causa fora de mim.`
-
-A Árvore pede algo mais difícil.
-
-Meu.
-
-Do outro.
-
-Do contexto.
-
-Ainda não sei.
-
-E cuidado suficiente para olhar as quatro partes sem transformar nenhuma em arma.
-
-## O sofrimento não vira mentira porque virou argumento
-
-Também quero evitar outro erro.
-
-Uma pessoa pode usar uma dor verdadeira como argumento para permanecer numa posição.
-
-O fato de a dor estar cumprindo essa função **não torna a dor falsa**.
-
-Isso precisa ficar muito claro.
-
-Se alguém foi traído, a traição existiu.
-
-Se alguém foi humilhado, a humilhação existiu.
-
-Se alguém cresceu sem recurso, a escassez existiu.
-
-Se alguém sofreu violência, a violência pertence a quem a praticou.
-
-Se alguém enfrenta uma limitação de saúde, a limitação não desaparece porque o livro falou em agência.
-
-O método não reescreve o passado para exigir ação.
-
-Ele pergunta se, **no presente e dentro da margem real**, existe alguma parte da próxima resposta que pode voltar para suas mãos.
-
-Às vezes existe.
-
-Às vezes ainda não.
-
-Às vezes a primeira resposta é buscar ajuda para que exista.
-
-Isso já muda tudo.
-
-## A pergunta mais difícil não é `por quê?`
-
-`Por que isso aconteceu comigo?`
-
-É uma pergunta legítima.
-
-Às vezes necessária.
-
-Mas ela pode não ter resposta completa.
-
-Ou pode ter uma resposta que explica o passado e não organiza o próximo passo.
-
-Por isso o Método Posicione-se acrescenta outra:
-
-**e agora?**
-
-Não como impaciência.
-
-Como devolução de tempo.
-
-Você já sofreu ontem.
-
-Não precisa entregar automaticamente o amanhã para a mesma lógica.
-
-Talvez você precise de tratamento.
-
-Talvez de renda.
-
-Talvez de documento.
-
-Talvez de descanso.
-
-Talvez de rede.
-
-Talvez de informação.
-
-Talvez de proteção.
-
-Talvez de um pedido.
-
-Talvez de parar de pedir a alguém aquilo que já ficou claro que essa pessoa não oferece.
-
-Talvez de continuar exatamente onde está por enquanto, mas parar de chamar permanência estratégica de destino eterno.
-
-A pergunta `e agora?` não exige pressa.
-
-Exige presença.
-
-## Quando a ferida vira argumento impermeável
-
-Imagine uma conversa.
-
-Alguém aponta um problema específico em algo que você fez.
-
-Você responde:
-
-`Você não sabe o que eu vivi.`
-
-Pode ser verdade.
-
-Talvez a pessoa não saiba mesmo.
-
-Mas isso responde ao problema apontado?
-
-Às vezes sim, porque contexto muda completamente a leitura.
-
-Às vezes não.
-
-Às vezes a frase está sendo usada para impedir que qualquer dado entre.
-
-Outra situação:
-
-`Eu sempre fui assim porque minha família era assim.`
-
-Pode explicar a origem.
-
-Mas a família está tomando a decisão agora?
-
-Talvez parte daquela regra ainda opere como Raiz.
-
-Então precisamos olhar a Raiz.
-
-Não transformar origem em procuração vitalícia.
-
-Autopiedade, do jeito que uso aqui, gosta de respostas totais porque respostas totais encerram investigação.
-
-`Não tem jeito.`
-
-`Ninguém me ajuda.`
-
-`Sempre acontece comigo.`
-
-`Eu já tentei tudo.`
-
-Talvez exista uma situação em que essas frases sejam praticamente literais.
-
-Mas antes de colocá-las como veredito, o método pergunta:
-
-**o que exatamente foi tentado, com qual recurso, em qual período, e o que continua impossível?**
-
-Isso não é desconfiança da dor.
-
-É precisão.
-
-## Ruminação não é profundidade
-
-Existe também o movimento de pensar muito e ainda assim não avançar na qualidade da investigação.
-
-A mesma cena.
-
-A mesma fala.
-
-O mesmo argumento.
-
-O mesmo julgamento.
-
-Repetidos até parecer que pensar mais vai produzir uma saída nova.
-
-Às vezes precisamos voltar a uma história muitas vezes para processá-la.
-
-Este livro não diagnostica isso.
-
-Mas há um ponto prático em que análise deixa de acrescentar dado e passa apenas a circular.
-
-É por isso que a Árvore possui regra de parada.
-
-Se nova análise não muda a decisão, se falta dado, se é preciso ajuda ou se continuar olhando virou apenas repetição, **deixe na Árvore e desça até onde for possível**.
-
-Mirante não foi feito para residência fixa.
-
-Tem uma vista ótima.
-
-Mas não entrega almoço.
-
-## A Praga-Mãe não é `a pior pessoa dentro de você`
-
-Em versões antigas deste livro, autopiedade apareceu com uma força quase totalizante.
-
-Eu quero preservar o núcleo sem preservar o exagero.
-
-Posso chamá-la de **Praga-Mãe** no sentido de uma pergunta editorial:
-
-quando a dor recebe governo permanente, ela pode alimentar outras permanências.
-
-Pode alimentar adiamento.
-
-Ressentimento.
-
-Dependência de validação.
-
-Evitação de responsabilidade.
-
-Procura infinita por culpado.
-
-Narrativas que protegem a posição conhecida.
-
-Mas não significa que toda procrastinação seja autopiedade.
-
-Nem que toda pessoa ferida esteja nela.
-
-Nem que reconhecer injustiça seja vitimismo.
-
-A palavra serve ao método.
-
-O leitor não serve à palavra.
-
-Se o conceito não descreve o que está acontecendo, deixe-o de lado.
-
-## O ganho da permanência
-
-Essa expressão também precisa de cuidado.
-
-Perguntar `o que eu ganho ficando assim?` pode soar ofensivo diante de sofrimento real.
-
-Nem todo mundo `ganha` algo agradável.
-
-Por isso prefiro perguntar:
-
-**o que esta posição evita, preserva ou torna previsível no curto prazo?**
-
-Talvez evite conflito.
-
-Evite admitir erro.
-
-Evite solidão.
-
-Evite risco financeiro.
-
-Preserve pertencimento.
-
-Preserve imagem.
-
-Preserve uma esperança.
-
-Mantenha uma rotina conhecida.
-
-Evite uma conversa que pode revelar incompatibilidade.
-
-Evite o luto de aceitar que alguma coisa não será como você imaginou.
-
-Isso não transforma permanência em escolha livre.
-
-Às vezes o que ela preserva é segurança real.
-
-Nesse caso, não chamamos de Praga aquilo que está protegendo a pessoa de dano maior.
-
-É por isso que a função importa mais do que o rótulo.
-
-## Lia: a dor de não ser reconhecida
-
-Lia já mudou a maneira de responder aos pedidos.
-
-Passou a consultar a agenda.
-
-Criou um limite temporal.
-
-Fez um acordo mais claro no trabalho.
-
-E, mesmo assim, sente irritação quando percebe que algumas pessoas continuam esperando dela a disponibilidade antiga.
-
-Ela pensa:
-
-`Depois de tudo que eu fiz, agora ainda acham ruim eu colocar limite.`
-
-A frase tem verdade.
-
-Lia realmente fez muito.
-
-Talvez tenha carregado mais do que deveria.
-
-Talvez algumas pessoas tenham se acostumado.
-
-A autocompaixão diz:
-
-`Eu entendo por que isso me machuca.`
-
-A investigação acrescenta:
-
-`O que eu faço com essa dor agora?`
-
-Se Lia usa a injustiça percebida para voltar ao sim automático, a dor está ajudando a reproduzir a posição antiga.
-
-Se usa para atacar qualquer pedido como abuso, também precisa examinar.
-
-Se consegue acolher a irritação e manter o acordo que fez, o Tronco trabalha.
-
-A dor continua existindo.
-
-Só não recebe o cargo de diretora-geral da agenda.
-
-## AUTOPIEDADE × AUTOCOMPAIXÃO — PAUSA DA TRAVESSIA
-
-Não faça um teste para descobrir `se você é uma pessoa autopiedosa`.
-
-Essa não é a proposta.
-
-Escolha **uma situação**.
-
-E responda três coisas:
+Aprofunde seu registro com três perguntas:
 
 ### 1. O que aconteceu e merece cuidado?
 
-Nomeie a dor sem diminuir.
+Nomeie a dor sem diminuí-la. Não é necessário encontrar uma lição para justificar o sofrimento.
 
 ### 2. O que hoje continua fora da minha governabilidade?
 
-Pessoa, passado, decisão alheia, condição material, limitação, risco, informação ausente.
+Considere o passado, as decisões alheias, condições materiais, limitações, riscos e informações que ainda não tem.
 
-### 3. Qual parte da próxima resposta pode estar nas minhas mãos — ainda que seja apenas buscar recurso?
+### 3. Qual parte da próxima resposta pode estar nas minhas mãos?
 
-Se a resposta for `nenhuma por enquanto`, registre isso com honestidade.
+Pode ser apenas reconhecer a necessidade de recurso ou apoio. Se não houver margem por enquanto, registre isso sem se insultar. Pergunte o que precisaria existir para que uma possibilidade pudesse ser examinada.
 
-Depois pergunte:
-
-**o que precisaria existir para que alguma margem aparecesse?**
-
-Pronto.
-
-Não precisamos transformar dor em prova de força.
-
-Nem em trono.
+As respostas organizam cuidado e responsabilidade. Não dão nota para sua força.
 
 ## Quando alguém chama sua dor de vitimismo
 
-Não entregue a palavra `vitimismo` para qualquer pessoa que queira silenciar sofrimento.
+Você não deve aceitar esse nome como veredito só porque foi dito com convicção. Uma pessoa pode usá-lo para evitar a responsabilidade por um dano que causou.
 
-Há gente que usa esse rótulo para fugir da responsabilidade pelo dano que causou.
+O método não oferece essa arma a ninguém.
 
-`Você está se fazendo de vítima` pode ser uma forma de não olhar para o próprio comportamento.
+O outro pode ter responsabilidade real. Você pode ter uma margem atual de resposta. Reconhecer uma não elimina a outra.
 
-O método não dá essa arma para ninguém.
+Não é necessário fingir que não doeu para recuperar movimento. Também não é necessário produzir um gesto de coragem para que sua dor mereça ser levada a sério.
 
-A pergunta continua sendo pelos Frutos e pela responsabilidade distribuída.
+## Reconhecer não elimina
 
-O outro pode ter responsabilidade real.
+Ver um mecanismo não significa que ele parou de funcionar. O nome pode melhorar a pergunta e ainda não mudar a resposta.
 
-Você pode ter margem de ação real.
+Depois de observar o que drena, precisamos olhar para o tempo: **o que acontece quando algo importante é percebido, mas nunca se torna uma decisão?**
 
-As duas coisas podem coexistir.
+A pessoa pode continuar funcionando, cumprindo tarefas e respondendo ao urgente enquanto aquela questão permanece fora da pauta.
 
-E às vezes o mais posicionado que você consegue fazer é reconhecer:
+É desse estado que trataremos no Sono da Negligência.
 
-`Sim, isso aconteceu comigo. Não, eu não vou fingir que não doeu. E também não vou entregar a essa dor todo o governo do que vem depois.`
-
-Essa frase tem Tronco.
-
-## O que a Praga faz quando é vista
-
-Ver uma Praga não a elimina.
-
-É importante não repetir o erro do insight mágico.
-
-Você percebeu o mecanismo.
-
-Ótimo.
-
-Agora ele está visível.
-
-Isso não significa que desapareceu.
-
-Pode continuar funcionando.
-
-Pode ficar mais barulhento quando ameaçado.
-
-Pode se disfarçar de prudência, justiça, espiritualidade, autocuidado ou lógica impecável.
-
-Por isso o método continua.
-
-A próxima pergunta é temporal:
-
-**o que acontece quando eu vejo algo importante, mas não transformo em decisão?**
-
-É aí que a vida pode adormecer sem parar de funcionar.
-
-Chamarei isso de **Sono da Negligência**.
-
-E, antes de ir para lá, guarde apenas uma frase:
-
-**Sua dor merece cuidado. Não precisa receber o governo.**
-
-Não use isso contra alguém.
-
-Use para subir na própria Árvore.
-
-Deixe o julgamento lá.
-
-Olhe o Fruto.
-
-E descubra se a ferida está pedindo acolhimento, recurso, proteção — ou se, em algum ponto, também está pedindo devolução de responsabilidade.
+Leve apenas esta distinção: **sua dor merece cuidado; não precisa receber governo permanente**. Não a use contra outra pessoa. Use-a para descobrir se a situação pede acolhimento, recurso, proteção, revisão — ou uma combinação que você ainda não tinha conseguido enxergar.

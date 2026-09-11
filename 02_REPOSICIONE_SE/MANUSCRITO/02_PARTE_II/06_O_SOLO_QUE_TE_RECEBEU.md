@@ -1,525 +1,197 @@
 # CAPÍTULO 6 — O SOLO QUE TE RECEBEU
 
-## Ninguém começa a vida em terreno neutro
+## Ninguém começa em terreno neutro
 
-Você não chegou ao mundo como uma folha em branco esperando a primeira palestra de desenvolvimento pessoal.
+Quando você começou a perceber a vida, já havia gente ali. Havia linguagem, regras, afeto, ausências, dinheiro ou falta dele. Havia ideias sobre família, trabalho, autoridade, fé e sobre aquilo que uma pessoa podia desejar.
 
-Quando começou a perceber a vida, já havia gente ali.
+Antes que você pudesse pedir tempo para avaliar uma premissa, a vida já estava ensinando.
 
-Havia linguagem.
+Esse é o Solo que te recebeu: não apenas a casa da infância, mas as condições em que suas primeiras respostas começaram a fazer sentido.
 
-Havia regras.
-
-Havia crenças.
-
-Havia medo.
-
-Havia afeto.
-
-Havia ausências.
-
-Havia dinheiro ou falta dele.
-
-Havia uma ideia de Deus.
-
-Uma ideia de família.
-
-Uma ideia de homem.
-
-Uma ideia de mulher.
-
-Uma ideia de trabalho.
-
-Uma ideia de autoridade.
-
-Uma ideia de sofrimento.
-
-Uma ideia do que era permitido desejar.
-
-E, antes que você pudesse dizer `quero avaliar essa premissa com calma`, a vida já estava ensinando.
-
-Esse é o Solo que te recebeu.
-
-Não apenas a casa onde você cresceu.
-
-O conjunto de condições em que suas primeiras respostas fizeram sentido.
+É importante conhecê-las. Também é importante não parar nelas.
 
 ## Solo não é sinônimo de infância
 
-A infância importa.
+Uma pessoa pode ter crescido numa família afetuosa e viver atualmente num trabalho humilhante. Pode ter conhecido escassez e depois construído segurança material. Pode ter recebido liberdade em casa e chegar a uma relação que restringe seus movimentos.
 
-Mas reduzir Solo à infância seria pequeno demais para o método.
+O contrário também acontece: depois de um ambiente rígido, pode encontrar pessoas com quem uma pergunta não exige medo.
 
-Solo também é o ambiente em que você está hoje.
+O Solo atual não é uma simples reprodução do Solo de origem. Por isso o método evita dois atalhos: *tudo vem da infância* e *o passado não importa*.
 
-Uma pessoa pode ter crescido numa família afetuosa e viver atualmente num trabalho humilhante.
+A pergunta é:
 
-Pode ter vindo de escassez e, anos depois, construir segurança material.
+**Que condições ensinaram esta resposta — e que condições ainda a reforçam hoje?**
 
-Pode ter aprendido numa comunidade religiosa a fazer perguntas e depois entrar em outra em que dúvida é tratada como deslealdade.
+Não precisamos escolher um culpado para encerrar o caso. Precisamos distinguir origem, continuidade e mudança.
 
-Pode ter tido liberdade em casa e chegar a uma relação em que cada movimento começa a ser monitorado.
+## O familiar pode parecer verdade
 
-Pode ter crescido num ambiente rígido e, mais tarde, encontrar pessoas que oferecem contraditório sem punição.
+Algumas regras chegam tão cedo ou são repetidas de maneira tão comum que deixam de parecer interpretações. Apresentam-se como a própria realidade.
 
-O Solo muda.
+*Pedir ajuda é incomodar.*
 
-E isso é importante porque evita duas prisões intelectuais.
+*Quem ama suporta.*
 
-A primeira:
+*Descansar é perder tempo.*
 
-`Tudo vem da infância.`
+*Uma pessoa forte não precisa.*
 
-A segunda:
+Talvez você consiga reconhecer a origem de uma delas. Talvez não. O ponto não é presumir que todas sejam falsas ou que todo comportamento tenha uma frase escondida por trás. É observar se uma regra desse tipo participa da resposta que está investigando.
 
-`O passado não importa.`
+Uma adaptação pode ter sido útil. Prever o humor de alguém pode ter diminuído risco. Calar pode ter protegido. Trabalhar muito pode ter sido necessário diante de uma escassez real.
 
-Os dois extremos simplificam demais.
+O método não insulta a inteligência da pessoa que aprendeu. Pergunta se a resposta continua adequada às condições presentes.
 
-O Método Posicione-se pergunta:
+Familiaridade não prova saúde nem doença. É uma pista de algo conhecido que pode ser examinado.
 
-**que condições ensinaram esta resposta — e que condições ainda a reforçam hoje?**
+## O não que chegava antes da pergunta
 
-Essa pergunta é muito mais útil do que escolher um culpado e encerrar o caso.
+Quando eu era criança, houve momentos em que não pedia algo simples porque antecipava uma resposta negativa. Eu tinha ouvido a recusa e a reclamação dirigidas aos pedidos de outras crianças. Na minha cabeça, o não chegava antes de eu perguntar.
 
-## O familiar pode vestir roupa de verdade
+Eu me adaptava a uma resposta que, naquela situação, nem havia recebido.
 
-Tem coisa que não parece crença porque chegou cedo demais.
+A posição visível era o silêncio. Mas chamar aquilo apenas de falta de posicionamento apagaria o contexto: havia medo de incomodar, antecipação e dificuldade de formular o pedido.
 
-Parece realidade.
+Hoje consigo usar essa lembrança para nomear uma pergunta. Não para fazer da menina uma explicação universal da mulher adulta.
 
-Se você cresceu ouvindo que dinheiro sempre destrói família, talvez suspeite de prosperidade antes de examinar a própria crença.
+Uma lógica semelhante pode ser investigada quando alguém não pede ajuda, não solicita prazo ou não pergunta se existe alternativa porque já espera ouvir não. Às vezes a recusa é real e previsível. Às vezes a possibilidade nunca chegou a ser examinada.
 
-Se aprendeu que pedir ajuda é incomodar, pode sentir vergonha antes mesmo de formular um pedido.
+O método precisa descobrir qual situação está diante de nós, em vez de exigir que toda pessoa pergunte em qualquer ambiente.
 
-Se viu conflito terminar em ameaça, talvez seu corpo se prepare para perigo em qualquer discordância.
-
-Se todo mundo ao redor dizia que amor exige sacrifício sem limite, uma relação exaustiva pode parecer normal por muito tempo.
-
-Se ocupação constante era sinônimo de valor, descanso pode produzir culpa.
-
-Se a paz da casa dependia de uma pessoa prever o humor de todas as outras, antecipar reações pode ter parecido competência.
-
-E talvez tenha sido.
-
-É importante dizer isso.
-
-Uma resposta aprendida pode ter sido útil naquele Solo.
-
-O problema não é insultar a inteligência da pessoa que aprendeu.
-
-É perguntar se a resposta continua adequada ao Solo atual.
-
-Familiaridade não é prova de saúde.
-
-Mas também não é prova de doença.
-
-É apenas um sinal de que algo foi repetido o bastante para parecer conhecido.
-
-Conhecido merece exame.
-
-## Eu conheço o medo de pedir antes mesmo de receber um não
-
-Há uma experiência minha que pertence em profundidade a *Morte em Vida*, então eu não vou recontá-la aqui.
-
-Mas preciso dela por alguns segundos porque ela explica uma lógica do Solo.
-
-Quando eu era criança, houve momentos em que eu não pedia algo simples porque já antecipava a resposta negativa.
-
-Eu tinha ouvido adultos reclamarem de pedidos de outras crianças.
-
-Na minha cabeça, a resposta já existia antes da pergunta.
-
-Então eu me adaptava ao não sem sequer recebê-lo.
-
-Percebe a força disso?
-
-A posição observável era silêncio.
-
-Mas reduzir aquilo a `Sol não sabia se posicionar` seria uma leitura pobre.
-
-Havia um Solo.
-
-Havia antecipação.
-
-Havia medo do incômodo.
-
-Havia uma lógica aprendida:
-
-`não peça; não dê trabalho; evite o não.`
-
-Anos depois, uma lógica como essa pode aparecer com roupas adultas.
-
-Você não pergunta preço.
-
-Não negocia.
-
-Não pede ajuda.
-
-Não solicita prazo.
-
-Não diz o que precisa.
-
-Não pergunta se existe alternativa.
-
-E então conclui que `não tem opção`.
-
-Às vezes realmente não tem.
-
-Mas às vezes a opção nunca chegou a ser investigada porque a pergunta morreu antes de nascer.
-
-É por isso que conhecer o Solo muda a qualidade da pergunta.
-
-Não para fazer da criança a explicação universal do adulto.
-
-Para perceber quando uma regra antiga continua funcionando sem ter sido atualizada.
+Conhecer o Solo muda a qualidade dessa investigação.
 
 ## O Celular Configurado
 
-Eu gosto da metáfora do celular por um motivo simples: ela mostra configuração sem transformar configuração em essência.
+Pense num aparelho que chega com idioma definido, aplicativos instalados, permissões concedidas e notificações ativas. Muita coisa funciona antes de você abrir o menu.
 
-Pense num aparelho novo.
+Uso essa imagem porque ela ajuda a perceber configuração sem confundir configuração com essência.
 
-Ele pode vir com idioma definido.
+Na vida humana, porém, a comparação tem limite: **você não é um aparelho, seu cérebro não é software e sua história não pode ser apagada por uma restauração de fábrica**.
 
-Aplicativos instalados.
+O Celular Configurado é uma metáfora pedagógica para perguntar:
 
-Notificações ativas.
+**Que permissões, prioridades e respostas já estavam operando antes de eu começar a examiná-las?**
 
-Permissões concedidas.
+Talvez a permissão seja: *qualquer urgência do outro entra na minha agenda*.
 
-Bloqueios.
+A prioridade: *evitar desagradar vem antes de dizer o que consigo cumprir*.
 
-Preferências.
+O bloqueio: *sem certeza absoluta, não começo*.
 
-Rotinas em segundo plano.
+A notificação permanente: *o que vão pensar?*
 
-Quando você pega o aparelho, muita coisa já está funcionando antes de você abrir o menu.
+O processo em segundo plano: *preciso provar que mereço estar aqui*.
 
-Na vida humana, a comparação para aí.
+Essas frases não diagnosticam nada. São hipóteses para olhar uma regra aprendida, um hábito ou uma resposta repetida. Precisam encontrar confirmação na situação, não apenas combinar com uma explicação interessante.
 
-Você não é um aparelho.
+## Permissões que ninguém lembra de ter concedido
 
-Seu cérebro não é software.
+No trabalho: *podem me chamar fora do horário*.
 
-Sua história não é um código que alguém apaga com `restaurar padrões de fábrica`.
+Na família: *todo problema precisa passar por mim*.
 
-A metáfora serve apenas para fazer uma pergunta útil:
+No amor: *se a pessoa se chateou, tenho de resolver*.
 
-**que permissões, prioridades e respostas já estavam operando antes de você começar a examiná-las conscientemente?**
+Na fé: *questionar uma interpretação significa questionar Deus*.
 
-É diferente.
+No dinheiro: *se eu cobrar, vão achar que sou interesseira*.
 
-E é suficiente.
+Na política: *admitir um erro do meu lado é ajudar o adversário*.
 
-Talvez a permissão seja:
+Na imagem: *parecer segura é me achar demais*.
 
-`qualquer urgência do outro entra na minha agenda.`
+Nenhuma dessas frases dispensa contexto. Uma responsabilidade profissional pode existir. Um cuidado familiar pode ser dever. Uma preocupação pode estar bem fundamentada.
 
-Talvez a prioridade seja:
-
-`evitar desagradar vem antes de dizer a verdade.`
-
-Talvez o bloqueio seja:
-
-`se eu não tiver certeza absoluta, não começo.`
-
-Talvez a notificação permanente seja:
-
-`o que vão pensar?`
-
-Talvez o aplicativo rodando em segundo plano seja:
-
-`preciso provar que mereço estar aqui.`
-
-Você não precisa chamar isso de programação.
-
-Pode chamar de aprendizagem, hábito, regra, resposta repetida, mapa ou configuração pedagógica.
-
-O nome importa menos do que a possibilidade de examinar.
-
-## O problema das permissões invisíveis
-
-Permissão invisível é aquela que você nunca lembra de ter dado, mas que continua organizando comportamento.
-
-No trabalho:
-
-`podem me chamar fora do horário.`
-
-Na família:
-
-`todo problema precisa passar por mim.`
-
-No amor:
-
-`se a pessoa está chateada, eu preciso resolver.`
-
-Na fé:
-
-`questionar uma interpretação significa questionar Deus.`
-
-No dinheiro:
-
-`se eu cobrar, vão achar que sou interesseira.`
-
-Na imagem:
-
-`se eu mostrar segurança, vão pensar que me acho demais.`
-
-Na política:
-
-`se eu admitir um erro do meu lado, estou ajudando o lado contrário.`
-
-Na internet:
-
-`se todo mundo repete, deve ter alguma verdade.`
-
-Nenhuma dessas frases precisa ser falsa em todo contexto.
-
-Algumas podem expressar responsabilidade real.
-
-Outras podem ter surgido de experiências específicas.
-
-O ponto é que, quando uma regra opera sem ser vista, ela ocupa posição antes do exame.
+A pergunta é se a regra ainda precisa ser examinada ou se já ganhou o direito de organizar tudo sem aparecer. O nome permissão não significa que você tenha consentido livremente com o que alguém fez; descreve aqui um acesso ou uma prática que precisa ser reconhecida.
 
 ## O ambiente digital também é Solo
 
-Seu Solo não termina na porta de casa.
+O Solo não termina na porta de casa. Telas, grupos, vídeos, recomendações e pessoas em quem confiamos fazem parte do que chega repetidamente à atenção.
 
-Hoje, muita coisa que entra na nossa atenção chega por telas, grupos, recomendações, repetições, vídeos curtos, comunidades e pessoas em quem confiamos.
+Você pode entrar numa rede para entretenimento e sair comparando a vida com a de gente que parece ganhar mais, amar melhor e tomar café em varanda de hotel às onze da manhã de uma terça-feira.
 
-Você pode escolher quem segue e ainda assim não controlar tudo que aparece.
+Essa impressão merece exame. O que apareceu foi uma seleção, não a vida inteira de todas as pessoas.
 
-Pode entrar numa rede para entretenimento e sair com uma sensação de que todo mundo está vivendo melhor, ganhando mais, amando melhor, votando melhor, educando melhor, envelhecendo melhor e tomando café em varanda de hotel às onze da manhã de uma terça-feira.
+Repetição e familiaridade também precisam entrar na pergunta, sem que isso nos autorize a dizer que um algoritmo controla a mente. O método não trata a pessoa como marionete da tela. Trata o ambiente digital como uma das condições a observar.
 
-A comparação não precisa ser consciente para mudar o clima interno.
+**O que tem recebido acesso repetido à minha atenção — e que efeito percebo nessa exposição?**
 
-A repetição também produz familiaridade.
+Podemos investigar essa influência sem concluir que toda ideia recebida de fora é manipulação. Voltaremos às fontes e ao pertencimento depois de reconhecer melhor a posição que eles podem ajudar a sustentar.
 
-E familiaridade pode ser confundida com importância, normalidade ou consenso.
+## Quando o Solo muda e a resposta permanece
 
-Eu não vou dizer que `o algoritmo controla sua mente`.
+Uma pessoa pode não depender mais de certa aprovação e continuar respondendo como se dependesse. Pode encontrar um vínculo que aceita discordância e ainda antecipar a punição conhecida. Pode dispor de uma margem financeira nova e não ter revisto o modo de decidir construído na escassez.
 
-Seria uma frase fácil e uma explicação ruim.
+São possibilidades, não conclusões sobre quem viveu uma história difícil.
 
-Mas seria igualmente ingênuo tratar ambiente digital como se fosse janela neutra.
+A pergunta é: **o Solo mudou e eu continuo respondendo como se estivesse no antigo?**
 
-Ele é parte do Solo contemporâneo.
+Se houver indício disso, precisamos testar a leitura. Não transformar uma resposta persistente em trauma por conta própria, nem dizer que o perigo está apenas na cabeça.
 
-Por isso, mais adiante, quando entrarmos em influência, pertencimento e vida pública, vamos perguntar não apenas **o que você pensa**, mas **o que tem recebido repetidamente acesso ao seu pensamento**.
+O ambiente atual pode continuar difícil. Pode haver violência, ameaça, discriminação, falta de moradia, dependência, doença ou responsabilidades de cuidado que estreitam as opções. Quando isso acontece, não basta exigir atualização interna.
 
-## Quando um Solo muda e a resposta não acompanha
-
-Essa é uma das cenas mais interessantes do reposicionamento.
-
-A pessoa já não vive onde aprendeu determinada regra.
-
-Mas continua obedecendo a ela.
-
-Já não depende daquela aprovação.
-
-Mas ainda sente como se dependesse.
-
-Já não é criança.
-
-Mas continua antecipando o não.
-
-Já tem dinheiro.
-
-Mas ainda toma decisão como se a escassez fosse acabar amanhã.
-
-Já encontrou gente segura.
-
-Mas continua tratando toda discordância como ameaça.
-
-Já saiu do ambiente que controlava.
-
-Mas ainda pede permissão para existir.
-
-Aqui, cuidado.
-
-Não vou chamar toda persistência de resposta antiga de `trauma`.
-
-Nem toda dificuldade precisa de um nome clínico.
-
-Às vezes estamos olhando para hábito, lealdade, medo, memória, costume, falta de prática ou simplesmente falta de evidência nova.
-
-Mas a pergunta é a mesma:
-
-**o Solo mudou e eu continuo respondendo como se estivesse no antigo?**
-
-Se sim, existe algo a investigar.
-
-## E quando o Solo atual continua difícil?
-
-Outra correção importante.
-
-Não adianta dizer para uma pessoa `você precisa atualizar sua resposta` quando o ambiente continua punindo exatamente aquilo que ela tentaria mudar.
-
-Se há violência, ameaça, controle, dependência econômica, risco profissional real, discriminação, falta de moradia, doença, responsabilidade de cuidado ou qualquer condição concreta que estreite opções, o Solo atual precisa entrar na análise.
-
-A maturidade do método está aqui:
-
-às vezes precisamos mudar a Semente.
-
-Às vezes precisamos preparar o Solo.
-
-Às vezes precisamos sair daquele Solo.
-
-Às vezes precisamos sobreviver nele por um tempo enquanto construímos recurso.
-
-E às vezes descobrimos que aquilo que chamávamos de `não consigo` era uma regra antiga num ambiente que já permite mais movimento.
-
-Não há resposta única.
-
-Há investigação.
+Às vezes é possível mudar a atitude. Às vezes é preciso preparar condições. Às vezes a proteção vem primeiro. A existência de recurso interno não autoriza o livro a fingir que recurso externo deixou de importar.
 
 ## Auditoria de Permissões
 
-Agora vamos olhar seu `Celular Configurado` sem fazer cosplay de assistência técnica da alma.
+Retome a situação da sua Fotografia de Partida. Use as frases abaixo como caminhos de entrada; escolha as que realmente se relacionam com o seu Fruto, em vez de responder a todas por obrigação.
 
-Escolha o mesmo Galho que vem acompanhando você desde a Parte I.
+**Aqui parece permitido que os outros...**
 
-Complete algumas frases:
+**Aqui sinto que preciso fazer isto para ser considerado bom, leal, competente ou digno...**
 
-**Aqui parece permitido que os outros ____________________.**
+**Aqui quase nunca me autorizo a...**
 
-**Aqui eu sinto que preciso ____________________ para ser considerado bom, leal, competente ou digno.**
+**Aqui a urgência de outra pessoa costuma...**
 
-**Aqui eu quase nunca me autorizo a ____________________.**
+**Aqui conflito significa...**
 
-**Aqui a urgência de outra pessoa costuma ____________________.**
+**Aqui pedir ajuda parece...**
 
-**Aqui eu aprendi que conflito significa ____________________.**
+**Aqui dizer não parece...**
 
-**Aqui pedir ajuda parece ____________________.**
+Escolha uma regra que apareceu e faça a investigação central:
 
-**Aqui dizer não parece ____________________.**
+**Como posso ter aprendido isso?**
 
-Agora pergunte:
+**O Solo atual confirma essa regra?**
 
-**quem ensinou isso?**
+**Há evidência de que outra resposta é possível?**
 
-Não para encontrar réu.
+A origem pode continuar desconhecida. Não invente um responsável para preencher a primeira pergunta. Se houver risco relevante, não provoque uma reação para testar coragem. E, se os dados não bastarem, mantenha a hipótese na Árvore.
 
-Para localizar origem possível.
+## Lei 4 — Desligue o Piloto Automático, agora olhando o Solo
 
-Depois pergunte:
+A Lei 4 apareceu no **Capítulo 4**, junto da primeira subida guiada. Ali, você criou um intervalo diante da resposta. Agora usa esse intervalo para examinar as condições em que ela continua funcionando.
 
-**o Solo atual continua confirmando essa regra?**
+**Esta é uma escolha atual ou uma regra antiga que ainda não voltou à mesa?**
 
-E, por fim:
+Talvez o exame confirme algo recebido. Herança não é apenas ferida. Sua família, uma comunidade ou uma experiência podem ter oferecido lealdade, cuidado, fé, responsabilidade e coragem que deseja conservar.
 
-**que evidência existe de que outra resposta também pode ser possível?**
+Pergunte também: **o que recebi e quero preservar?**
 
-Se não existe evidência, não invente.
-
-Se existe risco, não provoque o risco para `testar coragem`.
-
-Se a resposta ainda for `não sei`, deixe na Árvore.
-
-## Lei 4 — Desligue o Piloto Automático, agora em outro nível
-
-Essa Lei nasceu no capítulo anterior.
-
-Aqui ela volta com outra função.
-
-Antes, desligar o piloto automático significava criar intervalo diante da resposta.
-
-Agora significa também revisar a pista.
-
-**Esta resposta é minha escolha atual ou é uma permissão antiga funcionando num Solo que já mudou?**
-
-Talvez você mantenha a resposta depois do exame.
-
-Tudo bem.
-
-Reposicionar não significa contrariar o passado por esporte.
-
-Algumas coisas que você aprendeu merecem continuar.
-
-Talvez sua família tenha te ensinado lealdade, responsabilidade, fé, trabalho, cuidado, coragem, simplicidade, honra.
-
-Herança não é só ferida.
-
-Solo também oferece recurso.
-
-Esse ponto é essencial porque autoconhecimento pode virar uma indústria de escavação em que toda infância precisa ser transformada em cena de crime para justificar a fase adulta.
-
-Eu não quero isso.
-
-Quero discernimento.
-
-Pergunte também:
-
-**o que recebi e quero preservar?**
-
-Uma Árvore não cresce apenas apesar do Solo.
-
-Também cresce por causa de muita coisa boa que encontrou nele.
+Reposicionar-se não é contrariar o passado por esporte. Uma Árvore não cresce apenas apesar do Solo. Há recursos que encontrou nele e que continuam sustentando o cultivo.
 
 ## O que você chama de normal?
 
-Normal é uma palavra perigosa.
+Às vezes normal significa apenas frequente naquele ambiente.
 
-Às vezes significa apenas `frequente no meu ambiente`.
+Uma equipe pode viver em urgência constante e chamar isso de compromisso. Uma casa pode tratar perguntas como desrespeito e chamar o silêncio de paz. Um vínculo pode se organizar em torno de uma ausência que já parece parte inevitável da rotina.
 
-Uma casa pode gritar todos os dias e, por isso, grito virar normal.
+A frequência não transforma automaticamente um comportamento em saudável. Ser diferente do costume também não o torna saudável por definição.
 
-Uma família pode nunca conversar sobre dinheiro e o silêncio virar normal.
+Precisamos voltar ao Fruto e à função da resposta.
 
-Uma equipe pode funcionar em urgência constante e a exaustão virar normal.
+Ao terminar sua Auditoria de Permissões, registre uma formulação provisória:
 
-Uma comunidade pode punir pergunta e a submissão virar normal.
+**Aprendi ou acostumei-me a operar como se...**
 
-Um grupo pode tratar discordância como traição e a unanimidade virar normal.
+**As evidências atuais a favor são...**
 
-Um relacionamento pode viver sem toque, sem conversa ou sem reciprocidade e a ausência virar rotina.
+**As evidências que podem contradizer são...**
 
-Frequência não transforma automaticamente uma coisa em saudável.
+Se a regra continua coerente com a realidade e com seus valores, há algo a preservar. Se não continua, a próxima pergunta não é simplesmente onde ela nasceu.
 
-Mas também não basta ser diferente do seu costume para ser saudável.
+**De onde ela ainda retira força hoje?**
 
-É por isso que o método não para no Solo.
-
-Solo explica contexto.
-
-Ainda precisamos descobrir **o que, dentro da sua forma atual de funcionar, continua retirando força desse contexto**.
-
-É aí que entramos nas Raízes.
-
-## Antes de seguir
-
-Volte à Auditoria de Permissões.
-
-Escolha apenas uma regra que apareceu.
-
-Escreva assim:
-
-**Aprendi ou acostumei-me a operar como se ____________________.**
-
-Agora acrescente:
-
-**Hoje, as evidências que sustentam essa regra são ____________________.**
-
-E:
-
-**As evidências que podem contradizê-la são ____________________.**
-
-Se a regra continua coerente com sua vida, preserve.
-
-Se não continua, não a arranque ainda.
-
-Primeiro descubra de onde ela ainda retira força.
-
-Porque conhecer o Solo explica onde algo encontrou terreno.
-
-Mas não explica, sozinho, por que continua vivo hoje.
-
-Para isso, precisamos olhar para baixo.
-
-Não para encontrar uma sentença enterrada.
-
-Para encontrar sustentação.
-
-É hora de voltar às Raízes.
+Conhecer o Solo ajuda a localizar condições. Para compreender a sustentação atual, precisamos chegar às Raízes.
