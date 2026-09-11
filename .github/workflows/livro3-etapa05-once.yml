@@ -1,0 +1,28 @@
+name: Livro 3 ETAPA 05 auditoria e integridade
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/livro3-etapa05-once.yml']
+permissions:
+  contents: read
+concurrency:
+  group: livro3-etapa05-once
+  cancel-in-progress: false
+jobs:
+  exportar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Exportar apenas as fontes editoriais necessárias
+        run: |
+          mkdir -p /tmp/livro3-etapa05/01_MORTE_EM_VIDA /tmp/livro3-etapa05/02_REPOSICIONE_SE
+          cp -R 00_UNIVERSO_MESTRE /tmp/livro3-etapa05/
+          cp -R 03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU /tmp/livro3-etapa05/
+          cp 01_MORTE_EM_VIDA/MAPA_MAE.md /tmp/livro3-etapa05/01_MORTE_EM_VIDA/
+          cp 02_REPOSICIONE_SE/MAPA_MAE.md /tmp/livro3-etapa05/02_REPOSICIONE_SE/
+          git rev-parse HEAD > /tmp/livro3-etapa05/COMMIT_ORIGEM.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: livro3-etapa05-revisao
+          path: /tmp/livro3-etapa05/
+          retention-days: 7
