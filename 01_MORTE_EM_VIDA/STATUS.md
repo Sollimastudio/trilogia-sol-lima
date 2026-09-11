@@ -1,131 +1,105 @@
 # STATUS — MORTE EM VIDA
 
-## Estado atual
-- Mapa-mãe macro: ● estrutura viva atualizada
-- Engenharia capítulo a capítulo: ◑ refinada continuamente pela escrita
-- Mapa de vozes/molduras: ● ativo
-- Inventário de cenas: ◐ consolidação contínua
-- Plano de produção em massa: ● ativo
-- Pipeline e biblioteca de prompts: ● ativos
-- Manuscrito novo: ◐ em produção por arquivos individuais
-- Nota Forense de abertura: ● V1
-- Prólogo — O Portão: ● V1
-- Parte I: ● primeira escrita integrada e auditada
-- Parte II: ● primeira escrita integrada + monólogo de transição pós-divórcio
-- Parte III: ● primeira escrita integrada e auditada
-- Parte IV / Autópsia até a volta da mulher: ● primeira escrita + revisões de etapa concluídas
-- Parte IV / autoria e legado: ◐ próxima frente ativa
-- Revisão de continuidade integral do livro: ⬜
-- Revisão factual integral: ⬜
-- Revisão literária final: ⬜
+**Atualização:** 10/09/2026 · revisão global preparatória 13R.
 
-## Progresso textual acumulado
-**50 unidades possuem primeira escrita V1/V1.1.**
+## Estado real do manuscrito
 
-### Abertura + Prólogo + Parte I — 16 unidades
+**50 unidades com primeira escrita, incluindo notas, Prólogo, capítulos, monólogo e interlúdios.**
+
+A revisão 13R leu o conjunto dessas 50 unidades e fez correções localizadas em quatro textos. Não reescreveu o livro inteiro, não concluiu a Beta e não auditou independentemente todos os fatos biográficos.
+
+| Camada | Estado |
+|---|---|
+| Estrutura e capítulos existentes até ETAPA 13 | Primeira escrita disponível |
+| Prólogo e monólogo pós-divórcio | Presentes no repositório e na ordem de leitura |
+| Voz infantil em MV-04/MV-06 | V1.1 revisada na 13R; reconhecimento autoral pendente |
+| Dueto com a Mãe | V1.1 corrigida na 13R |
+| Saída do primeiro casamento — MV-22 | V1.1 corrigida na 13R |
+| Leitura global de desenvolvimento do texto existente | Concluída na 13R; pendências registradas |
+| Correção integral de todas as pendências literárias | Não concluída |
+| Parte IV — autoria e legado | Próxima produção: ETAPA 14 |
+| Epílogo e encerramento forense | Ainda por escrever/consolidar |
+| Manuscrito Alfa único de leitura | Ainda por montar |
+| Conferência factual, jurídica e técnica integral | Pendente |
+| Revisão literária Beta, imagens e prova | Pendentes |
+
+## Ordem atual — 50 unidades
+
+### Abertura + Prólogo + Parte I — 16
 MV-00 → MV-P01 → MV-01 → MV-02 → MV-03 → MV-03A → MV-03B → MV-I01 → MV-04 → MV-05 → MV-06 → MV-07 → MV-08 → MV-09 → MV-10 → MV-11.
 
-### Parte II — 12 unidades
+### Parte II — 12
 MV-12 → MV-13 → MV-14 → MV-I04 → MV-15 → MV-16 → MV-17 → MV-18 → MV-19 → MV-20 → MV-21 → MV-22.
 
-### Ponte II → III — 1 unidade especial
+### Ponte II → III — 1
 MV-M01 — Agora Eu Não Posso Errar.
 
-### Parte III — 14 unidades
+### Parte III — 14
 MV-I05 → MV-23 → MV-24 → MV-25 → MV-26 → MV-27 → MV-28 → MV-29 → MV-30 → MV-31 → MV-32 → MV-33 → MV-34 → MV-35.
 
-### Parte IV — 7 unidades
+### Parte IV existente — 7
 MV-36 → MV-37 → MV-38 → MV-39 → MV-I06 → MV-40 → MV-41.
 
-## Etapas fechadas
-- ETAPA 00 — ✓ Mapa-mãe macro
-- ETAPA 01 — ✓ Engenharia capítulo a capítulo
-- ETAPA 02 — ✓ Contrato emocional + origem
-- ETAPA 03 — ✓ Corpo, silêncio e imaginação
-- ETAPA 04 — ✓ Competência, pai e risco + Parte I integrada
-- ETAPA 05 — ✓ Entrada nos papéis adultos
-- ETAPA 06 — ✓ Vida conjugal/maternidade/competência/risco/ruptura + Parte II integrada
-- ETAPA 07 — ✓ Parte III / Movimento A: A Falsa Ressurreição
-- ETAPA 08 — ✓ Parte III / Movimento B: O Cerco Contra a Mãe
-- ETAPA 09 — ✓ Parte III / Movimento C: A Vida que Continuou
-- ETAPA 10 — ✓ Parte IV / abertura: pergunta, verdade e responsabilidade
-- ETAPA 11 — ✓ Parte IV / clímax: Matemática do Perdão + Sepultamento Simbólico
-- ETAPA 12 — ✓ Parte IV / investigadora: estudo, evidência e linguagem
-- ETAPA 13 — ✓ Parte IV / mulher + recuperação de Prólogo e Monólogos
+A contagem não aumentou na 13R. Galinhas, Mangas e Caminho das Águas não entram como prosa concluída.
 
-# ETAPA 13 — resultado
+## Etapas preservadas
 
-## Auditoria principal
-Arquivo:
-`LOTES/AUDITORIA_ETAPA13_MULHER_E_VOZES_RECUPERADAS.md`
+00–01: arquitetura inicial.  
+02–04: origem e infância.  
+05–06: papéis adultos, casamento, maternidade, trabalho e ruptura.  
+07–09: Falsa Ressurreição, Cerco e funcionamento cotidiano.  
+10–11: Autópsia, perdão e Sepultamento.  
+12: Investigadora.  
+13: Mulher + recuperação de Prólogo, monólogo e interlúdio da criança.  
+**13R: leitura global, quatro correções de prosa e atualização da continuidade.**
 
-VI-L5-001–012 foi auditado e três peças antigas essenciais foram recuperadas antes do fechamento da etapa.
+As etapas anteriores ficam fechadas como marcos de desenvolvimento, não como aprovação final dos textos. Seus snapshots não foram reescritos.
 
-## Cirurgias retroativas controladas
-### MV-P01 — Prólogo — O Portão — ● V1
-Reintegra a estrutura antiga e abre o livro depois da Nota Forense, antes de 1978. O prólogo mostra corpo + ferro + filho inacessível e corta antes de explicar o Cerco.
+## Resultado da 13R
 
-### MV-M01 — Agora Eu Não Posso Errar — ● V1 reintegrada
-Monólogo consolidado do divórcio/pós-divórcio, transplantado integralmente para o repositório.
+Relatório com inventário das 50 unidades:
+`LOTES/REVISAO_GLOBAL_POS_ETAPA13.md`.
 
-**Posição:** MV-22 → MV-M01 → MV-I05.
+### Correções gravadas
+- **MV-04 V1.1:** pensamento infantil direto; medo não tratado como teimosia.
+- **MV-06 V1.1:** fantasia infantil de ser anjo; bastidor da consulta retirado da leitura, memória preservada como pendência.
+- **MV-I04 V1.1:** prazer do canto coexistindo com dever de testemunho; correção autoral incorporada.
+- **MV-22 V1.1:** orientação do pastor sobre princípios bíblicos, sem nomes/números inventados; compreensão posterior distinguida da culpa de então.
 
-Centro: a mulher pediu o divórcio, mas ainda teme pecado, culpa, nova escolha errada e perda da presença de Deus; não possui ainda a consciência futura sobre autoestima/posicionamento.
+### Organização corrigida
+- Prólogo incluído no mapa da Parte I.
+- Voz da criança diferenciada da adulta acolhendo a criança em MV-I06.
+- Mapas das Partes I/II e de vozes atualizados.
+- Roteiro genérico alinhado às etapas executadas.
+- ETAPA 14 atualizada com as correções autorais e as lacunas do fechamento.
 
-### MV-I06 — A Criança que Não Devia Nada — ● V1
-**Posição:** MV-39 → MV-I06 → MV-40.
+### Preservação
+Base: `ETAPAS/13R_BASE_PRE_REVISAO_2026-09-10.md`.  
+Fechamento da revisão: `ETAPAS/13R_REVISAO_GLOBAL_2026-09-10.md`.
 
-Centro: a criança deixa de ser julgada com recursos que só a adulta teria décadas depois. `A criança que eu fui não devia nada` paga o arco da origem antes da etapa intelectual.
+Os textos anteriores permanecem recuperáveis pelo histórico/blobs Git. Isso não equivale a backup externo infalível ou a proteção contra toda exclusão.
 
-## Capítulo principal
-### MV-41 — A Mulher que Quase Não Viveu — ● V1
-A mulher deixa de ser objeto de estudo e passa a existir como sujeito de:
-- preferência;
-- corpo;
-- desejo;
-- limite;
-- presença;
-- escolha.
+## Pendências que continuam visíveis
 
-Mulher Magnética entra como experiência formativa ligada a Vanessa de Oliveira, com data ainda pendente. TCC mantém curso/instituição/título/data em aberto. Magnetus e Relacione-se aparecem apenas como frutos biográficos posteriores, sem ensino nem oferta.
+**Literárias:** excesso de explicações e bastidores; antecipações da Autópsia na infância; repetição 13/14, M01/I05, 32–35 e 39–41; densidade de acontecimentos em 17–22; costura MV-00/P01; cenas próprias ainda pouco desenvolvidas em MV-41.
 
-## Mapa de proteção de voz
-Criado:
-`MAPA_VOZES_E_MOLDURAS.md`
+**Infância:** queda do tanque e batismo aos onze têm lembranças no monólogo, mas precisam de lugar desenvolvido na infância; consulta do balanço exige contexto; reservas continuam abertas. O dueto foi corrigido, não usado para encerrar todas essas pendências.
 
-Ele passa a impedir que prólogos, monólogos e interlúdios sejam eliminados silenciosamente durante revisões focadas em capítulos numerados.
+**Fontes:** documentos do Cerco não foram auditados nesta rodada; datas/ordem fina de formação e TCC continuam abertas; identificação da rodovia do acidente do avô e durações do Cerco exigem conferência; divergência 22/25 de dezembro de 2025 sobre Mãe-Véia permanece explicitamente registrada.
 
-## Revisão
-`LOTES/REVISAO_ETAPA13_MULHER_E_VOZES_RECUPERADAS.md`
+**Presente narrativo:** Sepultamento aos 39 e diagnóstico referido aos 43 são distintos. A autora relata manejo/controle aprendido dos tremores, não cura total nem imobilidade sem mudança.
 
-## Snapshot
-`ETAPAS/13_MULHER_QUASE_NAO_VIVEU_E_VOZES_RECUPERADAS_2026-09-10.md`
+## Próximo comando — ETAPA 14
 
-## Checklist
-`ACOMPANHAMENTO_ETAPA_13.md`
+**Autoria, Memória, IA e Legado — preparada, ainda não executada.**
 
-## Fecho atual da mulher
-**Eu já não precisava que alguém me dissesse quem eu seria.**
+Ler e executar:
+`PROMPTS/ETAPA_14_COMANDO_ATUAL.md`.
 
-# Próxima etapa ativa
-## ETAPA 14 — AUTORIA, MEMÓRIA, IA E LEGADO
+A nova unidade deve mostrar Sol escolhendo, corrigindo e assumindo a própria escrita. Não produzir catálogo de cursos/produtos, culto à IA ou final feliz falso. Preservar matéria para Epílogo e Laudo.
 
-Executar:
-`PROMPTS/ETAPA_14_COMANDO_ATUAL.md`
+## Depois da ETAPA 14
 
-### Primeiro movimento obrigatório
-Auditar VI-L6-001–012 e separar:
-- autoria/legado da matéria do Epílogo;
-- Mãe-Véia viva/memória de sua morte em 2025;
-- projetos autorais sem catálogo;
-- IA/GPT como infraestrutura, nunca autora;
-- moldura forense e assinatura Sol Lima;
-- passagem ao Epílogo e Laudo Final.
+Consultar `PROMPTS/ROTEIRO_DE_ETAPAS_E_COMANDOS.md`, versão vigente: F01 encerramento, F02 Alfa/integração, F03 conferência factual, F04 Beta, F05 imagens, F06 leitura crítica/reconhecimento e F07 prova.
 
-## Reservas da infância
-- Reino das Galinhas — ◐
-- Mangas — ◐
-- Caminho das Águas — ◐
-
-## Regra
-A obra cresce em massa, mas nenhum lote ganha velocidade às custas da cronologia, da verdade autobiográfica, da voz própria de cada fase, da dignidade das pessoas reais, do nível de evidência ou das fronteiras da trilogia.
+**Prontidão:** liberado para continuar escrevendo; não liberado para anunciar publicação finalizada.
