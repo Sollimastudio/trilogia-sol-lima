@@ -1,0 +1,125 @@
+{
+  "etapa": "07",
+  "data_local": "2026-09-11",
+  "substituicoes_e_acrescimos": [
+    {
+      "arquivo": "MANUSCRITO_CANONICO.md",
+      "operacao": "substituicao",
+      "categoria": "cabecalho",
+      "antes": "**Estado:** manuscrito canônico vivo — ETAPA 06",
+      "depois": "**Estado:** manuscrito canônico vivo — ETAPA 07",
+      "ocorrencias": 1,
+      "motivo": "Atualizar etapa; a data 11/09/2026 continua correta."
+    },
+    {
+      "arquivo": "PRODUCAO_ETAPA_07/21_ABERTURA_E_DESIDENTIFICACAO.md",
+      "operacao": "substituicao",
+      "categoria": "prosa_nova",
+      "antes": "O capítulo não encerra sua história. Devolve-lhe algo menor e mais decisivo:",
+      "depois": "Aquela conversa não encerra sua história. Devolve-lhe algo menor e mais decisivo:",
+      "ocorrencias": 1,
+      "motivo": "Retomar a ocorrência de Rute, reduzindo metadiscurso sem alterar a cena."
+    },
+    {
+      "arquivo": "PRODUCAO_ETAPA_07/23_LUTO_E_PERTENCIMENTO.md",
+      "operacao": "substituicao",
+      "categoria": "prosa_nova",
+      "antes": "Iyer e colegas acompanharam estudantes na transição para a universidade em dois estudos longitudinais. Múltiplos pertencimentos e a compatibilidade percebida entre identidades antigas e novas participaram da adaptação e da identificação com o novo grupo.",
+      "depois": "Em dois estudos longitudinais, Iyer e colegas examinaram estudantes antes da entrada na universidade e dois meses depois. Múltiplos pertencimentos e compatibilidade percebida entre identidades antigas e novas estiveram associados à identificação com o novo grupo, por sua vez relacionada ao bem-estar.",
+      "ocorrencias": 1,
+      "motivo": "Precisar intervalo observado e relações investigadas, sem generalizar a transição estudantil para saída de coerção."
+    },
+    {
+      "arquivo": "REFERENCIAS_DE_TRABALHO.md",
+      "operacao": "acrescimo",
+      "categoria": "registro",
+      "antes": "",
+      "depois": "\n\n---\n\n# PARTE VI — FONTES UTILIZADAS NA ETAPA 07\n\n**Consulta:** 11/09/2026, America/Sao_Paulo. Seleção dirigida às afirmações dos capítulos 22–24, não revisão sistemática nem levantamento das publicações mais recentes. Foram consultados os resumos dos autores e metadados em páginas primárias de periódicos/PubMed; não se afirma leitura integral dos quatro artigos. As referências anteriores são preservadas, sem alegação de revalidação externa integral nesta etapa.\n\n## R07-01 — Distanciamento de perspectiva e reflexão\n\n**Referência:** Ayduk, Ö., & Kross, E. (2010). From a distance: Implications of spontaneous self-distancing for adaptive self-reflection. *Journal of Personality and Social Psychology, 98*(5), 809–829. DOI: `10.1037/a0019205`. PMID: `20438226`.\n\n**Fonte consultada:** resumo dos autores e metadados do registro `https://pubmed.ncbi.nlm.nih.gov/20438226/`. A rota do artigo no PMC apresentou verificação automática de acesso; não foi contada como leitura integral.\n\n**Destino:** capítulo 22, seção sobre o exame que pode se tornar vigilância.\n\n**Evidência e alcance:** três estudos de distanciamento espontâneo ao refletir sobre experiências negativas; associações com reatividade e formas de responder em conflitos. Não é demonstração de eficácia clínica da auditoria identitária proposta no livro. A aproximação com a cena de Ana é explicitamente autoral. Não se recomenda exposição forçada a lembranças nem se confunde distanciamento de perspectiva com dissociação ou indiferença.\n\n## R07-02 — Pertencimentos e transição\n\n**Referência:** Iyer, A., Jetten, J., Tsivrikos, D., Postmes, T., & Haslam, S. A. (2009). The more (and the more compatible) the merrier: Multiple group memberships and identity compatibility as predictors of adjustment after life transitions. *British Journal of Social Psychology, 48*(4), 707–733. DOI: `10.1348/014466608X397628`.\n\n**Fonte consultada:** resumo dos autores e metadados do periódico em `https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/014466608X397628`. Usa-se 2009, ano bibliográfico do volume/artigo; a página também exibe uma data de disponibilização de 24/12/2010, que não foi usada para redatar a pesquisa.\n\n**Destino:** capítulo 23, seção sobre continuidades e novos vínculos.\n\n**Evidência e alcance:** dois estudos longitudinais com estudantes em transição para a universidade. Compatibilidade percebida e múltiplos pertencimentos participaram das relações preditivas examinadas. Não se transporta essa população para saídas de grupos de alto controle, não se prescreve quantidade ideal de vínculos nem se exige preservar contato inseguro. O caso de Davi não é um participante do estudo.\n\n## R07-03 — Autocompaixão e motivação para corrigir\n\n**Referência:** Breines, J. G., & Chen, S. (2012). Self-compassion increases self-improvement motivation. *Personality and Social Psychology Bulletin, 38*(9), 1133–1143. DOI: `10.1177/0146167212445599`. PMID: `22645164`.\n\n**Fonte consultada:** resumo dos autores e metadados em `https://pubmed.ncbi.nlm.nih.gov/22645164/`.\n\n**Destino:** capítulo 24, correção sem acusação total do Eu.\n\n**Evidência e alcance:** quatro experimentos sobre respostas a falhas e dificuldades. O manuscrito menciona motivação para reparação e estudo depois de falha nas condições examinadas, não reparação efetivamente garantida, mudança permanente, tratamento ou perdão obrigatório. Não se usa autocompaixão para suspender a responsabilidade de Augusto nem para exigir absolvição da colega.\n\n## R04-03 — Ampliação de destino, sem duplicação bibliográfica\n\n**Referência já existente:** Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78. DOI: `10.1037/0003-066X.55.1.68`. PMID: `11392867`.\n\n**Reconferência:** resumo dos autores e metadados em `https://pubmed.ncbi.nlm.nih.gov/11392867/`.\n\n**Novo destino:** capítulo 22, distinção entre origem recebida e participação própria. A teoria considera autonomia junto de competência e vínculo. Essa referência não prova a validade da divisão autoral entre herança, proteção e performance, nem constitui instrumento diagnóstico.\n\n## Delimitações do ensaio nesta parte\n\nDesidentificação, auditoria identitária, luto das identidades antigas e permanecer em si são formulações autorais/educativas. Não foram apresentados como diagnósticos, escalas validadas ou procedimentos terapêuticos. O luto figurado de uma função não foi equiparado a transtorno de luto prolongado. Não se exigiram etapas universais, cronograma de superação, reconciliação ou abandono de recursos de segurança.\n\nOs casos de Rute, Ana, Davi e Augusto são composições ilustrativas. Seus acontecimentos não constituem amostras clínicas, entrevistas ou evidência causal. Não foram acrescentadas estatísticas de prevalência, afirmações sobre titulares políticos atuais ou instruções jurídicas individualizadas.\n",
+      "prefixo_anterior_preservado": true,
+      "antes_git_blob": "e931c4d2e390fcdda81319ee838b986b97e0a3c5",
+      "motivo": "Três referências novas R07-01 a R07-03; R04-03 reconferida com novo destino, sem alegar revisão sistemática."
+    },
+    {
+      "arquivo": "STATUS.md",
+      "operacao": "substituicao",
+      "categoria": "controle",
+      "antes": "`MANUSCRITO_CANONICO.md` contém abertura + Partes I–V, capítulos 1–20.",
+      "depois": "`MANUSCRITO_CANONICO.md` contém abertura + Partes I–VI, capítulos 1–24 e epílogo; primeira redação completa, aprovação autoral pendente.",
+      "ocorrencias": 1,
+      "motivo": "Registrar extensão real do corpo escrito."
+    },
+    {
+      "arquivo": "STATUS.md",
+      "operacao": "substituicao",
+      "categoria": "controle",
+      "antes": "| Parte VI — O Retorno da Autoria | ◐ | Próxima frente: ETAPA 07, Caps. 21–24 e epílogo. |",
+      "depois": "| Parte VI — O Retorno da Autoria | ◉ | Caps. 21–24 escritos, revisados e integrados; snapshot da ETAPA 07 preservado. |",
+      "ocorrencias": 1,
+      "motivo": "Atualizar produção sem declarar aprovação de Sol."
+    },
+    {
+      "arquivo": "STATUS.md",
+      "operacao": "substituicao",
+      "categoria": "controle",
+      "antes": "| Epílogo | ◐ | Epílogo legado preservado como base; fechamento precisa terminar em presença identitária sustentável. |",
+      "depois": "| Epílogo | ◉ | O lugar que só você pode ocupar escrito; imagem da lista/pasta/mesa, sem identidade pronta nem ponte invertida ao Livro 2. |",
+      "ocorrencias": 1,
+      "motivo": "Registrar epílogo efetivamente escrito."
+    },
+    {
+      "arquivo": "STATUS.md",
+      "operacao": "substituicao",
+      "categoria": "controle",
+      "antes": "| Pesquisa e referências | ◑ | Registros anteriores preservados; Parte V com cinco fontes novas e R04-03 reconferida, todas com acesso e limites registrados; não é revisão sistemática. |",
+      "depois": "| Pesquisa e referências | ◑ | Registros preservados; Parte VI com três referências novas e R04-03 reconferida; bibliografia final e auditoria global na ETAPA 08. |",
+      "ocorrencias": 1,
+      "motivo": "Registrar pesquisa utilizada e limite da verificação."
+    },
+    {
+      "arquivo": "STATUS.md",
+      "operacao": "substituicao",
+      "categoria": "controle",
+      "antes": "### Marco atual — ETAPA 06",
+      "depois": "### Marco histórico — ETAPA 06",
+      "ocorrencias": 1,
+      "motivo": "Preservar números e hashes da etapa anterior como históricos."
+    },
+    {
+      "arquivo": "STATUS.md",
+      "operacao": "substituicao",
+      "categoria": "controle",
+      "antes": "## ETAPA ATIVA / PRÓXIMA\n\n**ETAPA 07 — PARTE VI: O RETORNO DA AUTORIA + EPÍLOGO**\n\nExecutar `PROMPT_PROXIMA_ETAPA_07.md`: abertura, capítulos 21–24, fechamento da Parte VI e epílogo. Diferenciar pessoa, herança e performance; reconhecer perdas sem impor fases clínicas; sustentar autoria sem personagem perfeito. Revisar o conjunto e preparar a ETAPA 08 de lapidação global.\n\n**Execução editorial não equivale a aprovação autoral, validação clínica, conclusão dos 24 capítulos ou liberação para publicação.**",
+      "depois": "### Marco atual — ETAPA 07\n\n**ETAPA 07 — Parte VI: O Retorno da Autoria + Epílogo:** escrita, revisão e integração executadas; primeira redação dos 24 capítulos completa, aprovação de Sol pendente.\n\n- Parte VI e epílogo: 13.622 palavras; manuscrito: 72.402.\n- Capítulos 21–24: 21 — 2.614, 22 — 2.965, 23 — 3.007, 24 — 3.073.\n- Abertura: 452; fechamento: 456; epílogo: 1.055.\n- Snapshot: `ETAPAS/07_PARTE_VI_EPILOGO_2026-09-11.md`.\n- Git blob: `1b169b3627d63da0f549b5972e5b99adf16b4306`.\n- SHA-256: `59e6e34f292b31ed22db3774c26a06907b5ad5b4396d2836eb2d80e209ca3eca`.\n- Oito arquivos históricos de ETAPAS preservados. Prosa anterior mantida; somente o cabeçalho avança.\n- Registros: `REGISTRO_EDITORIAL_ETAPA_07.md`, `REVISOES_ETAPA_07.json`, `QA_ETAPA_07.json`, diff e referências.\n- A conferência posterior ao salvamento será registrada em `VERIFICACAO_FINAL_ETAPA_07.md`.\n\n## ETAPA ATIVA / PRÓXIMA\n\n**ETAPA 08 — AUDITORIA GLOBAL, LAPIDAÇÃO E PREPARAÇÃO EDITORIAL**\n\nExecutar `PROMPT_PROXIMA_ETAPA_08.md`: revisar e lapidar o livro acumulado, conferir alegações e bibliografia, avaliar o estado real das figuras e preparar acabamento sem declarar publicação autorizada.\n\n**Primeira redação completa não equivale a aprovação autoral, validação clínica, revisão visual das figuras ou liberação para publicação.**",
+      "ocorrencias": 1,
+      "motivo": "Encerrar produção do corpo e abrir lapidação global."
+    },
+    {
+      "arquivo": "MAPA_MAE.md",
+      "operacao": "substituicao",
+      "categoria": "controle",
+      "antes": "**Função:** portal de desidentificação. Retirar mentalmente grupo, papel, título, audiência, relacionamento e missão para observar o que depende deles.",
+      "depois": "**Função:** portal de desidentificação. Suspender a prioridade de uma definição para observar o que ela vinha respondendo; não simular perdas reais nem retirar vínculos, cuidado ou recursos de segurança.",
+      "ocorrencias": 1,
+      "motivo": "Alinhar a função do capítulo 21 à delimitação realizada na prosa e no prompt 07."
+    },
+    {
+      "arquivo": "MAPA_MAE.md",
+      "operacao": "substituicao",
+      "categoria": "controle",
+      "antes": "# 10. ESTADO\n\nETAPAS 00 e 01 preservadas; ETAPAS 02–06 com escrita e revisão executadas. O manuscrito vivo contém abertura e Partes I–V, capítulos 1–20, totalizando 58.780 palavras lexicais. Aprovação autoral e publicação continuam pendentes.\n\nA arquitetura de seis partes e 24 capítulos não foi alterada. Permanecem as distinções de fusão científica/metáfora autoral, aprendizagem/ocupação e dependência material/adesão. A Parte V acrescenta atividade/função, propósito, reconhecimento do outro e responsabilidade sem culpar quem sofreu violência. Personagens anteriores preservados; nova remissão a Sônia corrigida para Parte IV.\n\nPróxima frente: **ETAPA 07 — Parte VI: O Retorno da Autoria + Epílogo**, capítulos 21–24. Seguir `PROMPT_PROXIMA_ETAPA_07.md`, `STATUS.md` e `QA_ETAPA_06.json`. O fechamento da redação não substitui a lapidação global e a aprovação de Sol.",
+      "depois": "# 10. ESTADO\n\nETAPAS 00–06 preservadas; ETAPA 07 com abertura da Parte VI, capítulos 21–24, fechamento e epílogo escritos, revisados e integrados. A primeira redação acumulada está completa: 72.402 palavras lexicais, notas iniciais, introdução, seis partes, 24 capítulos e epílogo.\n\nA Parte VI e o epílogo acrescentam 13.622 palavras. A arquitetura não foi substituída. Rute, Ana, Davi e Augusto retornam em situações novas; não foram inventados episódios biográficos de Sol. A auditoria identitária é autoral e não pontuada. O luto de funções não é diagnóstico; sustentação não promete imunidade, cura ou personagem perfeito.\n\nO legado continua preservado. A prosa anterior permaneceu intacta; o cabeçalho avança e duas formulações novas foram refinadas. Aprovação autoral, lapidação global, bibliografia final, figuras, diagramação e formatos de publicação continuam pendentes.\n\nPróxima frente: **ETAPA 08 — Auditoria Global, Lapidação e Preparação Editorial**, conforme `PROMPT_PROXIMA_ETAPA_08.md`, `STATUS.md` e `QA_ETAPA_07.json`. Não publicar nem declarar aprovação a partir da conclusão da primeira redação.",
+      "ocorrencias": 1,
+      "motivo": "Atualizar progresso e pendências, preservando a arquitetura."
+    },
+    {
+      "arquivo": "HISTORICO_ETAPAS.md",
+      "operacao": "acrescimo",
+      "categoria": "registro",
+      "antes": "",
+      "depois": "\n\n---\n\n## ETAPA 07 — PARTE VI: O RETORNO DA AUTORIA + EPÍLOGO\n\n**Data local:** 11/09/2026. **Estado:** primeira redação acumulada completa; leitura e aprovação autoral pendentes.\n\nEscritos abertura da Parte VI, capítulos 21–24, fechamento e epílogo. A nova produção soma 13.622 palavras; o manuscrito acumulado soma 72.402. Método lexical herdado, incluindo títulos e chamadas autor-data; sem inferência de páginas.\n\nRute distingue pessoa de função; Ana aplica uma auditoria não pontuada a uma ocorrência familiar; Davi reconhece perdas e recursos de um pertencimento ainda em revisão; Augusto corrige uma interferência sem fabricar identidade perfeita. O epílogo devolve tamanho à voz do livro e encerra com pasta, mesa e cadeira, não com o método do Livro 2.\n\nRevisão acumulada de progressão, remissões, personagens, redundâncias e fronteiras. Não foram substituídos trechos da prosa herdada; somente o cabeçalho foi atualizado. Duas correções novas: retorno à conversa de Rute em lugar de metadiscurso e delimitação mais precisa do estudo de Iyer e colegas. O mapa do capítulo 21 foi alinhado ao experimento mental sem perdas forçadas.\n\nTrês referências novas, R07-01 a R07-03, e R04-03 reconferida. Consulta a resumos primários/metadados, não leitura integral dos artigos nem revisão sistemática da bibliografia acumulada. Casos compostos não foram apresentados como evidência empírica.\n\nSnapshot: `ETAPAS/07_PARTE_VI_EPILOGO_2026-09-11.md`. Manuscrito e snapshot: `1b169b3627d63da0f549b5972e5b99adf16b4306`. SHA-256: `59e6e34f292b31ed22db3774c26a06907b5ad5b4396d2836eb2d80e209ca3eca`. Oito arquivos históricos anteriores mantidos. Histórico e referências preservados por acréscimo.\n\nRegistros: manuscrito, Parte VI/epílogo separado, registro editorial, revisões, diff, referências, QA, STATUS, mapa-mãe e `PROMPT_PROXIMA_ETAPA_08.md`. Verificação posterior ao salvamento em documento próprio.\n\n**Próxima frente:** ETAPA 08 — auditoria global e lapidação efetiva. Permanecem aprovação de Sol, bibliografia final, avaliação visual de figuras, diagramação e validação de formatos. Nenhum DOCX, PDF, EPUB ou KPF foi produzido ou validado nesta etapa.\n",
+      "prefixo_anterior_preservado": true,
+      "antes_git_blob": "a951c3eba8c264f46201c41ee13fe3c9e8863535",
+      "motivo": "Preservar o histórico anterior integralmente e acrescentar o novo marco."
+    }
+  ]
+}

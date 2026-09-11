@@ -251,7 +251,7 @@ A abertura deve ligar organicamente a pergunta deixada por `Reposicione-se` à i
 ## PARTE VI — O RETORNO DA AUTORIA
 
 ### 21. Se tudo desaparecesse amanhã, quem permaneceria?
-**Função:** portal de desidentificação. Retirar mentalmente grupo, papel, título, audiência, relacionamento e missão para observar o que depende deles.  
+**Função:** portal de desidentificação. Suspender a prioridade de uma definição para observar o que ela vinha respondendo; não simular perdas reais nem retirar vínculos, cuidado ou recursos de segurança.  
 **Legado:** antigo Cap. 22.
 
 ### 22. O que é meu, o que herdei, o que performei
@@ -321,8 +321,10 @@ A última imagem deve comunicar:
 
 # 10. ESTADO
 
-ETAPAS 00 e 01 preservadas; ETAPAS 02–06 com escrita e revisão executadas. O manuscrito vivo contém abertura e Partes I–V, capítulos 1–20, totalizando 58.780 palavras lexicais. Aprovação autoral e publicação continuam pendentes.
+ETAPAS 00–06 preservadas; ETAPA 07 com abertura da Parte VI, capítulos 21–24, fechamento e epílogo escritos, revisados e integrados. A primeira redação acumulada está completa: 72.402 palavras lexicais, notas iniciais, introdução, seis partes, 24 capítulos e epílogo.
 
-A arquitetura de seis partes e 24 capítulos não foi alterada. Permanecem as distinções de fusão científica/metáfora autoral, aprendizagem/ocupação e dependência material/adesão. A Parte V acrescenta atividade/função, propósito, reconhecimento do outro e responsabilidade sem culpar quem sofreu violência. Personagens anteriores preservados; nova remissão a Sônia corrigida para Parte IV.
+A Parte VI e o epílogo acrescentam 13.622 palavras. A arquitetura não foi substituída. Rute, Ana, Davi e Augusto retornam em situações novas; não foram inventados episódios biográficos de Sol. A auditoria identitária é autoral e não pontuada. O luto de funções não é diagnóstico; sustentação não promete imunidade, cura ou personagem perfeito.
 
-Próxima frente: **ETAPA 07 — Parte VI: O Retorno da Autoria + Epílogo**, capítulos 21–24. Seguir `PROMPT_PROXIMA_ETAPA_07.md`, `STATUS.md` e `QA_ETAPA_06.json`. O fechamento da redação não substitui a lapidação global e a aprovação de Sol.
+O legado continua preservado. A prosa anterior permaneceu intacta; o cabeçalho avança e duas formulações novas foram refinadas. Aprovação autoral, lapidação global, bibliografia final, figuras, diagramação e formatos de publicação continuam pendentes.
+
+Próxima frente: **ETAPA 08 — Auditoria Global, Lapidação e Preparação Editorial**, conforme `PROMPT_PROXIMA_ETAPA_08.md`, `STATUS.md` e `QA_ETAPA_07.json`. Não publicar nem declarar aprovação a partir da conclusão da primeira redação.

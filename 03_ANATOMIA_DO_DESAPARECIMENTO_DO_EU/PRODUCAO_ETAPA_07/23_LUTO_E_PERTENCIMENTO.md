@@ -94,7 +94,7 @@ Aquela relação não resolveu sua renda nem retirou a falta dos antigos encontr
 
 Uma mudança de pertencimento pode exigir mais do que uma decisão interna. Pode pedir oportunidades de encontro, recursos de deslocamento, tempo, acessibilidade e pessoas que não tratem a transição como uma prova de caráter. Não é justo transformar a dificuldade de reconstruir vínculos em outro defeito de quem perdeu um lugar.
 
-Iyer e colegas acompanharam estudantes na transição para a universidade em dois estudos longitudinais. Múltiplos pertencimentos e a compatibilidade percebida entre identidades antigas e novas participaram da adaptação e da identificação com o novo grupo. A pesquisa trata dessa transição específica; não oferece uma receita para sair de relações coercitivas nem exige conservar vínculos que ameaçam segurança (Iyer et al., 2009).
+Em dois estudos longitudinais, Iyer e colegas examinaram estudantes antes da entrada na universidade e dois meses depois. Múltiplos pertencimentos e compatibilidade percebida entre identidades antigas e novas estiveram associados à identificação com o novo grupo, por sua vez relacionada ao bem-estar. A pesquisa trata dessa transição específica; não oferece uma receita para sair de relações coercitivas nem exige conservar vínculos que ameaçam segurança (Iyer et al., 2009).
 
 A pergunta que ela ajuda a manter aberta é relacional: que continuidades podem sustentar uma mudança, em vez de obrigar a pessoa a começar de uma espécie de zero social? Às vezes, uma amizade permanece fora da estrutura. Uma habilidade aprendida continua útil. Um valor pode encontrar outra forma de expressão. Nem toda continuidade é submissão ao passado.
 

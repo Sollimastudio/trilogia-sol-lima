@@ -282,3 +282,24 @@ Leitura autoral; Parte VI e epílogo; lapidação global de cadência, redundân
 ### Próxima frente
 
 ETAPA 07 — Parte VI: O Retorno da Autoria + Epílogo. Seguir `PROMPT_PROXIMA_ETAPA_07.md` e preparar ETAPA 08 após a primeira redação completa. Nenhuma publicação foi autorizada por este registro.
+
+
+---
+
+## ETAPA 07 — PARTE VI: O RETORNO DA AUTORIA + EPÍLOGO
+
+**Data local:** 11/09/2026. **Estado:** primeira redação acumulada completa; leitura e aprovação autoral pendentes.
+
+Escritos abertura da Parte VI, capítulos 21–24, fechamento e epílogo. A nova produção soma 13.622 palavras; o manuscrito acumulado soma 72.402. Método lexical herdado, incluindo títulos e chamadas autor-data; sem inferência de páginas.
+
+Rute distingue pessoa de função; Ana aplica uma auditoria não pontuada a uma ocorrência familiar; Davi reconhece perdas e recursos de um pertencimento ainda em revisão; Augusto corrige uma interferência sem fabricar identidade perfeita. O epílogo devolve tamanho à voz do livro e encerra com pasta, mesa e cadeira, não com o método do Livro 2.
+
+Revisão acumulada de progressão, remissões, personagens, redundâncias e fronteiras. Não foram substituídos trechos da prosa herdada; somente o cabeçalho foi atualizado. Duas correções novas: retorno à conversa de Rute em lugar de metadiscurso e delimitação mais precisa do estudo de Iyer e colegas. O mapa do capítulo 21 foi alinhado ao experimento mental sem perdas forçadas.
+
+Três referências novas, R07-01 a R07-03, e R04-03 reconferida. Consulta a resumos primários/metadados, não leitura integral dos artigos nem revisão sistemática da bibliografia acumulada. Casos compostos não foram apresentados como evidência empírica.
+
+Snapshot: `ETAPAS/07_PARTE_VI_EPILOGO_2026-09-11.md`. Manuscrito e snapshot: `1b169b3627d63da0f549b5972e5b99adf16b4306`. SHA-256: `59e6e34f292b31ed22db3774c26a06907b5ad5b4396d2836eb2d80e209ca3eca`. Oito arquivos históricos anteriores mantidos. Histórico e referências preservados por acréscimo.
+
+Registros: manuscrito, Parte VI/epílogo separado, registro editorial, revisões, diff, referências, QA, STATUS, mapa-mãe e `PROMPT_PROXIMA_ETAPA_08.md`. Verificação posterior ao salvamento em documento próprio.
+
+**Próxima frente:** ETAPA 08 — auditoria global e lapidação efetiva. Permanecem aprovação de Sol, bibliografia final, avaliação visual de figuras, diagramação e validação de formatos. Nenhum DOCX, PDF, EPUB ou KPF foi produzido ou validado nesta etapa.

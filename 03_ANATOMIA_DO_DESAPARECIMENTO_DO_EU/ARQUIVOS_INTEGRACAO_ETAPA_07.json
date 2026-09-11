@@ -1,0 +1,92 @@
+{
+  "DIFF_TEXTO_ANTERIOR_ETAPA_07.patch": {
+    "git_blob": "66cc05f0dfd01a911f187667a953b33fd268b1ef",
+    "sha256": "20e4626a9b41f0886a5e7b901c2ac463bf414ef6e26589af03a2bf7cefff4f4f",
+    "bytes": 297
+  },
+  "ETAPAS/07_PARTE_VI_EPILOGO_2026-09-11.md": {
+    "git_blob": "1b169b3627d63da0f549b5972e5b99adf16b4306",
+    "sha256": "59e6e34f292b31ed22db3774c26a06907b5ad5b4396d2836eb2d80e209ca3eca",
+    "bytes": 489528
+  },
+  "HISTORICO_ETAPAS.md": {
+    "git_blob": "cbc76c831d10bea9ed542b44ec6f71da03e0d8ef",
+    "sha256": "d69876552e004912983874a55841a219681a151200fccd987c19bbd02d3ffc9d",
+    "bytes": 21166
+  },
+  "MANUSCRITO_CANONICO.md": {
+    "git_blob": "1b169b3627d63da0f549b5972e5b99adf16b4306",
+    "sha256": "59e6e34f292b31ed22db3774c26a06907b5ad5b4396d2836eb2d80e209ca3eca",
+    "bytes": 489528
+  },
+  "MAPA_MAE.md": {
+    "git_blob": "6e331c018e7fdae3424b0b2e804da5152e227ef9",
+    "sha256": "a41ae20855e08daa884908caa9299532d9fb6170f49178140bb0484897e44902",
+    "bytes": 16723
+  },
+  "PARTE_VI_E_EPILOGO_ETAPA_07.md": {
+    "git_blob": "7dfc771cbd77c3a2f8322ca71634b17bbe3ef1ac",
+    "sha256": "6ddcff2ed36611414e7f97e305656457d869423a6b2dd2c44da2ddcc275b735b",
+    "bytes": 90506
+  },
+  "PRODUCAO_ETAPA_07/21_ABERTURA_E_DESIDENTIFICACAO.md": {
+    "git_blob": "57d0cad1cddc105b9213a91829de693f9d306c14",
+    "sha256": "e29e73f22adca6604db9cad5152782aa9c401c7468fca1caa6cba10f795e446a",
+    "bytes": 20139
+  },
+  "PRODUCAO_ETAPA_07/22_HERANCA_E_PERFORMANCE.md": {
+    "git_blob": "b595f5f8fa930eb7cd473cbf648567d112162a89",
+    "sha256": "675e0e5a029891c059f2c6db645838b4a05b291c40307922c039bdeb77706172",
+    "bytes": 19939
+  },
+  "PRODUCAO_ETAPA_07/23_LUTO_E_PERTENCIMENTO.md": {
+    "git_blob": "ee51bfb0e03f392554b0583fe48b3d27a46e610f",
+    "sha256": "4c345def2a8f14a9f748ace213e4bfdf296687c60141c9f1f11e50fc54e8b624",
+    "bytes": 20016
+  },
+  "PRODUCAO_ETAPA_07/24_PERMANECER_EM_SI.md": {
+    "git_blob": "f5e84bcf14c5aaa3f40a9534484b5078a24a4341",
+    "sha256": "bf4381632ed52589b3b80117c557a76e51002c5159c894ca192ddc48aafee253",
+    "bytes": 20638
+  },
+  "PRODUCAO_ETAPA_07/99_FECHAMENTO_E_EPILOGO.md": {
+    "git_blob": "fbb33288ac4cd6412ed3ba9c50fc9da473dffc3b",
+    "sha256": "ce4861f688acd3e8285e694ca957d5c479791bc2c1e29933fbc90e6a4b42fb84",
+    "bytes": 9745
+  },
+  "PRODUCAO_ETAPA_07/REFERENCIAS_ACRESCIMO.md": {
+    "git_blob": "93e4fe1c3eb56aaa6a85d59690f4ab9d6398d56c",
+    "sha256": "c804de1dc698b1debbdd5ad2fbaa93c222bbfec15cbaef525da4e9021f3c894c",
+    "bytes": 5127
+  },
+  "PROMPT_PROXIMA_ETAPA_08.md": {
+    "git_blob": "f18928f6d9293b0ff97348b2830f11673e88b756",
+    "sha256": "a749af4ffa8b8cdfeeca4e0055f45103c9f881a3be0228b3ebcc07a80dd6fc32",
+    "bytes": 16329
+  },
+  "QA_ETAPA_07.json": {
+    "git_blob": "36d82d1342cb7acdae65e01c7396d2ab0f497b47",
+    "sha256": "59feac834a9e7966771e7c84235545c692d29ff10af4a01a0f7ffb9b8f74a0a9",
+    "bytes": 4071
+  },
+  "REFERENCIAS_DE_TRABALHO.md": {
+    "git_blob": "12d2e44c0f34d028ce69ffd151b13b540bf249f7",
+    "sha256": "d1fef099c909d99ca4ee8eb622d9bb8ef3e39a82cb3542190261afeb1337e5ac",
+    "bytes": 32978
+  },
+  "REGISTRO_EDITORIAL_ETAPA_07.md": {
+    "git_blob": "5105c600be2111a09015b26e6a0a0a78c636fb44",
+    "sha256": "efbd5a708d94560924a3e370607bcaec177d358bfce771bd3bdf0cee3db8c02d",
+    "bytes": 8025
+  },
+  "REVISOES_ETAPA_07.json": {
+    "git_blob": "7d80c144c65ca017987f702b3b764a58ef3187ef",
+    "sha256": "a66ad061a69ed8c691ae5fb48d089d3fdcc446a8cfed376ffe4c2207696822e8",
+    "bytes": 17539
+  },
+  "STATUS.md": {
+    "git_blob": "1134f20558edf2cd0cc3580e55daa216a2146667",
+    "sha256": "9e21ae9c1f3565e17445265e1cfe216d1b5ac3d58acbe641e76c1dffb23b8c68",
+    "bytes": 8076
+  }
+}

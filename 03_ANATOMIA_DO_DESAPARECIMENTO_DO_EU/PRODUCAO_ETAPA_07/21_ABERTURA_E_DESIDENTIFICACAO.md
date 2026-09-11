@@ -164,7 +164,7 @@ Ela podia continuar ensinando. Podia também descobrir outra maneira de estar na
 
 A lista de presença permaneceu guardada. Não era um documento de quem ela tinha obrigação de continuar sendo. Era parte do que fizera com outras pessoas num período que não precisava ser negado para terminar.
 
-O capítulo não encerra sua história. Devolve-lhe algo menor e mais decisivo: a possibilidade de não pedir à próxima função que responda por sua pessoa inteira.
+Aquela conversa não encerra sua história. Devolve-lhe algo menor e mais decisivo: a possibilidade de não pedir à próxima função que responda por sua pessoa inteira.
 
 ### Quem permanece não precisa aparecer sozinho
 
