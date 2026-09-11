@@ -1,0 +1,110 @@
+{
+  "etapa": "06",
+  "data_local": "2026-09-11",
+  "escopo": "Abertura e Partes I–V; capítulos 1–20",
+  "metodo_contagem": "regex lexical Unicode \\b[\\wÀ-ÿ]+(?:[-’'][\\wÀ-ÿ]+)*\\b; inclui títulos e chamadas autor-data; não equivale a páginas",
+  "palavras_base": 46591,
+  "palavras_base_apos_revisao": 46591,
+  "palavras_parte_V_antes_revisao": 12188,
+  "palavras_parte_V": 12189,
+  "palavras_manuscrito": 58780,
+  "palavras_abertura_parte_V": 423,
+  "palavras_fechamento_parte_V": 521,
+  "palavras_por_capitulo": {
+    "1": 1614,
+    "2": 1522,
+    "3": 1852,
+    "4": 1748,
+    "5": 2300,
+    "6": 2021,
+    "7": 2043,
+    "8": 3120,
+    "9": 2720,
+    "10": 2898,
+    "11": 3289,
+    "12": 4021,
+    "13": 2580,
+    "14": 2775,
+    "15": 2867,
+    "16": 2895,
+    "17": 2651,
+    "18": 2832,
+    "19": 2971,
+    "20": 2791
+  },
+  "bytes_manuscrito": 399016,
+  "git_blob_base": "02ea8037ae0a363e17a1aab8d99059c276deb58b",
+  "git_blob_manuscrito_e_snapshot": "b8755b32b6ef28124ea151967a9b230bd2c89a24",
+  "sha256_manuscrito_e_snapshot": "52c905f8502f18a3b2a087582f71a19515f8c512b681ea5d764ad273552be637",
+  "snapshot": "ETAPAS/06_PARTE_V_LIBERDADE_2026-09-11.md",
+  "snapshot_identico": true,
+  "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "partes": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V"
+  ],
+  "snapshots_anteriores_sha256": {
+    "ETAPAS/03_PARTE_II_BLOCO_PRODUCAO_2026-09-10.md": "3d4412d61627ba0f69ab70a40a9f64139f4dc2fd764ced94ac441eb020fe3687",
+    "ETAPAS/03_PARTE_II_ESPELHOS_2026-09-10.md": "6ec42cebfd51f83c6a4d659c97897157d2c8b3187f335cb6a0ef294370c9daed",
+    "ETAPAS/00_ESTRUTURA_BASE_2026-09-10.md": "18058a7093004e4951ee5b5b622c84b7ac633b2e5d112f1aee8e882ab8bfdbf9",
+    "ETAPAS/04_PARTE_III_ANATOMIA_OCUPACAO_2026-09-10.md": "656b75851e4caf005713d2abf610b7758e40eb687e43315df86baac43a854e86",
+    "ETAPAS/01_AUDITORIA_CONSOLIDACAO_2026-09-10.md": "bb3935f7bce511639a651dd9882528fb14373ffc58018f6e7214a71665c0fe3a",
+    "ETAPAS/05_PARTE_IV_EU_EMPRESTADO_2026-09-10.md": "1ef83243560d8486b03854321bf98dcc6407ec91652ed01b7edad97972a377b3",
+    "ETAPAS/02_ABERTURA_PARTE_I_2026-09-10.md": "f95d9a6cdb4cebee674dfdc1ace6758e2e874d3d6e22d03fa4e39d86a2e57757"
+  },
+  "blocos_de_entrada": {
+    "17_ABERTURA_E_FUGA_COGNITIVA.md": "373468688680fc2d50653143f96c882416b6afae",
+    "18_PROPOSITO_EMPRESTADO.md": "ab382386a254ff63f36079c581a1e6657146f2f6",
+    "19_QUANDO_O_OUTRO_VIRA_FUNCAO.md": "f45c47f26cdee8949c47173ce4b2a613119093ae",
+    "20_AUTENTICIDADE_E_FECHAMENTO.md": "590b1fdead79384aa5fb48cb2a42c79351caaf05"
+  },
+  "blocos_revisados": {
+    "17_ABERTURA_E_FUGA_COGNITIVA.md": {
+      "git_blob_sha": "373468688680fc2d50653143f96c882416b6afae",
+      "palavras": 3074
+    },
+    "18_PROPOSITO_EMPRESTADO.md": {
+      "git_blob_sha": "319e98045d69368dfb2824b0fe6c73d05328cf27",
+      "palavras": 2832
+    },
+    "19_QUANDO_O_OUTRO_VIRA_FUNCAO.md": {
+      "git_blob_sha": "f45c47f26cdee8949c47173ce4b2a613119093ae",
+      "palavras": 2971
+    },
+    "20_AUTENTICIDADE_E_FECHAMENTO.md": {
+      "git_blob_sha": "1a663e4319b29554ae14a00634f7170c616359b3",
+      "palavras": 3312
+    }
+  },
+  "alteracoes_documentadas": 17,
+  "prosa_anterior_alterada": false,
+  "cabecalho_anterior_alterado": true,
+  "paragrafos_exatamente_duplicados_35_palavras": [],
+  "aprovacao_autoral": false,
+  "publicacao_aprovada": false,
+  "limites": "QA estrutural e revisão editorial; não validação clínica, revisão sistemática, prova de ausência de redundância semântica ou liberação de publicação."
+}

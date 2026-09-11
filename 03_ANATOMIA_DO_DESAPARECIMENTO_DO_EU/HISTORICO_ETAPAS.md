@@ -248,3 +248,37 @@ Snapshot `ETAPAS/05_PARTE_IV_EU_EMPRESTADO_2026-09-10.md` idêntico ao manuscrit
 ### Pendências e próxima etapa
 
 Leitura autoral; Partes V–VI e epílogo; lapidação global, bibliografia final, figuras e diagramação. Não há validação clínica ou autorização de publicação. Próxima execução: ETAPA 06, Parte V, capítulos 17–20, conforme `PROMPT_PROXIMA_ETAPA_06.md`.
+
+---
+
+## ETAPA 06 — PARTE V: QUANDO FUGIR DE SI PARECE LIBERDADE
+
+**Data local:** 11/09/2026.  
+**Entrada:** Abertura + Partes I–IV, 46.591 palavras, capítulos 1–16; blob `02ea8037ae0a363e17a1aab8d99059c276deb58b`.  
+**Estado:** escrita, revisão e integração executadas; leitura e aprovação autoral pendentes.
+
+### Corpo de livro
+
+Escritos abertura (423 palavras), capítulo 17 (2.651), capítulo 18 (2.832), capítulo 19 (2.971), capítulo 20 (2.791) e fechamento (521). Parte V integral: 12.189 palavras. Manuscrito acumulado: 58.780. Método lexical Unicode herdado, incluindo títulos e chamadas autor-data, não paginação.
+
+Renato permite distinguir descanso e adiamento; Rute e Dalva, finalidade e necessidade de função; Henrique e André, amizade e utilidade; Bárbara e Camila, decisão legítima e execução com efeitos evitáveis. Carolina e Aline sustentam contracasos. Nenhum episódio foi atribuído à biografia de Sol.
+
+### Revisão e legado
+
+Consultados por função antigos capítulos 18–21, trechos do 3 e início do 24, além de passagens de pertencimento. Preservados benefícios reais do alívio, missão recebida que pode tornar-se própria, função relacional legítima, humanidade sem concessão de acesso e responsabilidade sem culpa pela violência. O legado não foi alterado.
+
+Corrigida no novo capítulo 18 a remissão a Sônia (Parte IV, capítulo 14); esclarecida uma frase do contracaso de Carolina. No manuscrito herdado, apenas cabeçalho de etapa/data mudou: a prosa dos capítulos 1–16 permanece literal. Corrigido resíduo de redação no prompt 07. Controle e bibliografia atualizados com registro de mudanças.
+
+Cinco fontes novas foram verificadas; Ryan/Deci (R04-03) foi reconferida e recebeu uso adicional. Acesso limitado a resumos dos autores/metadados dos artigos e HTML oficial da OMS, explicitado nas referências. Sem validação clínica ou revisão sistemática.
+
+### Integridade
+
+Snapshot integral `ETAPAS/06_PARTE_V_LIBERDADE_2026-09-11.md`. Git blob `b8755b32b6ef28124ea151967a9b230bd2c89a24`; SHA-256 `52c905f8502f18a3b2a087582f71a19515f8c512b681ea5d764ad273552be637`. Vinte capítulos, cinco partes e molduras iniciais preservados. Sete arquivos históricos anteriores de ETAPAS intactos. Histórico anterior mantido integralmente por acréscimo. QA e diff distinguem contagem/estrutura de revisão editorial.
+
+### Pendências
+
+Leitura autoral; Parte VI e epílogo; lapidação global de cadência, redundâncias, bibliografia e termos; figuras legadas sem inspeção visual nesta etapa; diagramação e validação de formatos de publicação.
+
+### Próxima frente
+
+ETAPA 07 — Parte VI: O Retorno da Autoria + Epílogo. Seguir `PROMPT_PROXIMA_ETAPA_07.md` e preparar ETAPA 08 após a primeira redação completa. Nenhuma publicação foi autorizada por este registro.

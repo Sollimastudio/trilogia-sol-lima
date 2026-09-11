@@ -1,0 +1,125 @@
+{
+  "etapa": "06",
+  "data_local": "2026-09-11",
+  "substituicoes_e_acrescimos": [
+    {
+      "arquivo": "MANUSCRITO_CANONICO.md",
+      "antes": "**Estado:** manuscrito canônico vivo — ETAPA 05",
+      "depois": "**Estado:** manuscrito canônico vivo — ETAPA 06",
+      "ocorrencias": 1,
+      "motivo": "Atualizar o marco de produção, sem alterar prosa anterior."
+    },
+    {
+      "arquivo": "MANUSCRITO_CANONICO.md",
+      "antes": "**Data de consolidação desta etapa:** 10/09/2026",
+      "depois": "**Data de consolidação desta etapa:** 11/09/2026",
+      "ocorrencias": 1,
+      "motivo": "Registrar a data local real da ETAPA 06; manter datas históricas e de fontes."
+    },
+    {
+      "arquivo": "PRODUCAO_ETAPA_06/18_PROPOSITO_EMPRESTADO.md",
+      "antes": "No capítulo anterior a esta parte, Sônia precisou examinar o uso de sua agenda pela associação.",
+      "depois": "Na Parte IV, Sônia precisou examinar o uso de sua agenda pela associação.",
+      "ocorrencias": 1,
+      "motivo": "Corrigir remissão: Sônia pertence ao capítulo 14, não ao capítulo 16 imediatamente anterior à Parte V."
+    },
+    {
+      "arquivo": "PRODUCAO_ETAPA_06/20_AUTENTICIDADE_E_FECHAMENTO.md",
+      "antes": "Ele não exige legitimamente que ela continue amando para evitar tristeza, embora possa sentir esse desejo.",
+      "depois": "A tristeza dele não lhe concede o direito de exigir que ela permaneça na relação, embora possa desejar sua permanência.",
+      "ocorrencias": 1,
+      "motivo": "Retirar ambiguidade sintática no contracaso de Carolina; preservar sentimento legítimo e direito de manter o não."
+    },
+    {
+      "arquivo": "PROMPT_PROXIMA_ETAPA_07.md",
+      "antes": "Rafaelemployee não é Davi mentorado;",
+      "depois": "Rafael, o funcionário, não é Davi, o participante da formação;",
+      "ocorrencias": 1,
+      "motivo": "Corrigir resíduo de redação em inglês e tornar explícita a distinção entre os dois casos."
+    },
+    {
+      "arquivo": "REFERENCIAS_DE_TRABALHO.md",
+      "operacao": "acrescimo",
+      "antes": "",
+      "depois": "# PARTE V — FONTES UTILIZADAS NA ETAPA 06\n\n**Consulta e reconferência:** 11/09/2026, America/Sao_Paulo. Esta seleção fundamenta alegações delimitadas dos capítulos 17–20; não constitui revisão sistemática nem levantamento das publicações mais recentes. A bibliografia anterior é preservada. A nova leitura editorial não equivale a uma revalidação externa integral das referências das etapas anteriores.\n\n## R06-01 — Recuperação do trabalho e experiências de lazer\n\nSONNENTAG, Sabine; FRITZ, Charlotte. **The Recovery Experience Questionnaire: Development and validation of a measure for assessing recuperation and unwinding from work.** Journal of Occupational Health Psychology, v. 12, n. 3, p. 204–221, 2007. DOI: `10.1037/1076-8998.12.3.204`. PMID: 17638488.\n\nFonte primária/resumo: https://pubmed.ncbi.nlm.nih.gov/17638488/\n\n**Acesso efetivo:** resumo dos autores e metadados; não se afirma leitura integral do artigo. Estudo de desenvolvimento e validação de medidas de autorrelato sobre recuperação do trabalho, com amostras de calibração e validação.\n\n**Uso:** capítulo 17, distinção entre desligamento psicológico, relaxamento, experiências de aprendizagem/desafio e controle do tempo.\n\n**Limite:** não autoriza classificar um passatempo individual nem exigir que todo lazer melhore produtividade. Não demonstra o conceito autoral de fuga cognitiva.\n\n## R06-02 — Procrastinação e regulação do humor no curto prazo\n\nSIROIS, Fuschia; PYCHYL, Timothy. **Procrastination and the Priority of Short-Term Mood Regulation: Consequences for Future Self.** Social and Personality Psychology Compass, v. 7, n. 2, p. 115–127, 2013. DOI: `10.1111/spc3.12011`.\n\nFonte editorial primária: https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12011\n\n**Acesso efetivo:** resumo dos autores e metadados bibliográficos no HTML da editora. Artigo teórico de síntese, não ensaio clínico nem experimento único.\n\n**Uso:** capítulo 17, relação proposta entre adiamento, tarefas aversivas e prioridade à regulação do humor no curto prazo.\n\n**Limite:** não explica todo adiamento, não elimina obstáculos materiais e não permite inferir o motivo de uma pessoa sem contexto. O ciclo ilustrativo do capítulo permanece uma leitura autoral.\n\n## R06-03 — Transtorno por jogos: condição específica, não relógio moral\n\nORGANIZAÇÃO MUNDIAL DA SAÚDE. **Addictive behaviours: Gaming disorder.** Perguntas e respostas, 22 out. 2020. Consulta ao texto institucional em HTML em 11 set. 2026.\n\nFonte oficial: https://www.who.int/news-room/questions-and-answers/item/addictive-behaviours-gaming-disorder\n\n**Uso:** capítulo 17, critérios referentes a controle, prioridade, continuidade apesar de consequências e prejuízo significativo; referência temporal usual de doze meses.\n\n**Limite:** os critérios pertencem a uma condição clínica específica; não são transportados para séries, redes ou trabalho. Horas isoladas não produzem diagnóstico. O texto não pede esperar doze meses para procurar ajuda. Nenhuma estimativa de prevalência foi incorporada.\n\n## R06-04 — Metas autoconcordantes\n\nSHELDON, Kennon M.; ELLIOT, Andrew J. **Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model.** Journal of Personality and Social Psychology, v. 76, n. 3, p. 482–497, 1999. DOI: `10.1037/0022-3514.76.3.482`. PMID: 10101878.\n\nFonte primária/resumo: https://pubmed.ncbi.nlm.nih.gov/10101878/\n\n**Acesso efetivo:** resumo dos autores e metadados. O registro PubMed também apresenta o DOI histórico com barra dupla após `10.1037`; identifica o mesmo artigo.\n\n**Uso:** capítulo 18, concordância de metas com interesses/valores em três conjuntos de dados longitudinais, esforço e benefícios de bem-estar relacionados à realização.\n\n**Limite:** não identifica uma vocação única, não garante êxito e não valida a categoria autoral propósito emprestado. Amostras e tarefas do artigo não são confundidas com a cena composta de Rute.\n\n## R06-05 — Poder e instrumentalização de alvos sociais\n\nGRUENFELD, Deborah H.; INESI, M. Ena; MAGEE, Joe C.; GALINSKY, Adam D. **Power and the objectification of social targets.** Journal of Personality and Social Psychology, v. 95, n. 1, p. 111–127, 2008. DOI: `10.1037/0022-3514.95.1.111`. PMID: 18605855.\n\nFonte primária/resumo: https://pubmed.ncbi.nlm.nih.gov/18605855/\n\n**Acesso efetivo:** resumo dos autores e metadados. Seis estudos; a composição detalhada de cada amostra não foi examinada no texto integral e não é inferida aqui.\n\n**Uso:** capítulo 19, papel da utilidade para objetivos ativos na aproximação de alvos sociais sob condições de poder.\n\n**Limite:** não demonstra que toda autoridade desumanize. Henrique não é apresentado como participante equivalente às condições experimentais; a aplicação à amizade é explicitamente autoral.\n\n## R04-03 — Referência herdada reconferida; uso ampliado no capítulo 20\n\nRYAN, Richard M.; DECI, Edward L. **Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** American Psychologist, v. 55, n. 1, p. 68–78, 2000. DOI: `10.1037/0003-066X.55.1.68`. PMID: 11392867.\n\nFontes primárias: https://pubmed.ncbi.nlm.nih.gov/11392867/ e https://doi.org/10.1037/0003-066X.55.1.68\n\n**Acesso efetivo nesta etapa:** resumo dos autores e metadados. O registro R04-03 permanece canônico; esta nota amplia seu destino, não cria uma obra bibliográfica duplicada.\n\n**Uso adicional:** capítulo 20, autonomia considerada junto de competência, vínculo e condições sociais.\n\n**Limite:** a argumentação ética sobre compromisso, reparação e consequências é da autora. A teoria não funciona como decisão clínica/jurídica sobre os casos compostos.\n\n## Controle de alegações da Parte V\n\nCinco referências novas e uma herdada reconferida. Os quatro novos artigos foram consultados por resumo primário e metadados, não integralmente; a OMS foi lida em HTML. As formulações mantêm escala compatível com esse acesso. Não foram introduzidos dados atuais de plataformas, cálculos financeiros ou interpretação de lei como substituto de orientação especializada.\n\nAs cenas de Renato, Aline, Rute, Dalva, Henrique, André, Bárbara, Camila e Carolina são composições ilustrativas. Não são entrevistas, casos clínicos, acontecimentos biográficos de Sol ou demonstrações de causalidade. Contracasos sem nome também são construções, não amostras de pesquisa.\n",
+      "motivo": "Acrescentar cinco fontes novas e ampliar o destino da R04-03 reconferida, preservando a bibliografia anterior."
+    },
+    {
+      "arquivo": "STATUS.md",
+      "antes": "**Atualizado:** 10/09/2026",
+      "depois": "**Atualizado:** 11/09/2026",
+      "ocorrencias": 1,
+      "motivo": "Atualizar data do estado vivo."
+    },
+    {
+      "arquivo": "STATUS.md",
+      "antes": "| Manuscrito canônico novo | ● | `MANUSCRITO_CANONICO.md` contém abertura + Partes I–IV, capítulos 1–16. |",
+      "depois": "| Manuscrito canônico novo | ● | `MANUSCRITO_CANONICO.md` contém abertura + Partes I–V, capítulos 1–20. |",
+      "ocorrencias": 1,
+      "motivo": "Registrar a extensão real integrada, sem declarar os 24 capítulos concluídos."
+    },
+    {
+      "arquivo": "STATUS.md",
+      "antes": "| Parte V — Quando Fugir de Si Parece Liberdade | ◐ | Próxima frente: ETAPA 06, Caps. 17–20, conforme prompt específico. |",
+      "depois": "| Parte V — Quando Fugir de Si Parece Liberdade | ◉ | Caps. 17–20 escritos e revisados, integrados ao marco 06; leitura autoral pendente. |",
+      "ocorrencias": 1,
+      "motivo": "Registrar texto escrito e manter aprovação autoral pendente."
+    },
+    {
+      "arquivo": "STATUS.md",
+      "antes": "| Parte VI — O Retorno da Autoria | ◐ | Legado forte + escrita nova de diferenciação/luto/permanecer em si. |",
+      "depois": "| Parte VI — O Retorno da Autoria | ◐ | Próxima frente: ETAPA 07, Caps. 21–24 e epílogo. |",
+      "ocorrencias": 1,
+      "motivo": "Preparar continuidade no retorno da autoria, não outra arquitetura."
+    },
+    {
+      "arquivo": "STATUS.md",
+      "antes": "| Pesquisa e referências | ◑ | Registros das Partes II–III preservados; cinco fontes da Parte IV verificadas e registradas com limites; não se trata de revisão sistemática. |",
+      "depois": "| Pesquisa e referências | ◑ | Registros anteriores preservados; Parte V com cinco fontes novas e R04-03 reconferida, todas com acesso e limites registrados; não é revisão sistemática. |",
+      "ocorrencias": 1,
+      "motivo": "Atualizar escopo factual efetivamente consultado."
+    },
+    {
+      "arquivo": "STATUS.md",
+      "antes": "### Marco atual — ETAPA 05",
+      "depois": "### Marco histórico — ETAPA 05",
+      "ocorrencias": 1,
+      "motivo": "Preservar o marco anterior como histórico."
+    },
+    {
+      "arquivo": "STATUS.md",
+      "antes": "## ETAPA ATIVA / PRÓXIMA\n\n**ETAPA 06 — PARTE V: QUANDO FUGIR DE SI PARECE LIBERDADE**\n\nExecutar `PROMPT_PROXIMA_ETAPA_06.md`: abertura, capítulos 17–20, fechamento e ponte para Parte VI. Os capítulos são Fuga cognitiva; Propósito emprestado; Quando o outro vira função; Autenticidade sem responsabilidade. Preservar versões, personagens e limites conceituais; revisar o conjunto, registrar fontes, salvar snapshot integral e preparar a ETAPA 07.\n\n**Execução editorial não equivale a aprovação autoral, validação clínica, conclusão dos 24 capítulos ou liberação para publicação.**\n",
+      "depois": "### Marco atual — ETAPA 06\n\n**ETAPA 06 — Parte V: Quando Fugir de Si Parece Liberdade:** escrita, revisão e integração executadas; leitura e aprovação autoral pendentes.\n\n- Parte V: 12.189 palavras, incluindo abertura e fechamento.\n- Manuscrito acumulado: 58.780 palavras; capítulos 1–20.\n- Capítulos novos: 17 — 2.651; 18 — 2.832; 19 — 2.971; 20 — 2.791.\n- Snapshot: `ETAPAS/06_PARTE_V_LIBERDADE_2026-09-11.md`.\n- Git blob: `b8755b32b6ef28124ea151967a9b230bd2c89a24`.\n- SHA-256: `52c905f8502f18a3b2a087582f71a19515f8c512b681ea5d764ad273552be637`.\n- Sete arquivos históricos anteriores de ETAPAS preservados byte a byte.\n- Registros: `REGISTRO_EDITORIAL_ETAPA_06.md`, `REVISOES_ETAPA_06.json`, `QA_ETAPA_06.json`, diff do cabeçalho e referências atualizadas.\n\n## ETAPA ATIVA / PRÓXIMA\n\n**ETAPA 07 — PARTE VI: O RETORNO DA AUTORIA + EPÍLOGO**\n\nExecutar `PROMPT_PROXIMA_ETAPA_07.md`: abertura, capítulos 21–24, fechamento da Parte VI e epílogo. Diferenciar pessoa, herança e performance; reconhecer perdas sem impor fases clínicas; sustentar autoria sem personagem perfeito. Revisar o conjunto e preparar a ETAPA 08 de lapidação global.\n\n**Execução editorial não equivale a aprovação autoral, validação clínica, conclusão dos 24 capítulos ou liberação para publicação.**\n",
+      "ocorrencias": 1,
+      "motivo": "Encerrar produção 06 e abrir 07; manter todos os marcos anteriores e limites da conclusão."
+    },
+    {
+      "arquivo": "MAPA_MAE.md",
+      "antes": "**Arquitetura consolidada na ETAPA 01; produção atualizada até a ETAPA 05**",
+      "depois": "**Arquitetura consolidada na ETAPA 01; produção atualizada até a ETAPA 06**",
+      "ocorrencias": 1,
+      "motivo": "Atualizar apenas o progresso, sem mudar seis partes e 24 capítulos."
+    },
+    {
+      "arquivo": "MAPA_MAE.md",
+      "antes": "**Data:** 10/09/2026",
+      "depois": "**Data:** 11/09/2026",
+      "ocorrencias": 1,
+      "motivo": "Data do arquivo vivo."
+    },
+    {
+      "arquivo": "MAPA_MAE.md",
+      "antes": "# 10. ESTADO\n\nETAPAS 00 e 01 preservadas; ETAPAS 02–05 com escrita e revisão executadas. O manuscrito vivo contém abertura e Partes I–IV, capítulos 1–16. Aprovação autoral e publicação continuam pendentes.\n\nA arquitetura de seis partes e 24 capítulos não foi alterada. As correções da ETAPA 04, especialmente a distinção entre fusão científica e metáfora autoral, foram preservadas. A ETAPA 05 acrescentou nomes, causas, automatismo e sucesso com funções próprias; atualizou uma remissão a Lívia e registrou ajustes no novo texto.\n\nPróxima frente: **ETAPA 06 — Parte V: Quando Fugir de Si Parece Liberdade**, capítulos 17–20. Seguir `PROMPT_PROXIMA_ETAPA_06.md`, `STATUS.md` e `QA_ETAPA_05.json`.\n",
+      "depois": "# 10. ESTADO\n\nETAPAS 00 e 01 preservadas; ETAPAS 02–06 com escrita e revisão executadas. O manuscrito vivo contém abertura e Partes I–V, capítulos 1–20, totalizando 58.780 palavras lexicais. Aprovação autoral e publicação continuam pendentes.\n\nA arquitetura de seis partes e 24 capítulos não foi alterada. Permanecem as distinções de fusão científica/metáfora autoral, aprendizagem/ocupação e dependência material/adesão. A Parte V acrescenta atividade/função, propósito, reconhecimento do outro e responsabilidade sem culpar quem sofreu violência. Personagens anteriores preservados; nova remissão a Sônia corrigida para Parte IV.\n\nPróxima frente: **ETAPA 07 — Parte VI: O Retorno da Autoria + Epílogo**, capítulos 21–24. Seguir `PROMPT_PROXIMA_ETAPA_07.md`, `STATUS.md` e `QA_ETAPA_06.json`. O fechamento da redação não substitui a lapidação global e a aprovação de Sol.\n",
+      "ocorrencias": 1,
+      "motivo": "Atualizar estado da produção e próxima etapa, preservando todo o mapa conceitual anterior."
+    },
+    {
+      "arquivo": "HISTORICO_ETAPAS.md",
+      "operacao": "acrescimo",
+      "antes": "",
+      "depois": "\n---\n\n## ETAPA 06 — PARTE V: QUANDO FUGIR DE SI PARECE LIBERDADE\n\n**Data local:** 11/09/2026.  \n**Entrada:** Abertura + Partes I–IV, 46.591 palavras, capítulos 1–16; blob `02ea8037ae0a363e17a1aab8d99059c276deb58b`.  \n**Estado:** escrita, revisão e integração executadas; leitura e aprovação autoral pendentes.\n\n### Corpo de livro\n\nEscritos abertura (423 palavras), capítulo 17 (2.651), capítulo 18 (2.832), capítulo 19 (2.971), capítulo 20 (2.791) e fechamento (521). Parte V integral: 12.189 palavras. Manuscrito acumulado: 58.780. Método lexical Unicode herdado, incluindo títulos e chamadas autor-data, não paginação.\n\nRenato permite distinguir descanso e adiamento; Rute e Dalva, finalidade e necessidade de função; Henrique e André, amizade e utilidade; Bárbara e Camila, decisão legítima e execução com efeitos evitáveis. Carolina e Aline sustentam contracasos. Nenhum episódio foi atribuído à biografia de Sol.\n\n### Revisão e legado\n\nConsultados por função antigos capítulos 18–21, trechos do 3 e início do 24, além de passagens de pertencimento. Preservados benefícios reais do alívio, missão recebida que pode tornar-se própria, função relacional legítima, humanidade sem concessão de acesso e responsabilidade sem culpa pela violência. O legado não foi alterado.\n\nCorrigida no novo capítulo 18 a remissão a Sônia (Parte IV, capítulo 14); esclarecida uma frase do contracaso de Carolina. No manuscrito herdado, apenas cabeçalho de etapa/data mudou: a prosa dos capítulos 1–16 permanece literal. Corrigido resíduo de redação no prompt 07. Controle e bibliografia atualizados com registro de mudanças.\n\nCinco fontes novas foram verificadas; Ryan/Deci (R04-03) foi reconferida e recebeu uso adicional. Acesso limitado a resumos dos autores/metadados dos artigos e HTML oficial da OMS, explicitado nas referências. Sem validação clínica ou revisão sistemática.\n\n### Integridade\n\nSnapshot integral `ETAPAS/06_PARTE_V_LIBERDADE_2026-09-11.md`. Git blob `b8755b32b6ef28124ea151967a9b230bd2c89a24`; SHA-256 `52c905f8502f18a3b2a087582f71a19515f8c512b681ea5d764ad273552be637`. Vinte capítulos, cinco partes e molduras iniciais preservados. Sete arquivos históricos anteriores de ETAPAS intactos. Histórico anterior mantido integralmente por acréscimo. QA e diff distinguem contagem/estrutura de revisão editorial.\n\n### Pendências\n\nLeitura autoral; Parte VI e epílogo; lapidação global de cadência, redundâncias, bibliografia e termos; figuras legadas sem inspeção visual nesta etapa; diagramação e validação de formatos de publicação.\n\n### Próxima frente\n\nETAPA 07 — Parte VI: O Retorno da Autoria + Epílogo. Seguir `PROMPT_PROXIMA_ETAPA_07.md` e preparar ETAPA 08 após a primeira redação completa. Nenhuma publicação foi autorizada por este registro.\n",
+      "motivo": "Preservar integralmente a história anterior e adicionar o marco 06."
+    }
+  ]
+}

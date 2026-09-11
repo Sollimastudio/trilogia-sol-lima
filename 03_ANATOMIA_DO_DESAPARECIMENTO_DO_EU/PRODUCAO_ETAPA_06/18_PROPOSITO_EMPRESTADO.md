@@ -96,7 +96,7 @@ Eu não preciso diminuir a força de um testemunho para recusar essa cobrança. 
 
 ### A causa que permanece quando a organização muda
 
-No capítulo anterior a esta parte, Sônia precisou examinar o uso de sua agenda pela associação. Aqui, a questão é outra: o valor continua reconhecível fora da estrutura que o representa?
+Na Parte IV, Sônia precisou examinar o uso de sua agenda pela associação. Aqui, a questão é outra: o valor continua reconhecível fora da estrutura que o representa?
 
 Uma pessoa pode desejar melhorar o acesso à educação e descobrir que determinada iniciativa já não é o melhor meio. Pode servir à sua comunidade por muitos anos e precisar mudar de função. Pode conservar uma convicção enquanto deixa uma posição de liderança. A mudança não apaga necessariamente a contribuição nem exige que a estrutura anterior seja declarada inteiramente falsa.
 

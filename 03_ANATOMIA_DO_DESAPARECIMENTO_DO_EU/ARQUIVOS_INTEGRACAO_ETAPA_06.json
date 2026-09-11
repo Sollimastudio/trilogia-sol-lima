@@ -1,0 +1,77 @@
+{
+  "etapa": "06",
+  "data_local": "2026-09-11",
+  "arquivos": {
+    "PRODUCAO_ETAPA_06/18_PROPOSITO_EMPRESTADO.md": {
+      "git_blob_sha": "319e98045d69368dfb2824b0fe6c73d05328cf27",
+      "sha256": "514368e66a0f74348601009878e56db5a5629f03c3633d22485ad9cce45b6089",
+      "bytes": 18769
+    },
+    "PRODUCAO_ETAPA_06/20_AUTENTICIDADE_E_FECHAMENTO.md": {
+      "git_blob_sha": "1a663e4319b29554ae14a00634f7170c616359b3",
+      "sha256": "49965d96799ce31fa8c7756fb893c7c44f3126d9d78932974532896c7f0a30fb",
+      "bytes": 22201
+    },
+    "MANUSCRITO_CANONICO.md": {
+      "git_blob_sha": "b8755b32b6ef28124ea151967a9b230bd2c89a24",
+      "sha256": "52c905f8502f18a3b2a087582f71a19515f8c512b681ea5d764ad273552be637",
+      "bytes": 399016
+    },
+    "PARTE_V_ETAPA_06.md": {
+      "git_blob_sha": "3546e081d163c6b46bf5511e894f169816ded127",
+      "sha256": "45cd614bc4e0f57caaeb62d8bcd6acbd395080ade8677d098f079a3cadc9e772",
+      "bytes": 81348
+    },
+    "ETAPAS/06_PARTE_V_LIBERDADE_2026-09-11.md": {
+      "git_blob_sha": "b8755b32b6ef28124ea151967a9b230bd2c89a24",
+      "sha256": "52c905f8502f18a3b2a087582f71a19515f8c512b681ea5d764ad273552be637",
+      "bytes": 399016
+    },
+    "DIFF_TEXTO_ANTERIOR_ETAPA_06.patch": {
+      "git_blob_sha": "a0192184f7a89867e4335e51a8731bfb76b4228c",
+      "sha256": "9bfce487cb54707f17327bd3008286e02219ffb1572c65acb943fed5df99eda8",
+      "bytes": 360
+    },
+    "PROMPT_PROXIMA_ETAPA_07.md": {
+      "git_blob_sha": "094b734b998725a94986d4f550f48f2b563fc9ec",
+      "sha256": "d9bed76759ad0d1d2bede4a829c32795b678892c2d263ccef736c02096f3e67a",
+      "bytes": 19129
+    },
+    "REFERENCIAS_DE_TRABALHO.md": {
+      "git_blob_sha": "e931c4d2e390fcdda81319ee838b986b97e0a3c5",
+      "sha256": "3ddafb324f77dcc7e7f6bf681968deaf419c8c5e92d6131d9afc6413cbe76aee",
+      "bytes": 27844
+    },
+    "STATUS.md": {
+      "git_blob_sha": "95f4b538514ba45f3aa48c99f2f172f51547c8a3",
+      "sha256": "56640719d28b266f931d474b32c9314dc9182aef0e62dc55829f479a6acf720f",
+      "bytes": 7145
+    },
+    "MAPA_MAE.md": {
+      "git_blob_sha": "95abe3a4995a76797708a2a5a3a88f53e69cd1bb",
+      "sha256": "cce002598594d6c85f4529f2009dcf987a032c9f336eac92f7c1105bd98c7c67",
+      "bytes": 16413
+    },
+    "HISTORICO_ETAPAS.md": {
+      "git_blob_sha": "a951c3eba8c264f46201c41ee13fe3c9e8863535",
+      "sha256": "b434147abff9f5ad60b288bcb9d0c16463a561a655bd66bfe0bbe716be40b58d",
+      "bytes": 18940
+    },
+    "REGISTRO_EDITORIAL_ETAPA_06.md": {
+      "git_blob_sha": "f7844a48105c6ca3c132667d0afd2b29e0881977",
+      "sha256": "945cfa9074a9ccf7987a9e6205d05ddb11427011896d43183b45432edb54fd8a",
+      "bytes": 8715
+    },
+    "REVISOES_ETAPA_06.json": {
+      "git_blob_sha": "da5dacbab2c1cdce94bfa634ea5f7b5776fe3a1a",
+      "sha256": "6081ea78299a7a8c36791bb614d44b525ff3bd24f1862ab4286701e8771f6e60",
+      "bytes": 18859
+    },
+    "QA_ETAPA_06.json": {
+      "git_blob_sha": "9b36304a40261e83fe526c89906058ca7312012c",
+      "sha256": "0c2b855ecbc05f0008883ac29a97b84bfe26f73bf71857ba697bc7e23b806236",
+      "bytes": 3664
+    }
+  },
+  "observacao": "Não inclui a si mesmo; conteúdos de leitura e script já versionados antes da integração."
+}

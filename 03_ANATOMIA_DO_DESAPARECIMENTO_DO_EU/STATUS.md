@@ -1,6 +1,6 @@
 # STATUS — LIVRO 3 — ANATOMIA DO DESAPARECIMENTO DO EU
 
-**Atualizado:** 10/09/2026
+**Atualizado:** 11/09/2026
 
 ## LEGENDA
 - ⬜ vazio
@@ -20,16 +20,16 @@
 | Auditoria do legado | ✓ | Camada 11 antiga classificada como reservatório editorial. |
 | Matriz de migração dos 24 capítulos | ✓ | Planejamento de reaproveitamento criado; integração textual continua por etapa. |
 | Arquitetura de 24 capítulos | ◑ | Consolidada para produção; ajustes futuros só por evidência de escrita. |
-| Manuscrito canônico novo | ● | `MANUSCRITO_CANONICO.md` contém abertura + Partes I–IV, capítulos 1–16. |
+| Manuscrito canônico novo | ● | `MANUSCRITO_CANONICO.md` contém abertura + Partes I–V, capítulos 1–20. |
 | Abertura canônica | ◉ | Nota da Autora, Nota Conceitual e Introdução escritas e revisadas tecnicamente; aguardam leitura autoral sem bloquear continuidade. |
 | Parte I — O Eu que Aprende a Caber | ◉ | Caps. 1–4 completos, revisados e congelados em snapshot da ETAPA 02; aguardam leitura autoral. |
 | Parte II — Os Espelhos que Respondem por Nós | ◉ | Caps. 5–8 completos, revisados, auditados e congelados em snapshot integral da ETAPA 03; aguardam leitura autoral. |
 | Parte III — A Anatomia da Ocupação | ◉ | Caps. 9–12 completos, revisados e integrados; snapshot integral da ETAPA 04 verificado; leitura autoral pendente. |
 | Parte IV — O Eu Emprestado em Funcionamento | ◉ | Caps. 13–16 completos, revisados e integrados; snapshot integral da ETAPA 05 conferido; leitura autoral pendente. |
-| Parte V — Quando Fugir de Si Parece Liberdade | ◐ | Próxima frente: ETAPA 06, Caps. 17–20, conforme prompt específico. |
-| Parte VI — O Retorno da Autoria | ◐ | Legado forte + escrita nova de diferenciação/luto/permanecer em si. |
+| Parte V — Quando Fugir de Si Parece Liberdade | ◉ | Caps. 17–20 escritos e revisados, integrados ao marco 06; leitura autoral pendente. |
+| Parte VI — O Retorno da Autoria | ◐ | Próxima frente: ETAPA 07, Caps. 21–24 e epílogo. |
 | Epílogo | ◐ | Epílogo legado preservado como base; fechamento precisa terminar em presença identitária sustentável. |
-| Pesquisa e referências | ◑ | Registros das Partes II–III preservados; cinco fontes da Parte IV verificadas e registradas com limites; não se trata de revisão sistemática. |
+| Pesquisa e referências | ◑ | Registros anteriores preservados; Parte V com cinco fontes novas e R04-03 reconferida, todas com acesso e limites registrados; não é revisão sistemática. |
 | Figuras | ◑ | 21 figuras legadas disponíveis; função será reavaliada conforme cada parte entrar no cânone. |
 | Kindle/EPUB/PDF finais | ⬜ | Artefatos antigos são referência técnica, não publicação canônica. |
 
@@ -67,7 +67,7 @@ No fechamento da ETAPA 03, `MANUSCRITO_CANONICO.md` e `ETAPAS/03_PARTE_II_ESPELH
 - A criadora do capítulo 8 passa a chamar-se Lívia; Marina continua sendo a funcionária do capítulo 3.
 - Fusão científica não é sinônimo de apagamento do Eu; distinção no capítulo 12 e remissão no capítulo 6.
 
-### Marco atual — ETAPA 05
+### Marco histórico — ETAPA 05
 
 **ETAPA 05 — Parte IV: O Eu Emprestado em Funcionamento:** escrita e revisão executadas; integração e integridade conferidas; leitura autoral pendente.
 
@@ -79,10 +79,23 @@ No fechamento da ETAPA 03, `MANUSCRITO_CANONICO.md` e `ETAPAS/03_PARTE_II_ESPELH
 - Registros: `REGISTRO_EDITORIAL_ETAPA_05.md`, `REVISOES_ETAPA_05.json`, `QA_ETAPA_05.json` e referências de trabalho.
 - Os seis arquivos históricos anteriores de ETAPAS permanecem intactos.
 
+### Marco atual — ETAPA 06
+
+**ETAPA 06 — Parte V: Quando Fugir de Si Parece Liberdade:** escrita, revisão e integração executadas; leitura e aprovação autoral pendentes.
+
+- Parte V: 12.189 palavras, incluindo abertura e fechamento.
+- Manuscrito acumulado: 58.780 palavras; capítulos 1–20.
+- Capítulos novos: 17 — 2.651; 18 — 2.832; 19 — 2.971; 20 — 2.791.
+- Snapshot: `ETAPAS/06_PARTE_V_LIBERDADE_2026-09-11.md`.
+- Git blob: `b8755b32b6ef28124ea151967a9b230bd2c89a24`.
+- SHA-256: `52c905f8502f18a3b2a087582f71a19515f8c512b681ea5d764ad273552be637`.
+- Sete arquivos históricos anteriores de ETAPAS preservados byte a byte.
+- Registros: `REGISTRO_EDITORIAL_ETAPA_06.md`, `REVISOES_ETAPA_06.json`, `QA_ETAPA_06.json`, diff do cabeçalho e referências atualizadas.
+
 ## ETAPA ATIVA / PRÓXIMA
 
-**ETAPA 06 — PARTE V: QUANDO FUGIR DE SI PARECE LIBERDADE**
+**ETAPA 07 — PARTE VI: O RETORNO DA AUTORIA + EPÍLOGO**
 
-Executar `PROMPT_PROXIMA_ETAPA_06.md`: abertura, capítulos 17–20, fechamento e ponte para Parte VI. Os capítulos são Fuga cognitiva; Propósito emprestado; Quando o outro vira função; Autenticidade sem responsabilidade. Preservar versões, personagens e limites conceituais; revisar o conjunto, registrar fontes, salvar snapshot integral e preparar a ETAPA 07.
+Executar `PROMPT_PROXIMA_ETAPA_07.md`: abertura, capítulos 21–24, fechamento da Parte VI e epílogo. Diferenciar pessoa, herança e performance; reconhecer perdas sem impor fases clínicas; sustentar autoria sem personagem perfeito. Revisar o conjunto e preparar a ETAPA 08 de lapidação global.
 
 **Execução editorial não equivale a aprovação autoral, validação clínica, conclusão dos 24 capítulos ou liberação para publicação.**

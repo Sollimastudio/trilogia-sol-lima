@@ -203,7 +203,7 @@ O mundo continua oferecendo papéis e nomes. O leitor continua recebendo influê
 
 # 10. CONTINUIDADE DOS CASOS
 
-Preservar o cadastro das etapas anteriores. Rafaelemployee não é Davi mentorado; Marina profissional não é Lívia criadora; Helena da rotina eficiente não é Vera sob controle.
+Preservar o cadastro das etapas anteriores. Rafael, o funcionário, não é Davi, o participante da formação; Marina profissional não é Lívia criadora; Helena da rotina eficiente não é Vera sob controle.
 
 Novos na Parte V:
 - Renato: série, descanso e conversa adiada sobre atividade de sábado; não há violência nesse caso.

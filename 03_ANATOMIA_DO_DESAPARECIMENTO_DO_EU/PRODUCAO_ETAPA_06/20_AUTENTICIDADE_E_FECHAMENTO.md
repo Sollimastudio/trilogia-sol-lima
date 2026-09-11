@@ -128,7 +128,7 @@ Num contracaso composto, Carolina decide encerrar uma relação. Não há violê
 
 O parceiro fica triste e pede mais tempo. Carolina o escuta sem usar sua dor como prova de que precisa permanecer. Também não o chama de fraco ou dependente por sofrer. A decisão conserva um não; a forma de comunicá-la conserva o reconhecimento de outra pessoa.
 
-Existem questões práticas a organizar. Carolina participa delas no limite do que foi compartilhado, sem transformar o processo numa promessa de retorno. Não exige que ele a parabenize pela coragem de se escolher. Ele não exige legitimamente que ela continue amando para evitar tristeza, embora possa sentir esse desejo.
+Existem questões práticas a organizar. Carolina participa delas no limite do que foi compartilhado, sem transformar o processo numa promessa de retorno. Não exige que ele a parabenize pela coragem de se escolher. A tristeza dele não lhe concede o direito de exigir que ela permaneça na relação, embora possa desejar sua permanência.
 
 A separação não se torna indolor por ter sido cuidadosa. Algumas consequências não serão eliminadas. O que a cena distingue é sofrimento decorrente de uma mudança legítima e sofrimento acrescentado por humilhação, mentira ou desconsideração evitáveis.
 
