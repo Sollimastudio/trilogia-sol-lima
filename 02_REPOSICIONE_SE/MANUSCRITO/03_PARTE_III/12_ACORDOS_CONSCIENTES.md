@@ -1,673 +1,221 @@
 # CAPÍTULO 12 — ACORDOS CONSCIENTES
 
-## Ressentimento costuma cobrar contrato que ninguém assinou
+## Eu esperava não é o mesmo que nós combinamos
 
-Você já ficou magoado porque alguém não fez aquilo que, na sua cabeça, era óbvio?
+*Ele deveria ter percebido.*
 
-`Ele deveria ter percebido.`
+*Ela tinha obrigação de saber.*
 
-`Ela tinha obrigação de saber.`
+*Depois de tantos anos, eu nem precisava pedir.*
 
-`Depois de tantos anos, eu nem precisava pedir.`
+Talvez houvesse um dever ou uma promessa. Talvez a outra pessoa esteja falhando com algo que assumiu. Mas talvez você esteja cobrando um contrato que nunca saiu da sua cabeça.
 
-`Se fosse importante para eles, teriam feito.`
+É nessa diferença que entram os **Acordos Conscientes**. Não para transformar casamento, amizade, família e trabalho em cartório com café. Para tornar suficientemente claro aquilo que as pessoas realmente assumem entre si.
 
-Talvez houvesse mesmo um dever.
+Existe uma distância enorme entre *eu esperava* e *nós combinamos*. A expectativa merece ser ouvida. Não precisa ser tratada como acordo antes de ter sido compreendida e assumida.
 
-Talvez uma promessa tivesse sido feita.
+## O combinado também precisa ser examinado
 
-Talvez a outra pessoa estivesse falhando com algo que assumiu.
+**O combinado não sai caro.**
 
-Mas talvez não.
+Gosto dessa frase porque ela pede clareza. Quando o compromisso é visível, fica mais difícil cobrar adivinhação. Mas um combinado ruim pode sair caríssimo.
 
-Talvez você esteja cobrando um contrato que nunca saiu da sua cabeça.
+Um sim arrancado por ameaça não se torna livre só porque foi dito. A clareza de uma exigência não elimina a desigualdade de condições. Por isso o Acordo Consciente considera **clareza, possibilidade real de recusa, responsabilidade, consequência, revisão e contexto**.
 
-É aqui que entram os **Acordos Conscientes**.
+Não basta saber o que uma pessoa aceitou. Precisamos considerar em que condições podia aceitar, recusar ou negociar. Em situações que dependem de avaliação jurídica ou especializada, o livro ajuda a formular a pergunta, não decide a validade do acordo.
 
-Não como burocracia emocional.
+## Cinco coisas que não devem chegar misturadas
 
-Não como tentativa de transformar casamento, família, amizade e trabalho em cartório com café.
+No capítulo anterior, você distinguiu limite de controle. Agora vamos colocar esse contorno numa relação em que mais de uma pessoa precisa coordenar algo.
 
-Acordo Consciente é a prática de tornar suficientemente claro aquilo que duas ou mais pessoas realmente estão assumindo entre si.
+**Pedido** é o que gostaria que o outro fizesse: *você pode me avisar com antecedência?* Se não existe possibilidade real de recusa, precisamos reconhecer que há mais do que um pedido na situação.
 
-E existe uma diferença enorme entre:
+**Limite** organiza sua resposta: *sem aviso, posso não conseguir reorganizar minha agenda*. O foco é o que você fará ou poderá sustentar, não o que obriga o outro a sentir.
 
-`eu esperava`
+**Acordo** torna a combinação compartilhada: *vamos avisar mudanças até determinado momento e confirmar a disponibilidade antes de assumir*. A formulação pode ser simples, desde que as partes entendam o compromisso.
 
-e
+**Exigência** é uma condição imposta. Pode haver exigências legítimas de uma função ou instituição. Ainda assim, não devem ser apresentadas como se tivessem sido livremente negociadas quando não foram.
 
-`nós combinamos`.
+**Dever** é uma responsabilidade que de fato pertence à situação. Pode decorrer de função, cuidado, compromisso ou outra obrigação concreta. Não é qualquer expectativa que alguém pendurou em você; também não desaparece apenas por ser desconfortável.
 
-## O combinado não sai caro — mas o combinado também precisa ser bom
-
-A frase é popular:
-
-**o combinado não sai caro.**
-
-Eu gosto dela porque carrega uma inteligência simples: quando as regras estão visíveis, fica mais difícil cobrar adivinhação.
-
-Mas eu não vou transformá-la em dogma.
-
-Um combinado ruim pode sair caríssimo.
-
-Um acordo feito sob medo pode ser profundamente injusto.
-
-Um sim arrancado por ameaça não vira saudável porque foi verbalizado.
-
-Um contrato pode ser explícito e ainda assim ser abusivo.
-
-Uma pessoa pode concordar sem ter margem real de recusa.
-
-Então, no Método Posicione-se, acordo consciente não significa apenas `falar claramente`.
-
-Significa olhar também para:
-
-**clareza, possibilidade real de recusa, responsabilidade, consequência, revisão e contexto.**
-
-Sem isso, transparência pode ser só uma embalagem bonita para assimetria.
-
-## Pedido, limite, acordo, exigência e dever
-
-Se você misturar essas cinco coisas, vai passar metade da vida ressentido e a outra metade tentando descobrir por quê.
-
-Vamos separar.
-
-### Pedido
-
-É algo que eu gostaria que o outro fizesse.
-
-`Você pode me avisar com antecedência?`
-
-A resposta pode ser sim ou não.
-
-Se não existe possibilidade real de não, talvez não seja apenas um pedido.
-
-### Limite
-
-É aquilo que eu farei, aceitarei, recusarei ou protegerei.
-
-`Se eu não tiver aviso prévio, talvez não consiga reorganizar minha agenda.`
-
-O foco está na minha governabilidade.
-
-### Acordo
-
-É uma combinação em que as partes sabem o que está sendo assumido.
-
-`Pedidos de mudança de horário serão feitos até tal momento, e cada um confirma se consegue.`
-
-Não precisa ter essa formalidade de frase em toda relação.
-
-Mas precisa existir entendimento suficiente para que cobrança e responsabilidade não sejam invenções posteriores.
-
-### Exigência
-
-É uma condição imposta.
-
-Às vezes exigências são legítimas.
-
-Uma instituição pode ter regras.
-
-Uma relação pode depender de condições mínimas para continuar.
-
-Mas exigência não deve se fantasiar de acordo quando uma parte não pôde realmente escolher.
-
-### Dever
-
-É aquilo que pertence de fato à sua responsabilidade naquela situação.
-
-Pode nascer de compromisso assumido, função, cuidado legitimamente devido, acordo válido ou outra responsabilidade concreta.
-
-O ponto do livro não é criar uma tabela universal de deveres para todas as relações.
-
-É impedir que qualquer pessoa coloque em você uma obrigação imaginária e a batize de `dever`, ou que você chame de `favor` aquilo que realmente assumiu fazer.
-
-Essa distinção prepara uma Lei importante.
+O método não entrega uma tabela universal de deveres. Pede que você não chame de favor aquilo que realmente assumiu nem aceite como obrigação qualquer pedido apresentado com culpa.
 
 ## LEI 8 — CUMPRA SEU DEVER
 
-A frase parece dura.
+A frase pede contexto antes de firmeza.
 
-Precisa de contexto.
+**Cumpra Seu Dever** não significa obedecer todo papel recebido, atender qualquer expectativa familiar ou permanecer em abuso porque alguém chamou permanência de virtude.
 
-**Cumpra Seu Dever** não significa obedecer todo papel que alguém colocou sobre você.
+Também não significa que compromisso só vale enquanto você está com vontade.
 
-Não significa permanecer em abuso porque `é seu dever`.
+A pergunta é: **que responsabilidade realmente pertence a mim nesta situação?**
 
-Não significa atender qualquer expectativa familiar.
+Se você a reconhece, procure cumpri-la. Quando a capacidade ou as condições mudarem, talvez seja necessário avisar, reorganizar, renegociar ou buscar apoio. Fingir que a responsabilidade nunca existiu não a esclarece.
 
-Não significa que mãe deve tudo, pai deve tudo, filho deve tudo, marido deve tudo, esposa deve tudo, empregado deve tudo, líder deve tudo.
+O que não serve é usar posicionamento para cobrar limites dos outros enquanto terceiriza tudo que lhe cabe.
 
-Também não significa que dever desaparece quando fica desconfortável.
+Não estamos aprendendo apenas a dizer não. Estamos aprendendo a dizer **sim e não com responsabilidade**.
 
-A Lei pergunta:
+## O favor que recebe uma cobrança depois
 
-**existe aqui uma responsabilidade real que eu assumi, que pertence legitimamente à minha função ou que foi claramente combinada?**
+Você ajuda, cede, paga ou resolve algo. Apresenta o gesto como favor, mas registra por dentro um crédito que a outra pessoa talvez desconheça.
 
-Se existe, cumpra.
+Meses depois, a conta chega: *Depois de tudo que fiz por você...*
 
-Ou renegocie antes de abandonar, quando isso for possível.
+Pode haver ingratidão real. Mas vale perguntar se a ajuda continha uma contrapartida nunca comunicada.
 
-O que não serve é aproveitar a linguagem do posicionamento para virar especialista em cobrar limite dos outros enquanto terceiriza tudo que é seu.
+**Eu ofereci ou negociei?**
 
-Posicionamento não é aprender a dizer não.
+A pergunta não proíbe desejar reciprocidade. Impede que uma expectativa secreta se transforme, retrospectivamente, num contrato compartilhado.
 
-É aprender a dizer **sim e não com responsabilidade**.
+Se o gesto dependia de uma troca, essa condição precisava entrar na conversa. Isso vale para dinheiro, tempo, hospedagem, divulgação, cuidado e trabalho.
 
-## O favor que vira dívida sem aviso
-
-Outra fonte clássica de confusão:
-
-você faz algo como favor.
-
-Mas, por dentro, registra como crédito.
-
-Ajuda.
-
-Cede.
-
-Paga.
-
-Resolve.
-
-Abre mão.
-
-E, meses depois, cobra:
-
-`Depois de tudo que fiz por você...`
-
-Talvez exista ingratidão real.
-
-Existe, sim.
-
-Mas também existe favor feito com contrato invisível.
-
-`Eu faço isso agora e, quando chegar minha vez, você saberá que deve fazer por mim.`
-
-O problema é que a outra pessoa talvez nunca tenha recebido esse contrato.
-
-A pergunta adulta é:
-
-**eu ofereci ou eu negociei?**
-
-Se ofereceu, foi favor.
-
-Se precisava de contrapartida, talvez devesse ter sido acordo.
-
-Isso vale para dinheiro.
-
-Tempo.
-
-Cuidado.
-
-Trabalho.
-
-Apoio.
-
-Hospedagem.
-
-Parceria.
-
-Divulgação.
-
-Disponibilidade.
-
-Acordo consciente não mata generosidade.
-
-Só impede que generosidade precise virar cobrança secreta para se sentir recompensada.
+Acordo não mata generosidade. Ajuda a não fazê-la carregar uma cobrança que ninguém pôde conhecer.
 
 ## A fantasia de que amor lê mente
 
-Essa talvez seja uma das fantasias mais bonitas e mais caras dos vínculos.
+Quem convive pode perceber sinais e antecipar necessidades. Querer ser percebido não é absurdo. Mas sensibilidade não garante adivinhação.
 
-`Se me ama, sabe.`
+Você pode desejar espaço enquanto o outro oferece companhia. Pode querer ajuda enquanto parece estar dando conta. Pode esperar uma celebração cujo significado não foi compreendido.
 
-Às vezes a pessoa sabe.
+O problema não é desejar atenção. É usar toda falha de leitura como prova suficiente de desamor.
 
-Quem convive presta atenção.
+**Isso foi dito, compreendido e assumido — ou continuo esperando que a outra pessoa descubra o contrato?**
 
-Quem conhece percebe sinais.
+Em algumas situações haverá um dever independente de um novo pedido. Em outras, falta comunicação. Precisamos descobrir a diferença antes de usar a palavra óbvio como cobrança.
 
-Quem ama pode antecipar necessidade.
+## Clareza pode revelar uma incompatibilidade
 
-Tudo isso existe.
+Você pode conversar e descobrir que o outro não quer ou não consegue oferecer aquilo que deseja. Pode haver diferença sobre presença, exclusividade, divisão financeira ou parceria profissional.
 
-Mas sensibilidade não substitui comunicação.
+Acordo Consciente não fabrica compatibilidade. Ajuda a reconhecer o que pode ser construído e o que permanece incompatível.
 
-Adultos podem se conhecer profundamente e ainda errar leitura.
+Às vezes a conversa melhora a coordenação. Às vezes torna visível uma diferença dolorosa. Não será honesto prometer final feliz apenas porque as palavras ficaram claras.
 
-Você pode precisar de espaço enquanto o outro imagina que precisa de presença.
+O Fruto da conversa pode ser uma informação nova, inclusive a informação de que não há acordo possível naquela forma.
 
-Pode querer ajuda enquanto parece estar dando conta.
+## A possibilidade real de dizer não
 
-Pode esperar uma celebração enquanto o outro nem percebeu que aquilo tinha valor simbólico para você.
+Se recusar pode produzir violência, perda de moradia, retaliação grave ou outro dano relevante, não devemos tratar a situação como um simples problema de comunicação.
 
-Pode desejar divisão de uma tarefa enquanto nunca explicou que estava sobrecarregado.
+Pode haver uma concordância formal em condições muito restritas. O método pede que poder, dependência e segurança continuem visíveis na análise.
 
-O problema não é querer ser percebido.
+**Essa pessoa podia realmente recusar ou negociar?**
 
-O problema é transformar percepção espontânea em prova obrigatória de amor.
+Não saber é motivo para buscar mais informação, não para presumir liberdade plena. Se há risco, uma conversa mais firme pode não ser a primeira resposta adequada. Apoio e proteção podem precisar vir antes.
 
-O Acordo Consciente pergunta:
+A clareza do texto não substitui a realidade de quem o aceitou.
 
-**isso foi dito, compreendido e realmente combinado — ou estou usando a falha de adivinhação como prova de desamor?**
+## O compromisso consigo mesmo
 
-Essa pergunta salva muita investigação de uma conclusão precoce.
+Você também faz compromissos que organizam a própria prática: estudar, reservar tempo, acompanhar gastos, não assumir uma entrega antes de consultar a agenda.
 
-## Acordo não é concordância total
+Falhar uma vez não faz de você traidor de si. O que interessa é verificar como trata essa intenção: ela entra na organização da vida ou só existe enquanto a motivação está alta?
 
-Você pode conversar com clareza e descobrir que querem coisas diferentes.
+Há uma diferença importante em relação ao acordo compartilhado. Um prazo que você definiu internamente não foi automaticamente comunicado ao outro. Se alguém depende da sua resposta, talvez seja necessário dizer quando responderá. Não cobre que a pessoa conheça um compromisso que só você anotou.
 
-Isso acontece.
+Essa distinção também protege a responsabilidade: nem toda regra pessoal é dever moral, mas o que você comunica e assume diante de alguém merece ser levado a sério.
 
-Acordo Consciente não serve para fabricar compatibilidade.
+## Quando um acordo é quebrado
 
-Serve para revelar o que é possível construir.
+Um descumprimento pode envolver erro, mudança de condição, falta de clareza, impossibilidade, esquecimento, negligência ou má-fé. Essas explicações não são equivalentes, e nenhuma deve ser inventada para aliviar a investigação.
 
-Você pede mais presença.
+Pergunte o que ocorreu, se o combinado estava claro, que capacidade havia e se a quebra se repete. Houve aviso? Houve tentativa de reparar? O custo continua aceitável? É preciso orientação sobre uma obrigação concreta?
 
-O outro não deseja ou não consegue oferecer.
+A resposta pode ser renegociar, reduzir confiança, mudar acesso, reparar ou encerrar um acordo. Em risco, a prioridade pode ser proteção.
 
-Você deseja exclusividade.
+Não transforme todo descumprimento em sentença definitiva. Também não apague a informação de um padrão repetido.
 
-O outro não quer.
+## Responsabilidade distribuída no acordo
 
-Você espera determinada divisão financeira.
+Retome os quatro campos: **meu, do outro, do contexto e ainda não sei**.
 
-A outra pessoa entende diferente.
+O que você assumiu? O que o outro assumiu? O que mudou fora da governabilidade de ambos? O que continua sem confirmação?
 
-Você quer um tipo de parceria profissional.
+Seu cumprimento não garante o cumprimento alheio. A falha do outro também não esclarece, por si só, todas as responsabilidades que permanecem. Quando a situação é complexa, é preciso examinar o acordo e buscar informação adequada, em vez de escolher uma regra que favoreça a resposta desejada.
 
-O outro quer outro escopo.
+Pode haver uma responsabilidade descumprida sem que toda a pessoa seja falsa. Pode haver uma mudança de contexto sem vilão. Pode haver uma intenção que você ainda não conhece.
 
-Clareza não garante final feliz.
-
-Às vezes ela revela incompatibilidade.
-
-E isso dói.
-
-Mas existe uma diferença entre sofrer porque a realidade ficou clara e sofrer durante anos porque ninguém quis dar nome à realidade.
-
-O livro não vai prometer que conversa resolve tudo.
-
-Às vezes conversa resolve.
-
-Às vezes revela que não há acordo possível.
-
-Nos dois casos, produz informação.
-
-E informação melhora posicionamento.
-
-## Possibilidade real de recusa
-
-Um acordo só merece esse nome com mais segurança quando existe alguma possibilidade de recusa, negociação ou revisão.
-
-Se a pessoa sabe que dizer não produzirá violência, perda de moradia, ameaça, retaliação grave ou outro dano desproporcional, não devemos romantizar a palavra `acordo`.
-
-Pode haver consentimento formal e liberdade muito reduzida.
-
-Pode haver obediência por necessidade.
-
-Pode haver estratégia de sobrevivência.
-
-Pode haver coerção.
-
-O método não precisa diagnosticar de longe para reconhecer uma pergunta básica:
-
-**essa pessoa podia realmente dizer não?**
-
-Se a resposta é `não sei`, deixe na Árvore.
-
-Se a resposta é claramente `não`, o problema deixou de ser apenas comunicação.
-
-Entra risco, poder, dependência e segurança.
-
-Voltaremos a isso na arquitetura da Jaula.
-
-## O acordo consigo mesmo
-
-Existe também uma forma de acordo que não depende de outra pessoa.
-
-Aquele que você faz consigo.
-
-Mas cuidado com a linguagem.
-
-Não quero transformar cada promessa pessoal em tribunal moral.
-
-Você pode decidir:
-
-`Vou estudar uma hora por dia.`
-
-Falhar um dia não faz de você traidor de si mesmo.
-
-O importante é outro ponto:
-
-quando você assume algo consigo, **você trata essa palavra como informação real para organizar sua vida ou como frase emocional que vale apenas enquanto está motivado?**
-
-Se decidiu reservar um horário e entrega esse horário sempre que alguém pede, existe dado.
-
-Se decidiu não assumir nova dívida e continua comprando como antes, existe dado.
-
-Se decidiu se posicionar, mas toda discordância desmonta a decisão, existe dado.
-
-Acordo consigo não serve para acumular culpa.
-
-Serve para produzir clareza entre intenção e prática.
-
-Esse tema ainda encontrará Poda, Nova Semente e sustentação.
-
-## Quebra de acordo não é fim automático
-
-Acordos serão quebrados.
-
-Por erro.
-
-Mudança de circunstância.
-
-Falha de comunicação.
-
-Impossibilidade.
-
-Negligência.
-
-Má-fé.
-
-Esquecimento.
-
-Prioridade diferente.
-
-Essas causas não são equivalentes.
-
-Por isso, quando um acordo quebra, não pule direto para sentença.
-
-Pergunte:
-
-**o que aconteceu?**
-
-**o acordo estava claro?**
-
-**havia capacidade real de cumprir?**
-
-**a quebra foi pontual ou repetida?**
-
-**houve aviso?**
-
-**houve reparação?**
-
-**há disposição para renegociar?**
-
-**o custo continua aceitável?**
-
-A resposta pode ser reparar.
-
-Renegociar.
-
-Redefinir.
-
-Reduzir confiança.
-
-Mudar acesso.
-
-Encerrar o acordo.
-
-Ou, em situações de risco, buscar proteção.
-
-A quebra não conta a história inteira.
-
-Mas também não deve ser apagada quando se repete.
-
-Fruto continua sendo evidência.
-
-## Responsabilidade distribuída dentro do acordo
-
-Volte às quatro colunas que já usamos:
-
-**meu.**
-
-**do outro.**
-
-**do contexto.**
-
-**ainda não sei.**
-
-Num acordo, isso fica ainda mais importante.
-
-O que eu assumi?
-
-O que o outro assumiu?
-
-O que mudou fora do controle de ambos?
-
-O que continua sem informação suficiente?
-
-Se eu cumpri minha parte, isso não obriga o outro a cumprir a dele.
-
-Se o outro falhou, isso não me autoriza a fingir que minha parte nunca existiu.
-
-Se o contexto inviabilizou algo, talvez ninguém seja vilão.
-
-Se não sabemos o que aconteceu, não precisamos inventar intenção.
-
-Acordos conscientes precisam de realidade, não de teatro moral.
+O acordo precisa de realidade, não de teatro moral.
 
 ## A Ficha do Acordo Consciente
 
-Escolha uma situação em que existe expectativa, cobrança ou coordenação com outra pessoa.
+Escolha uma situação de expectativa, cobrança ou coordenação. Dê preferência àquela que já acompanha no livro. Se houver risco ou coerção, não use a ferramenta como teste de confronto.
 
-Pode ser em casa.
-
-No trabalho.
-
-Numa relação.
-
-Numa parceria.
-
-Não escolha agora a situação mais perigosa da sua vida para testar uma ferramenta nova. Se há risco ou coerção, segurança vem primeiro.
-
-Use seis perguntas:
+Estas seis perguntas organizam uma única ficha:
 
 ### 1. O que estamos realmente combinando?
 
-Escreva em uma frase concreta.
+Escreva uma frase concreta, compreensível para as partes.
 
 ### 2. Quem assume o quê?
 
-Sem `a gente vê depois` se o assunto exige clareza.
+Não deixe indefinido aquilo que precisa de responsabilidade identificável.
 
 ### 3. Existe possibilidade real de recusa ou negociação?
 
-Se não existe, nomeie a assimetria.
+Reconheça as restrições. Chamar de acordo não as elimina.
 
 ### 4. Qual é o prazo, momento de revisão ou condição de mudança?
 
-Nem todo acordo é eterno.
+Nem toda combinação precisa durar para sempre. O que faria ser necessário retomá-la?
 
 ### 5. O que acontece se não for cumprido?
 
-Não como ameaça.
+Descreva uma consequência prática e compreensível, não uma ameaça destinada a produzir medo.
 
-Como consequência prática que as partes conseguem entender.
+### 6. O que não está sendo combinado?
 
-### 6. O que **não** está sendo combinado?
+Esta pergunta evita cobrar aquilo que uma parte imaginou estar no pacote e a outra nunca assumiu.
 
-Essa pergunta é excelente.
+## Lia transforma disponibilidade em combinação
 
-Porque muita frustração nasce de coisas que uma pessoa achou que vinham no pacote e a outra nunca percebeu que estavam ali.
+Lia vem praticando a consulta à agenda antes do sim. Numa situação de trabalho compartilhado, percebe uma expectativa difusa: *Lia resolve rápido*.
 
-## Lia transforma disponibilidade em acordo
+Mas rápido significa o quê? Que pedido é urgente? Que entrega exige renegociar o que ela já assumiu?
 
-Lia começou tentando proteger confiabilidade por meio de disponibilidade imediata.
+Ela leva essas perguntas à conversa. Nesse caso hipotético, o grupo combina testar uma forma mais clara: pedidos não urgentes serão avaliados antes da confirmação; urgências precisam indicar prazo e motivo; mudar uma entrega já assumida exige conversar sobre a outra tarefa afetada.
 
-Depois aprendeu a consultar a agenda antes de dizer sim.
+A combinação não encerra toda expectativa de disponibilidade. Algumas exceções ainda aparecerão e precisarão ser examinadas. Mas Lia passa a contar com uma referência compartilhada, em vez de apenas uma regra guardada dentro da própria cabeça.
 
-Agora percebe que, em uma relação de trabalho compartilhado, existe uma expectativa difusa:
+O objetivo não é deixar todo mundo satisfeito com toda resposta. É tornar mais claro o que cada pessoa está assumindo e o que ainda precisa de negociação.
 
-`Lia resolve rápido.`
+## Quando eu achei vira padrão
 
-Ninguém sabe exatamente o que é `rápido`.
+Na situação escolhida para sua ficha, observe as frases que aparecem: *achei que você faria; pensei que estava óbvio; não precisava dizer*.
 
-Ninguém sabe o que é urgente.
+Elas indicam uma pergunta, não uma culpa automática:
 
-Ninguém sabe quando ela pode recusar.
+**Era dever, acordo, expectativa ou desejo?**
 
-E Lia também nunca explicou.
+Se era dever, qual responsabilidade foi descumprida? Se era acordo, o que foi entendido? Se era expectativa, precisa virar pedido? Se era desejo, que liberdade a outra pessoa tem diante dele?
 
-Em vez de continuar ressentida, ela propõe uma combinação simples:
+Use essas respostas para ajustar a mesma ficha. Não é necessário abrir outro exercício para cada falha de adivinhação.
 
-pedidos não urgentes serão avaliados antes de confirmação;
+## O combinado continua sujeito aos Frutos
 
-urgências precisam ser identificadas como urgências, não apenas enviadas com três pontos de exclamação;
+Um acordo claro pode se mostrar inadequado. O custo pode ter sido mal calculado, a capacidade pode mudar ou uma parte pode perceber que aceitou para não desagradar.
 
-se a entrega exigir mudança de outro compromisso, isso precisa ser conversado.
+**Que Fruto esta combinação participa de produzir?**
 
-Talvez o grupo aceite.
+Se funciona e permanece coerente, há o que sustentar. Se não funciona, investigue a razão. Renegociar pode ser necessário; em algumas situações, será preciso reconhecer incompatibilidade ou buscar proteção.
 
-Talvez negocie.
+Nenhuma ferramenta fica acima da Árvore, nem mesmo aquela que acabamos de aprender.
 
-Talvez descubra que esperava de Lia uma disponibilidade que ela já não quer oferecer.
+## O Tronco começa a abrir a copa
 
-Excelente.
+Você chegou das Raízes com perguntas sobre o que sustenta uma resposta. O Tronco acrescentou o trabalho de sustentar uma direção: reconhecer valor sob custo, escutar o corpo sem obedecer a um veredito, criar contorno sem controlar e combinar sem cobrar adivinhação.
 
-Agora há realidade para trabalhar.
+Três perguntas agora caminham juntas:
 
-O objetivo do acordo não é fazer todo mundo feliz.
+**O que sustento quando custa?**
 
-É trocar adivinhação por informação suficiente para que cada pessoa possa se posicionar.
-
-## Quando `eu achei` vira padrão
-
-Observe suas relações durante uma semana.
-
-Toda vez que aparecer uma frase como:
-
-`eu achei que você faria...`
-
-`você devia saber...`
-
-`pensei que estava óbvio...`
-
-`não precisava dizer...`
-
-não se condene.
-
-Só pergunte:
-
-**isso era dever, acordo ou expectativa?**
-
-Essa classificação simples já limpa muita confusão.
-
-Se era dever, qual responsabilidade foi descumprida?
-
-Se era acordo, estava claro?
-
-Se era expectativa, precisa virar pedido ou conversa?
-
-Se era apenas desejo, consigo reconhecer que o outro tinha liberdade diferente?
-
-Talvez a resposta doa.
-
-Mas é melhor um nome claro do que ressentimento fazendo contabilidade secreta.
-
-## O combinado não elimina o Fruto
-
-Mesmo um acordo claro precisa ser observado pelos Frutos.
-
-Você pode combinar algo e descobrir que não funciona.
-
-Pode perceber que o custo foi mal calculado.
-
-Pode descobrir que aceitou para não desagradar.
-
-Pode notar que uma das partes cumpre apenas sob cobrança permanente.
-
-Pode perceber que o acordo protege uma aparência e destrói a vida prática.
-
-Acordo consciente não vira verdade eterna.
-
-Ele continua submetido à Árvore.
-
-**Que Fruto este acordo está produzindo?**
-
-Se funciona, sustente.
-
-Se não funciona, investigue.
-
-Se precisa ser renegociado, converse.
-
-Se não há mais compatibilidade, nomeie.
-
-Se há risco, proteja.
-
-É por isso que o método inteiro precisa permanecer maior do que qualquer ferramenta isolada.
-
-## Do Tronco para os Galhos
-
-Agora pare e perceba o que aconteceu nesta Parte.
-
-Você chegou das Raízes entendendo como uma posição pode ser sustentada por regras, hábitos, valores, pertencimento e mapas.
-
-No Tronco, aprendeu outra coisa:
-
-**compreender não basta.**
-
-Você precisa descobrir o que sustenta quando existe custo.
-
-Aprendeu a aproximar valor declarado de prática observável.
-
-Aprendeu a ouvir o corpo sem transformá-lo em oráculo.
-
-Aprendeu que limite não é controlar o outro.
-
-Aprendeu que acordo não é leitura de mente.
-
-E encontrou três perguntas que vamos levar para a vida real:
-
-**O que eu sustento quando custa?**
-
-**Onde eu termino e onde o outro começa?**
+**Onde eu termino e o outro começa?**
 
 **O que realmente foi combinado?**
 
-Mas existe um detalhe importante.
+Elas não recebem necessariamente a mesma resposta em todas as áreas. Você pode negociar bem no trabalho e se perder diante de um pedido familiar. Pode cuidar dos gastos e decidir uma opinião pela aprovação do grupo.
 
-Você não responde essas perguntas do mesmo jeito em todas as áreas da vida.
+Isso pede um mapa, não uma sentença sobre você.
 
-Pode ter Tronco firme no trabalho e desaparecer no amor.
-
-Pode dizer não com facilidade em casa e se vender barato na carreira.
-
-Pode ser criterioso com dinheiro e completamente governado pela plateia na política.
-
-Pode sustentar uma convicção religiosa e não conseguir sustentar o próprio descanso.
-
-Isso não é contradição suficiente para definir quem você é.
-
-É um mapa de **Galhos**.
-
-A árvore agora precisa abrir a copa.
-
----
-
-# FIM DA PARTE III — O TRONCO
-
-Você não precisa virar outra pessoa para construir Tronco.
-
-Precisa tornar observável aquilo que diz valorizar.
-
-Sentir sem obedecer automaticamente.
-
-Limitar sem controlar.
-
-Combinar sem exigir adivinhação.
-
-Cumprir o que realmente é seu.
-
-E reconhecer quando uma posição precisa de mais sustentação do que discurso.
-
-Na próxima Parte, vamos fazer uma coisa que evita diagnósticos preguiçosos e generalizações sobre a própria vida:
-
-**separar os Galhos.**
-
-Porque talvez você não seja `mal posicionada`.
-
-Talvez exista apenas um Galho em que aquilo que você já sabe ainda não aprendeu a ficar de pé.
+Na Parte IV, a Árvore abre a copa. Vamos olhar os Galhos e descobrir onde uma capacidade que já existe pode ajudar a sustentar o que ainda está difícil.
