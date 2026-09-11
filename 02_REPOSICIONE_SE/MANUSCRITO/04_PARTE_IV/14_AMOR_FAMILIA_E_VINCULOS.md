@@ -4,656 +4,218 @@
 
 Amar alguém não deveria exigir que você desapareça para caber.
 
-Essa frase parece simples.
+Na vida real, reconhecer isso não é simples. Ninguém costuma se sentar à mesa para anunciar que, a partir daquele dia, você abandonará uma parte de si para manter o vínculo.
 
-Na vida real, não é.
+Pode começar numa conversa evitada, numa opinião editada para não criar clima, num compromisso pessoal cancelado diante de uma cara de decepção. Pode aparecer quando você assume outra tarefa porque parece mais fácil fazer do que negociar.
 
-Porque desaparecer quase nunca começa com uma cerimônia oficial.
+Mas uma concessão não conta a história inteira. Pode haver uma convivência saudável que está atravessando dificuldades comuns, uma responsabilidade real ou uma escolha de cuidado que você deseja sustentar.
 
-Ninguém senta à mesa e diz:
+O método não transforma toda dificuldade em apagamento. Pergunta:
 
-`A partir de hoje, você vai abandonar parte de si para manter este vínculo.`
-
-Começa menor.
-
-Você evita um assunto.
-
-Muda uma opinião para não criar clima.
-
-Diz sim porque o outro já parece cansado.
-
-Cancela algo seu para evitar a cara de decepção.
-
-Explica demais o próprio não.
-
-Aceita uma piada que te diminui porque `ele é assim`.
-
-Assume mais uma tarefa porque é mais rápido fazer do que conversar.
-
-Ou talvez nada disso esteja acontecendo.
-
-Talvez você esteja num vínculo saudável e apenas precise aprender a negociar melhor diferenças normais entre duas pessoas reais.
-
-Essa possibilidade também precisa permanecer aberta.
-
-O Método Posicione-se não transforma toda dificuldade de relação em apagamento.
-
-Ele pergunta:
-
-**o que este vínculo produz, o que ele exige, o que foi combinado e quem eu me torno na forma como participo dele?**
+**O que este vínculo produz, o que exige, o que foi combinado e como eu participo dele?**
 
 ## Vínculo não é fusão
 
-Vínculo é conexão.
+Vínculo é conexão. Uso fusão, aqui, para descrever situações em que desejos, responsabilidades e escolhas ficam tão confundidos que a diferença de uma pessoa parece uma ameaça à outra. É uma descrição pedagógica da relação, não um diagnóstico.
 
-Fusão é quando a fronteira entre duas pessoas começa a desaparecer de um jeito que torna difícil saber onde termina desejo, responsabilidade, medo e escolha de cada uma.
+Num vínculo com contorno, posso amar e continuar sendo alguém separado. Posso ouvir sem obedecer automaticamente, ceder sem desaparecer e receber um não sem usar o afeto como instrumento de punição.
 
-Num vínculo, eu posso amar você e continuar sendo alguém separado.
+A confusão aparece em frases como:
 
-Posso ouvir sem obedecer automaticamente.
+*Se você me ama, pensa como eu.*
 
-Posso ceder sem desaparecer.
+*Se somos família, você faz.*
 
-Posso discordar sem transformar diferença em ameaça de abandono.
+*Se confia em mim, não precisa de privacidade.*
 
-Posso pedir sem acreditar que você tem obrigação de atender.
+*Se me escolheu, eu deveria ser suficiente para tudo.*
 
-Posso receber seu não sem usar o vínculo como instrumento de punição.
+Elas podem parecer românticas ou leais até alguém precisar existir fora delas.
 
-Na fusão, a diferença parece perigosa.
-
-`Se você me ama, pensa como eu.`
-
-`Se somos família, você faz.`
-
-`Se estamos juntos, não deveria precisar de espaço.`
-
-`Se confia em mim, não precisa ter privacidade.`
-
-`Se me escolheu, eu deveria ser suficiente para tudo.`
-
-Essas frases podem soar românticas até o dia em que alguém precisa existir fora delas.
-
-Dois Galhos podem se aproximar.
-
-Podem se tocar.
-
-Podem oferecer sombra um ao outro.
-
-Não precisam virar o mesmo Tronco.
+Dois Galhos podem se aproximar, se tocar e oferecer sombra um ao outro. Não precisam se tornar o mesmo Tronco.
 
 ## Reciprocidade não é contabilidade afetiva
 
-Reciprocidade também é uma palavra que precisa de limpeza.
+Nem toda entrega precisa voltar na mesma quantidade, no mesmo dia e com a mesma embalagem. Relações atravessam fases de doença, perda de renda, cuidado e capacidades diferentes. Amor não é uma planilha em que cada abraço precisa fechar o mês no azul.
 
-Ela não significa que toda entrega precisa voltar na mesma quantidade, no mesmo dia e com a mesma embalagem.
+Ainda assim, há vínculos em que uma pessoa permanece responsável por iniciar, reparar, organizar, ajustar e pedir desculpas por tudo. A fase se prolonga o suficiente para pedir aposentadoria.
 
-Relações atravessam fases.
+**Reciprocidade, no método, é participação relacional observável dentro das capacidades e dos acordos daquele vínculo.** Não é igualdade matemática.
 
-Uma pessoa pode precisar receber mais em determinado período.
+Quando a relação exige trabalho, quem participa dele? A assimetria atual é reconhecida e pode ser conversada? Há uma impossibilidade real ou uma expectativa de que a mesma pessoa carregue tudo indefinidamente?
 
-Pode adoecer.
+A diferença entre essas situações importa mais do que uma contagem isolada de quem fez mais naquela semana.
 
-Pode perder trabalho.
+## Dependência precisa de contexto
 
-Pode cuidar de alguém.
+Precisar de alguém não é falha moral. Há dependências afetivas, materiais, profissionais e de cuidado. Uma fase de doença, uma responsabilidade com crianças ou a falta de renda podem mudar profundamente a margem de escolha.
 
-Pode estar emocionalmente esgotada.
+A pergunta não é se depender torna alguém fraco. É:
 
-Amor não é planilha em que cada abraço precisa fechar o mês no azul.
+**Que dependência existe e o que ela faz com as possibilidades reais?**
 
-Mas o contrário também é verdade.
+Uma relação pode ser muito importante emocionalmente sem ser coercitiva. Pode também parecer livre de fora enquanto ameaça, vigilância ou controle de recursos tornam a recusa perigosa.
 
-Uma relação pode passar anos funcionando numa direção só.
+Não sabemos a situação inteira por uma palavra. Voltamos ao Fruto, ao Solo, ao risco e às condições de movimento.
 
-Uma pessoa inicia todas as conversas.
+## Intensidade não é veredito
 
-Repara todas as rupturas.
+Um vínculo pode ter saudade feroz, desejo e reconciliações cinematográficas e, ainda assim, oferecer pouca segurança ou capacidade de conversar. Outro pode ser menos dramático e permitir reparação, afeto, humor e diferença.
 
-Organiza todos os compromissos.
+Não quero inverter a caricatura. Há relações intensas que funcionam bem e relações tranquilas que estão vazias. A estética não decide.
 
-Carrega toda a responsabilidade emocional.
+**Como esse vínculo funciona quando há frustração, limite, diferença e custo?**
 
-Pede desculpa por tudo.
+A resposta precisa considerar comportamento e contexto. Sentir muito não obriga você a concluir que a relação é boa. Sentir menos agitação também não prova, sozinho, que ela é saudável.
 
-Ajusta a agenda.
+## Família: o mapa encontra uma pessoa real
 
-Cede.
+Na Parte II, você examinou heranças. Aqui, elas aparecem diante de alguém com quem existe história.
 
-Espera.
+No trabalho, talvez consiga dizer que algo não faz parte do escopo. Na família, a mesma pergunta encontra outras palavras: *mas é minha mãe; é meu pai; é meu irmão; somos família*.
 
-E chama isso de `fase` durante tempo suficiente para a fase pedir aposentadoria.
+O vínculo importa. O dever real também. Justamente por isso, é preciso distinguir responsabilidade de obediência automática.
 
-Reciprocidade, no método, não é igualdade matemática.
+Honra não exige reproduzir toda escolha de quem veio antes. Gratidão não esclarece, sozinha, qualquer dívida que alguém queira cobrar. Limite pode proteger o vínculo de se tornar ressentimento, mas também pode ser mal formulado e precisar de revisão.
 
-É a presença observável de **responsabilidade relacional dos dois lados**, dentro das capacidades e acordos daquela relação.
-
-A pergunta é:
-
-**quando o vínculo exige trabalho, quem trabalha para que ele exista?**
-
-## Dependência não é uma palavra para humilhar ninguém
-
-Todos dependemos de pessoas em alguma medida.
-
-Dependemos afetivamente.
-
-Materialmente.
-
-Profissionalmente.
-
-Socialmente.
-
-Crianças dependem de adultos de forma profunda.
-
-Adultos podem atravessar fases de dependência por doença, dinheiro, cuidado ou circunstância.
-
-Precisar não é falha moral.
-
-O problema é usar a palavra `dependência` como se ela explicasse tudo.
-
-O método pergunta:
-
-**que tipo de dependência existe e o que ela faz com a margem real de escolha?**
-
-Uma pessoa financeiramente dependente pode ter menos opções imediatas.
-
-Uma pessoa isolada pode precisar primeiro reconstruir rede.
-
-Uma pessoa que depende de cuidado pode precisar organizar suporte antes de mudar um vínculo.
-
-Uma relação pode ser emocionalmente muito importante sem ser coercitiva.
-
-E uma relação pode parecer livre por fora enquanto medo, ameaça ou controle reduzem a margem real de movimento.
-
-Por isso não concluímos olhando uma palavra.
-
-Voltamos ao Fruto, ao Solo, à posição, ao risco e aos recursos.
-
-## Intensidade não prova profundidade
-
-Essa é outra confusão cara.
-
-Muito sentimento não é sinônimo automático de bom vínculo.
-
-Um vínculo pode ser intenso e instável.
-
-Pode ter saudade feroz, reconciliações cinematográficas, medo, desejo, ciúme, e ainda produzir pouca segurança e pouca capacidade de conversa.
-
-Outro pode ser menos dramático e muito mais profundo.
-
-Ter espaço.
-
-Reparação.
-
-Humor.
-
-Previsibilidade suficiente.
-
-Liberdade de discordar.
-
-Afeto que não precisa de crise para parecer vivo.
-
-Também não quero inverter a caricatura e transformar toda intensidade em problema.
-
-Há relações intensas e saudáveis.
-
-Há relações tranquilas e profundamente vazias.
-
-O que decide não é a estética.
-
-São os Frutos.
-
-**Como esse vínculo funciona quando há frustração, diferença, limite e custo?**
-
-A resposta diz mais do que a quantidade de fogos de artifício no começo.
-
-## Família: honra, história e contorno
-
-Família costuma ser um Galho onde mapa herdado e vínculo aparecem grudados.
-
-Você não escolheu chegar àquela família.
-
-Recebeu linguagem, hábitos, histórias, afetos, regras, feridas e recursos antes de saber nomeá-los.
-
-Por isso revisar uma posição familiar pode parecer traição maior do que revisar uma posição profissional.
-
-No trabalho, você diz:
-
-`Isso não faz parte do meu escopo.`
-
-Na família, pensa:
-
-`Mas é minha mãe.`
-
-`Mas é meu pai.`
-
-`Mas é meu irmão.`
-
-`Mas somos família.`
-
-O vínculo importa.
-
-A história importa.
-
-O dever real importa.
-
-E exatamente por isso precisa de discernimento, não de obediência automática.
-
-Honrar alguém não exige concordar com tudo.
-
-Amar não exige oferecer acesso irrestrito.
-
-Gratidão não transforma a vida inteira numa dívida sem vencimento.
-
-E limite não apaga automaticamente afeto.
-
-Às vezes o limite protege o vínculo de virar ressentimento.
+O que está sendo pedido aqui? O que realmente lhe cabe? O que precisa ser preservado dos dois lados?
 
 ## Acesso não é amor
 
-Você pode amar alguém e escolher não conversar sobre determinado assunto com essa pessoa.
+Você pode amar e não compartilhar toda informação íntima. Pode manter contato e mudar frequência. Pode perdoar sem reconstruir imediatamente a confiança. Pode sentir carinho e reconhecer uma incompatibilidade.
 
-Pode manter vínculo e diminuir frequência.
+Amor, confiança, proximidade, reconciliação e acesso não são a mesma coisa.
 
-Pode conviver e não compartilhar informação íntima.
+Isso não torna qualquer distância uma escolha correta. Reduzir acesso pode proteger uma fronteira; pode também ser usado para punir ou controlar uma reação.
 
-Pode perdoar sem restabelecer imediatamente o mesmo nível de confiança.
+Pergunte:
 
-Pode ter carinho e reconhecer incompatibilidade.
+**Estou criando contorno ou tentando fazer o outro sofrer até me oferecer a resposta que quero?**
 
-Pode sentir saudade e ainda saber que voltar para a mesma forma de relação produziria o mesmo Fruto.
-
-Amor, confiança, proximidade, reconciliação e acesso são variáveis diferentes.
-
-Quando misturamos tudo, qualquer redução de acesso parece ausência de amor.
-
-Não é necessariamente.
-
-Às vezes é contorno.
-
-Às vezes é prudência.
-
-Às vezes é punição disfarçada de limite.
-
-Por isso investigamos a função.
-
-**Estou reduzindo acesso para proteger uma fronteira real ou para controlar a reação do outro?**
-
-A diferença importa.
+A forma externa pode parecer semelhante. A função, os efeitos e as condições precisam ser examinados.
 
 ## Permanecer não prova fraqueza. Sair não prova coragem.
 
-Eu quero cravar essa distinção porque ela protege o método de virar slogan perigoso.
+Permanência pode envolver escolha, cuidado, falta de recurso, medo, risco, hábito ou uma estratégia temporária. Pode haver esperança sustentada por mudança observável ou uma narrativa que já não aceita evidência.
 
-Permanecer pode ser escolha consciente.
+Sair também pode ser proteção, coragem, impulso ou fuga de uma responsabilidade. O movimento sozinho não recebe certificado moral.
 
-Pode ser amor.
+O que sabemos? Que Frutos existem? Há risco, reparação, reciprocidade, recursos ou deveres? Que limites foram atravessados? O que é meu, do outro, do contexto e ainda desconhecido?
 
-Pode ser responsabilidade.
-
-Pode ser falta de recurso.
-
-Pode ser medo.
-
-Pode ser risco.
-
-Pode ser estratégia temporária.
-
-Pode ser esperança baseada em mudança observável.
-
-Pode ser hábito.
-
-Pode ser uma Jaula.
-
-Sair também pode ser coragem.
-
-Pode ser autoproteção.
-
-Pode ser impulso.
-
-Pode ser fuga de conversa.
-
-Pode ser desistência responsável.
-
-Pode ser irresponsabilidade.
-
-A ação sozinha não recebe certificado moral.
-
-É a Árvore que investiga.
-
-O que sabemos?
-
-Que Frutos existem?
-
-Que acordos foram feitos?
-
-Que limites foram atravessados?
-
-Há risco?
-
-Há reparação?
-
-Há reciprocidade?
-
-Há recursos?
-
-O que é meu, do outro, do contexto e ainda desconhecido?
+A Árvore ajuda a investigar antes de transformar uma ação em prova de força ou fraqueza.
 
 ## Proteção não é controle
 
-Cuidado e controle podem usar frases parecidas.
+*Me avise quando chegar.*
 
-`Me avise quando chegar.`
+*Quero saber com quem você vai.*
 
-Pode ser cuidado.
+*Isso não parece bom para você.*
 
-Pode ser monitoramento.
+Essas frases podem fazer parte de cuidado ou de controle. Uma frase isolada não decide a leitura.
 
-`Quero saber com quem você vai.`
+Observe se há espaço para recusa, privacidade compatível com o vínculo e possibilidade de negociação. O que acontece quando alguém discorda? Existe medo de ameaça, violência ou retaliação? Qual é a responsabilidade de cuidado de cada pessoa naquela situação?
 
-Pode ser uma pergunta comum numa relação.
+Proteção oferece suporte. Controle procura governar a escolha alheia. Nem sempre a distinção é fácil de reconhecer de dentro.
 
-Pode ser tentativa de restringir autonomia.
-
-`Isso não é bom para você.`
-
-Pode ser preocupação legítima.
-
-Pode ser forma de ocupar o lugar da consciência alheia.
-
-Não é uma frase isolada que resolve.
-
-Olhe o padrão.
-
-Existe liberdade de dizer não?
-
-Existe punição desproporcional quando a pessoa discorda?
-
-Há medo?
-
-Há vigilância?
-
-Há respeito por privacidade e autonomia compatíveis com o vínculo?
-
-Há abertura a negociação?
-
-Proteção oferece suporte.
-
-Controle precisa governar.
-
-Nem sempre a diferença é óbvia de dentro.
-
-Quando houver risco ou coerção, segurança e apoio vêm antes de um confronto ensaiado em livro.
+Quando existe risco relevante, segurança e apoio vêm antes de um confronto ensaiado num livro.
 
 ## O Sim Dourado e o Não Limpo
 
-Em versões anteriores deste método eu usei duas expressões que ainda merecem espaço, desde que não virem fórmula mágica.
+Uso duas expressões para tornar a diferença mais fácil de lembrar.
 
-**Sim Dourado** é o sim que você consegue reconhecer como seu depois de considerar desejo, dever, custo, contexto e capacidade.
-
-Não é um sim perfeito.
-
-É um sim menos terceirizado.
+**Sim Dourado** é o sim que você consegue reconhecer como seu depois de considerar desejo, dever, custo, contexto e capacidade. Não é um sim perfeito nem necessariamente prazeroso. Pode ser uma responsabilidade que decidiu sustentar.
 
 **Não Limpo** é o não que não precisa humilhar, punir ou inventar um defeito no outro para existir.
 
-`Não consigo.`
+*Não consigo assumir desta vez.*
 
-`Não quero.`
+*Não concordo.*
 
-`Não vou assumir isso.`
+*Não agora.*
 
-`Não concordo.`
+Essas expressões não são fórmulas para qualquer situação. Há nãos que precisam de explicação porque existe responsabilidade compartilhada. Há contextos em que anunciá-los aumenta risco. Há sins que não podem ser tratados como livre escolha sem considerar as condições.
 
-`Não é seguro para mim.`
-
-`Não agora.`
-
-Mas cuidado.
-
-Nenhuma dessas expressões substitui a realidade.
-
-Há sins dados por dever legítimo mesmo quando não são prazerosos.
-
-Há nãos que precisam de explicação porque existe responsabilidade compartilhada.
-
-Há situações em que dizer não em voz alta aumenta risco.
-
-O objetivo não é colecionar frases fortes.
-
-É aproximar resposta de posição consciente.
+A função é aproximar resposta e consciência, não colecionar frases fortes.
 
 ## O desconforto começa a pedir lugar
 
-Quando você muda a forma de chegar num vínculo, alguém pode estranhar.
+Quando você muda a maneira de participar de um vínculo, alguém pode estranhar. Inclusive você.
 
-Inclusive você.
+Uma resposta mais curta pode parecer frieza. Um pedido de reciprocidade pode trazer culpa. Receber o não de alguém sem insistir pode exigir tolerar uma frustração que antes tentava resolver por pressão.
 
-A primeira vez que não explica demais pode parecer frieza.
+Desconforto não prova erro. Também não prova crescimento.
 
-A primeira vez que pede reciprocidade pode parecer exigência.
+A frase **Abrace o Desconforto** começa a fazer sentido quando você consegue perguntar se está diante de um custo de coerência, de perigo, de falta real de recurso ou de uma rota que precisa ser revista.
 
-A primeira vez que sustenta uma decisão diante de alguém importante pode produzir culpa.
+Não romantize a dor. Examine antes de obedecer tanto ao impulso de voltar quanto ao impulso de insistir.
 
-A primeira vez que recebe um não sem insistir pode parecer abandono.
+## Auditoria de Vínculo
 
-Nem todo desconforto é sinal de erro.
-
-E nem todo desconforto é crescimento.
-
-Essa distinção vai amadurecer numa Lei mais adiante:
-
-**Abrace o Desconforto.**
-
-Por enquanto, apenas semeie a pergunta:
-
-**este desconforto vem do custo de uma posição mais coerente, de um risco real ou de uma direção que precisa ser revista?**
-
-Não romantize dor.
-
-Classifique antes de obedecer.
-
-## AUDITORIA DE VÍNCULO
-
-Escolha **um vínculo**.
-
-Não escolha a pessoa para diagnosticá-la.
-
-Escolha a relação para observar o que acontece entre vocês.
-
-Use quatro eixos.
+Escolha uma relação, não uma pessoa para diagnosticar. A investigação pode continuar a mesma situação da Fotografia de Partida. Use quatro eixos:
 
 ### 1. Presença
 
-Consigo existir nessa relação com opinião, necessidade, limite e mudança?
-
-Ou preciso editar partes importantes de mim para preservar a convivência?
+Consigo participar com opinião, necessidade, limite e mudança? Que parte de mim parece precisar desaparecer para a convivência continuar?
 
 ### 2. Reciprocidade
 
-Quem inicia, repara, sustenta, ajusta e assume responsabilidade quando há problema?
-
-Não procure igualdade matemática.
-
-Procure participação real.
+Quem inicia, ajusta, repara e assume responsabilidade? Considere as capacidades e os deveres, sem exigir igualdade matemática.
 
 ### 3. Segurança
 
-Posso discordar sem medo desproporcional de violência, humilhação, punição, ameaça ou retaliação?
-
-Se a resposta for não, não use esta auditoria para provocar confronto. Use-a para reconhecer que segurança e recurso precisam entrar primeiro.
+Posso discordar sem risco relevante de violência, humilhação, ameaça ou retaliação? Se não, esta ferramenta não é convite ao confronto. É uma forma de reconhecer a necessidade de proteção e recurso.
 
 ### 4. Autoria
 
-Minhas respostas nesta relação parecem examinadas ou chegam principalmente para preservar pertencimento?
+O que digo sim porque quero ou devo? O que aceito para não perder lugar? O que recuso por limite e o que recuso para punir? Que resposta ainda não consigo examinar com clareza?
 
-O que digo sim porque quero ou devo?
+Volte ao Fruto e ao período observado. Não conclua a relação inteira por uma noite difícil. Também não transforme uma longa repetição em fase apenas porque a evidência incomoda.
 
-O que digo sim porque temo perder lugar?
+Um episódio grave, por sua vez, não precisa se repetir para merecer cuidado e proteção.
 
-O que digo não porque é limite?
+## Lia transfere um recurso, não um comportamento pronto
 
-O que digo não para punir?
+Lia percebeu que, diante de decisões de dinheiro, consegue consultar, esperar e comparar. Agora leva esse princípio para um pedido familiar: informação antes de compromisso.
 
-Agora volte ao Fruto.
+Ela não transforma a família num balcão de negociação. Quando recebe um pedido, responde: *Vou olhar o que já assumi e te falo.*
 
-**Que Fruto este vínculo produz de forma repetida?**
+A pessoa estranha: *Mas você sempre resolve.*
 
-Não conclua a relação inteira por uma noite ruim.
+A frase toca pertencimento. Lia sente culpa e retoma o Corpo-Sismógrafo: a sensação existe, mas ainda não prova que houve uma falta.
 
-Também não transforme dez anos do mesmo padrão numa `fase` só porque a verdade é inconveniente.
+Ela verifica o pedido. Existe dever real? Há urgência? Consegue ajudar? Precisa de um acordo? A resposta dependerá disso, não apenas do medo de desagradar.
 
-Observe.
+Lia não precisa terminar o vínculo para mudar sua participação. Também não recebe garantia de que tudo ficará melhor. O teste mostra o que essa relação permite negociar e o que ainda será necessário examinar.
 
-## Lia leva um recurso para o Galho vínculo
+## Quando existe incompatibilidade
 
-No capítulo anterior, Lia percebeu que no Galho dinheiro consegue esperar antes de decidir.
+Pode haver uma diferença que nenhuma técnica resolva: valores, projetos, desejos ou condições que não encontram uma forma compartilhada sem que alguém seja apagado.
 
-Agora ela leva o princípio para uma relação familiar em que costuma responder imediatamente a qualquer pedido.
+Incompatibilidade não exige vilão. Duas pessoas podem ser decentes e não conseguir construir a mesma relação.
 
-Ela não muda o amor.
+Isso não torna a perda fácil. Apenas impede que comunicação seja vendida como garantia de salvar qualquer vínculo.
 
-Não anuncia independência.
+Às vezes a conversa produz acordo. Às vezes produz a clareza de que ele não é possível. A clareza também pode doer.
 
-Não faz discurso.
+## A JAULA ESTÁ ABERTA
 
-Quando recebe um pedido, responde:
-
-`Vou olhar o que já assumi e te falo.`
-
-A pessoa estranha.
-
-`Mas você sempre resolve.`
-
-A frase toca pertencimento.
-
-Lia sente culpa.
-
-Usa o Corpo-Sismógrafo.
-
-Volta ao Tronco.
-
-Pergunta se existe dever real.
-
-Se houver, cumpre.
-
-Se for pedido, avalia.
-
-Se precisar de acordo, conversa.
-
-Percebe a diferença?
-
-O vínculo não precisa terminar para Lia se reposicionar dentro dele.
-
-Talvez termine algum dia.
-
-Talvez fique melhor.
-
-Talvez apenas mude de forma.
-
-Ainda não sabemos.
-
-O método não inventa final para sentir que ensinou alguma coisa.
-
-## Quando uma relação revela incompatibilidade
-
-Você pode fazer tudo isso e descobrir que existe uma diferença real que não será resolvida por técnica.
-
-Valores incompatíveis.
-
-Projetos de vida diferentes.
-
-Desejos diferentes.
-
-Disponibilidades diferentes.
-
-Condições que nenhum acordo consegue conciliar sem apagar alguém.
-
-Incompatibilidade não precisa de vilão.
-
-Duas pessoas podem ser decentes e não conseguir construir a mesma forma de vínculo.
-
-Isso não transforma a perda em fácil.
-
-Mas impede que o livro ensine que toda relação pode ser salva com comunicação perfeita.
-
-Às vezes o Fruto da conversa é clareza.
-
-E clareza também pode doer.
-
-## A JAULA ESTÁ ABERTA — quando o vínculo já mostrou o mesmo Fruto muitas vezes
-
-Não vou usar esse comando a cada duas páginas.
-
-Ele precisa conservar peso.
-
-Mas há um momento em que ele aparece.
-
-Você já conversou.
-
-Observou.
-
-Nomeou.
-
-Talvez tenha pedido.
-
-Talvez tenha colocado limite.
-
-Talvez tenha visto reparação.
-
-Talvez tenha visto repetição.
-
-Se existe evidência suficiente de um padrão, chega uma hora em que reduzir tudo a `não sei o que está acontecendo` deixa de ser prudência e começa a proteger a narrativa preferida.
+Quando um padrão já ficou suficientemente visível, continuar reduzindo tudo a não sei pode deixar de ser prudência e passar a proteger uma narrativa.
 
 **A JAULA ESTÁ ABERTA.**
 
-Isso ainda não significa sair.
+Não significa sair agora. Significa não apagar a evidência que você já consegue reconhecer.
 
-Significa parar de apagar a evidência.
+Se houver risco, o próximo passo pode ser procurar apoio. Se há margem de negociação, talvez seja necessário conversar. Se existe incompatibilidade, nomeá-la. Se a dúvida continua real, a conclusão permanece na Árvore.
 
-Se houver risco, prepare recurso.
+O método não exige certeza onde falta dado. Também não precisa alimentar dúvida artificial para justificar o retorno ao Sofá.
 
-Se houver margem de conversa, converse.
+## Quando o preço fica visível
 
-Se houver incompatibilidade, nomeie.
+No Galho dos vínculos, você examinou presença, pertencimento, dever, acesso e medo de perda. Agora vamos a uma área em que o preço pode aparecer literalmente.
 
-Se houver dúvida real, deixe na Árvore.
+No trabalho, no dinheiro e na carreira, você pode confundir uma recusa de proposta com uma sentença sobre o próprio valor. Pode entregar como favor o que precisava ser negociado ou aceitar uma condição sem conhecer seu custo.
 
-Mas não use dúvida artificial para voltar ao sofá.
+O Letreiro de Neon volta com outra função:
 
-Nós ainda vamos conhecer esse sofá de perto.
-
-## Antes de seguir
-
-Relacionamentos são um Galho poderoso porque envolvem pertencimento, acesso, limite, acordo, amor e medo de perda.
-
-Mas o posicionamento não termina no amor.
-
-Há outro Galho em que o preço costuma ficar literalmente visível.
-
-Trabalho.
-
-Dinheiro.
-
-Carreira.
-
-Marca pessoal.
-
-É ali que muita gente descobre uma confusão curiosa:
-
-acha que cobrar pelo trabalho é cobrar pelo próprio valor humano.
-
-Ou entrega como favor aquilo que deveria ter preço.
-
-Ou chama exploração de oportunidade.
-
-Ou transforma dinheiro em prova moral.
-
-No próximo capítulo, o Letreiro de Neon volta.
-
-Desta vez, não para falar de migalha afetiva.
-
-Para perguntar:
-
-**o que a sua posição comunica quando precisa dizer quanto vale uma entrega — sem confundir isso com quanto vale você?**
+**O que sua posição comunica quando precisa dizer quanto vale uma entrega — sem confundir isso com quanto vale você?**
