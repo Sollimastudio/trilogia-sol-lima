@@ -50,21 +50,21 @@ Não é necessário exibir esses rótulos ao leitor. É engenharia interna.
 
 ## 5 — A Mesma Semente, Solos Diferentes
 **Abertura:** mesma mensagem, solos diferentes.  
-**Blocos:** Parábola com fidelidade → adaptação autoral de Semente → atitude plantada → Solo como condição → mesma atitude em contextos distintos → erro da moralização simples.  
+**Blocos:** Parábola com fidelidade → adaptação autoral de Semente → atitude plantada → Solo como modo operante → mesma atitude recebida por modos de operar distintos → contexto externo próprio → erro da moralização simples.  
 **Lei:** Questione a Narrativa.  
 **Ferramenta:** Mapa Semente × Solo.  
-**Saída:** antes de julgar o que você planta hoje, conheça o Solo que recebeu suas primeiras respostas.
+**Saída:** antes de julgar o que você planta hoje, examine o Solo em que você opera e como ele foi sendo formado.
 
-## 6 — O Solo que Te Recebeu
+## 6 — O Solo em que Você Opera
 **Abertura:** ninguém começa a vida em terreno neutro.  
-**Blocos:** família/cultura/fé/recursos → familiar não é saudável → Celular Configurado → permissões → ambiente digital → contexto sem destino.  
+**Blocos:** modo operante → influências da formação → familiar não é saudável → Celular Configurado → permissões → ambiente digital como influência → contexto sem destino.  
 **Lei eco:** Desligue o Piloto Automático.  
 **Ferramenta:** Auditoria de Permissões.  
 **Saída:** condições explicam muito, mas o que ainda sustenta o padrão hoje?
 
-## 7 — Raízes: Seu Modo Operante
+## 7 — Raízes: O que Sustenta Seu Modo Operante
 **Abertura:** `eu sou assim` como hipótese não examinada.  
-**Blocos:** modus operandi/mindset → crença e valor operante → decisões são crenças em movimento → origem ≠ sustentação atual → hábito/corpo/contexto/recursos → Buscar a Lógica.  
+**Blocos:** aprendizagens que sustentam o modo operante → crença e valor operante → decisões são crenças em movimento → origem ≠ sustentação atual → hábito/corpo/contexto/recursos → Buscar a Lógica.  
 **Lei eco:** Questione a Narrativa.  
 **Ferramenta:** Buscar a Lógica + valor declarado × operante.  
 **Saída:** algumas raízes foram herdadas como mapas antes de serem escolhidas.

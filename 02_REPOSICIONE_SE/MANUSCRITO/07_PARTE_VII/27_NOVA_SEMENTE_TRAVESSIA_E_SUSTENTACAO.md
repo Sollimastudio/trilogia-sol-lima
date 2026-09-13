@@ -172,7 +172,7 @@ Perguntar `isso é fato ou interpretação?`.
 
 Pequeno não é sinônimo de fraco.
 
-Pequeno pode ser o tamanho exato da Semente que o Solo atual consegue receber.
+Pequeno pode ser o tamanho da Semente que seu modo operante consegue começar a receber e que suas condições permitem sustentar.
 
 ## A Nova Semente precisa conversar com o Fruto
 
@@ -214,11 +214,13 @@ A Nova Semente não resolve a vida.
 
 Ela produz um próximo dado.
 
-## O Solo volta
+## O Solo e as condições de cultivo voltam
 
 Aqui a Árvore fecha um círculo.
 
-Você já entendeu que a mesma Semente não encontra as mesmas condições em todos os Solos.
+Você já entendeu que uma atitude encontra modos diferentes de recepção. Se toda pausa ainda é lida como fracasso, uma prática que exige paciência vai precisar enfrentar essa leitura. Esse é o trabalho sobre o Solo.
+
+Também há um ambiente que favorece ou dificulta o cultivo.
 
 Então não adianta escolher uma prática nova e devolvê-la exatamente ao ambiente que tornava a antiga quase inevitável sem perguntar o que precisa ser preparado.
 
@@ -238,7 +240,7 @@ Você quer cobrar diferente.
 
 Mas ainda não organizou escopo, custo e proposta.
 
-Talvez o Solo profissional precise de clareza antes da conversa.
+Talvez a preparação profissional precise de clareza antes da conversa.
 
 Você quer dizer não numa relação em que existe risco.
 
@@ -246,7 +248,7 @@ Talvez a primeira Nova Semente não seja dizer não em voz alta.
 
 Pode ser construir rede, informação ou proteção.
 
-**Uma Semente responsável respeita o Solo sem se ajoelhar diante dele.**
+**Uma Semente responsável considera o modo operante e prepara as condições de cultivo.**
 
 Ela pergunta o que precisa ser preparado para que o novo tenha alguma chance de sobreviver ao custo.
 
@@ -428,7 +430,7 @@ Pergunte:
 
 O que aconteceu antes?
 
-Qual Solo estava diferente?
+O que estava diferente no meu modo de receber a situação ou nas condições externas?
 
 Que recurso faltou?
 
@@ -536,7 +538,7 @@ A pergunta não é `quanto tempo uma pessoa normal levaria?`.
 
 É:
 
-**o que esta mudança exige neste Solo?**
+**o que esta mudança exige do meu modo de operar e das condições que tenho?**
 
 Talvez prática.
 
@@ -650,7 +652,7 @@ Observável.
 
 Ligado ao Fruto.
 
-O Solo também recebe ajuste: Lia reserva dois momentos do dia para revisar pedidos não urgentes.
+O ambiente também recebe ajuste: Lia reserva dois momentos do dia para revisar pedidos não urgentes. No Solo, pratica receber a pausa como parte da responsabilidade, em vez de tomá-la imediatamente como prova de egoísmo.
 
 Ela não precisa interromper o trabalho a cada mensagem.
 
@@ -684,7 +686,7 @@ Pronto.
 
 A Semente não morreu.
 
-O Solo mostrou uma condição que ainda precisa de cuidado.
+O cultivo mostrou uma condição que ainda precisa de cuidado. Ela examina se a dificuldade está no modo de receber a situação, nas condições externas ou em ambos.
 
 Lia repara o que for necessário e continua.
 
@@ -718,7 +720,7 @@ Que prática altera a cadeia?
 
 Depois escreva:
 
-**O que no meu Solo pode ajudar:** ____________________.
+**Que modo de receber e interpretar pode ajudar, e que apoio externo preciso preparar:** ____________________.
 
 **O que pode dificultar:** ____________________________.
 
@@ -796,7 +798,7 @@ sustentação;
 
 necessidade de apoio;
 
-mudança de Solo;
+mudança no modo operante ou no ambiente;
 
 recaídas;
 

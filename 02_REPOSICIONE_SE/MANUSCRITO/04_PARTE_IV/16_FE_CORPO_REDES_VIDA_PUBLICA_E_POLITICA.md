@@ -56,7 +56,7 @@ Não force uma resposta. A pergunta serve para observar uma posição, não para
 
 ## Redes: ambiente e prática
 
-Na Parte II, o ambiente digital entrou como parte do **Solo**: o que chega à atenção, o que se repete e as condições em que pensamos. Aqui, redes também entram como **Galho**: uma área em que você publica, conversa, trabalha, busca informação e ocupa posições.
+Na Parte II, o ambiente digital entrou como uma influência na formação do **Solo**, nosso modo operante: o que chega à atenção e como recebemos, interpretamos e repetimos. Aqui, redes também entram como **Galho**: uma área em que você publica, conversa, trabalha, busca informação e ocupa posições.
 
 As funções são diferentes. O ambiente participa do cultivo; a sua prática digital também produz resultados que podem ser observados.
 

@@ -1,4 +1,4 @@
-# CAPÍTULO 7 — RAÍZES: SEU MODO OPERANTE
+# CAPÍTULO 7 — RAÍZES: O QUE SUSTENTA SEU MODO OPERANTE
 
 ## Talvez eu sou assim seja uma conclusão precoce
 
@@ -10,17 +10,17 @@ Você se chama de explosivo, boazinha, frio, desorganizada, dependente ou contro
 
 Talvez existam características estáveis, preferências e limitações que fazem parte da sua experiência. O método não nega isso. Mas uma parte do que você está descrevendo pode ser uma forma repetida de funcionar em certas condições.
 
-É por isso que uso a expressão **modo operante**. Não como termo clínico, mas como pergunta prática:
+No capítulo anterior, chamamos esse **modo operante** de Solo. Não é termo clínico. É uma pergunta prática:
 
 **Como você costuma operar aqui?**
 
 Diante de um pedido, uma crítica, uma autoridade, uma possibilidade de rejeição? O que faz quando precisa escolher entre discordar e preservar o lugar? Em que situações responde de outro jeito?
 
-A repetição oferece pistas sobre uma Raiz. Ainda não é a resposta inteira.
+A repetição ajuda a descrever o Solo. Agora investigamos as Raízes: o que você aprendeu, repete ou continua alimentando que sustenta esse modo de operar? Ainda não temos a resposta inteira.
 
 ## Raiz é sustentação atual, não uma sentença sobre a origem
 
-A origem pode estar distante. A Raiz, no método, é aquilo de onde um padrão ainda retira força **hoje**.
+A origem pode estar distante. As Raízes incluem histórias e aprendizagens, crenças específicas, hábitos e lealdades de onde um padrão ainda retira força **hoje**. A infância pode participar. Uma experiência posterior também. Não precisamos inventar origem para investigar sustentação.
 
 Uma frase ouvida na infância pode fazer parte da história sem governar a decisão atual. Uma experiência difícil pode ter sido atravessada com recursos que depois mudaram a maneira de responder.
 
@@ -28,7 +28,7 @@ Da mesma forma, uma Raiz não precisa ter começado na infância. Pode ter se fo
 
 Imagine alguém elogiado por entregar tudo rapidamente. Esse elogio pode ter sido bom. A regra atual, porém, pode ter ficado estreita: *só tenho valor enquanto estou disponível*.
 
-A origem possível foi o elogio. A hipótese de Raiz é a regra que continua organizando a resposta.
+A origem possível foi o elogio. A hipótese de Raiz é a regra que continua organizando a resposta. O Solo aparece no modo de receber cada pedido como uma prova urgente de valor; a Semente, no sim que a pessoa pratica antes de conferir a própria capacidade.
 
 Quando digo **Volte às Raízes**, não estou mandando você procurar na infância a explicação obrigatória de tudo. Estou perguntando:
 

@@ -56,7 +56,7 @@ A pergunta não é se depender torna alguém fraco. É:
 
 Uma relação pode ser muito importante emocionalmente sem ser coercitiva. Pode também parecer livre de fora enquanto ameaça, vigilância ou controle de recursos tornam a recusa perigosa.
 
-Não sabemos a situação inteira por uma palavra. Voltamos ao Fruto, ao Solo, ao risco e às condições de movimento.
+Não sabemos a situação inteira por uma palavra. Voltamos ao Fruto, ao modo operante, ao ambiente, ao risco e às condições de movimento.
 
 ## Intensidade não é veredito
 

@@ -18,7 +18,7 @@ Todo item factual deve receber um dos marcadores:
 ### Identidade das obras
 **[C] Livro 1:** `Morte em Vida — A Anatomia de um Feminicídio Emocional / A Cadáver que Tomava Café`.
 
-**[C] Livro 2:** `Reposicione-se` — linha de força: `O mundo te ensinou a reagir. Ninguém te ensinou a existir.`
+**[C] Livro 2:** `Reposicione-se` — linha de força: `O mundo te ensinou a resistir, ninguém te ensinou a existir.`
 
 **[R] Livro 3:** conceito central `Fuga Identitária`; título de trabalho atual `Anatomia do Desaparecimento do Eu`. Título final ainda não fechado.
 
@@ -68,3 +68,9 @@ Versão inicial: 10/09/2026.
 **[C] Nome e autoria:** Método Posicione-se, metodologia autoral de Sol Lima, ensinada no livro Reposicione-se e base comum do Workbook e do futuro curso.
 **[M] Jaula:** a autora descreve sua mente como uma jaula cuja porta sempre esteve aberta e sua permanência no sofá quente das mentiras que contava a si mesma. É relato metafórico de sua experiência, não uma afirmação universal sobre pessoas em sofrimento ou restrição.
 **[C] Comandos do pensamento:** Pense nisso; Repense isso; Pense comigo. Suas funções constam no dicionário do Livro 2 e no capítulo 22.
+
+## Atualização autoral 05W — D010, D011 e D012
+**[C] Livro 2:** `Reposicione-se: O mundo te ensinou a resistir, ninguém te ensinou a existir`.
+**[C] Método:** `Método Posicione-se`, de Sol Lima. Todos já ocupam posição; avaliar Frutos distingue o que preservar do que revisar.
+**[C] Gramática autoral:** Semente = atitude; Solo = modo operante/mindset. Raízes = aprendizagens, histórias, crenças específicas, hábitos e lealdades sustentadoras. Ambiente externo é campo próprio. D011 substitui definições anteriores incompatíveis; documentos históricos não governam o sentido atual.
+**[C] Produtos:** livro-matriz, Workbook separado com todos os testes e futuro curso por Partes. As primeiras versões dos instrumentos estão em `02_REPOSICIONE_SE/WORKBOOK/`; não são produto publicado nem testes validados.

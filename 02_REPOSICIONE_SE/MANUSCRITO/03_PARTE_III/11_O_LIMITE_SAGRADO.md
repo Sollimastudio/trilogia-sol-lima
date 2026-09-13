@@ -400,7 +400,7 @@ esperar o momento mais seguro.
 
 Isso não é covardia.
 
-É posicionamento considerando Solo, risco e recurso.
+É posicionamento considerando modo operante, ambiente, risco e recurso.
 
 A Jaula pode estar aberta em algum ponto e, ainda assim, a Porta exigir preparação.
 

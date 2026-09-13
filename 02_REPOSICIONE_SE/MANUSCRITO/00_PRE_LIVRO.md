@@ -1,6 +1,6 @@
 # REPOSICIONE-SE
 
-## O mundo te ensinou a reagir. Ninguém te ensinou a existir.
+## O mundo te ensinou a resistir, ninguém te ensinou a existir.
 
 **Sol Lima**
 
@@ -52,7 +52,9 @@ E a vida continua acontecendo enquanto você está ali.
 
 Posicionamento não começa somente quando alguém levanta a voz e anuncia: agora eu vou me posicionar. Uma posição já estava funcionando antes de receber esse nome. Pode ter sido escolhida, herdada, aprendida, repetida ou imposta. Pode ter sido a resposta mais segura num tempo de pouco recurso e pouca liberdade. Pode parecer personalidade apenas porque nunca voltou a ser examinada.
 
-É por isso que este livro se chama **Reposicione-se**. Não parto da ideia de que você está sem posição. Parto da necessidade de conhecer a posição que já ocupa e verificar se ela ainda serve à vida que deseja construir.
+Este livro começou com o nome **Posicione-se**. Depois, precisei levar a sério uma coisa que o próprio método me mostrava: ninguém está fora de uma posição. Até permanecer sem escolher já nos encontra em algum lugar.
+
+É por isso que o livro se chama **Reposicione-se**. Não parto da ideia de que você está sem posição. Parto da necessidade de conhecer a posição que já ocupa e verificar se ela ainda serve à vida que deseja construir. Se serve, há o que sustentar. Se os Frutos pedem outra direção, há o que revisar.
 
 Uma distinção precisa ficar clara desde agora: **posição não é consentimento**. Examinar a sua participação não significa que você causou o comportamento de quem te feriu. Nem significa que todo sofrimento teria sido evitado se você tivesse se posicionado melhor.
 
@@ -162,25 +164,23 @@ E a luz tem um defeito maravilhoso:
 
 ## A mesma semente. Solos diferentes.
 
-A Parábola do Semeador oferece uma imagem decisiva para esta travessia: a mesma semente encontra terrenos diferentes. Há o caminho, o terreno pedregoso, os espinhos e a boa terra. A condição em que aquilo é recebido e encontra sustentação participa do que acontece depois.
+Sou cristã. A Parábola do Semeador está na origem da imagem que me ajudou a organizar este método. Há o caminho, o terreno pedregoso, os espinhos e a boa terra. A mesma semente encontra maneiras diferentes de ser recebida e sustentada.
 
 **A mesma semente. Resultados diferentes.**
 
-Na parábola bíblica, a semente é a palavra, a mensagem. Preservo esse sentido. A aproximação que faço com o meu método é pedagógica: a imagem me ajuda a lembrar que não estamos todos plantando no mesmo chão.
+Na parábola bíblica, a semente é a palavra, a mensagem. Preservo esse sentido. A partir dessa inspiração, faço uma adaptação autoral: no **Método Posicione-se**, a **Semente é a atitude que você planta** e o **Solo é seu modo operante — seu mindset**. É a maneira como recebe, interpreta e responde ao que acontece.
 
-Dizer não numa relação segura não é igual a dizer não sob ameaça. Deixar um emprego com reserva não exige as mesmas condições que sair sem renda ou apoio. Expor uma opinião onde há espaço para contraditório não é a mesma coisa que fazê-lo onde discordar traz risco.
-
-A atitude pode parecer semelhante de fora. O Solo muda o que ela exige.
-
-No Método Posicione-se, chamo de **Semente** a atitude, a decisão ou a prática que plantamos: um sim, um não, uma conversa, uma recusa, uma omissão, uma resposta repetida. Essa é uma adaptação autoral; não substitui a definição bíblica da semente.
+Duas pessoas podem dizer o mesmo não. Uma recebe o próprio limite como cuidado necessário. A outra o interpreta como prova de egoísmo e passa a noite procurando um jeito de desfazê-lo. A frase foi parecida. O modo de recebê-la não foi.
 
 A Semente pergunta: **o que estou plantando com aquilo que faço ou repito?**
 
-O Solo acrescenta: **em que condições isso acontece?**
+O Solo acrescenta: **como estou funcionando enquanto planto isso?**
 
-Solo não é culpa. Não é caráter. É condição.
+Mais adiante, as Raízes vão nos ajudar a investigar as histórias, crenças, hábitos e lealdades que sustentam esse funcionamento. O Solo descreve como opero. As Raízes perguntam o que ainda alimenta esse modo de operar.
 
-Eu não quero oferecer a mesma bronca para quem precisa tomar uma decisão e para quem precisa primeiro de proteção, informação ou recurso.
+E o mundo de fora continua existindo. Dizer não numa relação segura não é igual a dizer não sob ameaça. Deixar um emprego com reserva não exige os mesmos recursos que sair sem renda ou apoio. Chamo isso de ambiente e condições de cultivo. Precisam entrar na investigação com nome próprio.
+
+Não basta trocar um pensamento quando falta proteção. Também não basta mudar de endereço se toda pergunta nova continua recebendo a mesma resposta antiga.
 
 **Método sem contexto vira crueldade com diagrama bonito.**
 

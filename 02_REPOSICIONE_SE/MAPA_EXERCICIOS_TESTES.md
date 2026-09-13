@@ -10,7 +10,7 @@
 Microaplicações, perguntas-mestras, checkpoints curtos e demonstrações do método.
 
 ### No Workbook
-Testes completos, pontuação, fichas extensas, roteiros de repetição, tabelas de acompanhamento e planos.
+Testes completos, registros de observação, fichas extensas, roteiros de repetição, tabelas de acompanhamento e planos.
 
 ### No curso
 Demonstração, prática guiada, estudos de caso, feedback, integração entre ferramentas e sustentação.
@@ -259,3 +259,8 @@ Comparar:
 ## 4. Regra para o curso
 
 Cada módulo do curso deve nascer de uma Parte do livro e reutilizar os mesmos termos. O curso pode acrescentar demonstração, role-play, estudo de caso, feedback e acompanhamento, mas não renomeia o método nem inventa etapas concorrentes.
+
+## Aplicação 05W — Workbook em produção
+O produto separado está confirmado em D012. As primeiras versões estão em `WORKBOOK/`: Teste da Árvore, 14 Tipos/42 perguntas, Influência Indevida/32 itens e 19 fichas. O teste de autonomia de pensamento foi integrado ao de influência como uma seção própria; a distinção conceitual permanece. Autopiedade, Sofá, Jaula e outros roteiros estão nas fichas. Não criar um teste separado para cada metáfora sem função nova.
+
+Solo deve ser lido como modo operante/mindset; ambiente externo tem campo próprio. As versões atuais usam registros factuais e devolutivas sem escores classificatórios. Referências antigas a pontuação descrevem a intenção histórica, não a validação de uma escala ou a exigência de inventar números.

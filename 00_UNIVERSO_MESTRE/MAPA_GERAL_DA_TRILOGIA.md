@@ -21,7 +21,7 @@ Este é o mapa-mãe do universo editorial. Ele existe para impedir perda de cont
 ---
 
 ### LIVRO 2 — REPOSICIONE-SE
-**Título de trabalho:** *Reposicione-se — O mundo te ensinou a reagir. Ninguém te ensinou a existir.*
+**Título de trabalho:** *Reposicione-se — O mundo te ensinou a resistir, ninguém te ensinou a existir.*
 
 **Pergunta central:** Agora que consigo enxergar, como mudo a posição que ocupo na minha vida?
 

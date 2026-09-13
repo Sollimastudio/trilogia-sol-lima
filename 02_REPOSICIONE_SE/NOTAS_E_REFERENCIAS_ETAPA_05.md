@@ -10,7 +10,7 @@
 
 As passagens foram conferidas em **Almeida Revista e Atualizada — ARA**, edição da Sociedade Bíblica do Brasil disponibilizada no YouVersion. “Pelos frutos se conhece a árvore” é paráfrase, não reprodução literal de um versículo. Lucas 6:43–45 relaciona árvore, fruto, coração e fala; Mateus 7:15–20 inclui a advertência sobre falsos profetas. João 8:31–36 relaciona permanência na palavra de Jesus, verdade, pecado e liberdade no Filho. Lucas 8:5–15 explica a semente como palavra de Deus e os diferentes modos de recebê-la.
 
-No método, Semente como atitude e Solo como condições materiais/relacionais são adaptações declaradas. Não constituem exegese que classifique pobres, pessoas adoecidas ou vítimas como “solo ruim”. Fruto observável como dado parcial também é uma convenção autoral, não tradução de uma medida científica contida nos Evangelhos. Crédito final e condições editoriais da tradução deverão ser conferidos antes da publicação; esta consulta não representa autorização de reprodução.
+Atualização D011, de 13/09/2026: no método, Semente como atitude e Solo como modo operante/mindset são adaptações declaradas. Ambiente e condições materiais/relacionais permanecem em campo próprio. Não constituem exegese que classifique pobres, pessoas adoecidas ou vítimas como “solo ruim”. Fruto observável como dado parcial também é uma convenção autoral, não tradução de uma medida científica contida nos Evangelhos. Crédito final e condições editoriais da tradução deverão ser conferidos antes da publicação; esta consulta não representa autorização de reprodução.
 
 ## N03 — Metacognição
 

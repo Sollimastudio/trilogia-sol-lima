@@ -1,6 +1,6 @@
 # BÍBLIA EDITORIAL — REPOSICIONE-SE
 
-**Livro:** Reposicione-se — *O mundo te ensinou a reagir. Ninguém te ensinou a existir.*  
+**Livro:** Reposicione-se — *O mundo te ensinou a resistir, ninguém te ensinou a existir.*  
 **Frente:** Livro 2 da Trilogia Sol Lima  
 **Versão:** 1.0 — saída da ETAPA 01  
 **Data:** 10/09/2026  
@@ -46,11 +46,12 @@ A Jaula é a casa simbólica. O **Sofá Quente da Mentira** está dentro dela. O
 
 ## 4. Gramática canônica da Árvore
 
-> **Decisão autoral de 10/09/2026:** para a escrita desta edição, `Semente` opera como atitude, decisão ou prática plantada. A Parábola do Semeador será preservada em seu sentido bíblico próprio e usada como analogia de contexto/solo; o livro declarará que a definição metodológica é uma adaptação autoral, não uma reescrita do texto bíblico.
+> **Decisão autoral de 10/09/2026, complementada por D011 em 13/09/2026:** para a escrita desta edição, `Semente` opera como atitude, decisão ou prática plantada. A Parábola do Semeador será preservada em seu sentido bíblico próprio e usada como inspiração da recepção e do cultivo; o livro declarará que a definição metodológica é uma adaptação autoral, não uma reescrita do texto bíblico.
 
 - **Semente:** atitude, decisão ou prática que entra no cultivo. Pergunta: *o que estou plantando com o que faço, deixo de fazer ou repito?*
-- **Solo:** ambiente e condições que favorecem, dificultam ou alteram o cultivo. Pergunta: *em que condições isso está sendo plantado?*
-- **Raízes:** modus operandi, mindset, crenças operantes, lealdades, hábitos e lógicas de onde o padrão ainda retira força hoje. Pergunta: *o que sustenta isso agora?*
+- **Solo:** modo operante/mindset; maneira atual de receber, interpretar e responder. Pergunta: *como estou funcionando diante disso?*
+- **Ambiente e condições de cultivo:** contexto, recursos, risco e restrições concretas; observar separadamente, sem reduzi-los ao mindset.
+- **Raízes:** aprendizagens, histórias, crenças específicas, lealdades e hábitos que ainda sustentam o padrão. Pergunta: *o que aprendi ou repito que alimenta isso agora?*
 - **Tronco:** valores, identidade praticada, limites e sustentação quando existe custo. Pergunta: *o que permanece quando há consequência?*
 - **Galhos:** áreas concretas da vida. Pergunta: *onde isso acontece?*
 - **Frutos:** resultados observáveis. Pergunta: *o que acontece de fato?*
@@ -77,7 +78,7 @@ Começar pelo observável reduz adivinhação retrospectiva. Subir sem descer po
 Régua de observação. Fruto informa; não sentencia caráter, valor, culpa ou causa completa.
 
 ### Parábola do Semeador
-No texto bíblico, a semente é palavra/mensagem e os solos recebem de formas diferentes. No livro, a cena ensina que **a mesma entrada em condições diferentes pode produzir trajetórias diferentes**. Em seguida, a autora declara sua adaptação pedagógica: no Método Posicione-se, Semente passa a nomear a atitude/decisão/prática plantada.
+No texto bíblico, a semente é palavra/mensagem e os solos recebem de formas diferentes. No livro, a cena ensina que **a mesma entrada em condições diferentes pode produzir trajetórias diferentes**. Em seguida, a autora declara sua adaptação pedagógica: no Método Posicione-se, Semente passa a nomear a atitude/decisão/prática plantada e Solo, o modo operante/mindset que a recebe. O contexto externo permanece em campo próprio.
 
 ### Conhecereis a verdade e a verdade vos libertará
 Eixo de discernimento. Ver a verdade não resolve automaticamente a vida; a liberdade exige o que se faz com o que foi visto.
@@ -187,3 +188,5 @@ Cada capítulo deverá conter, quando aplicável:
 12. ponte inevitável para o próximo capítulo.
 
 Repetição só permanece quando muda de função: nascimento, eco, aprofundamento, contraste, aplicação ou fechamento. Recapitulação sem função deve ser cortada.
+
+**Continuidade D012:** Workbook confirmado; consultar `WORKBOOK/README.md` para instrumentos, fontes recuperadas, primeiras versões e trabalho restante. O livro conserva aplicações suficientes por si só. Não anunciar download ou produto pronto antes da edição e publicação próprias.

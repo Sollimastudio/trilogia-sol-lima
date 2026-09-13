@@ -40,18 +40,25 @@ Resultado observável em um Galho, situação e período.
 Na parábola bíblica, a semente é palavra/mensagem. O livro preserva essa leitura e declara explicitamente que o uso de `Semente` como atitude/decisão/prática é adaptação pedagógica do Método Posicione-se, não equivalência exegética.
 
 ## Solo
-Ambiente e condições que recebem o cultivo e tornam certos movimentos mais ou menos prováveis.
+Modo operante / mindset: a maneira atual de receber, interpretar, examinar e responder à vida em uma situação. É o terreno interno em que a atitude é plantada.
 
-Pode incluir família, cultura, fé, condições materiais, escola, relações, recursos, ameaça, ambiente digital, oportunidade e contexto.
+**Decisão autoral D011 — 13/09/2026:** esta definição substitui Solo = ambiente/condições. Não é uma correção da fala da autora; é a aplicação da definição que ela explicitou.
 
-**Pergunta:** em que condições isso está sendo plantado?  
-**Não é:** caráter da pessoa nem destino.
+**Pergunta:** como estou recebendo e interpretando esta situação — e que modo de funcionar favoreço ao responder assim?
+**Não é:** caráter fixo, culpa, grau de fé, rótulo de pessoa boa/ruim ou a totalidade do ambiente externo.
+
+## Ambiente e condições de cultivo
+Contexto externo e condições concretas: família, cultura, escola, relações, trabalho, ambiente digital, recursos, ameaça, oportunidade e responsabilidades. Afetam o cultivo e podem limitar a ação, mas não recebem o nome de Solo nesta edição.
+
+**Pergunta:** o que está acontecendo ao meu redor e que recursos, restrições e riscos participam?
 
 ## Raízes
-Modus operandi/mindset atual: crenças operantes, valores, hábitos, lealdades, interpretações e lógicas de onde um padrão ainda retira força no presente.
+Histórias aprendidas, crenças específicas, hábitos, lealdades e regras de onde um padrão ainda retira força. Podem ter origem familiar, na infância ou em experiências posteriores. Uma origem desconhecida continua desconhecida.
 
-**Pergunta:** o que sustenta isso hoje?  
-**Não é:** origem como condenação, diagnóstico retrospectivo ou `eu sou assim`.
+**Distinção operacional:** Solo descreve o modo de funcionar; Raízes investigam aprendizagens e mecanismos específicos que o sustentam. Não repetir mindset como definição das duas partes.
+
+**Pergunta:** o que aprendi, repito ou continuo alimentando que sustenta este modo de funcionar hoje?
+**Não é:** origem como condenação, diagnóstico retrospectivo, memória inventada ou causa única.
 
 ## Tronco
 Valores, identidade praticada, limites e capacidade de sustentar direção quando existe consequência.
@@ -300,3 +307,8 @@ Pare de morar na análise e pratique o próximo movimento possível.
 # REGRA DE CONSISTÊNCIA
 
 Livro, Workbook, curso, slides, ilustrações e comunicação pública devem usar estes conceitos com o mesmo significado. Alterações futuras exigem registro em etapa/histórico antes de migrar o manuscrito.
+
+## Critério de reposicionamento e Workbook — D010–D012
+O livro se chama **Reposicione-se: O mundo te ensinou a resistir, ninguém te ensinou a existir**. O método mantém o nome **Método Posicione-se**, de Sol Lima. Toda pessoa ocupa uma posição; Frutos coerentes com valores, deveres e condições podem indicar algo a preservar. Reposicionar-se é revisar o que precisa mudar, não mudar tudo por obrigação.
+
+O Workbook é uma obra complementar confirmada, reunindo os testes usados no livro e fichas para repetição. Os três instrumentos centrais são Árvore, Posicionamento/14 Tipos e Influência Indevida/Autonomia de Pensamento. Formas de resposta e devolutiva devem corresponder ao que o instrumento realmente permite concluir. Nesta edição são instrumentos pedagógicos em preparação, sem certificação de identidade ou de “lavagem cerebral”.

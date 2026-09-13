@@ -1,6 +1,6 @@
 # STATUS — REPOSICIONE-SE
 
-**Atualização:** 11/09/2026.  
+**Atualização:** 13/09/2026 — complemento 05W.  
 **Frente de trabalho:** somente `02_REPOSICIONE_SE/`.  
 **Etapa encerrada:** **ETAPA 04 — EPÍLOGO E COSTURA INTEGRAL**.  
 **Próxima etapa:** **ETAPA 05 — AUDITORIA DE RIGOR E RISCO**.
@@ -98,3 +98,10 @@ Arquivos vivos podem evoluir com motivo registrado. Snapshots anteriores não s�
 ## Complemento 05V — 13/09/2026
 Conferidos Método Posicione-se, Árvore, Jaula, Sofá, pensamentos, exercícios e origem dos ativos visuais. Atualizados apenas Pré-livro e capítulo 22: crédito explícito do método, relato metafórico fornecido pela autora e recuperação dos três comandos de pensamento. Sem reabertura da arquitetura, sem fechamento da auditoria científica e sem conclusão das etapas 07/08/09.
 Snapshot pontual: `ETAPAS/05V_METODO_COMANDOS_E_VISUAIS_2026-09-13.md`. Mapa de continuidade: `MAPA_METODO_LIVRO_WORKBOOK_CURSO.md`.
+
+## Complemento 05W — definições autorais e Workbook
+Aplicadas D010–D012: subtítulo com “resistir”; Solo como modo operante/mindset; Raízes como histórias/aprendizagens e mecanismos específicos de sustentação; contexto externo em campo próprio. Pré-livro, Parte II e retomadas posteriores foram revisados por coerência; arquitetura de sete Partes/28 capítulos preservada.
+
+Workbook confirmado e pasta criada com primeiras versões de três testes, 19 fichas e fontes recuperadas. Estado V0.1, ainda sem leitura de uso com leitores, validação psicométrica ou diagramação final. A auditoria geral da ETAPA 05 continua parcial. Relatórios anteriores não foram sobrescritos.
+
+Direção atual: `DIRECAO_EDITORIAL_CONSOLIDADA_05W.md`. Registro: `ETAPAS/05W_DEFINICOES_AUTORA_E_WORKBOOK_2026-09-13.md`. Próximo comando: `PROMPT_PROXIMA_ETAPA_05.md`, considerando a atualização 05W no início.

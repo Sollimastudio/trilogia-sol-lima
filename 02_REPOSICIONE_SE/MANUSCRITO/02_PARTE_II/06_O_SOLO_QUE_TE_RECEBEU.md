@@ -1,4 +1,4 @@
-# CAPÍTULO 6 — O SOLO QUE TE RECEBEU
+# CAPÍTULO 6 — O SOLO EM QUE VOCÊ OPERA
 
 ## Ninguém começa em terreno neutro
 
@@ -6,7 +6,9 @@ Quando você começou a perceber a vida, já havia gente ali. Havia linguagem, r
 
 Antes que você pudesse pedir tempo para avaliar uma premissa, a vida já estava ensinando.
 
-Esse é o Solo que te recebeu: não apenas a casa da infância, mas as condições em que suas primeiras respostas começaram a fazer sentido.
+Esse foi o ambiente que te recebeu. Nele, você começou a aprender maneiras de receber, interpretar e responder. No método, chamo esse modo de funcionar de **Solo**. A casa e as pessoas participaram da formação; não são o Solo em si.
+
+Se diante de toda discordância você já opera como se o vínculo estivesse ameaçado, temos uma leitura do Solo. Perguntar que histórias, regras ou experiências continuam sustentando essa leitura nos leva às Raízes, no próximo capítulo.
 
 É importante conhecê-las. Também é importante não parar nelas.
 
@@ -16,7 +18,7 @@ Uma pessoa pode ter crescido numa família afetuosa e viver atualmente num traba
 
 O contrário também acontece: depois de um ambiente rígido, pode encontrar pessoas com quem uma pergunta não exige medo.
 
-O Solo atual não é uma simples reprodução do Solo de origem. Por isso o método evita dois atalhos: *tudo vem da infância* e *o passado não importa*.
+O modo operante atual não é uma reprodução obrigatória do ambiente de origem. Por isso o método evita dois atalhos: *tudo vem da infância* e *o passado não importa*.
 
 A pergunta é:
 
@@ -104,9 +106,9 @@ Nenhuma dessas frases dispensa contexto. Uma responsabilidade profissional pode 
 
 A pergunta é se a regra ainda precisa ser examinada ou se já ganhou o direito de organizar tudo sem aparecer. O nome permissão não significa que você tenha consentido livremente com o que alguém fez; descreve aqui um acesso ou uma prática que precisa ser reconhecida.
 
-## O ambiente digital também é Solo
+## O ambiente digital também participa da formação do Solo
 
-O Solo não termina na porta de casa. Telas, grupos, vídeos, recomendações e pessoas em quem confiamos fazem parte do que chega repetidamente à atenção.
+Telas, grupos, vídeos, recomendações e pessoas em quem confiamos fazem parte do ambiente que chega repetidamente à atenção. Podem participar da formação do Solo — da maneira como você recebe, compara, interpreta e responde. Receber influência não é o mesmo que examiná-la.
 
 Você pode entrar numa rede para entretenimento e sair comparando a vida com a de gente que parece ganhar mais, amar melhor e tomar café em varanda de hotel às onze da manhã de uma terça-feira.
 
@@ -118,13 +120,13 @@ Repetição e familiaridade também precisam entrar na pergunta, sem que isso no
 
 Podemos investigar essa influência sem concluir que toda ideia recebida de fora é manipulação. Voltaremos às fontes e ao pertencimento depois de reconhecer melhor a posição que eles podem ajudar a sustentar.
 
-## Quando o Solo muda e a resposta permanece
+## Quando o ambiente muda e o Solo ainda responde ao passado
 
 Uma pessoa pode não depender mais de certa aprovação e continuar respondendo como se dependesse. Pode encontrar um vínculo que aceita discordância e ainda antecipar a punição conhecida. Pode dispor de uma margem financeira nova e não ter revisto o modo de decidir construído na escassez.
 
 São possibilidades, não conclusões sobre quem viveu uma história difícil.
 
-A pergunta é: **o Solo mudou e eu continuo respondendo como se estivesse no antigo?**
+A pergunta é: **o ambiente mudou e meu modo operante continua respondendo como se as condições fossem as antigas?**
 
 Se houver indício disso, precisamos testar a leitura. Não transformar uma resposta persistente em trauma por conta própria, nem dizer que o perigo está apenas na cabeça.
 
@@ -154,7 +156,7 @@ Escolha uma regra que apareceu e faça a investigação central:
 
 **Como posso ter aprendido isso?**
 
-**O Solo atual confirma essa regra?**
+**Os fatos do ambiente atual confirmam essa regra ou meu Solo a recebe como verdade antes do exame?**
 
 **Há evidência de que outra resposta é possível?**
 
@@ -162,7 +164,7 @@ A origem pode continuar desconhecida. Não invente um responsável para preenche
 
 ## Lei 4 — Desligue o Piloto Automático, agora olhando o Solo
 
-A Lei 4 apareceu no **Capítulo 4**, junto da primeira subida guiada. Ali, você criou um intervalo diante da resposta. Agora usa esse intervalo para examinar as condições em que ela continua funcionando.
+A Lei 4 apareceu no **Capítulo 4**, junto da primeira subida guiada. Ali, você criou um intervalo diante da resposta. Agora usa esse intervalo para examinar o modo em que recebe a situação e as condições em que a resposta continua funcionando.
 
 **Esta é uma escolha atual ou uma regra antiga que ainda não voltou à mesa?**
 
@@ -170,7 +172,7 @@ Talvez o exame confirme algo recebido. Herança não é apenas ferida. Sua famí
 
 Pergunte também: **o que recebi e quero preservar?**
 
-Reposicionar-se não é contrariar o passado por esporte. Uma Árvore não cresce apenas apesar do Solo. Há recursos que encontrou nele e que continuam sustentando o cultivo.
+Reposicionar-se não é contrariar o passado por esporte. Seu modo operante também pode acolher recursos recebidos: uma disposição para aprender, uma forma responsável de cuidar, uma fé que convida à verdade. Examinar o Solo inclui reconhecer o que está funcionando.
 
 ## O que você chama de normal?
 
@@ -194,4 +196,4 @@ Se a regra continua coerente com a realidade e com seus valores, há algo a pres
 
 **De onde ela ainda retira força hoje?**
 
-Conhecer o Solo ajuda a localizar condições. Para compreender a sustentação atual, precisamos chegar às Raízes.
+Conhecer o Solo ajuda a nomear como você opera. Para investigar as histórias, regras, hábitos e lealdades que ainda alimentam esse funcionamento, precisamos chegar às Raízes.

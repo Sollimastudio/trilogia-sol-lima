@@ -61,7 +61,7 @@
 **Função:** permissões, prioridades, notificações, bloqueios e processos em segundo plano.  
 **Evitar:** cérebro desenhado como hardware literal.
 
-### IMG-09 — Raiz / modo operante
+### IMG-09 — Raízes / sustentação do modo operante
 **Casa:** Cap. 7.  
 **Função:** mostrar crenças/valores/hábitos como hipóteses de sustentação, não identidade.
 
@@ -169,3 +169,6 @@ Este arquivo contém 25 funções propostas e meta de 20–24 peças; não é in
 Foram recuperadas e inspecionadas 33 entradas do banco V1.7.1 (25 usadas na edição antiga + 8 extras). O DOCX V1.7.4 usa essas mesmas 25 imagens, por identidade binária, e contém cinco outras mídias não referenciadas no corpo principal.
 Consultar `MAPA_ATIVOS_VISUAIS_E_INSERCAO_2026-09-13.md` e `../00_UNIVERSO_MESTRE/BANCO_VISUAL/CATALOGO_ATIVOS.csv`.
 Correções prioritárias: 14 Leis/Lei 12; ordem das partes; definições da Árvore; Filtro atual; legibilidade; Jaula aberta com Sofá e relógio. O mapa narrativo/operacional do repositório não equivale a ilustração incorporada ao livro.
+
+## Atualização D011 — definições das artes
+Toda arte da Árvore deve trazer Solo = modo operante/mindset; Raízes = histórias, aprendizagens, crenças específicas, hábitos e lealdades; ambiente externo em campo próprio. A ilustração da parábola deve separar a referência bíblica da adaptação autoral. Rever IMG-04, Árvore completa, Raízes, checkpoints e fichas do Workbook antes de compor. Não gerar outra árvore enquanto não se avaliar a possibilidade de corrigir a arte existente e sobrepor texto editável.

@@ -40,3 +40,8 @@ Antes de iniciar uma nova etapa, confirme que a anterior foi registrada no hist�
 ## Auditoria visual e metodologia — 13/09/2026
 Para imagens, autoria, comandos e continuidade livro/curso, comece por `00_UNIVERSO_MESTRE/COMPLEMENTO_AUDITORIA_VISUAL_E_METODO_2026-09-13.md` e `00_UNIVERSO_MESTRE/BANCO_VISUAL/README.md`.
 O parecer anterior de manuscritos permanece válido para a versão examinada. O complemento registra achados adicionais e mudanças posteriores, sem reiniciar as etapas de escrita.
+
+## Continuidade mais recente — 05W / 13-09-2026
+As últimas definições da autora estão aplicadas em [Direção editorial consolidada](02_REPOSICIONE_SE/DIRECAO_EDITORIAL_CONSOLIDADA_05W.md) e D010–D012. Livro: **Reposicione-se: O mundo te ensinou a resistir, ninguém te ensinou a existir**. Solo = modo operante/mindset. Método = **Método Posicione-se**, de Sol Lima.
+
+[Workbook em produção](02_REPOSICIONE_SE/WORKBOOK/README.md): três testes centrais, 19 fichas e fontes recuperadas; V0.1, não publicado. [Pendências da autora](02_REPOSICIONE_SE/PENDENCIAS_AUTORA.md) concentra apenas fatos e fotos que dependem de identificação. Pareceres anteriores permanecem históricos. O próximo trabalho continua pela auditoria de rigor do Livro 2.

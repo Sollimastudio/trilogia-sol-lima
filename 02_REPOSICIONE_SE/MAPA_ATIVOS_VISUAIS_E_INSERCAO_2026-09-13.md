@@ -16,7 +16,7 @@ As funções do mapa IMG-01–IMG-25 de setembro não correspondem automaticamen
 | RS-LEG-04 | Sua árvore, seus frutos | Abertura / fechamento | Preservar âncora; evitar repetir árvore inteira sem nova função. |
 | RS-LEG-05 | Árvore do Discernimento | Após primeira aplicação / Parte II | Preservar imagem central; adequar definições e incorporar Mirante/Filtro sem lotar a arte; distinguir cultivo de investigação. |
 | RS-LEG-06 | 14 Leis | Síntese / remissões nos capítulos | Recompor com ordem canônica atual. Lei 12 = Exerça Seu Próprio Discernimento; a arte antiga traz Cumpra Seu Dever. Texto editável e legibilidade. |
-| RS-LEG-07 | Solo | Parte II / capítulo 6 | A arte diz Parte I; corrigir para a arquitetura atual. Ambiente não equivale a caráter. |
+| RS-LEG-07 | Solo | Parte II / capítulo 6 | A arte diz Parte I; corrigir para a arquitetura atual. D011: Solo = modo operante/mindset; ambiente em campo próprio. Rever rótulos e composição antes de aprovar. |
 | RS-LEG-08 | Pensamento, Caráter e Posicionamento | Capítulo 23, se necessária | Comparar com Sistema Operacional e Padrões; cadeia linear e associação semente=pensamento diferem do cânone atual. |
 | RS-LEG-09 | Sistema Operacional Interno | Capítulo 6 | Preservar função de configuração aprendida e compatibilizar com Celular Configurado; não ilustrar cérebro como software literal. |
 | RS-LEG-10 | Checkpoint da Árvore | Após primeira aplicação / retomadas | Preservar; incluir contexto e desconhecido em texto adjacente; não saltar diretamente da raiz à poda. |
@@ -41,3 +41,8 @@ Necessidade ainda não atendida pelas artes inspecionadas: jaula/casa percebida 
 
 ## Como produzir
 Ilustrações simbólicas: preservar linguagem autoral e função, adaptando apenas as peças cuja leitura precise mudar. Diagramas, Leis e comandos: texto editável e composição precisa, com fontes vetoriais quando possível; não confiar números e rótulos essenciais à geração de imagem. Versão clara funcional para miolo, versão escura apenas onde a leitura suporta. Aprovação depende de contexto no capítulo, tamanho real, escala de cinza, leitura móvel, legenda, texto alternativo e texto-espelho. Uma miniatura não certifica a prova final.
+
+## Adendo de direção — D011/D012
+Prioridades: Árvore canônica com Solo corrigido; Jaula com porta aberta e Sofá visível; fichas legíveis dos três testes centrais; Filtro de 12 perguntas e 14 Leis atualizadas. O título/subtítulo nas peças deve usar “resistir”. Preferir recomposição editável quando o problema for texto/diagrama. Regenerar imagem conceitual somente quando a fonte não permitir corrigir a comunicação. Nenhuma imagem foi regenerada nesta etapa.
+
+O catálogo anterior reúne ativos legados, não um acervo pessoal identificado. Foto real do Cajueiro, retrato autoral em boa resolução e fotos documentais da história dependem de identificação da fonte; ilustração gerada não deve ocupar o lugar de memória fotográfica.

@@ -89,3 +89,12 @@ Conferir referência, contexto, tradução e distinção entre citação e pará
 ## Regra de uso
 
 Quando surgir uma pendência factual, marcar a lacuna, continuar o que puder ser escrito com segurança, perguntar à autora apenas o dado necessário e registrar a resposta. Não paralisar o livro por uma microdúvida nem transformar solução editorial segura em confirmação biográfica inexistente.
+
+## Atualização 05W — decisões respondidas e acervo
+As definições de título/subtítulo, nome do método, Solo/mindset, Semente/atitude, fundamento cristão, Workbook com todos os testes e objetivo de metacognição foram respondidas pela autora em 13/09/2026. Não perguntar novamente. D010–D012 registram a decisão e a migração.
+
+PA-008 recebe a confirmação da inspiração cristã na Parábola do Semeador e da leitura dos Frutos como convite à avaliação. Isso não aprova automaticamente interpretações adicionais de outras passagens; conferência de referências cabe à edição.
+
+**PA-009 — Fotografias pessoais, opcional:** ainda não foi identificado acervo pessoal utilizável para foto real do Cajueiro, retrato autoral e fotos documentais ligadas ao Livro 1. Solicitar somente arquivos que tenham função definida ou indicação de onde já foram enviados; não pedir o acervo inteiro. Não tratar ilustração gerada como foto documental. Não bloqueia texto, método ou Workbook.
+
+**PA-001 permanece:** detalhes do encontro com o Cajueiro só devem ser acrescentados quando confirmados. Não há pergunta de ortografia, técnica, organização ou decisão editorial aguardando a autora. As lacunas factuais anteriores continuam opcionais nas condições registradas acima.

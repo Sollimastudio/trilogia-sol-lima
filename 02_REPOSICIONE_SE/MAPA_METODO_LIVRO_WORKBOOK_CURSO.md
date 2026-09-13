@@ -13,8 +13,9 @@ O método é aplicado. O Pré-livro oferece Fotografia de Partida; capítulo 4 f
 | Fruto | Resultado observável em situação e período | Descrição do que acontece, sem sentença sobre identidade |
 | Galho | Área da vida | Localização de um problema que não define a pessoa inteira |
 | Semente | Atitude, decisão ou prática | Identificação do que está sendo plantado |
-| Solo | Ambiente e condições | Condições que favorecem ou dificultam a ação |
-| Raízes | Crenças, hábitos, lealdades e lógicas atuais | Hipóteses do que sustenta a posição |
+| Solo | Modo operante / mindset | Como recebo, interpreto e respondo |
+| Ambiente | Contexto e condições concretas | Recursos, riscos, apoios e restrições externos |
+| Raízes | Histórias, aprendizagens, crenças específicas, hábitos e lealdades | Hipóteses do que sustenta o modo operante |
 | Tronco | Valores, limites e sustentação | Direção que pode ser praticada quando há custo |
 | Pragas | Mecanismos de interferência | Reconhecer drenagens; nunca chamar pessoas de pragas |
 | Mirante / Filtro | Perspectiva e exame | Separar fato, interpretação, emoção, evidência, custo e contexto |
@@ -54,4 +55,6 @@ Objetivos por aula, roteiros de demonstração, duração, exercícios guiados, 
 
 ## Divergências legadas a impedir
 
-`posicione-se-sistema/metodo/arvore_discernimento.md` define Solo como posicionamento interno e junta Galho/Tronco como comportamento. No cânone atual, Solo é ambiente/condições, Galho é área da vida e Tronco é sustentação. `sistema-escrita-elite/.../constituicao-do-metodo.md` chama o método de Reposicione-se e combina ferramentas autobiográficas do Livro 1. Preservar como história, mas não importar essas definições para imagens, curso ou texto atual sem decisão registrada. Prevalecem D007 e o Dicionário canônico.
+A auditoria anterior identificou divergências nos repositórios legados. A decisão D011 da autora agora fixa Solo = modo operante/mindset. Galho continua área da vida; Tronco, sustentação. Isso não autoriza importar em bloco definições antigas de Tronco/Galho nem trocar o nome do método. Prevalecem D007 e D010–D012; o histórico anterior permanece como registro da evolução, não como instrução concorrente.
+
+**Workbook confirmado em D012:** `WORKBOOK/README.md` reúne escopo, rota de aplicação e fontes. Os exercícios devem gerar registro, escolha praticável e revisão pelos Frutos. Curso: cada uma das sete Partes conserva um módulo; demonstração e feedback acrescentam acompanhamento, sem reservar a solução essencial para a compra seguinte.

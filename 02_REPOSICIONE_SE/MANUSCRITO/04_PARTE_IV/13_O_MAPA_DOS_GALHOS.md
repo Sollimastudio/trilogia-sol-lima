@@ -350,7 +350,7 @@ Agora circule **um Galho em que esse mesmo recurso faria diferença**.
 
 Essa é a sua primeira transferência consciente.
 
-## A transferência precisa respeitar o Solo
+## A transferência precisa considerar Solo e ambiente
 
 Aqui volta a Parte II.
 
@@ -364,7 +364,7 @@ Então não use a diferença para se insultar.
 
 Use para investigar:
 
-**o que muda de Solo, Raiz, custo e pertencimento quando o Galho muda?**
+**o que muda de modo operante, Raiz, ambiente, custo e pertencimento quando o Galho muda?**
 
 O recurso não desapareceu.
 

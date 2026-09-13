@@ -192,7 +192,7 @@ Esse registro não autoriza uma ruptura apenas porque o nome da regra incomodou.
 
 O **Teste da Árvore do Discernimento**, previsto no Workbook, aprofunda esse mapeamento. Sua função é pedagógica, não diagnóstica. Não promete descobrir a causa verdadeira da vida nem distribuir culpa.
 
-O livro, por si só, já oferece o necessário para continuar. Use o registro que construiu, sem preencher outro formulário inteiro: há um Fruto e um Galho; uma posição observada; uma Semente ou prática; condições de Solo; uma hipótese de Raiz e algo ainda desconhecido.
+O livro, por si só, já oferece o necessário para continuar. Use o registro que construiu, sem preencher outro formulário inteiro: há um Fruto e um Galho; uma posição observada; uma Semente ou prática; um Solo descrito como modo operante e as condições externas; uma hipótese de Raiz e algo ainda desconhecido.
 
 A pergunta de integração é simples:
 

@@ -412,9 +412,9 @@ O contrato venceu.
 
 O recurso apareceu.
 
-O Solo mudou.
+O ambiente mudou.
 
-Mas a resposta permanece organizada pelo Solo anterior.
+Mas o Solo — o modo operante — ainda recebe o presente como se aquelas condições anteriores permanecessem.
 
 Aqui a Porta Possível pode ser experimentar, com cuidado, uma resposta nova.
 

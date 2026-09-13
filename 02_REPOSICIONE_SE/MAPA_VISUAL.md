@@ -33,15 +33,15 @@ flowchart TD
 ### Ordem simbólica do cultivo
 
 ```mermaid
-flowchart LR
-    S[SEMENTE\natitude / decisão / prática] --> SO[SOLO\ncondições / ambiente]
-    SO --> R[RAÍZES\nmodus operandi / mindset]
+flowchart TD
+    S[SEMENTE\natitude / decisão / prática] --> SO["SOLO: modo operante / mindset"]
+    SO --> R["RAÍZES: aprendizagens / crenças / hábitos"]
     R --> T[TRONCO\nvalores / limites / sustentação]
     T --> G[GALHOS\náreas da vida]
     G --> F[FRUTOS\nresultados observáveis]
 ```
 
-> A ordem organiza a leitura; não afirma causa única ou linearidade psicológica rígida.
+> A ordem organiza a leitura; não afirma causa única ou linearidade psicológica rígida. Ambiente e condições externas acompanham todo o cultivo em campo próprio. Solo = modo operante/mindset, conforme D011.
 
 ### Ordem da investigação
 
@@ -120,7 +120,7 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    L[LETREIRO DE NEON\nvalor comunicado] --> S[SEMEADOR\ncontexto / solo]
+    L[LETREIRO DE NEON\nvalor comunicado] --> S["SEMEADOR: recepção / cultivo"]
     S --> C[CAJUEIRO DE PIRANGI\nperspectiva / estrutura]
     C --> A[ÁRVORE DO DISCERNIMENTO\nmétodo]
     A --> J[JAULA / SOFÁ\npermanência]

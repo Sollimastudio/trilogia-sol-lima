@@ -77,29 +77,29 @@
 **Problema:** julgar condutas sem considerar condições de cultivo.  
 **Antes:** saber observar Fruto e posição.  
 **Sentir:** expansão de perspectiva.  
-**Aprender:** a Parábola do Semeador preserva a semente como palavra/mensagem; o método faz adaptação explícita: Semente = atitude/decisão/prática plantada. Solo altera possibilidades de cultivo.  
+**Aprender:** a Parábola do Semeador preserva a semente como palavra/mensagem; o método faz adaptação explícita: Semente = atitude/decisão/prática plantada. Solo é o modo operante/mindset que recebe a atitude; o ambiente externo também afeta suas possibilidades.  
 **Aplicar:** escolher uma atitude e mapear as condições em que ela é fácil ou difícil de sustentar.  
 **Transformação:** sair da moralização simples para investigação contextual.  
 **Ferramenta:** Mapa Semente × Solo.  
 **Metáfora:** os quatro solos bíblicos, sem falsificar a parábola.  
 **Livro 3:** não converter Solo em identidade.
 
-## Capítulo 6 — O Solo que Te Recebeu
+## Capítulo 6 — O Solo em que Você Opera
 **Problema:** confundir familiaridade com normalidade ou saúde.  
 **Antes:** entender diferença entre Semente e Solo.  
 **Sentir:** compaixão pela formação sem absolvição automática.  
-**Aprender:** família, cultura, fé, escola, classe, ambiente digital, recursos e condições influenciam o cultivo.  
+**Aprender:** Solo = modo operante; família, cultura, fé, escola, ambiente digital e recursos influenciam sua formação e a margem de ação, sem se confundirem com ele.  
 **Aplicar:** auditar condições e permissões herdadas.  
 **Transformação:** reconhecer contexto sem transformá-lo em destino.  
 **Ferramenta:** Celular Configurado — Auditoria de Permissões.  
 **Metáfora:** celular/configurações em segundo plano, sem equiparar cérebro a software.  
 **Livro 3:** identidade formada pelo ambiente apenas como semente futura.
 
-## Capítulo 7 — Raízes: Seu Modo Operante
+## Capítulo 7 — Raízes: O que Sustenta Seu Modo Operante
 **Problema:** chamar de `eu sou assim` aquilo que pode ser padrão sustentado.  
 **Antes:** mapear Solo.  
 **Sentir:** curiosidade sobre o próprio funcionamento.  
-**Aprender:** Raiz = modus operandi/mindset atual: crenças operantes, valores, hábitos, lealdades e lógicas que ainda alimentam a posição.  
+**Aprender:** Raízes = histórias, aprendizagens, crenças específicas, hábitos e lealdades que ainda alimentam o modo operante; examinar origem possível e sustentação presente.  
 **Aplicar:** localizar uma Raiz como hipótese verificável.  
 **Transformação:** trocar rótulo identitário por hipótese de sustentação.  
 **Ferramenta:** Buscar a Lógica + valor declarado × valor operante.  

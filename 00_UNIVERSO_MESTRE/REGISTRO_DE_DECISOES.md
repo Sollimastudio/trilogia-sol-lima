@@ -70,3 +70,21 @@ Toda decisão futura deve receber:
 **Decisão:** manter o parecer de manuscritos de 13/09/2026 como retrato do commit a66caf5 e acrescentar auditoria visual/metodológica própria. Não substituir contagens históricas pela versão posterior.
 **Aplicação:** catálogo rastreável de ativos, avaliação por livro, mapa do método/curso e fila de execução em BANCO_VISUAL e nos mapas de figuras. Existência, inspeção visual, seleção, adaptação, aprovação e incorporação são estados diferentes.
 **Limites:** decisões anteriores de manter imagens protegem seu papel e a fonte; não certificam que texto, ordem e composição antigos servem ao manuscrito novo. Não foi aprovada uma quantidade nova nem gerado um pacote automático de imagens.
+
+## 13/09/2026 — D010 — Título e razão de Reposicione-se
+**Fonte:** mensagem explícita da autora após o complemento visual 05V.
+**Decisão:** livro `Reposicione-se: O mundo te ensinou a resistir, ninguém te ensinou a existir`. “Resistir” substitui “reagir” no subtítulo vivo. Método permanece `Método Posicione-se`, de Sol Lima.
+**Motivo autoral:** toda pessoa já ocupa uma posição; Frutos coerentes indicam o que sustentar; resultados que pedem mudança exigem examinar e reposicionar, dentro das condições reais.
+**Consequência:** metadados vivos e Pré-livro atualizados; comandos como “Pense Antes de Reagir” não mudam. Relatórios e snapshots anteriores conservam a versão da época.
+
+## 13/09/2026 — D011 — Solo é modo operante/mindset
+**Fonte:** definição direta de Sol: Semente = atitude plantada; Solo = modo operante/mindset, com inspiração cristã na Parábola do Semeador.
+**Decisão:** substituir a atribuição anterior de ambiente ao Solo e de mindset às Raízes. Solo descreve recepção/interpretação/resposta; Raízes investigam histórias, aprendizagens, crenças específicas, hábitos e lealdades que sustentam o modo. Ambiente/condições externas permanecem em campo próprio.
+**Consequência:** migração semântica do Pré-livro, Parte II e retomadas em capítulos posteriores, mapas e diretrizes de imagens. Títulos dos capítulos 6 e 7 passam a “O Solo em que Você Opera” e “Raízes: O que Sustenta Seu Modo Operante”; caminhos dos arquivos permanecem para preservar referências.
+**Critério:** Frutos orientam investigação e revisão; não são identidade, causa única nem medida automática da fé. Metacognição deve conduzir à prática e revisão, não à ruminação. A definição da Semente no método é adaptação autoral, não citação literal da parábola.
+
+## 13/09/2026 — D012 — Workbook confirmado e direção editorial consolidada
+**Decisão autoral:** haverá Workbook separado com os testes do livro; centrais: Árvore, 14 Tipos e Influência Indevida/Autonomia de Pensamento.
+**Aplicação editorial:** material legado recuperado com procedência; primeiras versões operacionais de três testes e 19 fichas, sem alegar validação psicométrica. Não utilizar um escore para certificar “lavagem cerebral” nem transformar tipos em identidade. Livro, Workbook e curso compartilham aplicação completa do mesmo método.
+**Voz e memória:** prosa sustentada pelo corpus da autora e fatos confirmados. Sua fé, a Jaula aberta e o Sofá permanecem; não inventar cenas, falas ou lembranças para preencher lacunas.
+**Imagens:** manter curadoria prévia; corrigir Solo, legendas e subtítulo nas peças; regenerar somente quando a composição existente não permitir o propósito. Acesso ao acervo pessoal não é presumido. Não houve geração nesta etapa.

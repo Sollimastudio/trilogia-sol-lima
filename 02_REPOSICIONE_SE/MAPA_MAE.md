@@ -6,7 +6,7 @@
 
 ## Identidade da obra
 **Título:** Reposicione-se  
-**Linha de força:** *O mundo te ensinou a reagir. Ninguém te ensinou a existir.*
+**Linha de força:** *O mundo te ensinou a resistir, ninguém te ensinou a existir.*
 
 **Pergunta central:** **Agora que consigo enxergar, como mudo a posição que ocupo na minha vida?**
 
@@ -29,8 +29,9 @@ A Árvore organiza investigação e ação.
 
 ### Gramática vigente
 - **Semente:** atitude, decisão ou prática plantada.
-- **Solo:** ambiente e condições do cultivo.
-- **Raízes:** modus operandi/mindset, crenças operantes, valores, hábitos, lealdades e lógicas que ainda sustentam o padrão.
+- **Solo:** modo operante/mindset — como a pessoa recebe, interpreta e responde.
+- **Ambiente/condições de cultivo:** contexto externo, recursos e restrições, registrados separadamente.
+- **Raízes:** aprendizagens, histórias, crenças específicas, hábitos e lealdades que ainda sustentam o padrão.
 - **Tronco:** valores, identidade praticada, limites e sustentação sob custo.
 - **Galhos:** áreas concretas da vida.
 - **Frutos:** resultados observáveis.
@@ -120,8 +121,8 @@ Contrato intelectual; tese; Letreiro; Semeador; paixão por árvores; Cajueiro; 
 
 ## PARTE II — SEMENTE, SOLO E RAÍZES
 5. **A Mesma Semente, Solos Diferentes**  
-6. **O Solo que Te Recebeu**  
-7. **Raízes: Seu Modo Operante**  
+6. **O Solo em que Você Opera**  
+7. **Raízes: O que Sustenta Seu Modo Operante**  
 8. **Mapas Herdados, Pertencimento e Merecimento**
 
 ## PARTE III — O TRONCO

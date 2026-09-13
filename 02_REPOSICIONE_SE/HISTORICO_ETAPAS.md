@@ -128,3 +128,6 @@ Acrescentar novos marcos sem sobrescrever snapshots anteriores. Mudanças poster
 **Preservação:** nenhuma imagem gerada, descartada ou incorporada como final; nenhuma etapa de rigor ou publicação declarada concluída. Snapshots anteriores permanecem intactos.
 **Snapshot:** `ETAPAS/05V_METODO_COMANDOS_E_VISUAIS_2026-09-13.md`, com os dois textos alterados e as referências de entrada.
 **Próxima ação:** continuar ETAPA 05 e executar curadoria visual pela fila do complemento; as fases de produção e aprovação permanecem distintas.
+
+## 13/09/2026 — 05W — Definições autorais e Workbook
+D010–D012 aplicadas: “resistir” no subtítulo; Solo=mindset; Raízes como aprendizagens/sustentação; ambiente separado. Prosa e mapas atualizados por necessidade de coerência autoral. Workbook criado com três testes centrais em V0.1, 19 fichas e fontes legadas preservadas. Ver `ETAPAS/05W_DEFINICOES_AUTORA_E_WORKBOOK_2026-09-13.md` e snapshot JSON da prosa. Auditoria geral 05 permanece parcial; não houve geração de imagens nem alteração dos manuscritos 1/3.

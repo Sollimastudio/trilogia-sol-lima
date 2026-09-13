@@ -476,7 +476,7 @@ Como repertório para voltar quando a vida confundir novamente o mapa.
 
 **3. Pense Antes de Reagir.** Crie intervalo quando o contexto permitir.
 
-**4. Desligue o Piloto Automático.** Verifique se a resposta conhecida ainda serve ao Solo atual.
+**4. Desligue o Piloto Automático.** Examine se o modo operante e a resposta conhecida ainda servem às condições atuais.
 
 **5. Questione a Narrativa.** Interpretação precisa se apresentar como interpretação.
 
@@ -528,7 +528,9 @@ Que valor está operando? Que limite existe? Que coerência falta?
 
 Crença, hábito, lealdade, lógica, medo, recompensa, valor, regra?
 
-**SOLO E SEMENTES — Em que condições isso ocorre e o que venho plantando?**
+**SOLO E SEMENTES — Como recebo e interpreto isso, e o que venho plantando?**
+
+**AMBIENTE — Que condições, recursos e restrições externos participam?**
 
 Que recurso existe? Que recurso falta? Que prática se repete?
 

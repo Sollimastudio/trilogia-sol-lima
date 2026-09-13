@@ -52,7 +52,7 @@ Uma esteira sugere que A sempre produz B, B sempre produz C e, no final, sai uma
 
 Gente não funciona assim.
 
-Uma mesma crença pode produzir respostas diferentes em Solos diferentes.
+Uma mesma crença pode participar de respostas diferentes conforme o modo de receber a situação, o ambiente e os recursos.
 
 A mesma emoção pode participar de decisões opostas.
 
@@ -196,7 +196,7 @@ Mas sinal também não é decoração.
 
 ## Contexto: o chão continua existindo
 
-O Solo não desapareceu porque chegamos à Parte VI.
+O contexto externo não desapareceu porque chegamos à Parte VI. Ele participa do cultivo junto do Solo, o modo como recebemos e interpretamos a situação.
 
 Contexto inclui ambiente, relação, momento histórico da situação, regras, recursos, responsabilidades, posição de poder, dinheiro, moradia, filhos, trabalho, cultura e tudo que muda a margem real.
 
