@@ -47,7 +47,7 @@ A etapa seguinte deve verificar e corrigir o que exigir rigor e segurança antes
 - Dicionário canônico e 14 Leis permanecem referências de nomenclatura e função.
 - Sete Frutos: **Verdade, Responsabilidade, Discernimento, Coerência, Coragem, Sabedoria e Legado**.
 - Exercícios do livro aprofundam uma Fotografia de Partida; Workbook é complementar.
-- Imagens estão mapeadas; produção e conferência visual ainda pendem.
+- Imagens legadas foram inventariadas e inspecionadas em 13/09/2026. Adaptação ao manuscrito atual, aprovação e incorporação final continuam pendentes. Consultar o mapa de ativos e o BANCO_VISUAL.
 - Registro de alegações AF-001–AF-028 continua ativo e deve ser lido junto da fila **RC04-R01–RC04-R12** do relatório de costura.
 - Fronteira com `Morte em Vida` preservada; Sepultamento Simbólico não vira exercício genérico.
 - Fronteira com o Livro 3 preservada; Espelhos e Sete Frutos não oferecem identidade resolvida.
@@ -79,7 +79,7 @@ A etapa seguinte deve verificar e corrigir o que exigir rigor e segurança antes
 | 03 / LOTE 05 — Parte VI | Concluído | `ETAPAS/03_LOTE_05_PARTE_VI_FILTRO_EVIDENCIAS_ESPELHOS_2026-09-10.md` |
 | 03 / LOTE 06 — Parte VII | Concluído | `ETAPAS/03_LOTE_06_PARTE_VII_PODA_NOVA_SEMENTE_FRUTOS_2026-09-10.md` |
 | 04 — Epílogo e Costura Integral | Concluída editorialmente | `ETAPAS/04_EPILOGO_E_COSTURA_INTEGRAL_2026-09-11.md` |
-| 05 — Auditoria de Rigor e Risco | Próxima | A criar somente ao fechar a auditoria |
+| 05 — Auditoria de Rigor e Risco | Parcialmente iniciada: notas e revisão do capítulo 10; não encerrada | A criar somente ao fechar a auditoria |
 | 06 — Preparação Editorial Final | Pendente | — |
 | 07 — Ilustrações e Sistema Visual | Pendente | — |
 | 08 — Kindle, Impresso e QA | Pendente | — |
@@ -94,3 +94,7 @@ Usar integralmente o comando em **`PROMPT_PROXIMA_ETAPA_05.md`**. A auditoria de
 ## Regra de continuidade
 
 Arquivos vivos podem evoluir com motivo registrado. Snapshots anteriores não são sobrescritos. Uma contagem antiga não é atualizada retroativamente para descrever texto novo. Cada conclusão precisa corresponder ao trabalho realmente realizado e verificado.
+
+## Complemento 05V — 13/09/2026
+Conferidos Método Posicione-se, Árvore, Jaula, Sofá, pensamentos, exercícios e origem dos ativos visuais. Atualizados apenas Pré-livro e capítulo 22: crédito explícito do método, relato metafórico fornecido pela autora e recuperação dos três comandos de pensamento. Sem reabertura da arquitetura, sem fechamento da auditoria científica e sem conclusão das etapas 07/08/09.
+Snapshot pontual: `ETAPAS/05V_METODO_COMANDOS_E_VISUAIS_2026-09-13.md`. Mapa de continuidade: `MAPA_METODO_LIVRO_WORKBOOK_CURSO.md`.

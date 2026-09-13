@@ -4,7 +4,7 @@
 **Frente:** Livro 2 da Trilogia Sol Lima  
 **Versão:** 1.0 — saída da ETAPA 01  
 **Data:** 10/09/2026  
-**Status:** ◑ arquitetura editorial consolidada; manuscrito integral ainda não escrito no repositório.
+**Status atualizado em 13/09/2026:** manuscrito integral escrito e costurado; auditoria de rigor parcialmente iniciada. Arquitetura original da ETAPA 01 preservada. Conferência visual e recuperação de comandos registradas no complemento de 13/09; ilustrações finais ainda pendentes.
 
 ## 1. Promessa da obra
 
@@ -25,7 +25,7 @@
 ## 3. Hierarquia metodológica
 
 ### 3.1 Método central
-**Árvore do Discernimento™ / Método Posicione-se™.**
+**Método Posicione-se™ — metodologia autoral de Sol Lima, cuja estrutura central é a Árvore do Discernimento™. O livro que a ensina chama-se Reposicione-se.**
 
 A Árvore é a espinha de investigação e ação. Nenhuma ferramenta paralela compete com ela.
 

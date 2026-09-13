@@ -63,3 +63,8 @@ A função exata e o livro proprietário de cada símbolo devem ser controlados 
 Se um fato canônico mudar, registrar a decisão em `REGISTRO_DE_DECISOES.md` antes ou junto da atualização deste arquivo.
 
 Versão inicial: 10/09/2026.
+
+## Complemento de 13/09/2026 — D007 e D008
+**[C] Nome e autoria:** Método Posicione-se, metodologia autoral de Sol Lima, ensinada no livro Reposicione-se e base comum do Workbook e do futuro curso.
+**[M] Jaula:** a autora descreve sua mente como uma jaula cuja porta sempre esteve aberta e sua permanência no sofá quente das mentiras que contava a si mesma. É relato metafórico de sua experiência, não uma afirmação universal sobre pessoas em sofrimento ou restrição.
+**[C] Comandos do pensamento:** Pense nisso; Repense isso; Pense comigo. Suas funções constam no dicionário do Livro 2 e no capítulo 22.

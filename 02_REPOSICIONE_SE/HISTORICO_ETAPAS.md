@@ -120,3 +120,11 @@ AF-001–AF-028 e a fila RC04-R01–RC04-R12 exigem auditoria conforme sua natur
 ## Regra de continuidade
 
 Acrescentar novos marcos sem sobrescrever snapshots anteriores. Mudanças posteriores no manuscrito são registradas nos arquivos vivos e no Git; não se altera este relato para fingir que uma correção futura já estava concluída nesta data.
+
+## 13/09/2026 — Complemento 05V — Método, comandos e visuais
+**Entrada:** commit a66caf524135afb3567f30da146819e6b2229f95; ETAPA 04 preservada; ETAPA 05 parcialmente iniciada.
+**Autorização:** autora solicita coordenação, preservação do relatório anterior, verificação das imagens e aplicação de sua orientação sobre Método Posicione-se/Árvore/Jaula e futuro curso.
+**Alterações:** Pré-livro explicita autoria/nome e recebe a formulação metafórica pessoal da Jaula fornecida pela autora; capítulo 22 recupera Pense nisso, Repense isso e Pense comigo. Dicionário e controles alinhados. Inventário visual, mapeamento de inserção e continuidade livro/Workbook/curso documentados.
+**Preservação:** nenhuma imagem gerada, descartada ou incorporada como final; nenhuma etapa de rigor ou publicação declarada concluída. Snapshots anteriores permanecem intactos.
+**Snapshot:** `ETAPAS/05V_METODO_COMANDOS_E_VISUAIS_2026-09-13.md`, com os dois textos alterados e as referências de entrada.
+**Próxima ação:** continuar ETAPA 05 e executar curadoria visual pela fila do complemento; as fases de produção e aprovação permanecem distintas.

@@ -55,3 +55,18 @@ Toda decisão futura deve receber:
 - decisão;
 - motivo;
 - consequência para a obra.
+
+## 13/09/2026 — D007 — Nome e autoria do método
+**Decisão da autora reiterada:** o livro chama-se Reposicione-se; a metodologia autoral de Sol Lima chama-se Método Posicione-se. A Árvore do Discernimento organiza investigação e ação. O futuro curso e o Workbook usam os mesmos conceitos.
+**Motivo:** arquivos legados apresentam nomes e definições divergentes.
+**Aplicação:** nome/autoria explicitados no Pré-livro e no dicionário; funções de Pense nisso / Repense isso / Pense comigo recuperadas no capítulo 22 e no dicionário.
+
+## 13/09/2026 — D008 — Jaula aberta e Sofá: preservar a experiência autoral
+**Fonte:** fala da autora nesta data: sua mente era uma jaula, a porta sempre esteve aberta e ela permanecia no sofá quente das mentiras que contava a si mesma.
+**Decisão:** preservar essa experiência em primeira pessoa e sua função comunicativa. O convite ao leitor continua distinguindo restrições internas, externas e possibilidades concretas.
+**Aplicação:** parágrafo no Pré-livro sem inventar cena, data ou ação biográfica; briefing de uma Jaula definitiva com porta aberta, sofá e relógio, conforme direção anterior recuperada. Produção da arte permanece pendente.
+
+## 13/09/2026 — D009 — Governança visual e preservação do parecer
+**Decisão:** manter o parecer de manuscritos de 13/09/2026 como retrato do commit a66caf5 e acrescentar auditoria visual/metodológica própria. Não substituir contagens históricas pela versão posterior.
+**Aplicação:** catálogo rastreável de ativos, avaliação por livro, mapa do método/curso e fila de execução em BANCO_VISUAL e nos mapas de figuras. Existência, inspeção visual, seleção, adaptação, aprovação e incorporação são estados diferentes.
+**Limites:** decisões anteriores de manter imagens protegem seu papel e a fonte; não certificam que texto, ordem e composição antigos servem ao manuscrito novo. Não foi aprovada uma quantidade nova nem gerado um pacote automático de imagens.

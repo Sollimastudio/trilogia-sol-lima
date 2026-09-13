@@ -206,6 +206,8 @@ Minha vida também me parecia muitas coisas ao mesmo tempo. Histórias, dores, t
 
 A árvore que eu amava passou a me oferecer uma linguagem para investigar.
 
+Foi com essa linguagem que desenvolvi o **Método Posicione-se**, minha metodologia de discernimento e ação. Neste livro, *Reposicione-se*, convido você a aplicá-la a uma situação concreta da sua vida: observar o que acontece, investigar o que sustenta a posição atual e praticar uma mudança possível.
+
 É dessa mudança de perspectiva que nasce o comando:
 
 **SUBA NA ÁRVORE.**
@@ -223,6 +225,8 @@ Ela não parece prisão. Tem rotina, história, pessoas que você ama, contas pa
 Em algum ponto, porém, o movimento fica estreito. Há assuntos em que você não toca, respostas que oferece antes de pensar, possibilidades que nem chega a considerar.
 
 Algumas barras são reais: ameaça, controle, dependência, falta de recurso. Outras podem ser regras aprendidas que continuam sendo obedecidas depois que as condições mudaram. Muitas situações misturam as duas coisas.
+
+Quando olho para a minha experiência, penso na minha mente como uma jaula cuja porta sempre esteve aberta. Eu continuava lá dentro, no sofá quentinho das mentiras que contava a mim mesma. É assim que dou nome a uma parte da minha permanência; não é uma explicação para tudo o que me aconteceu.
 
 Dentro dessa Casa/Jaula existe o **Sofá Quente da Mentira**.
 

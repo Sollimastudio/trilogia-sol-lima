@@ -163,3 +163,9 @@ Meta: **20 a 24 peças funcionais** no livro final. IMG-01 a IMG-25 são banco d
 ## Kindle
 
 A arte não pode carregar informação indispensável que desapareça caso a imagem não seja ampliada. Todo conceito central precisa existir também no texto corrido. Evitar texto longo embutido em JPEG/PNG.
+
+## Conferência posterior — 13/09/2026
+Este arquivo contém 25 funções propostas e meta de 20–24 peças; não é inventário de 25 imagens produzidas nesta edição e não autoriza aumento/redução automático da contagem protegida em decisões anteriores.
+Foram recuperadas e inspecionadas 33 entradas do banco V1.7.1 (25 usadas na edição antiga + 8 extras). O DOCX V1.7.4 usa essas mesmas 25 imagens, por identidade binária, e contém cinco outras mídias não referenciadas no corpo principal.
+Consultar `MAPA_ATIVOS_VISUAIS_E_INSERCAO_2026-09-13.md` e `../00_UNIVERSO_MESTRE/BANCO_VISUAL/CATALOGO_ATIVOS.csv`.
+Correções prioritárias: 14 Leis/Lei 12; ordem das partes; definições da Árvore; Filtro atual; legibilidade; Jaula aberta com Sofá e relógio. O mapa narrativo/operacional do repositório não equivale a ilustração incorporada ao livro.

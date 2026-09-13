@@ -36,3 +36,7 @@ Antes de editar qualquer arquivo existente, releia a versão atual no GitHub.
 - O histórico de commits do Git preserva tecnicamente cada mudança.
 
 Antes de iniciar uma nova etapa, confirme que a anterior foi registrada no histórico e, quando for um marco estrutural, congelada em snapshot.
+
+## Auditoria visual e metodologia — 13/09/2026
+Para imagens, autoria, comandos e continuidade livro/curso, comece por `00_UNIVERSO_MESTRE/COMPLEMENTO_AUDITORIA_VISUAL_E_METODO_2026-09-13.md` e `00_UNIVERSO_MESTRE/BANCO_VISUAL/README.md`.
+O parecer anterior de manuscritos permanece válido para a versão examinada. O complemento registra achados adicionais e mudanças posteriores, sem reiniciar as etapas de escrita.

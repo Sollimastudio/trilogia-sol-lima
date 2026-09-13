@@ -4,6 +4,10 @@
 **Origem:** ETAPA 01 — Auditoria Integral do Método.  
 **Função:** impedir que conceitos mudem de significado entre capítulos, Workbook e curso.
 
+## Nome e autoria
+
+**Método Posicione-se:** metodologia autoral de Sol Lima, ensinada no livro **Reposicione-se**. A Árvore do Discernimento é sua estrutura central; a Jaula e o Sofá são metáforas de experiência; o Filtro e os demais instrumentos são ferramentas subordinadas. Livro, Workbook e futuro curso aplicam o mesmo método. Esta distinção, reiterada pela autora em 13/09/2026, prevalece sobre nomes divergentes em arquivos legados.
+
 ## Posicionamento
 Habilidade de recuperar governo da consciência, examinar o que participa de uma situação e sustentar uma direção quando existe custo, dentro da margem real de segurança, recurso e responsabilidade.
 
@@ -272,6 +276,15 @@ Volte ao que acontece de fato.
 
 ## Volte às Raízes
 Pergunte de onde a posição ainda retira força hoje.
+
+## Pense nisso
+Observe e nomeie fato, emoção e pensamento antes da resposta automática.
+
+## Repense isso
+Examine interpretação, evidência, contraditório e alternativas.
+
+## Pense comigo
+Acompanhe e teste o raciocínio, integrando razão, emoção, contexto e consequência. Não exige concordância com a autora.
 
 ## Passe pelo Filtro
 Teste leitura, evidência, simetria, contexto, custo, risco e responsabilidade.
