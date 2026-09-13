@@ -61,3 +61,8 @@ O catálogo anterior reúne ativos legados, não um acervo pessoal identificado.
 | Cor e P&B | Preservar composição, função e significado entre versões | Contraste, tipografia e prova no tamanho real |
 
 **Pendências:** próxima prova na linguagem anterior refinada; seleção pela autora no contexto da página; recomposição editável de texto/diagramas; mestres e pares identificados; incorporação de arquivos finais com procedência, legenda e texto alternativo. A geração deste lote não encerra as etapas 07/08.
+
+## Atualização 05Y — execução da curadoria colorida
+O banco [IMAGENS/COR_05Y](IMAGENS/COR_05Y/README.md) incorpora 22 pranchas explicativas coloridas, SVGs editáveis, textos-espelho, 12 artes/componentes e os 28 arquivos recebidos da autora. O manifesto identifica função e destino proposto de cada prancha; o CSV de curadoria documenta cada original. Filtro, Leis e Espelhos foram recompostos a partir dos conceitos atuais. As funções do Sofá e da Jaula foram reunidas; diagramas de sistema operacional foram integrados a Solo/ambiente e padrões, com justificativa preservada.
+
+Após observação da autora, a arte de Pragas foi corrigida para retirar leitura de ventania: árvore estável, dano localizado num galho e legenda. A capa inicial preta/dourada permanece referência. A fase P&B foi antecipada indevidamente e está fora da entrega atual; o retrato conserva o P&B da fonte recebida. As sugestões de inserção não equivalem à incorporação no livro; etapas de diagramação, Kindle e impressão ainda exigem a prova completa.

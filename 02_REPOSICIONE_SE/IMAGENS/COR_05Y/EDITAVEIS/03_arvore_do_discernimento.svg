@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 432 648" width="1800" height="2700">
+<title>A Árvore do Discernimento</title>
+<desc>Localize a investigação. Uma parte não explica tudo.</desc>
+<rect x="0" y="0" width="432" height="648" rx="0" fill="#101010" stroke="none" stroke-width=".7"/>
+<text x="30" y="29.0" fill="#E2BD78" font-size="8.1" font-family="DejaVu Sans" font-weight="700">MÉTODO POSICIONE-SE · SOL LIMA</text>
+<text x="30" y="65.0" fill="#E2BD78" font-size="25" font-family="DejaVu Serif" font-weight="400">A Árvore do Discernimento</text>
+<text x="30" y="84.0" fill="#C6BCA9" font-size="10.1" font-family="DejaVu Sans" font-weight="400">Localize a investigação. Uma parte não explica tudo.</text>
+<line x1="30" y1="110" x2="402" y2="110" stroke="#725936" stroke-width="0.7"/>
+<image x="124.0" y="117.0" width="184.0" height="276.0" xlink:href="../ARTES/arvore_base_cor.png"/>
+<circle cx="273" cy="182" r="9" fill="#32191D" stroke="#E2BD78"/>
+<text x="270" y="185.0" fill="#E2BD78" font-size="8" font-family="DejaVu Sans" font-weight="700">1</text>
+<circle cx="163" cy="226" r="9" fill="#32191D" stroke="#E2BD78"/>
+<text x="160" y="229.0" fill="#E2BD78" font-size="8" font-family="DejaVu Sans" font-weight="700">2</text>
+<circle cx="218" cy="280" r="9" fill="#32191D" stroke="#E2BD78"/>
+<text x="215" y="283.0" fill="#E2BD78" font-size="8" font-family="DejaVu Sans" font-weight="700">3</text>
+<circle cx="195" cy="359" r="9" fill="#32191D" stroke="#E2BD78"/>
+<text x="192" y="362.0" fill="#E2BD78" font-size="8" font-family="DejaVu Sans" font-weight="700">4</text>
+<circle cx="269" cy="337" r="9" fill="#32191D" stroke="#E2BD78"/>
+<text x="266" y="340.0" fill="#E2BD78" font-size="8" font-family="DejaVu Sans" font-weight="700">5</text>
+<circle cx="339" cy="272" r="9" fill="#32191D" stroke="#E2BD78"/>
+<text x="336" y="275.0" fill="#E2BD78" font-size="8" font-family="DejaVu Sans" font-weight="700">6</text>
+<text x="30" y="416.0" fill="#E2BD78" font-size="10" font-family="DejaVu Sans" font-weight="700">1 FRUTOS</text>
+<text x="30" y="433.0" fill="#F4EEE3" font-size="9" font-family="DejaVu Sans" font-weight="400">Resultados observáveis.</text>
+<text x="220" y="416.0" fill="#E2BD78" font-size="10" font-family="DejaVu Sans" font-weight="700">2 GALHOS</text>
+<text x="220" y="433.0" fill="#F4EEE3" font-size="9" font-family="DejaVu Sans" font-weight="400">Áreas da vida e vínculos.</text>
+<text x="30" y="467.0" fill="#E2BD78" font-size="10" font-family="DejaVu Sans" font-weight="700">3 TRONCO</text>
+<text x="30" y="484.0" fill="#F4EEE3" font-size="9" font-family="DejaVu Sans" font-weight="400">Valores e limites praticados.</text>
+<text x="220" y="467.0" fill="#E2BD78" font-size="10" font-family="DejaVu Sans" font-weight="700">4 RAÍZES</text>
+<text x="220" y="484.0" fill="#F4EEE3" font-size="9" font-family="DejaVu Sans" font-weight="400">Histórias, crenças e hábitos.</text>
+<text x="30" y="518.0" fill="#E2BD78" font-size="10" font-family="DejaVu Sans" font-weight="700">5 SOLO</text>
+<text x="30" y="535.0" fill="#F4EEE3" font-size="9" font-family="DejaVu Sans" font-weight="400">Modo de receber e responder.</text>
+<text x="220" y="518.0" fill="#E2BD78" font-size="10" font-family="DejaVu Sans" font-weight="700">6 AMBIENTE</text>
+<text x="220" y="535.0" fill="#F4EEE3" font-size="9" font-family="DejaVu Sans" font-weight="400">Condições e influências externas.</text>
+<text x="30" y="578.0" fill="#F4EEE3" font-size="10" font-family="DejaVu Sans" font-weight="400">Semente é a atitude plantada. Pragas são mecanismos</text>
+<text x="30" y="591.0" fill="#F4EEE3" font-size="10" font-family="DejaVu Sans" font-weight="400">que drenam o cultivo; pessoas não são pragas.</text>
+<line x1="30" y1="609" x2="402" y2="609" stroke="#725936" stroke-width="0.6"/>
+<text x="30" y="626.0" fill="#C6BCA9" font-size="8" font-family="DejaVu Sans" font-weight="400">Os números localizam a metáfora; não atribuem uma causa ao fruto.</text>
+</svg>

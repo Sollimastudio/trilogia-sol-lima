@@ -19,3 +19,6 @@ Localizada → inspecionada → selecionada → adaptada → aprovada → incorp
 A pergunta não é quantas imagens temos. É se cada função necessária está atendida por imagem coerente com o texto atual, legível no destino e sem redundância. Não gerar novas artes apenas para atingir quantidade. Não reduzir a quantidade protegida sem justificativa registrada.
 
 Mapas por livro: `01_MORTE_EM_VIDA/MAPA_ILUSTRACOES_EDITORIAL_2026-09-13.md`; `02_REPOSICIONE_SE/MAPA_ATIVOS_VISUAIS_E_INSERCAO_2026-09-13.md`; `03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU/MAPA_FIGURAS_EDITORIAL.md` (caminhos a partir da raiz).
+
+## Atualização 05Y — banco colorido de Reposicione-se incorporado
+O diretório [COR_05Y](../../02_REPOSICIONE_SE/IMAGENS/COR_05Y/README.md) agora contém arquivos reais: 22 pranchas em PNG/SVG, 12 artes/componentes e 28 originais preservados, com curadoria individual, legendas, textos alternativos e textos-espelho. Componentes reutilizados não são figuras adicionais a repetir no miolo. A fase atual é colorida; P&B de diagramas fica para outra etapa. A incorporação no manuscrito e a prova final do e-book permanecem pendentes. A capa aberta é prova de composição, não arquivo dimensional final.

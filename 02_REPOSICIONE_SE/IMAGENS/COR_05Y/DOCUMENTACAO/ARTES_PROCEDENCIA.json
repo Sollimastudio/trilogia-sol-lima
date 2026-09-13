@@ -1,0 +1,86 @@
+[
+  {
+    "arquivo": "ARTES/arvore_base_cor.png",
+    "largura_px": 1024,
+    "altura_px": 1536,
+    "sha256": "48be2f0d5b5da4f888f0625fc315260ca022481ea695386b3f8d9d79bacebcc2",
+    "origem": "edição/geração por ferramenta de imagem com direção e referências da autora"
+  },
+  {
+    "arquivo": "ARTES/autopiedade_base_cor.png",
+    "largura_px": 1024,
+    "altura_px": 1536,
+    "sha256": "609b5647c6f5292538f89b895b5b961595e2025879bd85fc4028c68ded92f89a",
+    "origem": "edição/geração por ferramenta de imagem com direção e referências da autora"
+  },
+  {
+    "arquivo": "ARTES/capa_aberta_prova.png",
+    "largura_px": 1536,
+    "altura_px": 1024,
+    "sha256": "204c4f98366dece5714f8331d98f75da125e9e8d58bfe95aa67f4c5ddd9915bb",
+    "origem": "edição/geração por ferramenta de imagem com direção e referências da autora"
+  },
+  {
+    "arquivo": "ARTES/capa_frente.png",
+    "largura_px": 992,
+    "altura_px": 1586,
+    "sha256": "10e564c4fd200972ec0b7e3c65f394a9321366e74b9e89a4aff071ba05b845c8",
+    "origem": "edição/geração por ferramenta de imagem com direção e referências da autora"
+  },
+  {
+    "arquivo": "ARTES/desca_da_arvore_cor.jpeg",
+    "largura_px": 1024,
+    "altura_px": 1536,
+    "sha256": "a64386d4dd71064fddf467e841e5ba1fe794e01518a253eeaa65dcdf4248cde5",
+    "origem": "original selecionado"
+  },
+  {
+    "arquivo": "ARTES/frutos_base_cor.png",
+    "largura_px": 2172,
+    "altura_px": 724,
+    "sha256": "b7cfbf930e9d365930ec69c4ab3aa2e774c66b32aa0b90e926eb06466d7b1680",
+    "origem": "edição/geração por ferramenta de imagem com direção e referências da autora"
+  },
+  {
+    "arquivo": "ARTES/jaula_sofa_cor.png",
+    "largura_px": 1024,
+    "altura_px": 1536,
+    "sha256": "dca511845d1348c5dda4aa90c5ade2a7e00b4ce7611cd8871221b7c7406c9725",
+    "origem": "edição/geração por ferramenta de imagem com direção e referências da autora"
+  },
+  {
+    "arquivo": "ARTES/letreiro_cor.png",
+    "largura_px": 1024,
+    "altura_px": 1536,
+    "sha256": "6e55e2c1ca083f648eeccb5dfdc46b3e2b198adf5bfcb2d3e0d15faacf908b54",
+    "origem": "edição/geração por ferramenta de imagem com direção e referências da autora"
+  },
+  {
+    "arquivo": "ARTES/pirangi_cor.png",
+    "largura_px": 1024,
+    "altura_px": 1536,
+    "sha256": "8bb674635ebcef03d9c4bcb52367e60bd577e879cc2dcc0915259edd190abbb2",
+    "origem": "edição/geração por ferramenta de imagem com direção e referências da autora"
+  },
+  {
+    "arquivo": "ARTES/poda_semente_cor.png",
+    "largura_px": 1024,
+    "altura_px": 1536,
+    "sha256": "4f875e9e1f035b8c70bfc7725730c7adfb94425d81508ed9126b90f1703a8b7b",
+    "origem": "edição/geração por ferramenta de imagem com direção e referências da autora"
+  },
+  {
+    "arquivo": "ARTES/pragas_cor.png",
+    "largura_px": 1024,
+    "altura_px": 1536,
+    "sha256": "be3bc68e21dfb123136b0499e9eda5dc91a1bbf934fe100d8792f5b1ac773cb3",
+    "origem": "edição/geração por ferramenta de imagem com direção e referências da autora"
+  },
+  {
+    "arquivo": "ARTES/retrato_autora_pb.png",
+    "largura_px": 1122,
+    "altura_px": 1402,
+    "sha256": "a190f1cb365a96423d363f83afb2bf00f00a31def056bbcdf8ba0e70b60122e9",
+    "origem": "edição/geração por ferramenta de imagem com direção e referências da autora"
+  }
+]

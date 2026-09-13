@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 432 648" width="1800" height="2700">
+<title>Observe os frutos</title>
+<desc>O resultado inicia a investigação. Não define seu valor.</desc>
+<rect x="0" y="0" width="432" height="648" rx="0" fill="#101010" stroke="none" stroke-width=".7"/>
+<text x="30" y="29.0" fill="#E2BD78" font-size="8.1" font-family="DejaVu Sans" font-weight="700">MÉTODO POSICIONE-SE · SOL LIMA</text>
+<text x="30" y="65.0" fill="#E2BD78" font-size="25" font-family="DejaVu Serif" font-weight="400">Observe os frutos</text>
+<text x="30" y="84.0" fill="#C6BCA9" font-size="10.1" font-family="DejaVu Sans" font-weight="400">O resultado inicia a investigação. Não define seu valor.</text>
+<line x1="30" y1="110" x2="402" y2="110" stroke="#725936" stroke-width="0.7"/>
+<image x="30.0" y="144.0" width="372.0" height="124.0" xlink:href="../ARTES/frutos_base_cor.png"/>
+<text x="30" y="300.0" fill="#E2BD78" font-size="11" font-family="DejaVu Sans" font-weight="700">Estados diferentes pedem perguntas, não sentenças.</text>
+<text x="30" y="326.0" fill="#E2BD78" font-size="10" font-family="DejaVu Sans" font-weight="700">DESCREVA</text>
+<text x="30" y="343.0" fill="#F4EEE3" font-size="9.6" font-family="DejaVu Sans" font-weight="400">Qual resultado você observou? Em que área e período?</text>
+<text x="30" y="390.0" fill="#E2BD78" font-size="10" font-family="DejaVu Sans" font-weight="700">COMPARE</text>
+<text x="30" y="407.0" fill="#F4EEE3" font-size="9.6" font-family="DejaVu Sans" font-weight="400">O que melhorou, piorou ou permaneceu? Qual é a referência?</text>
+<text x="30" y="454.0" fill="#E2BD78" font-size="10" font-family="DejaVu Sans" font-weight="700">INVESTIGUE</text>
+<text x="30" y="471.0" fill="#F4EEE3" font-size="9.6" font-family="DejaVu Sans" font-weight="400">O que depende de você, de outra pessoa e do contexto?</text>
+<text x="30" y="518.0" fill="#E2BD78" font-size="10" font-family="DejaVu Sans" font-weight="700">ESCOLHA</text>
+<text x="30" y="535.0" fill="#F4EEE3" font-size="9.6" font-family="DejaVu Sans" font-weight="400">O que preservar? Que prática ou condição precisa mudar?</text>
+<line x1="30" y1="609" x2="402" y2="609" stroke="#725936" stroke-width="0.6"/>
+<text x="30" y="626.0" fill="#C6BCA9" font-size="8" font-family="DejaVu Sans" font-weight="400">As imagens simbolizam estados; a aparência não comprova a causa.</text>
+</svg>

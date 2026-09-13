@@ -112,3 +112,6 @@ Capítulo 17, dicionário e fichas F08/F17 atualizados conforme D013: influênci
 Sete estudos de imagens foram gerados e apresentados, mas a autora prefere a linguagem anterior. D014 mantém preto/dourado e força simbólica com limpeza seletiva. Estudos claros ficam como comparação; não há nova seleção final nem imagens incorporadas ao banco do repositório.
 
 Registro: `ETAPAS/05X_PRAGAS_AMBIENCIA_E_DIRECAO_VISUAL_2026-09-13.md`. A direção consolidada e o mapa visual incluem o retorno da autora. A contagem de palavras acima continua sendo a medição histórica da integração; não representa o texto após os complementos.
+
+## Complemento 05Y — banco visual colorido
+Executada a curadoria dos 28 originais recebidos e incorporado o banco [IMAGENS/COR_05Y](IMAGENS/COR_05Y/README.md), com 22 pranchas explicativas coloridas, mestres SVG, artes, textos-espelho e mapa de uso. Corrigidas capa, Jaula/Sofá, Pragas e demais peças selecionadas; Pragas revisada novamente após leitura de ventania apontada pela autora. O material está produzido para revisão visual; não está ainda incorporado ao manuscrito nem certificado em prova Kindle/KDP. P&B de diagramas fica para etapa posterior. Relatórios e manuscritos anteriores foram preservados.

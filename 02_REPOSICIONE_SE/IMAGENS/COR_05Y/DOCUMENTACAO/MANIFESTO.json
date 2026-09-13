@@ -1,0 +1,332 @@
+[
+  {
+    "id": "01_mapa_da_travessia",
+    "png": "COLORIDAS/01_mapa_da_travessia.png",
+    "editavel": "EDITAVEIS/01_mapa_da_travessia.svg",
+    "destino_sugerido": "Pré-livro",
+    "texto_alternativo": "Percurso pelas sete Partes e 28 capítulos.",
+    "legenda": "Sete Partes para transformar percepção em prática.",
+    "texto_espelho": "DOCUMENTACAO/01_mapa_da_travessia.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "dcc407b04bb8bca47c5986e60ec17cefca63c231667b7fd56c39eda2dd033e57"
+  },
+  {
+    "id": "02_percurso_de_aplicacao",
+    "png": "COLORIDAS/02_percurso_de_aplicacao.png",
+    "editavel": "EDITAVEIS/02_percurso_de_aplicacao.svg",
+    "destino_sugerido": "Primeira aplicação; retomada no cap. 28",
+    "texto_alternativo": "Ciclo de observação, investigação, exame, prática e revisão.",
+    "legenda": "Um percurso para trabalhar uma situação real.",
+    "texto_espelho": "DOCUMENTACAO/02_percurso_de_aplicacao.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "b40ce5aa8034f77139cca0821b7e5bdd3499feed16ee41900acde4e6e267bc8f"
+  },
+  {
+    "id": "03_arvore_do_discernimento",
+    "png": "COLORIDAS/03_arvore_do_discernimento.png",
+    "editavel": "EDITAVEIS/03_arvore_do_discernimento.svg",
+    "destino_sugerido": "Parte II; legenda de consulta",
+    "texto_alternativo": "Cajueiro numerado: Frutos, Galhos, Tronco, Raízes, Solo e ambiente.",
+    "legenda": "Localize a investigação. Uma parte não explica tudo.",
+    "texto_espelho": "DOCUMENTACAO/03_arvore_do_discernimento.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "9004b5462fa6398e411ca7b185c2e8032d3adc4dbffab2802beabaa308a53e24"
+  },
+  {
+    "id": "04_semente_solo_raizes_ambiente",
+    "png": "COLORIDAS/04_semente_solo_raizes_ambiente.png",
+    "editavel": "EDITAVEIS/04_semente_solo_raizes_ambiente.svg",
+    "destino_sugerido": "Capítulos 5–8",
+    "texto_alternativo": "Quatro campos distinguem atitude, modo operante, aprendizagem e condições externas.",
+    "legenda": "Quatro conceitos que precisam permanecer distintos.",
+    "texto_espelho": "DOCUMENTACAO/04_semente_solo_raizes_ambiente.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "d019a474d3a6ab051267b8f0a35b282fc82726c67a65f932a08b0033679a80bf"
+  },
+  {
+    "id": "05_avaliacao_dos_frutos",
+    "png": "COLORIDAS/05_avaliacao_dos_frutos.png",
+    "editavel": "EDITAVEIS/05_avaliacao_dos_frutos.svg",
+    "destino_sugerido": "Cap. 2; remissão no 28",
+    "texto_alternativo": "Três estados de frutos ilustram perguntas de descrição, comparação, investigação e escolha.",
+    "legenda": "O resultado inicia a investigação. Não define seu valor.",
+    "texto_espelho": "DOCUMENTACAO/05_avaliacao_dos_frutos.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "a618638963009e18f5d36dc94adf40e9bedcc3d489be2fe99505d833a177ea0d"
+  },
+  {
+    "id": "06_padrao_e_metacognicao",
+    "png": "COLORIDAS/06_padrao_e_metacognicao.png",
+    "editavel": "EDITAVEIS/06_padrao_e_metacognicao.svg",
+    "destino_sugerido": "Cap. 4; remissão no 18",
+    "texto_alternativo": "Ciclo de resposta habitual com retorno à interpretação e saída pela metacognição.",
+    "legenda": "Encontre um ponto de intervenção na situação concreta.",
+    "texto_espelho": "DOCUMENTACAO/06_padrao_e_metacognicao.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "7e6ace7e8ebf42abc99bfd16242a1cf6b021d240a2db9d4c122c5ca7857e13c0"
+  },
+  {
+    "id": "07_alinhamento_em_pratica",
+    "png": "COLORIDAS/07_alinhamento_em_pratica.png",
+    "editavel": "EDITAVEIS/07_alinhamento_em_pratica.svg",
+    "destino_sugerido": "Cap. 23; remissão nos caps. 9–12",
+    "texto_alternativo": "Valores e fatos passam pelo Filtro e chegam à prática e à revisão.",
+    "legenda": "A posição ganha consistência quando chega à conduta.",
+    "texto_espelho": "DOCUMENTACAO/07_alinhamento_em_pratica.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "7d997093094b14744f13c59833326a8282c08bff76b56c5685c416d9f21672db"
+  },
+  {
+    "id": "08_filtro_1_a_6",
+    "png": "COLORIDAS/08_filtro_1_a_6.png",
+    "editavel": "EDITAVEIS/08_filtro_1_a_6.svg",
+    "destino_sugerido": "Cap. 22",
+    "texto_alternativo": "Perguntas 1 a 6 do Filtro: fatos, interpretação, emoção e evidência.",
+    "legenda": "Primeiro, examine a leitura da situação.",
+    "texto_espelho": "DOCUMENTACAO/08_filtro_1_a_6.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "25f92f42a560a0781f7f126ad9a0ec35ff7b545bd23fbf5d33850954218ae65c"
+  },
+  {
+    "id": "09_filtro_7_a_12",
+    "png": "COLORIDAS/09_filtro_7_a_12.png",
+    "editavel": "EDITAVEIS/09_filtro_7_a_12.svg",
+    "destino_sugerido": "Cap. 22",
+    "texto_alternativo": "Perguntas 7 a 12 do Filtro: deveres, contexto, consequências e ação.",
+    "legenda": "Depois, examine responsabilidades e possibilidades.",
+    "texto_espelho": "DOCUMENTACAO/09_filtro_7_a_12.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "779b3b28f05d1ac380601ae8d2a203af5d5dfaed9e528a79374a6960fcd1bad5"
+  },
+  {
+    "id": "10_inspiracao_biblica",
+    "png": "COLORIDAS/10_inspiracao_biblica.png",
+    "editavel": "EDITAVEIS/10_inspiracao_biblica.svg",
+    "destino_sugerido": "Cap. 22, apoio opcional",
+    "texto_alternativo": "Oito termos de inspiração cristã, distintos do instrumento de doze perguntas.",
+    "legenda": "Inspiração cristã da autora · Filipenses 4:8",
+    "texto_espelho": "DOCUMENTACAO/10_inspiracao_biblica.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "441803b887bc90f581644d308ab18da5dcf10497617b3d85490977796ae4df27"
+  },
+  {
+    "id": "11_leis_1_a_7",
+    "png": "COLORIDAS/11_leis_1_a_7.png",
+    "editavel": "EDITAVEIS/11_leis_1_a_7.svg",
+    "destino_sugerido": "Síntese de consulta",
+    "texto_alternativo": "Leis 1 a 7 na ordem canônica.",
+    "legenda": "Critérios de conduta · 1 a 7",
+    "texto_espelho": "DOCUMENTACAO/11_leis_1_a_7.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "6d42baec230a9b99de44c059f0516db1b787bb5656df1adde55513d2a3465506"
+  },
+  {
+    "id": "12_leis_8_a_14",
+    "png": "COLORIDAS/12_leis_8_a_14.png",
+    "editavel": "EDITAVEIS/12_leis_8_a_14.svg",
+    "destino_sugerido": "Síntese de consulta",
+    "texto_alternativo": "Leis 8 a 14 na ordem canônica.",
+    "legenda": "Critérios de conduta · 8 a 14",
+    "texto_espelho": "DOCUMENTACAO/12_leis_8_a_14.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "dfc3d34355107a861483b13e573d3e4ea8de4410728e7fa8353daaf9f9207180"
+  },
+  {
+    "id": "13_mapa_de_influencias",
+    "png": "COLORIDAS/13_mapa_de_influencias.png",
+    "editavel": "EDITAVEIS/13_mapa_de_influencias.svg",
+    "destino_sugerido": "Cap. 20; Workbook",
+    "texto_alternativo": "Oito dimensões para examinar autonomia numa relação concreta.",
+    "legenda": "Observe como a influência atua em uma relação concreta.",
+    "texto_espelho": "DOCUMENTACAO/13_mapa_de_influencias.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "e34675b8025be11e25329a80b1d82cf6405c0d83428a414118091946e21d910a"
+  },
+  {
+    "id": "14_espelhos_1_a_7",
+    "png": "COLORIDAS/14_espelhos_1_a_7.png",
+    "editavel": "EDITAVEIS/14_espelhos_1_a_7.svg",
+    "destino_sugerido": "Cap. 24",
+    "texto_alternativo": "Espelhos 1 a 7 como posições contextuais.",
+    "legenda": "Observe uma posição numa área e num período.",
+    "texto_espelho": "DOCUMENTACAO/14_espelhos_1_a_7.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "b111c77e1ac21352aaaa2a603fe22379575a159ebe13481ac854b335e9f4d40a"
+  },
+  {
+    "id": "15_espelhos_8_a_14",
+    "png": "COLORIDAS/15_espelhos_8_a_14.png",
+    "editavel": "EDITAVEIS/15_espelhos_8_a_14.svg",
+    "destino_sugerido": "Cap. 24",
+    "texto_alternativo": "Espelhos 8 a 14 como posições contextuais.",
+    "legenda": "Uma pessoa pode ocupar posições diferentes conforme o contexto.",
+    "texto_espelho": "DOCUMENTACAO/15_espelhos_8_a_14.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "9f08d5b806a5beb7d7b24f6775ba12c82c6c312d3753c2c7dd293aff1c785669"
+  },
+  {
+    "id": "16_autopiedade_e_autocompaixao",
+    "png": "COLORIDAS/16_autopiedade_e_autocompaixao.png",
+    "editavel": "EDITAVEIS/16_autopiedade_e_autocompaixao.svg",
+    "destino_sugerido": "Cap. 17",
+    "texto_alternativo": "Poltrona vazia e comparação entre autopiedade e autocompaixão.",
+    "legenda": "Reconhecer o sofrimento pode abrir espaço para o cuidado.",
+    "texto_espelho": "DOCUMENTACAO/16_autopiedade_e_autocompaixao.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "272d864f59aa0eedde4e4e4e0392e18e79744e1776735f3a9f937d485cb69264"
+  },
+  {
+    "id": "17_jaula_e_sofa",
+    "png": "COLORIDAS/17_jaula_e_sofa.png",
+    "editavel": "EDITAVEIS/17_jaula_e_sofa.svg",
+    "destino_sugerido": "Cap. 19; remissão no 21",
+    "texto_alternativo": "Sofá confortável dentro de uma Jaula com porta aberta.",
+    "legenda": "Uma metáfora da experiência da autora.",
+    "texto_espelho": "DOCUMENTACAO/17_jaula_e_sofa.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "e1aaae4b6ada3b73801399634b6efd5f380ae671713c08f974830106ceb78f5c"
+  },
+  {
+    "id": "18_pragas_e_ambiencia",
+    "png": "COLORIDAS/18_pragas_e_ambiencia.png",
+    "editavel": "EDITAVEIS/18_pragas_e_ambiencia.svg",
+    "destino_sugerido": "Cap. 17",
+    "texto_alternativo": "Cajueiro saudável com um galho danificado à direita; legenda identifica dano localizado.",
+    "legenda": "Observe o dano localizado antes de procurar a causa.",
+    "texto_espelho": "DOCUMENTACAO/18_pragas_e_ambiencia.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "id": "19_poda_e_nova_semente",
+    "png": "COLORIDAS/19_poda_e_nova_semente.png",
+    "editavel": "EDITAVEIS/19_poda_e_nova_semente.svg",
+    "destino_sugerido": "Caps. 26–27",
+    "texto_alternativo": "Poda limitada de um ramo e plantio de uma pequena muda.",
+    "legenda": "Uma mudança específica que possa chegar à prática.",
+    "texto_espelho": "DOCUMENTACAO/19_poda_e_nova_semente.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "7bad6aaf9c07fe4b9c87a5bc5b3e8ad66a7c186814d0748369db2bfee9366c38"
+  },
+  {
+    "id": "20_workbook_porta_de_entrada",
+    "png": "COLORIDAS/20_workbook_porta_de_entrada.png",
+    "editavel": "EDITAVEIS/20_workbook_porta_de_entrada.svg",
+    "destino_sugerido": "Apresentação do Workbook",
+    "texto_alternativo": "Três testes centrais e ficha F17 complementar.",
+    "legenda": "Três instrumentos para registrar e examinar situações.",
+    "texto_espelho": "DOCUMENTACAO/20_workbook_porta_de_entrada.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "21c036b0d3fec47ced0c6a9cc26e99e4c5c691c53f30d753b0d9b6654b463937"
+  },
+  {
+    "id": "21_tronco_e_galhos",
+    "png": "COLORIDAS/21_tronco_e_galhos.png",
+    "editavel": "EDITAVEIS/21_tronco_e_galhos.svg",
+    "destino_sugerido": "Cap. 13; remissão no 9",
+    "texto_alternativo": "Tronco como sustentação; seis exemplos de Galhos em áreas da vida.",
+    "legenda": "Investigue a área em que a posição aparece.",
+    "texto_espelho": "DOCUMENTACAO/21_tronco_e_galhos.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "6c61b1b794ba68b38239b268577773e539f13f7542c252bc9fb75693170988be"
+  },
+  {
+    "id": "22_comandos_do_pensamento",
+    "png": "COLORIDAS/22_comandos_do_pensamento.png",
+    "editavel": "EDITAVEIS/22_comandos_do_pensamento.svg",
+    "destino_sugerido": "Cap. 22; sinalização anterior",
+    "texto_alternativo": "Pense nisso, Repense isso e Pense comigo.",
+    "legenda": "Do automático ao exame consciente.",
+    "texto_espelho": "DOCUMENTACAO/22_comandos_do_pensamento.txt",
+    "estado": "Produzida; incorporação e prova no livro pendentes",
+    "dimensoes_px": [
+      1800,
+      2700
+    ],
+    "sha256": "5fed52a7326b1dcc4928171f23ff40f5d185c56b77f517bf0bc3ee94e4640523"
+  }
+]
