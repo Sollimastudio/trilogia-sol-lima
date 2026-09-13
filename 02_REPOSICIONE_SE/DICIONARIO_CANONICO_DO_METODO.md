@@ -52,6 +52,8 @@ Contexto externo e condições concretas: família, cultura, escola, relações,
 
 **Pergunta:** o que está acontecendo ao meu redor e que recursos, restrições e riscos participam?
 
+**Ambiência:** modo como essas condições e influências se apresentam no cotidiano do cultivo. Investigar comportamentos, pressões, acordos e efeitos observáveis; comparar situações e examinar hipóteses alternativas. Não atribuir automaticamente um resultado ao interior da pessoa nem ao ambiente.
+
 ## Raízes
 Histórias aprendidas, crenças específicas, hábitos, lealdades e regras de onde um padrão ainda retira força. Podem ter origem familiar, na infância ou em experiências posteriores. Uma origem desconhecida continua desconhecida.
 
@@ -71,12 +73,16 @@ Mecanismo interno ou externo que drena, distorce ou sabota cultivo.
 
 Exemplos possíveis: automatismo, comparação, medo, perfeccionismo, procrastinação, controle, ressentimento, anestesia, autopiedade e dependência de validação.
 
-**Regra absoluta:** pessoa nunca é chamada de Praga.
+**Regra absoluta:** pessoa nunca é chamada de Praga. O termo se refere ao funcionamento que precisa ser examinado, inclusive quando a influência vem de fora. Não concluir que mãe, família ou discordantes devam ser eliminados da vida do leitor.
+
+**Resposta relacional:** observar conduta e efeito; ouvir e compreender sem presumir intenção; formular pedido/acordo; assumir a própria participação; estabelecer limite proporcional e rever os Frutos. Empatia não exige aceitar violência nem manter acesso ilimitado. Conversa e afastamento não são soluções automáticas.
 
 ## Autopiedade
 Mecanismo possível em que a dor passa a bloquear toda revisão, ampliar impotência ou reivindicar governo permanente.
 
 **Não é:** sentir dor, precisar de ajuda, reconhecer injustiça, ter limitação real ou praticar autocompaixão.
+
+**Ênfase autoral — D013:** Sol identifica a autopiedade como a pior Praga em sua própria vida e lhe dá centralidade no livro. Preservar a força do testemunho em primeira pessoa. “Praga-Mãe” descreve como o bloqueio à revisão pode alimentar outros mecanismos; não é hierarquia clínica universal nem causa única de sofrimento.
 
 ## Autocompaixão
 Dor acolhida sem negar realidade, responsabilidade possível, limite ou necessidade de reconstrução.

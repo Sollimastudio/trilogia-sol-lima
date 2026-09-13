@@ -1,4 +1,4 @@
-# Direção editorial consolidada — 05W
+# Direção editorial consolidada — 05W, atualizada em 05X
 
 **Data:** 13/09/2026. **Base anterior:** main `0553f0245eb1e5f189458bd5be1f54419ab8aecf`. **Autora:** Sol Lima.
 
@@ -45,3 +45,8 @@ As buscas desta etapa por Cajueiro e imagens pessoais de Sol não identificaram 
 6. **Curso:** desenvolver aulas das sete Partes a partir do manuscrito e fichas estabilizados, mantendo demonstração/prática/feedback.
 
 Esta sequência consolida o trabalho. Não altera retroativamente os pareceres já entregues nem trata próximos passos como concluídos.
+
+## Atualização 05X — Pragas e preferência visual
+D013/D014 integram a direção vigente. Pragas já faziam parte da metodologia; o capítulo 17 agora desenvolve ambiência, influências externas, empatia e prática de relações com limites. A autopiedade é apresentada como a pior Praga na experiência de Sol, preservando a diferença entre testemunho e conclusão sobre toda pessoa.
+
+A linguagem visual de referência continua sendo a anterior, em preto e dourado, com força simbólica. Os sete estudos novos são comparações, não uma substituição aprovada. Refinar hierarquia e reduzir ornamentos concorrentes; preservar a identidade da autora. Interior digital e versão P&B precisam manter símbolos e significado, com tratamento próprio de contraste. Minimalismo não é requisito de profissionalismo. Conferir inserção em página antes de escolher uma peça como final.

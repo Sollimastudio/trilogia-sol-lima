@@ -131,3 +131,10 @@ Acrescentar novos marcos sem sobrescrever snapshots anteriores. Mudanças poster
 
 ## 13/09/2026 — 05W — Definições autorais e Workbook
 D010–D012 aplicadas: “resistir” no subtítulo; Solo=mindset; Raízes como aprendizagens/sustentação; ambiente separado. Prosa e mapas atualizados por necessidade de coerência autoral. Workbook criado com três testes centrais em V0.1, 19 fichas e fontes legadas preservadas. Ver `ETAPAS/05W_DEFINICOES_AUTORA_E_WORKBOOK_2026-09-13.md` e snapshot JSON da prosa. Auditoria geral 05 permanece parcial; não houve geração de imagens nem alteração dos manuscritos 1/3.
+
+## 13/09/2026 — 05X — Pragas, ambiência e direção visual
+**Entrada:** main `f9db9f061f5547ba5c2a3ab8faa914e599df6ba0`.
+**Resultado:** capítulo 17 ampliado por orientação da autora; ambiência externa, empatia, pedido/acordo, limites e revisão; relato de autopiedade como a pior Praga em sua experiência. Dicionário e F08/F17 alinhados. D013/D014 registradas.
+**Visual:** sete estudos de comparação gerados (capa e três pares cor/P&B). Após retorno da autora, a direção mantém a linguagem anterior preta/dourada com limpeza seletiva. Estudos não selecionados como finais, sem migração de imagens ao repositório.
+**Preservação:** etapas anteriores e seus snapshots intactos; arquitetura de 28 capítulos, 19 fichas e demais livros preservados. Rigor geral e produção continuam pendentes.
+**Registro e texto resultante:** `ETAPAS/05X_PRAGAS_AMBIENCIA_E_DIRECAO_VISUAL_2026-09-13.md`.

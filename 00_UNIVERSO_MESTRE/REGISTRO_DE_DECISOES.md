@@ -88,3 +88,16 @@ Toda decisão futura deve receber:
 **Aplicação editorial:** material legado recuperado com procedência; primeiras versões operacionais de três testes e 19 fichas, sem alegar validação psicométrica. Não utilizar um escore para certificar “lavagem cerebral” nem transformar tipos em identidade. Livro, Workbook e curso compartilham aplicação completa do mesmo método.
 **Voz e memória:** prosa sustentada pelo corpus da autora e fatos confirmados. Sua fé, a Jaula aberta e o Sofá permanecem; não inventar cenas, falas ou lembranças para preencher lacunas.
 **Imagens:** manter curadoria prévia; corrigir Solo, legendas e subtítulo nas peças; regenerar somente quando a composição existente não permitir o propósito. Acesso ao acervo pessoal não é presumido. Não houve geração nesta etapa.
+
+## 13/09/2026 — D013 — Pragas, ambiência, empatia e autopiedade
+**Fonte:** orientação explícita da autora nesta conversa: investigar fatores externos; não ensinar rejeição de pessoas; cultivar empatia e relações melhores; autopiedade foi o que mais a prejudicou.
+**Decisão:** desenvolver a dimensão externa de Pragas já existente no capítulo 17. Praga nomeia mecanismo, jamais pessoa; Solo continua modo operante, ambiente permanece campo próprio. Não presumir uma causa interior nem exterior só pelo Fruto.
+**Aplicação:** capítulo 17 ampliado com leitura da ambiência, exemplo relacional hipotético e percurso de escuta, pedido/acordo, limite proporcional e revisão. Testemunho autoral sobre autopiedade incorporado sem inventar episódio. Dicionário e fichas F08/F17 alinhados.
+**Consequência:** o livro ensina compreensão do próximo com responsabilidade e limites. A autopiedade recebe a centralidade solicitada, situada na experiência da autora; não se declara causa universal nem se confunde com autocompaixão.
+
+## 13/09/2026 — D014 — Preservar a identidade visual anterior
+**Fonte:** após solicitar um lote de comparação, Sol declarou preferir as imagens anteriores e confiar no parecer editorial.
+**Decisão editorial:** preservar preto, dourado, contraste e força simbólica das referências anteriores; fazer limpeza seletiva da composição e corrigir texto/conceitos. Não substituir essa linguagem por estilo botânico claro como padrão do projeto.
+**Motivo:** os novos estudos ficaram mais leves, mas se afastaram da identidade reconhecida pela autora. Sua confiança não equivale à aprovação desses estudos nem elimina sua preferência.
+**Aplicação:** foram gerados sete estudos de comparação: uma capa e três pares colorido/P&B (Raízes, Pragas, Autopiedade/Jaula). Permanecem estudos, sem seleção final ou incorporação ao banco do repositório. Novas provas devem conciliar a linguagem anterior com hierarquia, legibilidade e equivalência entre cor/P&B.
+**Consequência:** manter fontes anteriores; não regenerar toda a trilogia. Capa usa subtítulo vigente com “resistir”; textos e diagramas essenciais devem ser recompostos de modo editável. A prova das páginas definirá onde fundo escuro funciona e onde precisa de adaptação para papel.

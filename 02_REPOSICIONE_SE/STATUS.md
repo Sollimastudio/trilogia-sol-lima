@@ -1,7 +1,7 @@
 # STATUS — REPOSICIONE-SE
 
-**Atualização:** 13/09/2026 — complemento 05W.  
-**Frente de trabalho:** somente `02_REPOSICIONE_SE/`.  
+**Atualização:** 13/09/2026 — complemento 05X.  
+**Frente de trabalho:** Livro 2 em `02_REPOSICIONE_SE/` e suas decisões no registro compartilhado.  
 **Etapa encerrada:** **ETAPA 04 — EPÍLOGO E COSTURA INTEGRAL**.  
 **Próxima etapa:** **ETAPA 05 — AUDITORIA DE RIGOR E RISCO**.
 
@@ -81,7 +81,7 @@ A etapa seguinte deve verificar e corrigir o que exigir rigor e segurança antes
 | 04 — Epílogo e Costura Integral | Concluída editorialmente | `ETAPAS/04_EPILOGO_E_COSTURA_INTEGRAL_2026-09-11.md` |
 | 05 — Auditoria de Rigor e Risco | Parcialmente iniciada: notas e revisão do capítulo 10; não encerrada | A criar somente ao fechar a auditoria |
 | 06 — Preparação Editorial Final | Pendente | — |
-| 07 — Ilustrações e Sistema Visual | Pendente | — |
+| 07 — Ilustrações e Sistema Visual | Curadoria e estudos iniciados; seleção e produção final pendentes | Complementos 05V/05X |
 | 08 — Kindle, Impresso e QA | Pendente | — |
 | 09 — Distribuição e Bíblia do Curso | Pendente | — |
 
@@ -105,3 +105,10 @@ Aplicadas D010–D012: subtítulo com “resistir”; Solo como modo operante/mi
 Workbook confirmado e pasta criada com primeiras versões de três testes, 19 fichas e fontes recuperadas. Estado V0.1, ainda sem leitura de uso com leitores, validação psicométrica ou diagramação final. A auditoria geral da ETAPA 05 continua parcial. Relatórios anteriores não foram sobrescritos.
 
 Direção atual: `DIRECAO_EDITORIAL_CONSOLIDADA_05W.md`. Registro: `ETAPAS/05W_DEFINICOES_AUTORA_E_WORKBOOK_2026-09-13.md`. Próximo comando: `PROMPT_PROXIMA_ETAPA_05.md`, considerando a atualização 05W no início.
+
+## Complemento 05X — Pragas, ambiência e preferência visual
+Capítulo 17, dicionário e fichas F08/F17 atualizados conforme D013: influências externas examinadas por comportamento/contexto; empatia, acordos e limites; autopiedade como a pior Praga na experiência da autora. Os 28 capítulos e as 19 fichas permanecem.
+
+Sete estudos de imagens foram gerados e apresentados, mas a autora prefere a linguagem anterior. D014 mantém preto/dourado e força simbólica com limpeza seletiva. Estudos claros ficam como comparação; não há nova seleção final nem imagens incorporadas ao banco do repositório.
+
+Registro: `ETAPAS/05X_PRAGAS_AMBIENCIA_E_DIRECAO_VISUAL_2026-09-13.md`. A direção consolidada e o mapa visual incluem o retorno da autora. A contagem de palavras acima continua sendo a medição histórica da integração; não representa o texto após os complementos.

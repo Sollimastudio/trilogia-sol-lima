@@ -1,3 +1,27 @@
+# Complemento 05X — Pragas, ambiência e direção visual
+
+**Data:** 13/09/2026. **Base:** `f9db9f061f5547ba5c2a3ab8faa914e599df6ba0`.
+**Autorização:** orientação da autora nesta conversa sobre metodologia, relações, autopiedade e geração de estudos visuais, seguida de preferência pelas imagens anteriores.
+
+## O que mudou
+- Capítulo 17: dimensão externa da investigação, ambiência, exemplo hipotético da relação com a mãe, escuta/pedido/acordo/limite e revisão dos Frutos.
+- Autopiedade: testemunho em primeira pessoa apoiado apenas no relato fornecido pela autora; centralidade preservada, sem inventar cena ou atribuir o mesmo mecanismo a todos.
+- Dicionário e fichas F08/F17 alinhados; mantidas 19 fichas.
+- D013/D014 registradas, direção consolidada, mapa visual, STATUS e histórico atualizados.
+
+## Parecer visual após a comparação
+Foram apresentados sete estudos: capa e os pares colorido/P&B de Raízes, Pragas e Autopiedade/Jaula. A autora declarou preferir as imagens anteriores. A direção passa a preservar explicitamente a linguagem preta/dourada e a força simbólica das referências, com limpeza seletiva. O lote claro não é uma seleção final e não foi incorporado ao banco do repositório.
+
+A confiança da autora no parecer não equivale a autorização para apagar sua preferência. Profissionalismo será avaliado por função, coerência, hierarquia e legibilidade no contexto do livro, não por redução indiscriminada de detalhes.
+
+## Continuidade
+Relatórios e snapshots anteriores permanecem intactos. A arquitetura de sete Partes/28 capítulos não muda. Não há alteração de prosa dos Livros 1/3. Rigor geral, seleção visual, arquivos finais e provas de publicação continuam pendentes.
+
+## Texto integral do capítulo 17 após o complemento
+A cópia abaixo registra o resultado editorial desta atualização; futuras revisões pertencem ao manuscrito vivo.
+
+---
+
 # PARTE V — PRAGAS, INFLUÊNCIAS E JAULAS
 
 **Reconhecer o cultivo também é olhar para o que o drena — sem transformar ninguém no nome do problema.**

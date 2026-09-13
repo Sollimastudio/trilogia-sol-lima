@@ -46,3 +46,18 @@ Ilustrações simbólicas: preservar linguagem autoral e função, adaptando ape
 Prioridades: Árvore canônica com Solo corrigido; Jaula com porta aberta e Sofá visível; fichas legíveis dos três testes centrais; Filtro de 12 perguntas e 14 Leis atualizadas. O título/subtítulo nas peças deve usar “resistir”. Preferir recomposição editável quando o problema for texto/diagrama. Regenerar imagem conceitual somente quando a fonte não permitir corrigir a comunicação. Nenhuma imagem foi regenerada nesta etapa.
 
 O catálogo anterior reúne ativos legados, não um acervo pessoal identificado. Foto real do Cajueiro, retrato autoral em boa resolução e fotos documentais da história dependem de identificação da fonte; ilustração gerada não deve ocupar o lugar de memória fotográfica.
+
+## Complemento 05X — lote de comparação e direção após retorno da autora
+**Situação:** sete estudos gerados e apresentados na conversa: capa; Raízes cor/P&B; Pragas cor/P&B; Autopiedade/Jaula cor/P&B. O resultado visual é mais claro e botânico. A autora declarou preferir as imagens anteriores. Estes estudos não estão selecionados como arquivos finais nem foram incorporados ao banco do repositório.
+
+**Parecer aplicado — D014:** preservar a linguagem anterior em preto/dourado, o contraste e a potência simbólica. Limpar seletivamente. Não tratar leveza ou fundo branco como critério isolado de profissionalismo. A indicação anterior de versão clara para miolo passa a ser uma alternativa a testar na página, não troca geral da identidade visual.
+
+| Frente | Direção vigente | Verificação necessária |
+|---|---|---|
+| Capa | Partir da linguagem preta/dourada anterior, com título em destaque e subtítulo D010 | Leitura em miniatura e composição final da edição escolhida |
+| Raízes | Preservar árvore/raízes simbólicas e reduzir elementos concorrentes | Rótulos da D011, leitura e ausência de causalidade única |
+| Pragas / ambiência | Mostrar drenagem do cultivo sem retratar pessoas como parasitas | Relação com capítulo 17; o mecanismo pode ser interno ou externo |
+| Autopiedade / Jaula | Porta claramente aberta, sofá confortável e tensão simbólica | Experiência pessoal da autora; não insinuar que todo sofrimento é permanência voluntária |
+| Cor e P&B | Preservar composição, função e significado entre versões | Contraste, tipografia e prova no tamanho real |
+
+**Pendências:** próxima prova na linguagem anterior refinada; seleção pela autora no contexto da página; recomposição editável de texto/diagramas; mestres e pares identificados; incorporação de arquivos finais com procedência, legenda e texto alternativo. A geração deste lote não encerra as etapas 07/08.

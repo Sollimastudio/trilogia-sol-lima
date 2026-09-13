@@ -104,9 +104,19 @@ __________
 
 ## F08 — Mini-Filtro de Influência
 
-**Livro:** Capítulo 16.
+**Livro:** capítulos 16 e 17.
 
 Afirmação e fonte; ganho ou custo de pertencimento; evidência e contraditório; régua com papéis trocados; possibilidade real de discordar ou sair. Para investigação extensa, usar o teste de oito blocos.
+
+**Quando a influência aparece numa relação:**
+
+1. Qual conduta ou pressão consigo descrever sem rotular a pessoa? Em que contexto e com que efeito?
+2. O que sei sobre a perspectiva do outro, o que apenas suponho e o que posso perguntar?
+3. O que depende de mim, do outro ou das condições? Que evidência contraria minha primeira explicação?
+4. Que pedido, acordo ou limite sobre minha própria participação é possível? Preciso de apoio antes de conversar ou agir?
+5. Quando vou rever o resultado? Houve escuta, mudança de conduta e reparação de cada parte, ou preciso ajustar a forma da relação?
+
+Empatia pode acompanhar firmeza. O objetivo é melhorar a relação possível e o cuidado, sem exigir convivência irrestrita nem usar o incômodo como motivo automático para romper.
 
 **Meu registro:**
 
@@ -239,6 +249,8 @@ Em uma situação e período escolhidos, responda com exemplo, ausência de exem
 4. Tenho tratado qualquer revisão de uma conduta minha como se negasse a injustiça que sofri?
 5. O que parece adiamento é falta de recurso, exaustão, risco ou um alívio que depende de não olhar? Que evidência permite distinguir?
 6. Que cuidado ou apoio concreto ampliaria minha margem de resposta?
+
+**Lembrete:** a autora apresenta a autopiedade como a Praga que mais a prejudicou. A sua investigação não precisa reproduzir a história dela. Quando houver influência externa, use também a extensão relacional da F08.
 
 **Devolutiva:** se faltam condições, prepare cuidado e recurso. Se uma narrativa está encerrando toda possibilidade sem exame, volte ao fato e escolha uma pergunta menor. Se ainda não consegue distinguir, não se rotule. Dor e responsabilidade possível podem ser reconhecidas juntas.
 
