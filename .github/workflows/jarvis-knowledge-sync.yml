@@ -1,0 +1,95 @@
+name: Jarvis knowledge sync
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'START_HERE.md'
+      - '00_UNIVERSO_MESTRE/*.md'
+      - '01_MORTE_EM_VIDA/*.md'
+      - '02_REPOSICIONE_SE/*.md'
+      - '03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU/*.md'
+      - '.github/workflows/jarvis-knowledge-sync.yml'
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Sync canonical Markdown into Jarvis knowledge
+        env:
+          JARVIS_SYNC_ENDPOINT: https://rkkpbmzrucaghrojujvb.supabase.co/functions/v1/github-knowledge-sync
+          JARVIS_SYNC_AUDIENCE: jarvis-supabase-sync
+        run: |
+          python - <<'PY'
+          import json, os, pathlib, sys, urllib.parse, urllib.request, urllib.error
+
+          audience = os.environ['JARVIS_SYNC_AUDIENCE']
+          oidc_url = os.environ['ACTIONS_ID_TOKEN_REQUEST_URL'] + '&audience=' + urllib.parse.quote(audience)
+          oidc_req = urllib.request.Request(
+              oidc_url,
+              headers={'Authorization': 'Bearer ' + os.environ['ACTIONS_ID_TOKEN_REQUEST_TOKEN']}
+          )
+          with urllib.request.urlopen(oidc_req, timeout=20) as response:
+              token = json.load(response)['value']
+
+          roots = [
+              pathlib.Path('00_UNIVERSO_MESTRE'),
+              pathlib.Path('01_MORTE_EM_VIDA'),
+              pathlib.Path('02_REPOSICIONE_SE'),
+              pathlib.Path('03_ANATOMIA_DO_DESAPARECIMENTO_DO_EU'),
+          ]
+          paths = [pathlib.Path('START_HERE.md')]
+          for root in roots:
+              if root.exists():
+                  paths.extend(sorted(p for p in root.glob('*.md') if p.is_file()))
+
+          endpoint = os.environ['JARVIS_SYNC_ENDPOINT']
+          synced = 0
+          skipped = 0
+          for path in paths:
+              raw = path.read_bytes()
+              if len(raw) > 150_000:
+                  print(f'SKIP too large: {path} ({len(raw)} bytes)')
+                  skipped += 1
+                  continue
+              try:
+                  content = raw.decode('utf-8')
+              except UnicodeDecodeError:
+                  print(f'SKIP not UTF-8: {path}')
+                  skipped += 1
+                  continue
+              payload = json.dumps({'path': path.as_posix(), 'content': content}, ensure_ascii=False).encode('utf-8')
+              req = urllib.request.Request(
+                  endpoint,
+                  data=payload,
+                  method='POST',
+                  headers={
+                      'Authorization': 'Bearer ' + token,
+                      'Content-Type': 'application/json',
+                      'User-Agent': 'Jarvis-Trilogy-Sync/1.0'
+                  }
+              )
+              try:
+                  with urllib.request.urlopen(req, timeout=30) as response:
+                      result = json.load(response)
+                  if result.get('ok') is not True:
+                      raise RuntimeError(f'Unexpected sync response for {path}: {result}')
+                  print(f"SYNC {path} -> {result.get('project')} / {result.get('source')}")
+                  synced += 1
+              except urllib.error.HTTPError as exc:
+                  body = exc.read().decode('utf-8', 'replace')[:1000]
+                  print(f'ERROR {path}: HTTP {exc.code} {body}', file=sys.stderr)
+                  sys.exit(1)
+
+          print(f'Jarvis sync complete: {synced} synced, {skipped} skipped')
+          PY
