@@ -7,6 +7,18 @@
 **Estado a herdar:** ETAPAS 00–07; primeira redação acumulada das notas, introdução, seis partes, 24 capítulos e epílogo.
 **Prioridade:** revisar a obra existente, aplicar correções justificadas e produzir uma versão editorialmente mais consistente. Não substituir lapidação por outro mapa ou apenas por um relatório de intenções.
 
+## DIREÇÃO AUTORAL RECEBIDA EM 19/09/2026 — LEITURA OBRIGATÓRIA
+
+Antes da lapidação, ler integralmente `ADENDO_DIRECAO_FRUTOS_PONTES_E_AUTOBIOGRAFIA_2026-09-19.md` e `ADENDO_CURADORIA_INFLUENCIA_VIRAL_E_REALIDADE_2026-09-19.md`. Integrar as diretrizes ao texto, registrando cada aplicação; não apenas produzir outro relatório.
+
+A origem relatada por Sol é a investigação da experiência de Morte em Vida, da qual nasceram Reposicione-se e a necessidade de aprofundar Fuga Identitária. Frutos, como resultados observáveis, devem dar entrada ao autoexame: expectativa, realidade, sentimento, custo, terceiros, condições e resposta possível. Não confundir resultado ruim com culpa, satisfação com ausência de dano ou Frutos com diagnóstico.
+
+A leitura é recíproca: Reposicione-se aprofunda a prática para quem começou por Fuga; Fuga aprofunda a investigação identitária para quem começou por Reposicione-se. Não repetir o método integral nem retirar a saída do Livro 3 para exigir outra compra. Antídoto é metáfora pedagógica, não cura ou eficácia clínica comprovada.
+
+Reintegrar sua experiência em cenas breves ou retomadas documentadas, com função nova. Não recontar toda a biografia não significa excluir toda cena autobiográfica. Não transformar casos compostos em memórias de Sol. Distinguir relato, interpretação retrospectiva e ilustração. Preservar segurança e responsabilidade: estrutura emocional não torna uma vítima imune; violência não prova diagnóstico do agressor.
+
+Esta direção esclarece a seção 7 abaixo. Não altera a numeração da trilogia nem autoriza sobrescrever arquivos dos outros livros. A atualização do prompt não equivale à conclusão da ETAPA 08.
+
 # 1. ORDEM CENTRAL
 
 Execute a ETAPA 08 lendo a versão corrente do repositório. Audite o livro como uma obra inteira, aplique a lapidação que essa leitura justificar, organize referências e pendências editoriais e salve o novo marco. Preserve o material útil, o registro do processo e a identidade da trilogia.
@@ -69,7 +81,7 @@ Mapear a função efetivamente cumprida por cada capítulo, com indicação do t
 
 I — pessoa e papéis; II — espelhos e pertencimento; III — incorporação e redução do contraditório; IV — funcionamento cotidiano; V — saídas aparentes e responsabilidade; VI — diferenciação, perda e sustentação.
 
-Verificar a promessa da Nota da Autora e da Introdução contra o que os capítulos realmente entregam. Examinar se a Parte VI responde às perguntas plantadas sem repetir integralmente os mecanismos anteriores. Conferir se o epílogo encerra por imagem e consequência, em vez de refazer o sumário ou apresentar um método novo.
+Verificar a promessa da Nota da Autora e da Introdução contra o que os capítulos realmente entregam. Examinar se a Parte VI responde às perguntas plantadas sem repetir integralmente os mecanismos anteriores. Conferir se o epílogo encerra por imagem e consequência, em vez de refazer osumário ou apresentar um método novo.
 
 Identificar lacunas reais, passagens redundantes, saltos e remissões erradas. Distinguir repetição que produz avanço de repetição que apenas muda o exemplo. Corrigir o necessário no manuscrito; não deixar toda conclusão da auditoria como recomendação para uma etapa indefinida.
 
@@ -111,11 +123,11 @@ Não inventar finais para todas as personagens. São casos compostos, não pacie
 
 # 7. FRONTEIRAS DA TRILOGIA
 
-*Morte em Vida* conserva a biografia, autópsia metafórica, perdas familiares, perdão/autoperdão e Sepultamento Simbólico. O Livro 3 pode reconhecer a procedência autoral sem recontar cenas nem apropriar-se do clímax autobiográfico.
+*Morte em Vida* conserva a biografia integral, autópsia metafórica, perdas familiares, perdão/autoperdão e Sepultamento Simbólico. O Livro 3 deve reconhecer essa origem e pode retomar cenas ou fragmentos documentados quando sua função for investigar formação e sustentação identitária. Não duplicar a função das cenas nem apropriar-se do clímax; não apagar a presença autobiográfica por excesso de separação editorial.
 
-*Reposicione-se* conserva a Árvore, Jaula, Filtro, Leis, Poda, Nova Semente e a arquitetura integral do método. Perguntas sobre evidência e responsabilidade podem ser aplicadas aqui; não devem ressurgir como outro curso completo.
+*Reposicione-se* conserva a Árvore, Jaula, Filtro, Leis, Poda, Nova Semente e a arquitetura integral do método. Frutos e perguntas sobre evidência e responsabilidade entram aqui como ferramentas herdadas aplicadas à experiência do leitor, não como outro curso completo. O método pode ser apresentado como antídoto metafórico e referência prática complementar, sem prometer tratamento ou imunidade e sem privar Fuga de sua própria entrega.
 
-O fechamento do Livro 3 não encaminha ao Livro 2 como volume futuro. Não reutilizar a descida da Árvore como clímax deste epílogo. Seu ganho é presença identitária sustentável entre vínculos e mudanças.
+O Livro 3 deve oferecer uma ponte explícita para Reposicione-se a quem deseje aprofundar a aplicação prática, independentemente da ordem de leitura. Não apresentar o Livro 2 como cronologicamente futuro nem proibir o convite de leitura recíproco. Uma nota de leitura após o epílogo pode preservar a última imagem. Não reutilizar a descida da Árvore como clímax; o ganho próprio de Fuga permanece a presença identitária sustentável entre vínculos e mudanças.
 
 # 8. ALEGAÇÕES, FONTES E BIBLIOGRAFIA
 
