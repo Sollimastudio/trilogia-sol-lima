@@ -52,7 +52,7 @@ Ler os mapas-mãe atuais dos Livros 1 e 2. Não confundir uma alteração de pro
 - snapshot integral da ETAPA 07 no caminho registrado pelo QA;
 - diffs e registros anteriores quando houver dúvida sobre uma correção já consolidada.
 
-As contagens e hashes devem ser extraídos dos arquivos, não copiados cegamente de respostas de chat. Caso a integração da etapa anterior esteja incompleta, concluir sua verificação antes de iniciar um novo marco; não duplicar capítulos para resolver um problema de controle.
+As contagens e hashes devem ser extraídas dos arquivos, não copiadas cegamente de respostas de chat. Caso a integração da etapa anterior esteja incompleta, concluir sua verificação antes de iniciar um novo marco; não duplicar capítulos para resolver um problema de controle.
 
 # 3. CONTRATO INTELECTUAL QUE A REVISÃO NÃO PODE DESFAZER
 
@@ -81,7 +81,7 @@ Mapear a função efetivamente cumprida por cada capítulo, com indicação do t
 
 I — pessoa e papéis; II — espelhos e pertencimento; III — incorporação e redução do contraditório; IV — funcionamento cotidiano; V — saídas aparentes e responsabilidade; VI — diferenciação, perda e sustentação.
 
-Verificar a promessa da Nota da Autora e da Introdução contra o que os capítulos realmente entregam. Examinar se a Parte VI responde às perguntas plantadas sem repetir integralmente os mecanismos anteriores. Conferir se o epílogo encerra por imagem e consequência, em vez de refazer osumário ou apresentar um método novo.
+Verificar a promessa da Nota da Autora e da Introdução contra o que os capítulos realmente entregam. Examinar se a Parte VI responde às perguntas plantadas sem repetir integralmente os mecanismos anteriores. Conferir se o epílogo encerra por imagem e consequência, em vez de refazer o sumário ou apresentar um método novo.
 
 Identificar lacunas reais, passagens redundantes, saltos e remissões erradas. Distinguir repetição que produz avanço de repetição que apenas muda o exemplo. Corrigir o necessário no manuscrito; não deixar toda conclusão da auditoria como recomendação para uma etapa indefinida.
 
