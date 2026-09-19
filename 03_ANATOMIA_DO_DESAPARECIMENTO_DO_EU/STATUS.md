@@ -1,115 +1,43 @@
 # STATUS — LIVRO 3 — ANATOMIA DO DESAPARECIMENTO DO EU
 
-**Atualizado:** 11/09/2026
+**Atualizado:** 19/09/2026.  
+**Estado atual:** ETAPA 08 — prosa integrada; fechamento editorial/técnico em andamento. Não é publicação aprovada.
 
-## LEGENDA
-- ⬜ vazio
-- ◐ em apuração
-- ◑ estruturado
-- ● escrito
-- ◉ em revisão
-- ✓ fechado
+## O que está efetivamente escrito
 
-## ESTADO GERAL
+`MANUSCRITO_CANONICO.md` contém notas, introdução, seis partes, 24 capítulos, epílogo e nota de leitura recíproca. A versão 08 foi integrada no commit `9e4bc01f1b2c5a1f84a1109c7abb0f6a5b1d0bda`.
 
-| Camada | Estado | Observação |
-|---|---:|---|
-| Posição na trilogia | ✓ | Livro 3: recuperar e sustentar o Eu. |
-| Pergunta central | ✓ | Quem sou quando retiro identidades construídas para sobreviver, pertencer, agradar, funcionar ou escapar de mim? |
-| Fronteiras com Livros 1 e 2 | ✓ | Não recontar biografia; não repetir método. |
-| Auditoria do legado | ✓ | Camada 11 antiga classificada como reservatório editorial. |
-| Matriz de migração dos 24 capítulos | ✓ | Planejamento de reaproveitamento criado; integração textual continua por etapa. |
-| Arquitetura de 24 capítulos | ◑ | Consolidada para produção; ajustes futuros só por evidência de escrita. |
-| Manuscrito canônico novo | ● | `MANUSCRITO_CANONICO.md` contém abertura + Partes I–VI, capítulos 1–24 e epílogo; primeira redação completa, aprovação autoral pendente. |
-| Abertura canônica | ◉ | Nota da Autora, Nota Conceitual e Introdução escritas e revisadas tecnicamente; aguardam leitura autoral sem bloquear continuidade. |
-| Parte I — O Eu que Aprende a Caber | ◉ | Caps. 1–4 completos, revisados e congelados em snapshot da ETAPA 02; aguardam leitura autoral. |
-| Parte II — Os Espelhos que Respondem por Nós | ◉ | Caps. 5–8 completos, revisados, auditados e congelados em snapshot integral da ETAPA 03; aguardam leitura autoral. |
-| Parte III — A Anatomia da Ocupação | ◉ | Caps. 9–12 completos, revisados e integrados; snapshot integral da ETAPA 04 verificado; leitura autoral pendente. |
-| Parte IV — O Eu Emprestado em Funcionamento | ◉ | Caps. 13–16 completos, revisados e integrados; snapshot integral da ETAPA 05 conferido; leitura autoral pendente. |
-| Parte V — Quando Fugir de Si Parece Liberdade | ◉ | Caps. 17–20 escritos e revisados, integrados ao marco 06; leitura autoral pendente. |
-| Parte VI — O Retorno da Autoria | ◉ | Caps. 21–24 escritos, revisados e integrados; snapshot da ETAPA 07 preservado. |
-| Epílogo | ◉ | O lugar que só você pode ocupar escrito; imagem da lista/pasta/mesa, sem identidade pronta nem ponte invertida ao Livro 2. |
-| Pesquisa e referências | ◑ | Registros preservados; Parte VI com três referências novas e R04-03 reconferida; bibliografia final e auditoria global na ETAPA 08. |
-| Figuras | ◑ | 21 figuras legadas disponíveis; função será reavaliada conforme cada parte entrar no cânone. |
-| Kindle/EPUB/PDF finais | ⬜ | Artefatos antigos são referência técnica, não publicação canônica. |
+- Manuscrito e snapshot `ETAPAS/08_LAPIDACAO_GLOBAL_2026-09-19.md`: blob `ba5b7f73f4fcb346e7a7ed1248bb3131abad5e34`, 516.334 bytes.
+- Base 07 preservada: blob `1b169b3627d63da0f549b5972e5b99adf16b4306`, 489.528 bytes, 72.402 palavras.
+- O cabeçalho 08 não significa que todos os critérios de encerramento foram cumpridos. Não restaurar a versão 07 nem duplicar as integrações para resolver a antiga divergência de status.
 
-## CONCEITOS ESTRUTURAIS CONSOLIDADOS ATÉ AQUI
+## Andamento por frente
 
-1. **Fuga Identitária** — afastamento progressivo da referência interna com governo crescente por papéis, respostas, performances, pertencimentos ou narrativas.
-2. **Identidades de sobrevivência** — versões de funcionamento que podem ter ajudado a atravessar contextos e permanecer governando depois da mudança de função.
-3. **Terceirização do espelho** — dependência crescente de reflexos externos para reconhecer valor, identidade ou legitimidade da própria experiência.
-4. **Audiência internalizada** — antecipação do observador público mesmo em sua ausência, capaz de editar escolhas/emoções para preservar a personagem percebida.
+| Frente | Estado | Evidência ou pendência |
+|---|---|---|
+| ETAPAS 00–01: estrutura e legado | Preservadas | Fontes, matriz e snapshots anteriores. |
+| ETAPAS 02–07: primeira redação | Escritas e preservadas | 24 capítulos e epílogo; registros próprios, aprovação autoral pendente. |
+| Frutos e ocorrência do leitor | Integrados na prosa 08 | Introdução e retornos ao longo das partes; capítulo 24. |
+| Influência viral, realidade financeira e IA | Integradas | Capítulo 8; aplicações posteriores. |
+| Temas contemporâneos solicitados | Aplicações escritas | Capítulos 13, 14 e 19; leitura factual final ainda necessária. |
+| Autoexame de razões e coerção | Integrado | Dez perguntas demonstradas com Ana no capítulo 22; sem pontuação clínica. |
+| Retomadas de Sol e pontes da trilogia | Integradas | Notas e capítulos 3, 4, 15, 17; nota de leitura após o epílogo. |
+| Pesquisa e bibliografia | Conferência dirigida | Organizar registros herdados/novos e corrigir chamadas temporais explicitadas no registro 08. |
+| Cópia de leitura | Provisória | Recomposta localmente; ainda não coincide em hash com o arquivo remoto. Não a usar como substituto canônico. |
+| PDF de leitura | Produzido na conversa | Prova textual provisória de 388 páginas, sem figuras; não persistida como PDF no GitHub. |
+| Figuras | Pendentes para esta versão | Mapa histórico de 13/09 existe; não houve nova inspeção das 21 imagens nesta retomada. |
+| Leitura-piloto | Roteiro preparado | Nenhum participante ou resultado simulado. |
+| Encerramento da ETAPA 08 | Pendente | Integridade local/remota, bibliografia, visual, persistência da prova e controles finais. |
+| DOCX/EPUB/KPF e publicação final | Não concluídos | Não confundidos com exportações legadas. |
 
-## ETAPAS
+## Próxima ação correta
 
-**ETAPA 00 — Estrutura Base:** ✓ concluída e preservada.  
-**ETAPA 01 — Auditoria e Consolidação do Legado:** ✓ concluída.  
-**ETAPA 02 — Arquitetura Canônica + Abertura + Parte I:** ✓ execução editorial concluída; texto em revisão autoral.  
-**ETAPA 03 — Parte II: Os Espelhos que Respondem por Nós:** ✓ execução editorial concluída; texto em revisão autoral.  
-**ETAPA 04 — Parte III: A Anatomia da Ocupação:** ✓ escrita, revisão, integração e integridade verificadas; leitura autoral pendente.
+Continuar o mesmo `PROMPT_PROXIMA_ETAPA_08.md`, lendo primeiro `REGISTRO_EDITORIAL_ETAPA_08.md` e os registros de pendências desta retomada. Preservar o manuscrito já integrado e o snapshot 08 existente. Localizar a divergência de recuperação, aplicar apenas correções justificadas e concluir as verificações antes de criar um marco fechado.
 
-### Artefatos da ETAPA 03
-- `MANUSCRITO_CANONICO.md`
-- `REGISTRO_EDITORIAL_ETAPA_03.md`
-- `ETAPAS/03_PARTE_II_ESPELHOS_2026-09-10.md`
-- `ETAPAS/03_PARTE_II_BLOCO_PRODUCAO_2026-09-10.md` — bloco de produção preservado para auditoria de migração.
+A cópia local provisória possui 76.638 palavras e 516.349 bytes; a contagem não foi homologada contra o arquivo remoto. Não apresentar esses números como medição certificada do cânone. Diferença pequena de tamanho não demonstra equivalência textual.
 
-### Integridade do snapshot
-No fechamento da ETAPA 03, `MANUSCRITO_CANONICO.md` e `ETAPAS/03_PARTE_II_ESPELHOS_2026-09-10.md` compartilhavam o blob `a34f0038fd6339846c257c46a88050f55052b7c5`, com 142.199 bytes.
+## Histórico preservado
 
-### Marco histórico — ETAPA 04
+O detalhamento das ETAPAS 00–07 continua em `HISTORICO_ETAPAS.md`, `REGISTRO_EDITORIAL_ETAPA_02.md` a `REGISTRO_EDITORIAL_ETAPA_07.md`, QAs e `ETAPAS/`. A versão anterior deste painel é recuperável pelo Git, blob `1134f20558edf2cd0cc3580e55daa216a2146667`; esta atualização reorganiza o painel atual, não reescreve os snapshots nem a história das etapas.
 
-- Capítulos 1–12; 34.527 palavras no manuscrito (contagem lexical incluindo títulos).
-- Parte III: 13.962 palavras.
-- `REGISTRO_EDITORIAL_ETAPA_04.md`, `REFERENCIAS_DE_TRABALHO.md`, `REVISOES_ETAPA_04.json` e `QA_ETAPA_04.json` documentam trabalho e limites.
-- Manuscrito e snapshot integral: blob `5bdf895efd012b9b3c6b62d2b322971b264b9e29`; SHA-256 `656b75851e4caf005713d2abf610b7758e40eb687e43315df86baac43a854e86`.
-- Snapshots anteriores preservados, não sobrescritos.
-- A criadora do capítulo 8 passa a chamar-se Lívia; Marina continua sendo a funcionária do capítulo 3.
-- Fusão científica não é sinônimo de apagamento do Eu; distinção no capítulo 12 e remissão no capítulo 6.
-
-### Marco histórico — ETAPA 05
-
-**ETAPA 05 — Parte IV: O Eu Emprestado em Funcionamento:** escrita e revisão executadas; integração e integridade conferidas; leitura autoral pendente.
-
-- Manuscrito: 46.591 palavras, capítulos 1–16.
-- Parte IV: 12.064 palavras, incluindo abertura e fechamento.
-- Snapshot: `ETAPAS/05_PARTE_IV_EU_EMPRESTADO_2026-09-10.md`.
-- Git blob de manuscrito e snapshot: `02ea8037ae0a363e17a1aab8d99059c276deb58b`.
-- SHA-256: `1ef83243560d8486b03854321bf98dcc6407ec91652ed01b7edad97972a377b3`.
-- Registros: `REGISTRO_EDITORIAL_ETAPA_05.md`, `REVISOES_ETAPA_05.json`, `QA_ETAPA_05.json` e referências de trabalho.
-- Os seis arquivos históricos anteriores de ETAPAS permanecem intactos.
-
-### Marco histórico — ETAPA 06
-
-**ETAPA 06 — Parte V: Quando Fugir de Si Parece Liberdade:** escrita, revisão e integração executadas; leitura e aprovação autoral pendentes.
-
-- Parte V: 12.189 palavras, incluindo abertura e fechamento.
-- Manuscrito acumulado: 58.780 palavras; capítulos 1–20.
-- Capítulos novos: 17 — 2.651; 18 — 2.832; 19 — 2.971; 20 — 2.791.
-- Snapshot: `ETAPAS/06_PARTE_V_LIBERDADE_2026-09-11.md`.
-- Git blob: `b8755b32b6ef28124ea151967a9b230bd2c89a24`.
-- SHA-256: `52c905f8502f18a3b2a087582f71a19515f8c512b681ea5d764ad273552be637`.
-- Sete arquivos históricos anteriores de ETAPAS preservados byte a byte.
-- Registros: `REGISTRO_EDITORIAL_ETAPA_06.md`, `REVISOES_ETAPA_06.json`, `QA_ETAPA_06.json`, diff do cabeçalho e referências atualizadas.
-
-### Marco atual — ETAPA 07
-
-**ETAPA 07 — Parte VI: O Retorno da Autoria + Epílogo:** escrita, revisão e integração executadas; primeira redação dos 24 capítulos completa, aprovação de Sol pendente.
-
-- Parte VI e epílogo: 13.622 palavras; manuscrito: 72.402.
-- Capítulos 21–24: 21 — 2.614, 22 — 2.965, 23 — 3.007, 24 — 3.073.
-- Abertura: 452; fechamento: 456; epílogo: 1.055.
-- Snapshot: `ETAPAS/07_PARTE_VI_EPILOGO_2026-09-11.md`.
-- Git blob: `1b169b3627d63da0f549b5972e5b99adf16b4306`.
-- SHA-256: `59e6e34f292b31ed22db3774c26a06907b5ad5b4396d2836eb2d80e209ca3eca`.
-- Oito arquivos históricos de ETAPAS preservados. Prosa anterior mantida; somente o cabeçalho avança.
-- Registros: `REGISTRO_EDITORIAL_ETAPA_07.md`, `REVISOES_ETAPA_07.json`, `QA_ETAPA_07.json`, diff e referências.
-- A conferência posterior ao salvamento será registrada em `VERIFICACAO_FINAL_ETAPA_07.md`.
-
-## ETAPA ATIVA / PRÓXIMA
-
-**ETAPA 08 — AUDITORIA GLOBAL, LAPIDAÇÃO E PREPARAÇÃO EDITORIAL**
-
-Executar `PROMPT_PROXIMA_ETAPA_08.md`: revisar e lapidar o livro acumulado, conferir alegações e bibliografia, avaliar o estado real das figuras e preparar acabamento sem declarar publicação autorizada.
-
-**Primeira redação completa não equivale a aprovação autoral, validação clínica, revisão visual das figuras ou liberação para publicação.**
+**Primeira redação, revisão textual, integridade técnica, aprovação autoral, validação clínica e liberação para publicação são estados diferentes. A ETAPA 08 permanece aberta.**
