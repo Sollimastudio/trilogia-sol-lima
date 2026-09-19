@@ -1,0 +1,70 @@
+{
+  "etapa": "08",
+  "data_conferencia": "2026-09-19",
+  "estado": "prosa integrada; fechamento não concluído",
+  "commit_integracao_prosa": "9e4bc01f1b2c5a1f84a1109c7abb0f6a5b1d0bda",
+  "canonical": {
+    "file": "MANUSCRITO_CANONICO.md",
+    "git_blob": "ba5b7f73f4fcb346e7a7ed1248bb3131abad5e34",
+    "bytes": 516334,
+    "sha256_recalculado_localmente": null,
+    "snapshot": "ETAPAS/08_LAPIDACAO_GLOBAL_2026-09-19.md",
+    "snapshot_git_blob": "ba5b7f73f4fcb346e7a7ed1248bb3131abad5e34",
+    "identidade_manuscrito_snapshot_confirmada_por_blob_remoto": true,
+    "corpo_alterado_nesta_retomada": false
+  },
+  "copia_provisoria": {
+    "file": "Fuga_Identitaria_Etapa_08_Transcricao_Provisoria.md",
+    "git_blob": "51ace288c23e51fb90be309dcd132f8ee7926333",
+    "sha256": "751e3371afbf4b7df4794be5c05ba034ff9a92d66efc88ed4a66fc05d6d2ee2a",
+    "bytes": 516349,
+    "palavras_provisorias": 76638,
+    "metodo_contagem": "\\b[\\wÀ-ÿ]+(?:[-’'][\\wÀ-ÿ]+)*\\b",
+    "identica_ao_canonico": false,
+    "diferenca_de_tamanho_bytes": 15,
+    "divergencia_localizada": false,
+    "pode_substituir_canonico": false,
+    "observacao": "Diferença de tamanho não é medida da extensão da divergência textual. Contagem não homologada do arquivo remoto."
+  },
+  "pdf": {
+    "file": "Fuga_Identitaria_Etapa_08_Prova_Leitura_Provisoria.pdf",
+    "sha256": "48f01e1dc1918ee857498a464bf85b0711b2dc4fcff54feb2bfece94f518a7c6",
+    "bytes": 846564,
+    "paginas": 388,
+    "formato": "A5",
+    "marcadores": 40,
+    "texto_fora_dos_limites_da_pagina": 0,
+    "paginas_com_caractere_substituto_detectado": [],
+    "paginas_renderizadas_para_conferencia": [1, 2, 3, 19, 121, 196, 301, 388],
+    "estado": "prova textual provisória, sem figuras",
+    "derivado_da_copia_provisoria": true,
+    "disponibilizado_na_conversa": true,
+    "salvo_como_pdf_no_github": false
+  },
+  "cobertura_leitura_dirigida": {
+    "requisitos": 48,
+    "integrados_na_prosa_ou_controle": 38,
+    "parciais": 10,
+    "ids_parciais": ["R02", "R18", "R28", "R34", "R42", "R43", "R44", "R46", "R47", "R48"],
+    "nao_equivale_a_percentual_de_qualidade": true
+  },
+  "limites": {
+    "nova_revisao_integral_linha_a_linha": false,
+    "bibliografia_integral_revalidada": false,
+    "nova_inspecao_visual_21_figuras": false,
+    "leitura_piloto_com_participantes": false,
+    "eficacia_clinica_validada": false,
+    "aprovacao_autoral": false,
+    "publicacao_autorizada": false,
+    "etapa08_encerrada": false
+  },
+  "workflow_pontual": {
+    "run_id": 35475163856,
+    "conclusion": "failure",
+    "steps_disponiveis": false,
+    "artefato_recuperado": false,
+    "removido": true,
+    "commit_remocao": "2da8be526bff3906664fe8a87782c3ca78832307"
+  },
+  "continuidade": "Concluir a mesma ETAPA 08 segundo PENDENCIAS_AUTORA_E_PUBLICACAO.md; não recomeçar a prosa nem sobrescrever o snapshot 08."
+}
