@@ -55,7 +55,9 @@ Foi produzida uma prova textual em PDF, com 388 páginas A5, sumário e 40 marca
 
 Arquivo entregue na conversa: `Fuga_Identitaria_Etapa_08_Prova_Leitura_Provisoria.pdf`.
 
-**Limitação de integridade:** a cópia de leitura local foi recomposta a partir da base 07 e de trechos recuperados do 08. Ela possui 516.349 bytes e blob `30591028cc1c05d7d1b2ce7440a749a139aac5c`, diferente do blob canônico. A diferença de tamanho é de 15 bytes, mas isso NÃO demonstra que somente 15 bytes de conteúdo diferem. A divergência não foi localizada; portanto, não se declara equivalência byte a byte, e a prova não deve substituir o manuscrito do GitHub.
+**Limitação de integridade:** a cópia de leitura local foi recomposta a partir da base 07 e de trechos recuperados do 08. Ela possui 516.349 bytes e blob `51ace288c23e51fb90be309dcd132f8ee7926333`, diferente do blob canônico. SHA-256 da cópia efetivamente entregue: `751e3371afbf4b7df4794be5c05ba034ff9a92d66efc88ed4a66fc05d6d2ee2a`. Esses identificadores foram recalculados diretamente sobre o arquivo da entrega; corrigem o identificador local informado na primeira versão deste registro.
+
+A diferença de tamanho é de 15 bytes, mas isso NÃO demonstra que somente 15 bytes de conteúdo diferem. A divergência não foi localizada; portanto, não se declara equivalência byte a byte, e a prova não deve substituir o manuscrito do GitHub.
 
 A contagem local provisória é 76.638 palavras, contra 72.402 na base; inclui títulos e chamadas autor-data. Não é contagem homologada do arquivo remoto. O inventário local de 43 operações descreve a recomposição dos trechos, não 43 novas revisões realizadas nesta continuação. O diff desse material também é provisório e não deve ser aplicado automaticamente.
 
