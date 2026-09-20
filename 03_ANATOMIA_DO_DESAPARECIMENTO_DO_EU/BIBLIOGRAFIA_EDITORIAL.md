@@ -1,6 +1,6 @@
 # BIBLIOGRAFIA EDITORIAL — ETAPA 08
 
-**Data:** 19/09/2026. **Estado:** organização de trabalho; normalização e auditoria integral ainda pendentes.
+**Data:** 19/09/2026. **Estado:** normalização dirigida da ETAPA 08 fechada; registros herdados mantêm seus limites de leitura.
 
 Esta bibliografia distingue registros herdados de fontes efetivamente reconferidas. Não equivale a revisão sistemática, leitura integral de todos os artigos ou validação clínica de Fuga Identitária. As referências completas e os limites anteriores permanecem em `REFERENCIAS_DE_TRABALHO.md`; seus registros não foram apagados.
 
