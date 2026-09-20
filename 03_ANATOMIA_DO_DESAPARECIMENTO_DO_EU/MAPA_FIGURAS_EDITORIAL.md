@@ -34,3 +34,10 @@ Os capítulos abaixo são destinos candidatos por assunto, não âncoras finais.
 
 ## Direção
 Usar figuras apenas quando explicarem relação, diferença ou mecanismo com mais clareza que a prosa. Os diagramas legados possuem base visual sóbria, mas há muito espaço vazio, texto pequeno, setas sobre rótulos e cortes. Não se justifica gerar automaticamente 21 novas imagens nem transformar cada capítulo em cartaz. Recompor diagramas selecionados com texto editável; produzir ilustração conceitual somente para função ainda sem resposta. Manter identidade própria do Livro 3, sem duplicar a Árvore e a Jaula como outro curso de Posicione-se.
+
+
+## Conferência de fechamento — ETAPA 08 — 19/09/2026
+
+O conjunto legado foi reconferido contra a árvore Git imutável do commit `5540334d5e5768be39819d7ef908369876cc1db5`: os 21 arquivos `FIG-01.png` a `FIG-21.png` permanecem presentes com os blobs catalogados. Esta verificação de identidade foi cruzada com a inspeção visual já registrada acima, feita sobre esse mesmo commit; não se inventa uma segunda inspeção pixel a pixel.
+
+Para a edição atual, as candidatas mais pertinentes continuam FIG-08/09 (cap. 8), FIG-11 (caps. 10–12), FIG-17 (cap. 19), FIG-20 (cap. 23) e FIG-21 (cap. 24). Nenhuma entra automaticamente na prova da ETAPA 08: as falhas já registradas — texto pequeno, sobreposição, simplificação causal ou necessidade de recomposição — impedem tratá-las como arte final. A prova canônica desta etapa é deliberadamente textual. A seleção/recomposição visual passa à etapa de produção editorial, sem bloquear o fechamento da revisão textual.
