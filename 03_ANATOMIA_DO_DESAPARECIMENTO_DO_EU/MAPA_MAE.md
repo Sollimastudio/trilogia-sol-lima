@@ -1,7 +1,7 @@
 # MAPA-MÃE — LIVRO 3 — FUGA IDENTITÁRIA / ANATOMIA DO DESAPARECIMENTO DO EU
 
-**Arquitetura consolidada na ETAPA 01; produção atualizada até a ETAPA 06**  
-**Data:** 11/09/2026  
+**Arquitetura consolidada na ETAPA 01; revisão editorial fechada na ETAPA 08**  
+**Data de atualização:** 19/09/2026  
 **Snapshot estrutural inicial:** `ETAPAS/00_ESTRUTURA_BASE_2026-09-10.md`  
 **Auditoria:** `AUDITORIA_LEGADO_ETAPA_01.md`  
 **Matriz de migração:** `MATRIZ_MIGRACAO_LEGADO_24_CAPITULOS.md`
@@ -328,3 +328,8 @@ A Parte VI e o epílogo acrescentam 13.622 palavras. A arquitetura não foi subs
 O legado continua preservado. A prosa anterior permaneceu intacta; o cabeçalho avança e duas formulações novas foram refinadas. Aprovação autoral, lapidação global, bibliografia final, figuras, diagramação e formatos de publicação continuam pendentes.
 
 Próxima frente: **ETAPA 08 — Auditoria Global, Lapidação e Preparação Editorial**, conforme `PROMPT_PROXIMA_ETAPA_08.md`, `STATUS.md` e `QA_ETAPA_07.json`. Não publicar nem declarar aprovação a partir da conclusão da primeira redação.
+
+
+## MARCO DE PRODUÇÃO — ETAPA 08
+
+A prosa canônica está completa e passou pela auditoria/lapidação global da ETAPA 08. O fechamento editorial foi congelado em `ETAPAS/08_FECHAMENTO_EDITORIAL_2026-09-19.md`. Aprovação autoral, recomposição das figuras e arquivos de publicação permanecem etapas posteriores; não reabrem automaticamente a arquitetura dos 24 capítulos.
