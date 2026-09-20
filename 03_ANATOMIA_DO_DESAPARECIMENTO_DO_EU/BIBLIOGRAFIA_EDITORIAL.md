@@ -133,6 +133,8 @@ ORGANIZAÇÃO MUNDIAL DA SAÚDE. Violence against women. Página temática insti
 
 Fonte: https://www.who.int/health-topics/violence-against-women. Texto HTML. Uso na nota conceitual/capítulo 12: danos psicológicos e controle; não valida as metáforas autorais nem o método.
 
-## 3. Pendências de normalização
+## 3. Fechamento de normalização da ETAPA 08
 
-Concluir o vínculo de cada chamada autor-data a esta bibliografia; corrigir ano da página Gambling e designação/ano da página canadense; conferir normas de 2026; completar nova leitura dos registros herdados que a auditoria textual exigir. Nenhum desses itens deve ser marcado concluído somente pela existência deste arquivo. A bibliografia detalhada de trabalho também acompanha o pacote local de revisão; a versão canônica é a registrada no repositório.
+No fechamento de 19/09/2026, a chamada canadense foi confirmada como Women and Gender Equality Canada (2023); a chamada de Gambling foi conciliada com a página da Organização Mundial da Saúde datada de 28/11/2025; e o trecho de apostas passou a registrar, além da referência brasileira de 2024, a atualização normativa oficial de 2026 já catalogada como R08-12.
+
+A auditoria acumulada não encontrou marcadores TODO/PLACEHOLDER nem títulos duplicados. As fontes herdadas que não foram relidas integralmente continuam identificadas como herdadas; o fechamento editorial não as converte em revisão sistemática nem em validação clínica. A bibliografia detalhada de trabalho permanece patrimônio de auditoria.
