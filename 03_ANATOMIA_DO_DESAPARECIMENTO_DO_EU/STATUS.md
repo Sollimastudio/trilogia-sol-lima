@@ -1,43 +1,40 @@
 # STATUS — LIVRO 3 — ANATOMIA DO DESAPARECIMENTO DO EU
 
 **Atualizado:** 19/09/2026.  
-**Estado atual:** ETAPA 08 — prosa integrada; fechamento editorial/técnico em andamento. Não é publicação aprovada.
+**Estado atual:** ETAPA 08 fechada editorial e tecnicamente; aprovação autoral e produção/publicação pendentes.
 
-## O que está efetivamente escrito
+## Cânone
 
-`MANUSCRITO_CANONICO.md` contém notas, introdução, seis partes, 24 capítulos, epílogo e nota de leitura recíproca. A versão 08 foi integrada no commit `9e4bc01f1b2c5a1f84a1109c7abb0f6a5b1d0bda`.
+`MANUSCRITO_CANONICO.md` contém notas, introdução, seis partes, 24 capítulos, epílogo e nota de leitura recíproca.
 
-- Manuscrito e snapshot `ETAPAS/08_LAPIDACAO_GLOBAL_2026-09-19.md`: blob `ba5b7f73f4fcb346e7a7ed1248bb3131abad5e34`, 516.334 bytes.
-- Base 07 preservada: blob `1b169b3627d63da0f549b5972e5b99adf16b4306`, 489.528 bytes, 72.402 palavras.
-- O cabeçalho 08 não significa que todos os critérios de encerramento foram cumpridos. Não restaurar a versão 07 nem duplicar as integrações para resolver a antiga divergência de status.
+- Cânone após fechamento bibliográfico: **516.340 bytes**.
+- Git blob: `440e2d67806681a289ba4f8adf89c0f3d23ef6e0`.
+- SHA-256 da cópia exata recuperada: `5fb62535f7435ac78d44e8197fc9900468f223dcfe8811d50121d5cd068a72ea`.
+- Snapshot de lapidação `ETAPAS/08_LAPIDACAO_GLOBAL_2026-09-19.md`: preservado, não sobrescrito.
+- Snapshot de fechamento: `ETAPAS/08_FECHAMENTO_EDITORIAL_2026-09-19.md`.
 
-## Andamento por frente
+## Fechamento da ETAPA 08
 
-| Frente | Estado | Evidência ou pendência |
-|---|---|---|
-| ETAPAS 00–01: estrutura e legado | Preservadas | Fontes, matriz e snapshots anteriores. |
-| ETAPAS 02–07: primeira redação | Escritas e preservadas | 24 capítulos e epílogo; registros próprios, aprovação autoral pendente. |
-| Frutos e ocorrência do leitor | Integrados na prosa 08 | Introdução e retornos ao longo das partes; capítulo 24. |
-| Influência viral, realidade financeira e IA | Integradas | Capítulo 8; aplicações posteriores. |
-| Temas contemporâneos solicitados | Aplicações escritas | Capítulos 13, 14 e 19; leitura factual final ainda necessária. |
-| Autoexame de razões e coerção | Integrado | Dez perguntas demonstradas com Ana no capítulo 22; sem pontuação clínica. |
-| Retomadas de Sol e pontes da trilogia | Integradas | Notas e capítulos 3, 4, 15, 17; nota de leitura após o epílogo. |
-| Pesquisa e bibliografia | Conferência dirigida | Organizar registros herdados/novos e corrigir chamadas temporais explicitadas no registro 08. |
-| Cópia de leitura | Provisória | Recomposta localmente; ainda não coincide em hash com o arquivo remoto. Não a usar como substituto canônico. |
-| PDF de leitura | Produzido na conversa | Prova textual provisória de 388 páginas, sem figuras; não persistida como PDF no GitHub. |
-| Figuras | Pendentes para esta versão | Mapa histórico de 13/09 existe; não houve nova inspeção das 21 imagens nesta retomada. |
-| Leitura-piloto | Roteiro preparado | Nenhum participante ou resultado simulado. |
-| Encerramento da ETAPA 08 | Pendente | Integridade local/remota, bibliografia, visual, persistência da prova e controles finais. |
-| DOCX/EPUB/KPF e publicação final | Não concluídos | Não confundidos com exportações legadas. |
+| Frente | Estado |
+|---|---|
+| Prosa e arquitetura | ✓ integradas |
+| Frutos e ocorrência do leitor | ✓ integrados |
+| Influência viral, realidade financeira e IA | ✓ integradas |
+| Temas contemporâneos | ✓ integrados com travas de precisão |
+| Autoexame / dez perguntas | ✓ integrado |
+| Retomadas autobiográficas e pontes | ✓ integradas |
+| Bibliografia dirigida | ✓ conciliada para as chamadas pendentes da etapa |
+| Divergência da transcrição | ✓ localizada; transcrição provisória não aplicada |
+| Cópia exata do cânone | ✓ verificada por Git blob |
+| Leitura acumulada estrutural | ✓ concluída; sem títulos/parágrafos longos duplicados ou placeholders detectados |
+| Figuras | ✓ fontes conferidas; arte legada não aprovada para inserção automática |
+| Prova canônica | ✓ gerada a partir da cópia exata; 355 páginas A5; textual |
+| ETAPA 08 | **✓ fechada** |
 
-## Próxima ação correta
+## O que NÃO significa este fechamento
 
-Continuar o mesmo `PROMPT_PROXIMA_ETAPA_08.md`, lendo primeiro `REGISTRO_EDITORIAL_ETAPA_08.md` e os registros de pendências desta retomada. Preservar o manuscrito já integrado e o snapshot 08 existente. Localizar a divergência de recuperação, aplicar apenas correções justificadas e concluir as verificações antes de criar um marco fechado.
+Não significa aprovação de Sol, leitura-piloto realizada, validação clínica, capa aprovada, figuras recompostas, EPUB/KPF/DOCX final ou autorização de publicação.
 
-A cópia local provisória possui 76.638 palavras e 516.349 bytes; a contagem não foi homologada contra o arquivo remoto. Não apresentar esses números como medição certificada do cânone. Diferença pequena de tamanho não demonstra equivalência textual.
+## Próximo marco
 
-## Histórico preservado
-
-O detalhamento das ETAPAS 00–07 continua em `HISTORICO_ETAPAS.md`, `REGISTRO_EDITORIAL_ETAPA_02.md` a `REGISTRO_EDITORIAL_ETAPA_07.md`, QAs e `ETAPAS/`. A versão anterior deste painel é recuperável pelo Git, blob `1134f20558edf2cd0cc3580e55daa216a2146667`; esta atualização reorganiza o painel atual, não reescreve os snapshots nem a história das etapas.
-
-**Primeira redação, revisão textual, integridade técnica, aprovação autoral, validação clínica e liberação para publicação são estados diferentes. A ETAPA 08 permanece aberta.**
+A ETAPA 09 pode agora ser preparada como **aprovação autoral e produção editorial final**, sem reabrir automaticamente a escrita da ETAPA 08.
