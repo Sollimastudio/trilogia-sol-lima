@@ -303,3 +303,36 @@ Snapshot: `ETAPAS/07_PARTE_VI_EPILOGO_2026-09-11.md`. Manuscrito e snapshot: `1b
 Registros: manuscrito, Parte VI/epílogo separado, registro editorial, revisões, diff, referências, QA, STATUS, mapa-mãe e `PROMPT_PROXIMA_ETAPA_08.md`. Verificação posterior ao salvamento em documento próprio.
 
 **Próxima frente:** ETAPA 08 — auditoria global e lapidação efetiva. Permanecem aprovação de Sol, bibliografia final, avaliação visual de figuras, diagramação e validação de formatos. Nenhum DOCX, PDF, EPUB ou KPF foi produzido ou validado nesta etapa.
+
+
+---
+
+## ETAPA 08 — AUDITORIA GLOBAL, LAPIDAÇÃO E FECHAMENTO EDITORIAL
+**Data:** 19/09/2026  
+**Estado de entrada:** 24 capítulos, epílogo e arquitetura completos; curadorias recentes ainda precisavam ser integradas, conferidas e transformadas em prosa verificável.
+
+### Trabalho realizado
+- integrada a revisão global sem reiniciar os capítulos;
+- incorporados Frutos/ocorrência do leitor, influência viral, realidade financeira, IA, aplicações contemporâneas, retomadas autobiográficas, dez perguntas demonstradas e pontes da trilogia;
+- conferidas fontes dirigidas e normalizadas as chamadas temporalmente inconsistentes de Canadá, OMS e publicidade de apostas;
+- realizada leitura acumulada estrutural da versão exata: 24 capítulos presentes, nenhum título duplicado, nenhum parágrafo longo duplicado detectado e nenhum marcador TODO/PLACEHOLDER;
+- localizada a divergência da antiga transcrição provisória: três frases não correspondiam ao cânone, além da chamada bibliográfica posteriormente corrigida; a transcrição não foi aplicada ao manuscrito;
+- recuperada cópia local byte a byte do cânone após a correção bibliográfica: 516.340 bytes, Git blob `440e2d67806681a289ba4f8adf89c0f3d23ef6e0`, SHA-256 `5fb62535f7435ac78d44e8197fc9900468f223dcfe8811d50121d5cd068a72ea`;
+- reconferida a identidade das 21 figuras legadas no commit já inspecionado e mantida a decisão de não inserir arte ainda não recomposta na prova textual;
+- gerada prova canônica textual A5 diretamente da cópia verificada; preflight: 355 páginas, PDF aberto normalmente, não criptografado e não escaneado;
+- congelado novo snapshot de fechamento sem sobrescrever `ETAPAS/08_LAPIDACAO_GLOBAL_2026-09-19.md`.
+
+### Decisões principais
+1. A antiga prova provisória é substituída como referência de leitura pela prova canônica do fechamento.
+2. O snapshot de lapidação original permanece histórico; o fechamento ganha snapshot próprio.
+3. Figuras legadas são fonte, não arte final automática.
+4. Fechamento editorial não significa aprovação autoral, validação clínica ou autorização de publicação.
+5. A ETAPA 09 só pode começar depois deste marco fechado.
+
+### Arquivos do marco
+- `MANUSCRITO_CANONICO.md` — blob `440e2d67806681a289ba4f8adf89c0f3d23ef6e0`;
+- `ETAPAS/08_LAPIDACAO_GLOBAL_2026-09-19.md` — preservado;
+- `ETAPAS/08_FECHAMENTO_EDITORIAL_2026-09-19.md` — snapshot do fechamento;
+- `REGISTRO_EDITORIAL_ETAPA_08.md`, `VERIFICACAO_FINAL_ETAPA_08.md`, `QA_ETAPA_08.json` e controles sincronizados.
+
+**Estado:** ✓ ETAPA 08 fechada editorial e tecnicamente. Aprovação de Sol e produção/publicação permanecem posteriores.
