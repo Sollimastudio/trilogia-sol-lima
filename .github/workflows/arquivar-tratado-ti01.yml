@@ -1,0 +1,132 @@
+name: Arquivar tratado TI01 autorizado
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/arquivar-tratado-ti01.yml']
+permissions:
+  contents: write
+concurrency:
+  group: arquivo-tratado-ti01
+  cancel-in-progress: false
+jobs:
+  arquivar:
+    if: github.repository == 'Sollimastudio/trilogia-sol-lima'
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+      - name: Conferir e arquivar bytes originais
+        shell: bash
+        env:
+          TRANSFER_URL: 'https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-0ee4-820e-8b5f-eecd23890d9b/raw?se=2026-09-26T14%3A31%3A07Z&sp=r&sv=2026-02-06&sr=b&scid=2740f470-a39e-5e32-b1cd-ecb44f532cf5&skoid=33096a49-a96b-4506-9fc4-04a7517f8175&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-26T11%3A27%3A19Z&ske=2026-09-27T11%3A27%3A19Z&sks=b&skv=2026-02-06&sig=MsJB2LuxW/W%2BcVmBl9I1wWh9DrbRKK/w0%2BirdFJgAOE%3D'
+        run: |
+          python3 - <<'PY'
+          import datetime, hashlib, io, json, os, pathlib, urllib.request, zipfile
+          url = os.environ['TRANSFER_URL']
+          print('::add-mask::' + url)
+          try:
+              with urllib.request.urlopen(url, timeout=60) as response:
+                  payload = response.read(2_000_000)
+          except Exception:
+              raise SystemExit('A transferencia temporaria falhou; nenhum documento foi substituido.')
+          expected_zip = 'c0b6a9cc84ebab0010bfd352ea5a5c766ddb7b9921890435d57994f74d1394df'
+          if hashlib.sha256(payload).hexdigest() != expected_zip:
+              raise SystemExit('Hash do pacote divergente; interrompido.')
+          expected = {
+              'LEIA_PRIMEIRO_TI01.md': 'b99be6d6ba7bb1190db3a033a8f31752ba0955833419940ed2eafd2f3a03786b',
+              'Tratado_Integrado_TI01_2026-09-26.pdf': '4a0ec717a8ca3a315e0986b173d01a01d367301b3f34a84c947e1d9e806ded72',
+              'Tratado_Integrado_TI01_Fonte_Autoral_2026-09-26.txt': '2e4cf925ca4559460e95fb5496faa0d57efe702d75d7107f0ee7e38c34c8ba20',
+              'Tratado_Integrado_TI01_Texto_Autoral_2026-09-26.md': '92d88279679497b30c2c4316f8e3c1ec5f5ca619d883d6f8df05d32fa7da0a3e',
+              'VERIFICACAO_TI01.json': '01a457e73431e2ee11b30c131a6646ded61a6615e58033ddeeea98736dc8d53f'
+          }
+          with zipfile.ZipFile(io.BytesIO(payload)) as archive:
+              if set(archive.namelist()) != set(expected) or archive.testzip() is not None:
+                  raise SystemExit('Estrutura do pacote divergente.')
+              contents = {name: archive.read(name) for name in expected}
+          for name, content in contents.items():
+              if hashlib.sha256(content).hexdigest() != expected[name]:
+                  raise SystemExit('Integridade divergente: ' + name)
+          folder = pathlib.Path('00_UNIVERSO_MESTRE/TRATADO_INTEGRADO/TI01_2026-09-26')
+          folder.mkdir(parents=True, exist_ok=True)
+          records = []
+          for name, content in contents.items():
+              relative = 'HISTORICO_CONVERSAO/' + name if name in ('LEIA_PRIMEIRO_TI01.md', 'VERIFICACAO_TI01.json') else name
+              target = folder / relative
+              if target.is_symlink() or (target.exists() and target.read_bytes() != content):
+                  raise SystemExit('Arquivo preexistente diferente; preservado: ' + relative)
+              target.parent.mkdir(parents=True, exist_ok=True)
+              target.write_bytes(content)
+              records.append({'path': relative, 'bytes': len(content), 'sha256': expected[name]})
+          archive_name = 'Tratado_Integrado_TI01_PDF_e_Fontes_2026-09-26.zip'
+          target = folder / archive_name
+          if target.exists() and target.read_bytes() != payload:
+              raise SystemExit('Pacote preexistente diferente; preservado.')
+          target.write_bytes(payload)
+          records.append({'path': archive_name, 'bytes': len(payload), 'sha256': expected_zip})
+          readme = '''# Tratado Integrado · TI01
+
+          **Autoria conceitual e metodológica: Sol Lima.**
+          **Publicação integral no repositório público autorizada expressamente pela autora em 26/09/2026.**
+
+          ## Abrir o documento
+
+          [Ler o tratado em PDF — 15 páginas](Tratado_Integrado_TI01_2026-09-26.pdf)
+
+          [Texto autoral para versionamento](Tratado_Integrado_TI01_Texto_Autoral_2026-09-26.md) · [Fonte original](Tratado_Integrado_TI01_Fonte_Autoral_2026-09-26.txt) · [Pacote original completo](Tratado_Integrado_TI01_PDF_e_Fontes_2026-09-26.zip)
+
+          ## Origem e finalidade declaradas por Sol Lima
+
+          **Morte em Vida é o livro inicial e a obra-base autobiográfica do projeto Feminicídio Emocional. Reposicione-se e Fuga Identitária surgiram dessa obra. Os dois livros desenvolvem a fundamentação conceitual e metodológica destinada ao treinamento do projeto.**
+
+          A relação de origem é: Morte em Vida → Reposicione-se e Fuga Identitária → fundamentação do treinamento do projeto Feminicídio Emocional. Essa indicação de origem não exige apresentar os livros derivados como volumes numerados.
+
+          Este tratado registra a articulação entre a obra de origem, os livros derivados e a finalidade formativa. O PDF, a fonte TXT e a fonte Markdown são os mesmos bytes da entrega TI01; não houve reescrita ou nova diagramação nesta publicação.
+
+          ## Estatuto editorial e preservação
+
+          Registro autoral com revisão técnica pendente. Arquivar o tratado não certifica diagnósticos, comprovação documental, eficácia do treinamento ou validade científica e jurídica das afirmações. O corpo original foi preservado; as sugestões críticas anteriores não foram inseridas como texto aprovado.
+
+          Nenhuma Bíblia, manuscrito ou definição de método preexistente foi sobrescrita. A expressão Documento Canônico pertence ao título autoral; este arquivamento não substitui automaticamente as referências vigentes.
+
+          ## Continuidade
+
+          Os registros que ainda mencionam autorização pendente são documentos históricos da conversão, guardados sem alteração em `HISTORICO_CONVERSAO/`. A autora confirmou depois a publicação pública com a resposta “Sim” à pergunta explícita sobre expor o tratado integral neste repositório.
+
+          O estado desta publicação e os hashes dos arquivos estão em [REGISTRO_PUBLICACAO_TI01.json](REGISTRO_PUBLICACAO_TI01.json). O pacote ZIP preserva a entrega anterior integral, inclusive seus registros históricos.
+          '''
+          import textwrap
+          (folder / 'README.md').write_text(textwrap.dedent(readme), encoding='utf-8')
+          publication = {
+              'version': 'TI01',
+              'published_at_utc': datetime.datetime.now(datetime.timezone.utc).isoformat(),
+              'repository': 'Sollimastudio/trilogia-sol-lima',
+              'branch': 'main',
+              'visibility': 'public',
+              'authorization': {'date': '2026-09-26', 'response': 'Sim', 'scope': 'Publicar o tratado integral no repositorio publico identificado pela autora.'},
+              'author': 'Sol Lima',
+              'purpose': 'Morte em Vida e a obra inicial e base autobiografica do projeto Feminicidio Emocional; Reposicione-se e Fuga Identitaria surgiram dela e fundamentam conceitual e metodologicamente o treinamento.',
+              'payload': 'Bytes originais conferidos por SHA-256; nenhuma reescrita, reconstrucao ou rediagramacao.',
+              'existing_manuscripts_and_bibles_changed': False,
+              'technical_review': 'Pendente; arquivamento nao constitui validacao cientifica, clinica ou juridica.',
+              'historical_conversion_records': 'Preservados sem alteracao em HISTORICO_CONVERSAO/',
+              'files': records,
+              'workflow_run_id': os.environ.get('GITHUB_RUN_ID'),
+              'verification': 'Hash do ZIP e hashes de todos os cinco membros conferidos antes da gravacao.'
+          }
+          (folder / 'REGISTRO_PUBLICACAO_TI01.json').write_text(json.dumps(publication, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          for record in records:
+              data = (folder / record['path']).read_bytes()
+              assert hashlib.sha256(data).hexdigest() == record['sha256']
+          print('TI01: integridade de todos os arquivos confirmada.')
+          PY
+      - name: Gravar apenas a entrega e retirar o mecanismo temporario
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- 00_UNIVERSO_MESTRE/TRATADO_INTEGRADO/TI01_2026-09-26/
+          git rm -- .github/workflows/arquivar-tratado-ti01.yml
+          git commit -m 'docs: arquiva tratado TI01 integral e finalidade da trilogia com autorizacao de Sol Lima'
+          git push origin HEAD:main
