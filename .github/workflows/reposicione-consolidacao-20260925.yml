@@ -1,0 +1,40 @@
+name: Reposicione - copia editorial verificavel
+on:
+  push:
+    branches: ['editorial/reposicione-consolidacao-20260925']
+    paths: ['.github/workflows/reposicione-consolidacao-20260925.yml']
+permissions:
+  contents: read
+jobs:
+  fontes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: e628b76658ef3ecf38815bb7bdc935181b1ac3c2
+          persist-credentials: false
+      - name: Arquivar apenas fontes editoriais e registrar assinaturas
+        shell: python
+        run: |
+          import hashlib, json, pathlib, zipfile
+          root = pathlib.Path('.')
+          files = []
+          for folder in ('02_REPOSICIONE_SE', '00_UNIVERSO_MESTRE'):
+              files.extend(p for p in (root / folder).rglob('*') if p.is_file() and not p.is_symlink())
+          files.extend(p for p in (root / 'START_HERE.md', root / 'README.md') if p.is_file())
+          manifest = {'source_commit': 'e628b76658ef3ecf38815bb7bdc935181b1ac3c2', 'purpose': 'Copia de trabalho editorial. Nao e publicacao, lancamento ou aprovacao final.', 'files': []}
+          pathlib.Path('editorial-transfer').mkdir()
+          with zipfile.ZipFile('editorial-transfer/reposicione-fontes-e628b766.zip', 'w', zipfile.ZIP_DEFLATED) as out:
+              for p in sorted(files):
+                  data = p.read_bytes()
+                  name = p.as_posix()
+                  manifest['files'].append({'path': name, 'bytes': len(data), 'sha256': hashlib.sha256(data).hexdigest()})
+                  out.writestr(name, data)
+              out.writestr('MANIFESTO_FONTES.json', json.dumps(manifest, ensure_ascii=False, indent=2))
+          print('Arquivos preservados:', len(manifest['files']))
+      - uses: actions/upload-artifact@v4
+        with:
+          name: reposicione-fontes-e628b766
+          path: editorial-transfer/reposicione-fontes-e628b766.zip
+          retention-days: 7
+          if-no-files-found: error
