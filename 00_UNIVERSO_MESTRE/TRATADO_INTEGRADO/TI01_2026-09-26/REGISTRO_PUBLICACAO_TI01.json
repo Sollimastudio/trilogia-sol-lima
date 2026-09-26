@@ -1,0 +1,76 @@
+{
+  "version": "TI01",
+  "publication_date": "2026-09-26",
+  "repository": "Sollimastudio/trilogia-sol-lima",
+  "branch": "main",
+  "visibility": "public",
+  "status": "published_and_verified",
+  "content_commit": "339e4059da595de23ee1282c285d5ea6d3da2b0d",
+  "author": "Sol Lima",
+  "authorization": {
+    "response": "Sim",
+    "scope": "Publicar integralmente o tratado no repositorio publico Sollimastudio/trilogia-sol-lima, conforme confirmacao expressa apos aviso da visibilidade publica."
+  },
+  "purpose": "Morte em Vida e a obra inicial e a base autobiografica do projeto Feminicidio Emocional. Reposicione-se e Fuga Identitaria surgiram dessa obra e fundamentam conceitual e metodologicamente o treinamento do projeto.",
+  "original_pdf": {
+    "pages": 15,
+    "parts": 5,
+    "subsections": 25,
+    "outline_entries": 41,
+    "reexported": false,
+    "rewritten": false
+  },
+  "preservation": {
+    "payload": "Arquivos originais copiados sem alteracao de bytes.",
+    "existing_manuscripts_and_bibles_changed": false,
+    "historical_conversion_records": "Preservados em HISTORICO_CONVERSAO/; mencoes anteriores a autorizacao pendente sao historicas.",
+    "temporary_drive_copy_deleted": true,
+    "temporary_transfer_workflow_removed": true
+  },
+  "technical_review": "Pendente. Arquivamento autoral nao e validacao cientifica, diagnostica, documental ou juridica, nem certificacao de eficacia do treinamento.",
+  "verification": {
+    "archive_sha256_checked": true,
+    "all_original_member_sha256_checked": true,
+    "remote_pdf_and_source_git_blob_identifiers_compared": true,
+    "workflow_run_id": 36248688948,
+    "workflow_conclusion": "success"
+  },
+  "files": [
+    {
+      "path": "Tratado_Integrado_TI01_2026-09-26.pdf",
+      "bytes": 300554,
+      "sha256": "4a0ec717a8ca3a315e0986b173d01a01d367301b3f34a84c947e1d9e806ded72",
+      "git_blob_sha1": "92174d7cd36a5def7762c0094808f65a5f710ed3"
+    },
+    {
+      "path": "Tratado_Integrado_TI01_Fonte_Autoral_2026-09-26.txt",
+      "bytes": 41792,
+      "sha256": "2e4cf925ca4559460e95fb5496faa0d57efe702d75d7107f0ee7e38c34c8ba20",
+      "git_blob_sha1": "2f98bed45cee6784de3dbb5bee5df4a8d82b7185"
+    },
+    {
+      "path": "Tratado_Integrado_TI01_Texto_Autoral_2026-09-26.md",
+      "bytes": 42074,
+      "sha256": "92d88279679497b30c2c4316f8e3c1ec5f5ca619d883d6f8df05d32fa7da0a3e",
+      "git_blob_sha1": "81f64cbb77490fe42e796ecadd1f87afe018360f"
+    },
+    {
+      "path": "Tratado_Integrado_TI01_PDF_e_Fontes_2026-09-26.zip",
+      "bytes": 197314,
+      "sha256": "c0b6a9cc84ebab0010bfd352ea5a5c766ddb7b9921890435d57994f74d1394df",
+      "git_blob_sha1": "d20c3160af173836a6af6e9cc302630555acc0dd"
+    },
+    {
+      "path": "HISTORICO_CONVERSAO/LEIA_PRIMEIRO_TI01.md",
+      "bytes": 2736,
+      "sha256": "b99be6d6ba7bb1190db3a033a8f31752ba0955833419940ed2eafd2f3a03786b",
+      "git_blob_sha1": "d2d77022db6c095548406e979e210054bb77fd6a"
+    },
+    {
+      "path": "HISTORICO_CONVERSAO/VERIFICACAO_TI01.json",
+      "bytes": 1484,
+      "sha256": "01a457e73431e2ee11b30c131a6646ded61a6615e58033ddeeea98736dc8d53f",
+      "git_blob_sha1": "87dfeb2753c3236b9c4f42fcc264987418f7667f"
+    }
+  ]
+}
