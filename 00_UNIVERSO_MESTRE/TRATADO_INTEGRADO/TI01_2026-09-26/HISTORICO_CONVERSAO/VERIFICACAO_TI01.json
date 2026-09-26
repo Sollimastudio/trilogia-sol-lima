@@ -1,0 +1,28 @@
+{
+  "version": "TI01",
+  "date": "2026-09-26",
+  "pages": 15,
+  "parts": 5,
+  "subsections": 25,
+  "source_diagrams_reformatted": 6,
+  "schema_comparison_table": 1,
+  "prose_items_checked": 145,
+  "prose_items_missing": 0,
+  "text_outside_page": 0,
+  "toc_entries": 41,
+  "internal_links": 7,
+  "visual_review": "All 15 rendered pages inspected; no clipping, missing glyphs or overlapping tables observed.",
+  "scope": "Faithful authorial reproduction and added purpose leaf. No independent scientific, medical, legal or methodological validation.",
+  "repository": "Sollimastudio/trilogia-sol-lima",
+  "repository_visibility_verified": "public",
+  "remote_write_performed": false,
+  "remote_write_status": "Awaiting author confirmation before publishing the sensitive full text in a public repository.",
+  "proposed_repository_path": "00_UNIVERSO_MESTRE/TRATADO_INTEGRADO/TI01_2026-09-26/",
+  "preservation": "Existing manuscripts, Bibles and remote files not modified.",
+  "removed_pdf_artifacts": "Only source span_253..span_259 start_span/end_span markup. Retained in source TXT and Markdown.",
+  "sha256": {
+    "Tratado_Integrado_TI01_Texto_Autoral_2026-09-26.md": "92d88279679497b30c2c4316f8e3c1ec5f5ca619d883d6f8df05d32fa7da0a3e",
+    "Tratado_Integrado_TI01_Fonte_Autoral_2026-09-26.txt": "2e4cf925ca4559460e95fb5496faa0d57efe702d75d7107f0ee7e38c34c8ba20",
+    "Tratado_Integrado_TI01_2026-09-26.pdf": "4a0ec717a8ca3a315e0986b173d01a01d367301b3f34a84c947e1d9e806ded72"
+  }
+}
