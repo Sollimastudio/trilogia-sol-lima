@@ -1,0 +1,5 @@
+MORTE EM VIDA — ETAPA 2 DE 5
+Exportação técnica dos arquivos rastreados para integração editorial local.
+Base conferida: e628b76658ef3ecf38815bb7bdc935181b1ac3c2.
+Ordem: A1, 55 unidades; Bíblia Editorial Vigente v2.0 de 25/09/2026.
+Este marcador aciona somente o fluxo de exportação existente. Não modifica prosa, não declara aprovação final e não publica uma edição do livro.
